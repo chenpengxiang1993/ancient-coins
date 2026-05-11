@@ -1,0 +1,76 @@
+@use 'styles/shared' as *;
+
+.skipLink {
+  position: absolute;
+  top: -100px;
+  left: 0;
+  padding: 8px 16px;
+  background: var(--accent);
+  color: #fff;
+  font-family: $font-sans;
+  font-size: 14px;
+  z-index: 9999;
+  text-decoration: none;
+  border-radius: 0 0 8px 0;
+
+  &:focus {
+    top: 0;
+  }
+}
+
+.app {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  overflow: hidden;
+  position: relative;
+}
+
+.appHeader {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 14px 24px;
+  background: linear-gradient(135deg, #2c2417 0%, #3d3020 100%);
+  border-bottom: 2px solid var(--gold);
+}
+
+.appBrand {
+  display: flex;
+  align-items: baseline;
+  gap: 16px;
+}
+
+.appTitle {
+  font-family: $font-serif;
+  font-size: 22px;
+  font-weight: 900;
+  color: #f5f0e8;
+  margin: 0;
+  letter-spacing: 4px;
+}
+
+.appSubtitle {
+  font-family: $font-sans;
+  font-size: 12px;
+  color: #b8a88a;
+  letter-spacing: 1px;
+}
+
+.appContent {
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+}
+
+.appSidebar {
+  width: 320px;
+  min-width: 320px;
+  height: 100%;
+}
+
+.appDetail {
+  flex: 1;
+  height: 100%;
+  overflow: hidden;
+}

@@ -1,0 +1,45 @@
+@use 'styles/shared' as *;
+
+:root {
+  --bg-primary: #f5f0e8;
+  --bg-secondary: #faf7f0;
+  --bg-card: #ffffff;
+  --text-primary: #2c2417;
+  --text-secondary: #6b5e4f;
+  --text-muted: #9c8e7c;
+  --accent: #8b2500;
+  --accent-hover: #a52f00;
+  --gold: #b8860b;
+  --gold-light: #d4a843;
+  --border: #d4c5a9;
+  --border-light: #e8dcc8;
+  --shadow: rgba(44, 36, 23, 0.08);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  height: 100%;
+  overflow: hidden;
+}
+
+body {
+  font-family: $font-sans;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: var(--bg-primary);
+  color: var(--text-primary);
+}
+
+#root {
+  height: 100%;
+}
+
+::selection {
+  background: rgba(139, 37, 0, 0.15);
+  color: var(--accent);
+}

@@ -1,0 +1,21 @@
+$font-sans: 'Noto Sans SC', -apple-system, BlinkMacSystemFont, sans-serif;
+$font-serif: 'Noto Serif SC', Georgia, serif;
+
+@mixin thin-scrollbar($width: 4px, $color: var(--border)) {
+  scrollbar-width: thin;
+  scrollbar-color: $color transparent;
+
+  &::-webkit-scrollbar {
+    width: $width;
+    height: $width;
+  }
+
+  &::-webkit-scrollbar-track {
+    background: transparent;
+  }
+
+  &::-webkit-scrollbar-thumb {
+    background: $color;
+    border-radius: 2px;
+  }
+}

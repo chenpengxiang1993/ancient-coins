@@ -1,0 +1,128 @@
+@use '../../styles/shared' as *;
+
+.searchBar {
+  position: relative;
+  width: 360px;
+}
+
+.searchBarInputWrapper {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.searchBarIcon {
+  position: absolute;
+  left: 12px;
+  width: 18px;
+  height: 18px;
+  color: var(--text-muted);
+  pointer-events: none;
+}
+
+.searchBarInput {
+  width: 100%;
+  padding: 9px 36px 9px 38px;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: var(--bg-card);
+  font-size: 14px;
+  font-family: $font-sans;
+  color: var(--text-primary);
+  outline: none;
+  transition: all 0.2s ease;
+
+  &::placeholder { color: var(--text-muted); }
+
+  &:focus {
+    border-color: var(--accent);
+    box-shadow: 0 0 0 3px rgba(139, 37, 0, 0.1);
+  }
+}
+
+.searchBarClear {
+  position: absolute;
+  right: 8px;
+  width: 24px;
+  height: 24px;
+  border: none;
+  border-radius: 50%;
+  background: var(--border-light);
+  color: var(--text-muted);
+  font-size: 11px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.15s ease;
+
+  &:hover {
+    background: var(--text-muted);
+    color: #fff;
+  }
+}
+
+.searchBarDropdown {
+  position: absolute;
+  top: calc(100% + 6px);
+  left: 0;
+  right: 0;
+  max-height: 400px;
+  overflow-y: auto;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  box-shadow: 0 8px 32px rgba(44, 36, 23, 0.15);
+  z-index: 1000;
+  @include thin-scrollbar;
+}
+
+.searchBarDropdownHeader {
+  padding: 10px 14px;
+  font-size: 12px;
+  color: var(--text-muted);
+  font-family: $font-sans;
+  border-bottom: 1px solid var(--border-light);
+}
+
+.searchBarResult {
+  display: block;
+  width: 100%;
+  padding: 10px 14px;
+  border: none;
+  background: transparent;
+  cursor: pointer;
+  text-align: left;
+  transition: background 0.15s ease;
+
+  &:hover { background: var(--bg-secondary); }
+}
+
+.searchBarResultHighlight {
+  background: var(--bg-secondary);
+}
+
+.searchBarResultName {
+  font-family: $font-serif;
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--text-primary);
+  margin-bottom: 2px;
+}
+
+.searchBarResultMeta {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 11px;
+  font-family: $font-sans;
+}
+
+.searchBarResultDynasty {
+  color: var(--gold);
+  font-weight: 500;
+}
+
+.searchBarResultField {
+  color: var(--text-muted);
+}
