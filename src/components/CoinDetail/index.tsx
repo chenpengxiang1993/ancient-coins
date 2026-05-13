@@ -69,6 +69,7 @@ export default memo(function CoinDetail({ coin, detail, loading, error, onRetry 
             <DetailSection title="材质成分" content={detail.material} icon="⚗" />
             <DetailSection title="尺寸重量" content={detail.dimensions} icon="📏" />
             <DetailSection title="面背特征" content={detail.obverseFeatures} icon="🔍" />
+            <DetailSection title="铸造工艺" content={detail.castingCraft} icon="⚒" />
             <DetailSection title="核心背景" content={detail.coreBackground} icon="📜" />
             <DetailSection title="版别体系" content={detail.variants} icon="🏷" />
             <ValueSection text={detail.valueReference} table={detail.valueTable} />

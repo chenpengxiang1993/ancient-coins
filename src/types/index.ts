@@ -21,6 +21,7 @@ export interface CoinDetail {
   material: string;
   dimensions: string;
   obverseFeatures: string;
+  castingCraft: string;
   coreBackground: string;
   variants: string;
   valueReference: string;

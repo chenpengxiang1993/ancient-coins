@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <circle cx="16" cy="16" r="15" fill="#d4a843" stroke="#8b6914" stroke-width="1.2"/>
+  <circle cx="16" cy="16" r="12.8" fill="none" stroke="#8b6914" stroke-width="0.6" opacity="0.4"/>
+  <rect x="13.2" y="13.2" width="5.6" height="5.6" fill="#f5f0e8" rx="0.3"/>
+  <text x="16" y="11.2" text-anchor="middle" font-family="serif" font-size="5.5" font-weight="bold" fill="#5a3e1b">西</text>
+  <text x="16" y="23.2" text-anchor="middle" font-family="serif" font-size="5.5" font-weight="bold" fill="#5a3e1b">王</text>
+  <text x="23.2" y="17.2" text-anchor="middle" font-family="serif" font-size="5.5" font-weight="bold" fill="#5a3e1b">赏</text>
+  <text x="8.8" y="17.2" text-anchor="middle" font-family="serif" font-size="5.5" font-weight="bold" fill="#5a3e1b">功</text>
+</svg>
