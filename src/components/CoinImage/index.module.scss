@@ -1,0 +1,116 @@
+@use '../../styles/shared' as *;
+
+.coinImage {
+  margin-bottom: 24px;
+}
+
+.coinImageMain {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  max-height: 360px;
+  border-radius: 12px;
+  overflow: hidden;
+  background: var(--bg-secondary);
+  border: 1px solid var(--border-light);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.coinImageImg {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.coinImageImgVisible {
+  opacity: 1;
+}
+
+.coinImagePlaceholder {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  color: var(--text-muted);
+  position: absolute;
+  inset: 0;
+}
+
+.coinImagePlaceholderIcon {
+  font-size: 48px;
+  opacity: 0.4;
+}
+
+.coinImagePlaceholderText {
+  font-size: 14px;
+  font-family: $font-sans;
+}
+
+.coinImagePlaceholderHint {
+  font-size: 11px;
+  font-family: $font-sans;
+  color: var(--border);
+}
+
+.coinImageLabel {
+  text-align: center;
+  margin-top: 8px;
+  font-size: 12px;
+  color: var(--text-muted);
+  font-family: $font-sans;
+}
+
+.coinImageThumbs {
+  display: flex;
+  gap: 8px;
+  margin-top: 12px;
+  overflow-x: auto;
+  padding-bottom: 4px;
+  @include thin-scrollbar(3px);
+}
+
+.coinImageThumb {
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4px;
+  padding: 4px;
+  border: 2px solid transparent;
+  border-radius: 8px;
+  background: var(--bg-secondary);
+  cursor: pointer;
+  transition: all 0.2s ease;
+
+  &:hover {
+    border-color: var(--border);
+    box-shadow: 0 2px 8px var(--shadow);
+  }
+}
+
+.coinImageThumbActive {
+  border-color: var(--accent);
+  background: linear-gradient(135deg, #fff8f5 0%, #fff 100%);
+}
+
+.coinImageThumbImg {
+  width: 56px;
+  height: 56px;
+  object-fit: contain;
+  border-radius: 4px;
+}
+
+.coinImageThumbLabel {
+  font-size: 10px;
+  color: var(--text-muted);
+  font-family: $font-sans;
+  white-space: nowrap;
+  max-width: 72px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}

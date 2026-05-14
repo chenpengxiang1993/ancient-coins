@@ -14,7 +14,8 @@
           "ruler": "商王、周王",
           "coreFeatures": "中国最早金属铸币；仿天然海贝形态；青铜质地；正面凸起有齿槽纹；背面平夷；无文字",
           "estimatedValue": "800—3,000元",
-          "rarity": "七级 甚少"
+          "rarity": "七级 甚少",
+          "thumbnail": "/images/coins/先秦钱币/无文铜贝/main.jpg"
         }
       },
       {
@@ -28,7 +29,8 @@
           "ruler": "周王",
           "coreFeatures": "铜贝外包裹金箔；高等级大额支付用币；金箔覆盖完整；纹路清晰；出土于贵族墓葬",
           "estimatedValue": "5,000—20,000元",
-          "rarity": "二级 珍"
+          "rarity": "二级 珍",
+          "thumbnail": "/images/coins/先秦钱币/包金铜贝/main.jpg"
         }
       },
       {
@@ -42,7 +44,8 @@
           "ruler": "周王、晋侯",
           "coreFeatures": "仿农具铲形；銎部（中空柄腔）中空；平肩弧足；面文多为单字；出土于河南洛阳",
           "estimatedValue": "3,000—30,000元",
-          "rarity": "六级 稀"
+          "rarity": "六级 稀",
+          "thumbnail": "/images/coins/先秦钱币/平肩空首布/main.jpg"
         }
       },
       {
@@ -56,7 +59,8 @@
           "ruler": "周王、晋侯",
           "coreFeatures": "仿农具铲形；銎部中空；斜肩弧足；面文有\"武\"\"卢氏\"\"三川\"；出土于周王室故地",
           "estimatedValue": "3,000—20,000元",
-          "rarity": "六级 稀"
+          "rarity": "六级 稀",
+          "thumbnail": "/images/coins/先秦钱币/斜肩空首布/main.jpg"
         }
       },
       {
@@ -70,7 +74,8 @@
           "ruler": "晋侯",
           "coreFeatures": "仿农具铲形；銎部中空；耸肩尖足；体型较大；多出土于山西南部晋国故地",
           "estimatedValue": "5,000—40,000元",
-          "rarity": "五级 稀贵"
+          "rarity": "五级 稀贵",
+          "thumbnail": "/images/coins/先秦钱币/耸肩空首布/main.jpg"
         }
       },
       {
@@ -84,7 +89,8 @@
           "ruler": "周王",
           "coreFeatures": "布币原始形态；体大厚重；銎部中空但较浅；由实用农具向铸币过渡的中间形态",
           "estimatedValue": "5,000—50,000元",
-          "rarity": "四级 罕"
+          "rarity": "四级 罕",
+          "thumbnail": "/images/coins/先秦钱币/原始布/main.jpg"
         }
       },
       {
@@ -98,7 +104,8 @@
           "ruler": "魏文侯",
           "coreFeatures": "双足弧形连接呈桥洞状；面文常含\"釿\"字纪重，如\"梁正尚百当寻釿\"\"安邑二釿\"；魏国主要铸币",
           "estimatedValue": "500—20,000元",
-          "rarity": "七级 甚少"
+          "rarity": "七级 甚少",
+          "thumbnail": "/images/coins/先秦钱币/桥足布钱/main.jpg"
         }
       },
       {
@@ -112,7 +119,8 @@
           "ruler": "韩哀侯",
           "coreFeatures": "首部两角突出尖锐；面文有\"公\"\"鬲\"\"涅金\"\"卢氏\"；韩国特有布币",
           "estimatedValue": "2,000—30,000元",
-          "rarity": "六级 稀"
+          "rarity": "六级 稀",
+          "thumbnail": "/images/coins/先秦钱币/锐角布钱/main.jpg"
         }
       },
       {
@@ -126,7 +134,8 @@
           "ruler": "赵烈侯",
           "coreFeatures": "首部有銎形凸起；双足尖锐；面文多铸地名称，如\"甘丹\"\"晋阳\"\"大阴\"；赵国主要铸币",
           "estimatedValue": "500—15,000元",
-          "rarity": "七级 甚少"
+          "rarity": "七级 甚少",
+          "thumbnail": "/images/coins/先秦钱币/尖足布钱/main.jpg"
         }
       },
       {
@@ -140,7 +149,8 @@
           "ruler": "赵国",
           "coreFeatures": "介于尖足布与方足布之间的过渡型制；足部近方但略尖；面文为铸地名称",
           "estimatedValue": "1,000—10,000元",
-          "rarity": "六级 稀"
+          "rarity": "六级 稀",
+          "thumbnail": ""
         }
       },
       {
@@ -154,7 +164,8 @@
           "ruler": "赵国",
           "coreFeatures": "介于尖足布与圆足布之间的过渡型制；足部近圆；面文为铸地名称",
           "estimatedValue": "1,000—10,000元",
-          "rarity": "六级 稀"
+          "rarity": "六级 稀",
+          "thumbnail": ""
         }
       },
       {
@@ -168,7 +179,8 @@
           "ruler": "韩、赵、魏、燕",
           "coreFeatures": "首部平直；双足方正；流通范围最广的平首布；面文为铸地名称，如\"安阳\"\"平阳\"\"宅阳\"\"梁邑\"",
           "estimatedValue": "200—8,000元",
-          "rarity": "八级 少"
+          "rarity": "八级 少",
+          "thumbnail": "/images/coins/先秦钱币/方足布钱/main.jpg"
         }
       },
       {
@@ -182,7 +194,8 @@
           "ruler": "赵王、韩侯",
           "coreFeatures": "双足圆弧；面文有\"离石\"\"晋阳\"\"蔺\"\"大阴\"；体形规整；首部有孔",
           "estimatedValue": "2,000—30,000元",
-          "rarity": "六级 稀"
+          "rarity": "六级 稀",
+          "thumbnail": "/images/coins/先秦钱币/圆足布钱/main.jpg"
         }
       },
       {
@@ -196,7 +209,8 @@
           "ruler": "赵王",
           "coreFeatures": "首部及双足各有一圆孔；面文为铸地名称；背文纪重\"两\"或\"十二朱\"；古泉大珍之一",
           "estimatedValue": "200,000—1,000,000元",
-          "rarity": "一级 大珍（特珍）"
+          "rarity": "一级 大珍（特珍）",
+          "thumbnail": "/images/coins/先秦钱币/三孔布钱/main.jpg"
         }
       },
       {
@@ -210,7 +224,8 @@
           "ruler": "燕侯",
           "coreFeatures": "刀首极窄如针尖；体型纤细；面文多为单字或符号；燕国早期刀币",
           "estimatedValue": "3,000—30,000元",
-          "rarity": "六级 稀"
+          "rarity": "六级 稀",
+          "thumbnail": ""
         }
       },
       {
@@ -224,7 +239,8 @@
           "ruler": "燕侯",
           "coreFeatures": "刀首尖锐但较宽；面文多为数字或符号；体型较针首刀大；燕国早期刀币",
           "estimatedValue": "2,000—20,000元",
-          "rarity": "七级 甚少"
+          "rarity": "七级 甚少",
+          "thumbnail": "/images/coins/先秦钱币/尖首刀钱/main.jpg"
         }
       },
       {
@@ -238,7 +254,8 @@
           "ruler": "燕王",
           "coreFeatures": "刀首被截去一段；由尖首刀截首改制而成；面文残缺；燕国特殊刀币",
           "estimatedValue": "3,000—20,000元",
-          "rarity": "六级 稀"
+          "rarity": "六级 稀",
+          "thumbnail": ""
         }
       },
       {
@@ -252,7 +269,8 @@
           "ruler": "燕王",
           "coreFeatures": "燕国主要流通货币；面文\"明\"字（或释为\"匽\"\"易\"字）；刀身弧或微弧；出土数量较多",
           "estimatedValue": "200—3,000元",
-          "rarity": "九级 较多"
+          "rarity": "九级 较多",
+          "thumbnail": "/images/coins/先秦钱币/明刀钱/main.jpg"
         }
       },
       {
@@ -266,7 +284,8 @@
           "ruler": "赵王",
           "coreFeatures": "赵国铸行；刀身较直；体型较小；面文有\"甘丹\"\"白人\"\"城白\"",
           "estimatedValue": "2,000—20,000元",
-          "rarity": "六级 稀"
+          "rarity": "六级 稀",
+          "thumbnail": "/images/coins/先秦钱币/直刀钱/main.jpg"
         }
       },
       {
@@ -280,7 +299,8 @@
           "ruler": "齐侯、齐王",
           "coreFeatures": "仿刀削工具形态；体型较大；面文多含\"法化\"二字，如\"齐建邦长法化\"\"齐法化\"\"即墨法化\"；铸造精整",
           "estimatedValue": "5,000—50,000元",
-          "rarity": "五级 稀贵"
+          "rarity": "五级 稀贵",
+          "thumbnail": "/images/coins/先秦钱币/齐刀钱/main.jpg"
         }
       },
       {
@@ -294,7 +314,8 @@
           "ruler": "周王、魏侯、秦王",
           "coreFeatures": "圆形圆孔或方孔；体形较小；铸行于周、魏、秦、赵四国；为秦半两前身",
           "estimatedValue": "2,000—40,000元",
-          "rarity": "六级 稀"
+          "rarity": "六级 稀",
+          "thumbnail": "/images/coins/先秦钱币/圜钱/main.jpg"
         }
       },
       {
@@ -308,7 +329,8 @@
           "ruler": "楚王",
           "coreFeatures": "楚国独立货币体系概览；涵盖铜贝（蚁鼻钱）、黄金称量货币（郢爰金版）、布币（殊布当釿、连布）三大类型",
           "estimatedValue": "100—20,000元",
-          "rarity": "七级 甚少"
+          "rarity": "七级 甚少",
+          "thumbnail": "/images/coins/先秦钱币/楚国铸币/main.jpg"
         }
       },
       {
@@ -322,7 +344,8 @@
           "ruler": "楚王",
           "coreFeatures": "两枚布币首尾相连一体铸造；楚国特有形制；面文与殊布当釿相同",
           "estimatedValue": "5,000—30,000元",
-          "rarity": "六级 稀"
+          "rarity": "六级 稀",
+          "thumbnail": "/images/coins/先秦钱币/连布/main.jpg"
         }
       },
       {
@@ -336,7 +359,8 @@
           "ruler": "楚王",
           "coreFeatures": "俗称\"楚大布\"\"燕尾布\"；面文\"殊布当釿\"；长足宽肩；楚国大额铸币",
           "estimatedValue": "5,000—50,000元",
-          "rarity": "六级 稀"
+          "rarity": "六级 稀",
+          "thumbnail": ""
         }
       },
       {
@@ -350,7 +374,8 @@
           "ruler": "楚王",
           "coreFeatures": "楚国铜贝；形似海贝缩小版；面文有\"紊\"字（俗称\"鬼脸钱\"）、\"全\"字、\"行\"字、\"贝\"字",
           "estimatedValue": "100—2,000元",
-          "rarity": "九级 较多"
+          "rarity": "九级 较多",
+          "thumbnail": "/images/coins/先秦钱币/蚁鼻钱/main.jpg"
         }
       },
       {
@@ -364,7 +389,8 @@
           "ruler": "楚王",
           "coreFeatures": "楚国黄金称量货币；金版上打印\"郢爰\"方印；可切割使用；中国最早金币之一",
           "estimatedValue": "按克计价，每克约800—1,500元",
-          "rarity": "四级 罕"
+          "rarity": "四级 罕",
+          "thumbnail": "/images/coins/先秦钱币/郢爰金版/main.jpg"
         }
       },
       {
@@ -378,7 +404,8 @@
           "ruler": "商王、周王",
           "coreFeatures": "仿鱼形态；青铜质地；鱼身有鳞纹；背部有穿孔；极为罕见；出土于四川、云南地区",
           "estimatedValue": "10,000—80,000元",
-          "rarity": "三级 罕贵"
+          "rarity": "三级 罕贵",
+          "thumbnail": ""
         }
       },
       {
@@ -392,7 +419,8 @@
           "ruler": "巴国",
           "coreFeatures": "桥形仿桥梁形态；弧形条状；两端有孔；巴国地方铸币；出土于巴蜀地区",
           "estimatedValue": "5,000—30,000元",
-          "rarity": "五级 稀贵"
+          "rarity": "五级 稀贵",
+          "thumbnail": ""
         }
       },
       {
@@ -406,7 +434,8 @@
           "ruler": "秦王",
           "coreFeatures": "圆形方孔；面文\"半两\"二字为小篆；重十二铢（约8克）；秦始皇统一全国货币的原型",
           "estimatedValue": "2,000—50,000元",
-          "rarity": "六级 稀"
+          "rarity": "六级 稀",
+          "thumbnail": "/images/coins/先秦钱币/半两钱/main.jpg"
         }
       }
     ]
@@ -426,7 +455,8 @@
           "ruler": "秦始皇嬴政",
           "coreFeatures": "统一全国货币；圆形方孔；重十二铢（约8g）；面文\"半两\"为小篆；秦始皇统一货币标志",
           "estimatedValue": "300—5,000元",
-          "rarity": "七级 甚少"
+          "rarity": "七级 甚少",
+          "thumbnail": "/images/coins/秦钱币/秦半两钱/main.jpg"
         }
       },
       {
@@ -440,7 +470,8 @@
           "ruler": "秦王",
           "coreFeatures": "圆形方孔；面文\"两甾\"；秦制重量单位；铸行时间短；存世较少",
           "estimatedValue": "15,000—80,000元",
-          "rarity": "四级 罕"
+          "rarity": "四级 罕",
+          "thumbnail": ""
         }
       },
       {
@@ -454,7 +485,8 @@
           "ruler": "秦相吕不韦",
           "coreFeatures": "圆形方孔；面文\"文信\"；吕不韦封文信侯时所铸；存世稀少",
           "estimatedValue": "30,000—80,000元",
-          "rarity": "四级 罕"
+          "rarity": "四级 罕",
+          "thumbnail": "/images/coins/秦钱币/文信钱/main.jpg"
         }
       },
       {
@@ -468,7 +500,8 @@
           "ruler": "秦王",
           "coreFeatures": "圆形方孔；面文\"长安\"；秦国圜钱体系；存世稀少",
           "estimatedValue": "20,000—60,000元",
-          "rarity": "四级 罕"
+          "rarity": "四级 罕",
+          "thumbnail": ""
         }
       }
     ]
@@ -488,7 +521,8 @@
           "ruler": "汉高祖刘邦",
           "coreFeatures": "汉初因秦钱重难用而铸；极轻薄如榆荚；重约0.5—2g；民间私铸严重",
           "estimatedValue": "50—300元",
-          "rarity": "九级 较多"
+          "rarity": "九级 较多",
+          "thumbnail": "/images/coins/汉代钱币/榆荚半两/main.jpg"
         }
       },
       {
@@ -502,7 +536,8 @@
           "ruler": "吕后",
           "coreFeatures": "吕后二年铸；重八铢（约5.2g）；较榆荚半两加重",
           "estimatedValue": "200—1,500元",
-          "rarity": "八级 少"
+          "rarity": "八级 少",
+          "thumbnail": "/images/coins/汉代钱币/八铢半两/main.jpg"
         }
       },
       {
@@ -516,7 +551,8 @@
           "ruler": "吕后",
           "coreFeatures": "吕后六年铸；重五分（约2.3g）；面文仍为\"半两\"",
           "estimatedValue": "200—1,000元",
-          "rarity": "八级 少"
+          "rarity": "八级 少",
+          "thumbnail": "/images/coins/汉代钱币/五分钱/main.jpg"
         }
       },
       {
@@ -530,7 +566,8 @@
           "ruler": "汉文帝刘恒",
           "coreFeatures": "文帝五年铸；重四铢（约2.6g）；面文\"半两\"；允许民间铸币",
           "estimatedValue": "100—800元",
-          "rarity": "八级 少"
+          "rarity": "八级 少",
+          "thumbnail": "/images/coins/汉代钱币/四铢半两/main.jpg"
         }
       },
       {
@@ -544,7 +581,8 @@
           "ruler": "汉武帝刘彻",
           "coreFeatures": "武帝建元元年铸；重三铢；面文\"三铢\"；行用时间极短",
           "estimatedValue": "1,000—8,000元",
-          "rarity": "五级 稀贵"
+          "rarity": "五级 稀贵",
+          "thumbnail": "/images/coins/汉代钱币/三铢钱/main.jpg"
         }
       },
       {
@@ -558,7 +596,8 @@
           "ruler": "汉武帝刘彻",
           "coreFeatures": "武帝元狩四年铸；银锡合金；龙币、马币、龟币三等；虚值大钱",
           "estimatedValue": "5,000—50,000元",
-          "rarity": "四级 罕"
+          "rarity": "四级 罕",
+          "thumbnail": ""
         }
       },
       {
@@ -572,7 +611,8 @@
           "ruler": "汉武帝刘彻",
           "coreFeatures": "武帝元狩五年铸；令郡国铸五铢钱；重五铢（约3.5g）；面文\"五铢\"",
           "estimatedValue": "20—200元",
-          "rarity": "十级 多泛"
+          "rarity": "十级 多泛",
+          "thumbnail": "/images/coins/汉代钱币/郡国五铢/main.jpg"
         }
       },
       {
@@ -586,7 +626,8 @@
           "ruler": "汉武帝刘彻",
           "coreFeatures": "武帝元鼎二年铸；以赤铜为廓；铸工精整；一当郡国五铢五枚",
           "estimatedValue": "500—3,000元",
-          "rarity": "七级 甚少"
+          "rarity": "七级 甚少",
+          "thumbnail": "/images/coins/汉代钱币/赤仄五铢/main.jpg"
         }
       },
       {
@@ -600,7 +641,8 @@
           "ruler": "汉武帝刘彻",
           "coreFeatures": "武帝元鼎四年铸；由上林三官统一铸造；铸工精整规范；终结民间铸币",
           "estimatedValue": "15—150元",
-          "rarity": "十级 多泛"
+          "rarity": "十级 多泛",
+          "thumbnail": "/images/coins/汉代钱币/上林三官五铢/main.jpg"
         }
       },
       {
@@ -614,7 +656,8 @@
           "ruler": "汉昭帝刘弗陵",
           "coreFeatures": "昭帝时期铸行五铢钱；铸工尚可；与武帝五铢风格接近",
           "estimatedValue": "10—100元",
-          "rarity": "十级 多泛"
+          "rarity": "十级 多泛",
+          "thumbnail": "/images/coins/汉代钱币/昭帝五铢/main.jpg"
         }
       },
       {
@@ -628,7 +671,8 @@
           "ruler": "汉宣帝刘询",
           "coreFeatures": "宣帝时期铸行；铸工最精；\"五\"字交笔弯曲较大",
           "estimatedValue": "10—100元",
-          "rarity": "十级 多泛"
+          "rarity": "十级 多泛",
+          "thumbnail": "/images/coins/汉代钱币/宣帝五铢/main.jpg"
         }
       },
       {
@@ -642,7 +686,8 @@
           "ruler": "西汉晚期帝",
           "coreFeatures": "体形极小；直径约1.1—1.3cm；可能为冥币或辅币",
           "estimatedValue": "200—2,000元",
-          "rarity": "七级 甚少"
+          "rarity": "七级 甚少",
+          "thumbnail": "/images/coins/汉代钱币/小五铢/main.jpg"
         }
       },
       {
@@ -656,7 +701,8 @@
           "ruler": "光武帝刘秀",
           "coreFeatures": "光武帝建武十六年铸；面文\"五铢\"；重约3.5g；恢复五铢制度",
           "estimatedValue": "15—150元",
-          "rarity": "十级 多泛"
+          "rarity": "十级 多泛",
+          "thumbnail": "/images/coins/汉代钱币/建武五铢/main.jpg"
         }
       },
       {
@@ -670,7 +716,8 @@
           "ruler": "东汉诸帝",
           "coreFeatures": "东汉中后期铸行；质量参差；后期减重严重",
           "estimatedValue": "10—100元",
-          "rarity": "十级 多泛"
+          "rarity": "十级 多泛",
+          "thumbnail": "/images/coins/汉代钱币/东汉五铢/main.jpg"
         }
       },
       {
@@ -684,7 +731,8 @@
           "ruler": "汉灵帝刘宏",
           "coreFeatures": "灵帝中平三年铸；背面穿孔四角各有一道凸线延伸至外廓",
           "estimatedValue": "20—200元",
-          "rarity": "九级 较多"
+          "rarity": "九级 较多",
+          "thumbnail": "/images/coins/汉代钱币/中平四出五铢/main.jpg"
         }
       },
       {
@@ -698,7 +746,8 @@
           "ruler": "民间私剪",
           "coreFeatures": "将五铢钱边缘剪下一圈以私铸；钱体变小变轻",
           "estimatedValue": "10—100元",
-          "rarity": "十级 多泛"
+          "rarity": "十级 多泛",
+          "thumbnail": "/images/coins/汉代钱币/剪边五铢/main.jpg"
         }
       },
       {
@@ -712,7 +761,8 @@
           "ruler": "民间私剪",
           "coreFeatures": "仅保留五铢钱外缘一圈；内芯另铸小钱；严重破坏币制",
           "estimatedValue": "30—300元",
-          "rarity": "九级 较多"
+          "rarity": "九级 较多",
+          "thumbnail": "/images/coins/汉代钱币/綖环五铢/main.jpg"
         }
       },
       {
@@ -726,7 +776,8 @@
           "ruler": "董卓",
           "coreFeatures": "董卓铸行；极轻薄粗糙；破坏了五铢钱制度",
           "estimatedValue": "50—500元",
-          "rarity": "九级 较多"
+          "rarity": "九级 较多",
+          "thumbnail": ""
         }
       }
     ]
@@ -746,7 +797,8 @@
           "ruler": "王莽",
           "coreFeatures": "面文\"大泉五十\"；悬针篆；重十二铢；当五十枚五铢；虚值大钱",
           "estimatedValue": "30—500元",
-          "rarity": "九级 较多"
+          "rarity": "九级 较多",
+          "thumbnail": "/images/coins/新莽钱币/大泉五十/main.jpg"
         }
       },
       {
@@ -760,7 +812,8 @@
           "ruler": "王莽",
           "coreFeatures": "刀环方孔圆钱形；面文\"契刀五百\"；当五百枚五铢",
           "estimatedValue": "2,000—15,000元",
-          "rarity": "六级 稀"
+          "rarity": "六级 稀",
+          "thumbnail": "/images/coins/新莽钱币/契刀五百/main.jpg"
         }
       },
       {
@@ -774,7 +827,8 @@
           "ruler": "王莽",
           "coreFeatures": "刀形；\"一刀\"二字嵌金（错金）；当五千枚五铢；中国古泉名珍",
           "estimatedValue": "30,000—200,000元",
-          "rarity": "二级 珍"
+          "rarity": "二级 珍",
+          "thumbnail": "/images/coins/新莽钱币/一刀平五千/main.jpg"
         }
       },
       {
@@ -788,7 +842,8 @@
           "ruler": "王莽",
           "coreFeatures": "面文\"小泉直一\"；重一铢；\"泉货六品\"最小者",
           "estimatedValue": "50—500元",
-          "rarity": "九级 较多"
+          "rarity": "九级 较多",
+          "thumbnail": "/images/coins/新莽钱币/小泉直一/main.jpg"
         }
       },
       {
@@ -802,7 +857,8 @@
           "ruler": "王莽",
           "coreFeatures": "面文\"幺泉一十\"；重三铢；泉货六品之一",
           "estimatedValue": "3,000—20,000元",
-          "rarity": "五级 稀贵"
+          "rarity": "五级 稀贵",
+          "thumbnail": "/images/coins/新莽钱币/幺泉一十/main.jpg"
         }
       },
       {
@@ -816,7 +872,8 @@
           "ruler": "王莽",
           "coreFeatures": "面文\"幼泉二十\"；重五铢；泉货六品之一",
           "estimatedValue": "3,000—20,000元",
-          "rarity": "五级 稀贵"
+          "rarity": "五级 稀贵",
+          "thumbnail": "/images/coins/新莽钱币/幼泉二十/main.jpg"
         }
       },
       {
@@ -830,7 +887,8 @@
           "ruler": "王莽",
           "coreFeatures": "面文\"中泉三十\"；重七铢；泉货六品之一",
           "estimatedValue": "5,000—30,000元",
-          "rarity": "五级 稀贵"
+          "rarity": "五级 稀贵",
+          "thumbnail": "/images/coins/新莽钱币/中泉三十/main.jpg"
         }
       },
       {
@@ -844,7 +902,8 @@
           "ruler": "王莽",
           "coreFeatures": "面文\"壮泉四十\"；重九铢；泉货六品中最珍稀者",
           "estimatedValue": "15,000—80,000元",
-          "rarity": "一级 大珍"
+          "rarity": "一级 大珍",
+          "thumbnail": "/images/coins/新莽钱币/壮泉四十/main.jpg"
         }
       },
       {
@@ -858,7 +917,8 @@
           "ruler": "王莽",
           "coreFeatures": "布币形制；面文\"小布一百\"；布货十品之一",
           "estimatedValue": "2,000—10,000元",
-          "rarity": "六级 稀"
+          "rarity": "六级 稀",
+          "thumbnail": "/images/coins/新莽钱币/小布一百/main.jpg"
         }
       },
       {
@@ -872,7 +932,8 @@
           "ruler": "王莽",
           "coreFeatures": "布币形制；面文\"幺布二百\"；布货十品之一",
           "estimatedValue": "2,000—10,000元",
-          "rarity": "六级 稀"
+          "rarity": "六级 稀",
+          "thumbnail": "/images/coins/新莽钱币/幺布二百/main.jpg"
         }
       },
       {
@@ -886,7 +947,8 @@
           "ruler": "王莽",
           "coreFeatures": "布币形制；面文\"幼布三百\"；布货十品之一",
           "estimatedValue": "2,000—10,000元",
-          "rarity": "六级 稀"
+          "rarity": "六级 稀",
+          "thumbnail": "/images/coins/新莽钱币/幼布三百/main.jpg"
         }
       },
       {
@@ -900,7 +962,8 @@
           "ruler": "王莽",
           "coreFeatures": "布币形制；面文\"序布四百\"；布货十品之一",
           "estimatedValue": "3,000—15,000元",
-          "rarity": "五级 稀贵"
+          "rarity": "五级 稀贵",
+          "thumbnail": "/images/coins/新莽钱币/序布四百/main.jpg"
         }
       },
       {
@@ -914,7 +977,8 @@
           "ruler": "王莽",
           "coreFeatures": "布币形制；面文\"差布五百\"；布货十品之一",
           "estimatedValue": "3,000—15,000元",
-          "rarity": "五级 稀贵"
+          "rarity": "五级 稀贵",
+          "thumbnail": "/images/coins/新莽钱币/差布五百/main.jpg"
         }
       },
       {
@@ -928,7 +992,8 @@
           "ruler": "王莽",
           "coreFeatures": "布币形制；面文\"中布六百\"；布货十品之一",
           "estimatedValue": "3,000—15,000元",
-          "rarity": "五级 稀贵"
+          "rarity": "五级 稀贵",
+          "thumbnail": "/images/coins/新莽钱币/中布六百/main.jpg"
         }
       },
       {
@@ -942,7 +1007,8 @@
           "ruler": "王莽",
           "coreFeatures": "布币形制；面文\"壮布七百\"；布货十品之一",
           "estimatedValue": "3,000—15,000元",
-          "rarity": "五级 稀贵"
+          "rarity": "五级 稀贵",
+          "thumbnail": "/images/coins/新莽钱币/壮布七百/main.jpg"
         }
       },
       {
@@ -956,7 +1022,8 @@
           "ruler": "王莽",
           "coreFeatures": "布币形制；面文\"第布八百\"；布货十品之一",
           "estimatedValue": "3,000—15,000元",
-          "rarity": "五级 稀贵"
+          "rarity": "五级 稀贵",
+          "thumbnail": "/images/coins/新莽钱币/第布八百/main.jpg"
         }
       },
       {
@@ -970,7 +1037,8 @@
           "ruler": "王莽",
           "coreFeatures": "布币形制；面文\"次布九百\"；布货十品之一",
           "estimatedValue": "3,000—15,000元",
-          "rarity": "五级 稀贵"
+          "rarity": "五级 稀贵",
+          "thumbnail": "/images/coins/新莽钱币/次布九百/main.jpg"
         }
       },
       {
@@ -984,7 +1052,8 @@
           "ruler": "王莽",
           "coreFeatures": "布币形制；面文\"大布黄千\"；当一千枚五铢",
           "estimatedValue": "300—3,000元",
-          "rarity": "七级 甚少"
+          "rarity": "七级 甚少",
+          "thumbnail": "/images/coins/新莽钱币/大布黄千/main.jpg"
         }
       },
       {
@@ -998,7 +1067,8 @@
           "ruler": "王莽",
           "coreFeatures": "布币形制；面文\"货布\"；悬针篆；铸工极精",
           "estimatedValue": "200—2,000元",
-          "rarity": "八级 少"
+          "rarity": "八级 少",
+          "thumbnail": "/images/coins/新莽钱币/货布钱/main.jpg"
         }
       },
       {
@@ -1012,7 +1082,8 @@
           "ruler": "王莽",
           "coreFeatures": "圆形方孔；面文\"货泉\"；重五铢；新莽晚期主要流通货币",
           "estimatedValue": "10—200元",
-          "rarity": "九级 较多"
+          "rarity": "九级 较多",
+          "thumbnail": "/images/coins/新莽钱币/货泉钱/main.jpg"
         }
       },
       {
@@ -1026,7 +1097,8 @@
           "ruler": "王莽",
           "coreFeatures": "圆形方孔；面文\"布泉\"；悬针篆；铸工极精",
           "estimatedValue": "200—2,000元",
-          "rarity": "八级 少"
+          "rarity": "八级 少",
+          "thumbnail": "/images/coins/新莽钱币/布泉-新莽/main.jpg"
         }
       },
       {
@@ -1040,7 +1112,8 @@
           "ruler": "王莽",
           "coreFeatures": "面文\"国宝金匮直万\"；上部方孔圆钱，下部方形；存世极罕",
           "estimatedValue": "500,000—2,000,000元",
-          "rarity": "一级 大珍"
+          "rarity": "一级 大珍",
+          "thumbnail": "/images/coins/新莽钱币/国宝金匮直万/main.jpg"
         }
       }
     ]
@@ -1060,7 +1133,8 @@
           "ruler": "魏文帝曹丕",
           "coreFeatures": "沿用汉代五铢钱制；铸工较粗；\"五\"字交笔弯曲",
           "estimatedValue": "20—300元",
-          "rarity": "九级 较多"
+          "rarity": "九级 较多",
+          "thumbnail": "/images/coins/三国钱币/魏五铢/main.jpg"
         }
       },
       {
@@ -1074,7 +1148,8 @@
           "ruler": "昭烈帝刘备",
           "coreFeatures": "面文\"五铢\"；体形较小；\"五\"字交笔较直；蜀汉政权铸行",
           "estimatedValue": "30—500元",
-          "rarity": "九级 较多"
+          "rarity": "九级 较多",
+          "thumbnail": "/images/coins/三国钱币/蜀五铢/main.jpg"
         }
       },
       {
@@ -1088,7 +1163,8 @@
           "ruler": "昭烈帝刘备",
           "coreFeatures": "面文\"直百五铢\"；一当百枚五铢；虚值大钱；背有\"为\"字者为犍为郡铸",
           "estimatedValue": "100—3,000元",
-          "rarity": "八级 少"
+          "rarity": "八级 少",
+          "thumbnail": "/images/coins/三国钱币/直百五铢/main.jpg"
         }
       },
       {
@@ -1102,7 +1178,8 @@
           "ruler": "蜀汉",
           "coreFeatures": "面文\"太平百钱\"；一当百枚五铢；铸行时间较长",
           "estimatedValue": "50—500元",
-          "rarity": "八级 少"
+          "rarity": "八级 少",
+          "thumbnail": "/images/coins/三国钱币/太平百钱/main.jpg"
         }
       },
       {
@@ -1116,7 +1193,8 @@
           "ruler": "蜀汉",
           "coreFeatures": "面文\"世平百钱\"；一当百枚五铢；存世较少",
           "estimatedValue": "500—5,000元",
-          "rarity": "六级 稀"
+          "rarity": "六级 稀",
+          "thumbnail": ""
         }
       },
       {
@@ -1130,7 +1208,8 @@
           "ruler": "蜀汉",
           "coreFeatures": "面文\"直一\"；小型辅币；铸工较粗",
           "estimatedValue": "30—300元",
-          "rarity": "九级 较多"
+          "rarity": "九级 较多",
+          "thumbnail": "/images/coins/三国钱币/直一钱/main.jpg"
         }
       },
       {
@@ -1144,7 +1223,8 @@
           "ruler": "蜀汉",
           "coreFeatures": "面文\"直百\"；一当百枚五铢；小型虚值钱",
           "estimatedValue": "50—500元",
-          "rarity": "八级 少"
+          "rarity": "八级 少",
+          "thumbnail": "/images/coins/三国钱币/直百钱/main.jpg"
         }
       },
       {
@@ -1158,7 +1238,8 @@
           "ruler": "蜀汉",
           "coreFeatures": "面文\"定平一百\"；一当百枚五铢；存世较少",
           "estimatedValue": "200—2,000元",
-          "rarity": "七级 甚少"
+          "rarity": "七级 甚少",
+          "thumbnail": "/images/coins/三国钱币/定平一百/main.jpg"
         }
       },
       {
@@ -1172,7 +1253,8 @@
           "ruler": "大帝孙权",
           "coreFeatures": "面文\"大泉五百\"；一当五百枚五铢；虚值大钱",
           "estimatedValue": "300—3,000元",
-          "rarity": "七级 甚少"
+          "rarity": "七级 甚少",
+          "thumbnail": "/images/coins/三国钱币/大泉五百/main.jpg"
         }
       },
       {
@@ -1186,7 +1268,8 @@
           "ruler": "大帝孙权",
           "coreFeatures": "面文\"大泉当千\"；一当千枚五铢；虚值大钱；铸工较精",
           "estimatedValue": "300—8,000元",
-          "rarity": "七级 甚少"
+          "rarity": "七级 甚少",
+          "thumbnail": "/images/coins/三国钱币/大泉当千/main.jpg"
         }
       },
       {
@@ -1200,7 +1283,8 @@
           "ruler": "大帝孙权",
           "coreFeatures": "面文\"大泉二千\"；一当二千枚五铢；存世稀少",
           "estimatedValue": "3,000—30,000元",
-          "rarity": "五级 稀贵"
+          "rarity": "五级 稀贵",
+          "thumbnail": "/images/coins/三国钱币/大泉二千/main.jpg"
         }
       },
       {
@@ -1214,7 +1298,8 @@
           "ruler": "大帝孙权",
           "coreFeatures": "面文\"大泉五千\"；一当五千枚五铢；存世极罕；古泉名珍",
           "estimatedValue": "30,000—200,000元",
-          "rarity": "二级 珍"
+          "rarity": "二级 珍",
+          "thumbnail": "/images/coins/三国钱币/大泉五千/main.jpg"
         }
       }
     ]
@@ -1234,7 +1319,8 @@
           "ruler": "沈充（民间铸行）",
           "coreFeatures": "沿用五铢钱制；传为沈充所铸；体形较小；\"五\"字交笔较直",
           "estimatedValue": "100—1,500元",
-          "rarity": "七级 甚少"
+          "rarity": "七级 甚少",
+          "thumbnail": "/images/coins/两晋十六国钱币/沈郎五铢/main.jpg"
         }
       },
       {
@@ -1248,7 +1334,8 @@
           "ruler": "张轨",
           "coreFeatures": "面文\"凉造新泉\"；前凉政权铸行；圆形方孔；存世较少",
           "estimatedValue": "3,000—30,000元",
-          "rarity": "五级 稀贵"
+          "rarity": "五级 稀贵",
+          "thumbnail": "/images/coins/两晋十六国钱币/凉造新泉/main.jpg"
         }
       },
       {
@@ -1262,7 +1349,8 @@
           "ruler": "李寿",
           "coreFeatures": "面文\"汉兴\"；中国最早的年号钱；直读或横读",
           "estimatedValue": "500—5,000元",
-          "rarity": "六级 稀"
+          "rarity": "六级 稀",
+          "thumbnail": "/images/coins/两晋十六国钱币/汉兴钱/main.jpg"
         }
       },
       {
@@ -1276,7 +1364,8 @@
           "ruler": "石勒",
           "coreFeatures": "面文\"丰货\"；后赵政权铸行；有篆书、隶书两种",
           "estimatedValue": "500—5,000元",
-          "rarity": "六级 稀"
+          "rarity": "六级 稀",
+          "thumbnail": "/images/coins/两晋十六国钱币/丰货钱/main.jpg"
         }
       },
       {
@@ -1290,7 +1379,8 @@
           "ruler": "赫连勃勃",
           "coreFeatures": "面文\"太夏真兴\"；大夏政权铸行；国号兼年号钱；存世极罕",
           "estimatedValue": "30,000—200,000元",
-          "rarity": "二级 珍"
+          "rarity": "二级 珍",
+          "thumbnail": "/images/coins/两晋十六国钱币/太夏真兴/main.jpg"
         }
       }
     ]
@@ -1310,7 +1400,8 @@
           "ruler": "宋文帝刘义隆",
           "coreFeatures": "面文\"四铢\"；南朝宋恢复铸币之始；重四铢",
           "estimatedValue": "100—1,000元",
-          "rarity": "八级 少"
+          "rarity": "八级 少",
+          "thumbnail": "/images/coins/南朝钱币/元嘉四铢/main.jpg"
         }
       },
       {
@@ -1324,7 +1415,8 @@
           "ruler": "宋孝武帝刘骏",
           "coreFeatures": "面文\"四铢\"；沿元嘉四铢制度；铸工较精",
           "estimatedValue": "50—500元",
-          "rarity": "八级 少"
+          "rarity": "八级 少",
+          "thumbnail": "/images/coins/南朝钱币/四铢钱/main.jpg"
         }
       },
       {
@@ -1338,7 +1430,8 @@
           "ruler": "宋孝武帝刘骏",
           "coreFeatures": "面文\"孝建\"；以年号为面文；重四铢；南朝名品",
           "estimatedValue": "50—800元",
-          "rarity": "八级 少"
+          "rarity": "八级 少",
+          "thumbnail": "/images/coins/南朝钱币/孝建四铢/main.jpg"
         }
       },
       {
@@ -1352,7 +1445,8 @@
           "ruler": "宋孝武帝刘骏",
           "coreFeatures": "面文\"大明\"；以年号为面文；存世较少",
           "estimatedValue": "200—2,000元",
-          "rarity": "七级 甚少"
+          "rarity": "七级 甚少",
+          "thumbnail": "/images/coins/南朝钱币/大明四铢/main.jpg"
         }
       },
       {
@@ -1366,7 +1460,8 @@
           "ruler": "宋前废帝刘子业",
           "coreFeatures": "面文\"两铢\"；重仅二铢；极轻薄",
           "estimatedValue": "200—2,000元",
-          "rarity": "七级 甚少"
+          "rarity": "七级 甚少",
+          "thumbnail": "/images/coins/南朝钱币/两铢钱/main.jpg"
         }
       },
       {
@@ -1380,7 +1475,8 @@
           "ruler": "宋前废帝刘子业",
           "coreFeatures": "面文\"永光\"；以年号为面文；铸行仅数月；存世稀少",
           "estimatedValue": "3,000—30,000元",
-          "rarity": "五级 稀贵"
+          "rarity": "五级 稀贵",
+          "thumbnail": "/images/coins/南朝钱币/永光钱/main.jpg"
         }
       },
       {
@@ -1394,7 +1490,8 @@
           "ruler": "宋前废帝刘子业",
           "coreFeatures": "面文\"景和\"；以年号为面文；铸行仅数月；存世稀少",
           "estimatedValue": "3,000—30,000元",
-          "rarity": "五级 稀贵"
+          "rarity": "五级 稀贵",
+          "thumbnail": "/images/coins/南朝钱币/景和钱/main.jpg"
         }
       },
       {
@@ -1408,7 +1505,8 @@
           "ruler": "梁武帝萧衍",
           "coreFeatures": "面文\"五铢\"；天监年间恢复铸币；铸工较精",
           "estimatedValue": "30—300元",
-          "rarity": "九级 较多"
+          "rarity": "九级 较多",
+          "thumbnail": "/images/coins/南朝钱币/天监五铢/main.jpg"
         }
       },
       {
@@ -1422,7 +1520,8 @@
           "ruler": "梁武帝萧衍",
           "coreFeatures": "面文\"五铢\"；南朝梁主要流通货币",
           "estimatedValue": "20—200元",
-          "rarity": "九级 较多"
+          "rarity": "九级 较多",
+          "thumbnail": "/images/coins/南朝钱币/梁五铢/main.jpg"
         }
       },
       {
@@ -1436,7 +1535,8 @@
           "ruler": "梁武帝萧衍",
           "coreFeatures": "铁质；面文\"五铢\"；以铁代铜；导致严重通胀",
           "estimatedValue": "20—200元",
-          "rarity": "九级 较多"
+          "rarity": "九级 较多",
+          "thumbnail": "/images/coins/南朝钱币/铁五铢-梁/main.jpg"
         }
       },
       {
@@ -1450,7 +1550,8 @@
           "ruler": "梁武帝萧衍",
           "coreFeatures": "面文\"五铢\"；无外廓；官方规定标准的小型五铢",
           "estimatedValue": "30—300元",
-          "rarity": "八级 少"
+          "rarity": "八级 少",
+          "thumbnail": "/images/coins/南朝钱币/公式女钱/main.jpg"
         }
       },
       {
@@ -1464,7 +1565,8 @@
           "ruler": "梁武帝萧衍",
           "coreFeatures": "面文\"太清丰乐\"；吉语钱；存世较少",
           "estimatedValue": "1,000—10,000元",
-          "rarity": "六级 稀"
+          "rarity": "六级 稀",
+          "thumbnail": "/images/coins/南朝钱币/太清丰乐/main.jpg"
         }
       },
       {
@@ -1478,7 +1580,8 @@
           "ruler": "梁元帝萧绎",
           "coreFeatures": "面文\"五铢\"；正面穿上下各一道横纹（两柱）",
           "estimatedValue": "50—500元",
-          "rarity": "八级 少"
+          "rarity": "八级 少",
+          "thumbnail": "/images/coins/南朝钱币/两柱五铢/main.jpg"
         }
       },
       {
@@ -1492,7 +1595,8 @@
           "ruler": "梁元帝萧绎",
           "coreFeatures": "面文\"五铢\"；面背穿上下各一道横纹（共四柱）",
           "estimatedValue": "100—1,000元",
-          "rarity": "七级 甚少"
+          "rarity": "七级 甚少",
+          "thumbnail": "/images/coins/南朝钱币/四柱五铢/main.jpg"
         }
       },
       {
@@ -1506,7 +1610,8 @@
           "ruler": "陈文帝陈蒨",
           "coreFeatures": "面文\"五铢\"；天嘉年间铸行；铸工较精",
           "estimatedValue": "30—300元",
-          "rarity": "八级 少"
+          "rarity": "八级 少",
+          "thumbnail": "/images/coins/南朝钱币/天嘉五铢/main.jpg"
         }
       },
       {
@@ -1520,7 +1625,8 @@
           "ruler": "陈宣帝陈顼",
           "coreFeatures": "面文\"太货六铢\"；玉箸篆；铸工极精；南朝名品",
           "estimatedValue": "200—5,000元",
-          "rarity": "七级 甚少"
+          "rarity": "七级 甚少",
+          "thumbnail": "/images/coins/南朝钱币/太货六铢/main.jpg"
         }
       },
       {
@@ -1534,7 +1640,8 @@
           "ruler": "民间私铸",
           "coreFeatures": "体形极小如鹅眼；极轻薄；民间私铸",
           "estimatedValue": "20—200元",
-          "rarity": "九级 较多"
+          "rarity": "九级 较多",
+          "thumbnail": "/images/coins/南朝钱币/鹅眼钱/main.jpg"
         }
       }
     ]
@@ -1554,7 +1661,8 @@
           "ruler": "孝文帝拓跋宏",
           "coreFeatures": "面文\"太和五铢\"；北魏首次铸币；篆书；铸工较粗",
           "estimatedValue": "200—3,000元",
-          "rarity": "七级 甚少"
+          "rarity": "七级 甚少",
+          "thumbnail": "/images/coins/北朝钱币/太和五铢/main.jpg"
         }
       },
       {
@@ -1568,7 +1676,8 @@
           "ruler": "宣武帝元恪",
           "coreFeatures": "面文\"五铢\"；永平年间铸行；铸工较太和五铢精",
           "estimatedValue": "50—500元",
-          "rarity": "八级 少"
+          "rarity": "八级 少",
+          "thumbnail": "/images/coins/北朝钱币/永平五铢/main.jpg"
         }
       },
       {
@@ -1582,7 +1691,8 @@
           "ruler": "孝庄帝元子攸",
           "coreFeatures": "面文\"永安五铢\"；以年号入面文；铸工较精",
           "estimatedValue": "50—500元",
-          "rarity": "八级 少"
+          "rarity": "八级 少",
+          "thumbnail": "/images/coins/北朝钱币/永安五铢/main.jpg"
         }
       },
       {
@@ -1596,7 +1706,8 @@
           "ruler": "东魏诸帝",
           "coreFeatures": "面文\"五铢\"；沿北魏五铢制度；铸工尚可",
           "estimatedValue": "30—300元",
-          "rarity": "九级 较多"
+          "rarity": "九级 较多",
+          "thumbnail": "/images/coins/北朝钱币/东魏五铢/main.jpg"
         }
       },
       {
@@ -1610,7 +1721,8 @@
           "ruler": "西魏文帝元宝炬",
           "coreFeatures": "面文\"五铢\"；西魏铸行；铸工较精",
           "estimatedValue": "50—500元",
-          "rarity": "八级 少"
+          "rarity": "八级 少",
+          "thumbnail": "/images/coins/北朝钱币/大统五铢/main.jpg"
         }
       },
       {
@@ -1624,7 +1736,8 @@
           "ruler": "文宣帝高洋",
           "coreFeatures": "面文\"常平五铢\"；铸工极精；北齐标准货币",
           "estimatedValue": "50—800元",
-          "rarity": "八级 少"
+          "rarity": "八级 少",
+          "thumbnail": "/images/coins/北朝钱币/常平五铢/main.jpg"
         }
       },
       {
@@ -1638,7 +1751,8 @@
           "ruler": "周明帝宇文毓",
           "coreFeatures": "面文\"布泉\"；玉箸篆；铸工极精；与五行大布、永通万国并称\"北周三品\"",
           "estimatedValue": "200—2,000元",
-          "rarity": "八级 少"
+          "rarity": "八级 少",
+          "thumbnail": "/images/coins/北朝钱币/布泉-北周/main.jpg"
         }
       },
       {
@@ -1652,7 +1766,8 @@
           "ruler": "周武帝宇文邕",
           "coreFeatures": "面文\"五行大布\"；玉箸篆；以一当十枚布泉；北周三品之一",
           "estimatedValue": "50—500元",
-          "rarity": "八级 少"
+          "rarity": "八级 少",
+          "thumbnail": "/images/coins/北朝钱币/五行大布/main.jpg"
         }
       },
       {
@@ -1666,7 +1781,8 @@
           "ruler": "周宣帝宇文赟",
           "coreFeatures": "面文\"永通万国\"；玉箸篆；铸工极精；北周三品之冠",
           "estimatedValue": "200—3,000元",
-          "rarity": "七级 甚少"
+          "rarity": "七级 甚少",
+          "thumbnail": "/images/coins/北朝钱币/永通万国/main.jpg"
         }
       }
     ]
@@ -1686,7 +1802,8 @@
           "ruler": "隋文帝杨坚",
           "coreFeatures": "面文\"五铢\"；\"五\"字交笔较直；统一南北货币；终结五铢钱制前最后一种五铢",
           "estimatedValue": "15—200元",
-          "rarity": "九级 较多"
+          "rarity": "九级 较多",
+          "thumbnail": "/images/coins/隋朝钱币/隋五铢/main.jpg"
         }
       },
       {
@@ -1700,7 +1817,8 @@
           "ruler": "隋炀帝杨广",
           "coreFeatures": "面文\"五铢\"；白铜质地；铜色泛白；隋末减重铸行",
           "estimatedValue": "30—300元",
-          "rarity": "八级 少"
+          "rarity": "八级 少",
+          "thumbnail": "/images/coins/隋朝钱币/白钱-隋末/main.jpg"
         }
       }
     ]
@@ -1720,7 +1838,8 @@
           "ruler": "唐高祖李渊至唐哀帝李柷",
           "coreFeatures": "面文\"开元通宝\"，欧阳询书写楷书含隶意；终结五铢体制；开创通宝钱制；版别极多",
           "estimatedValue": "10—200元",
-          "rarity": "十级 多泛"
+          "rarity": "十级 多泛",
+          "thumbnail": "/images/coins/唐朝钱币/开元通宝/main.jpg"
         }
       },
       {
@@ -1734,7 +1853,8 @@
           "ruler": "唐高宗李治",
           "coreFeatures": "面文\"乾封泉宝\"；当十枚开元通宝；铸行仅一年即废；唐代最早年号钱",
           "estimatedValue": "2,000—15,000元",
-          "rarity": "四级 罕"
+          "rarity": "四级 罕",
+          "thumbnail": "/images/coins/唐朝钱币/乾封泉宝/main.jpg"
         }
       },
       {
@@ -1748,7 +1868,8 @@
           "ruler": "唐肃宗李亨",
           "coreFeatures": "面文\"乾元重宝\"；当十枚开元通宝；安史之乱期间为筹军费而铸；有小平、折二、折三、折五、折十多种",
           "estimatedValue": "20—500元",
-          "rarity": "八级 少"
+          "rarity": "八级 少",
+          "thumbnail": "/images/coins/唐朝钱币/乾元重宝/main.jpg"
         }
       },
       {
@@ -1762,7 +1883,8 @@
           "ruler": "唐肃宗李亨",
           "coreFeatures": "背面重轮（双廓）；当五十枚开元通宝；虚币大钱；通货膨胀产物",
           "estimatedValue": "100—1,500元",
-          "rarity": "七级 甚少"
+          "rarity": "七级 甚少",
+          "thumbnail": "/images/coins/唐朝钱币/重轮乾元重宝/main.jpg"
         }
       },
       {
@@ -1776,7 +1898,8 @@
           "ruler": "唐代宗李豫",
           "coreFeatures": "面文\"大历元宝\"；铸量较少；多出土于新疆地区；西域驻军铸行",
           "estimatedValue": "300—3,000元",
-          "rarity": "六级 稀"
+          "rarity": "六级 稀",
+          "thumbnail": "/images/coins/唐朝钱币/大历元宝/main.jpg"
         }
       },
       {
@@ -1790,7 +1913,8 @@
           "ruler": "唐德宗李适",
           "coreFeatures": "面文\"建中通宝\"；铸行于西域地区；存世较少；唐代地方铸币",
           "estimatedValue": "500—5,000元",
-          "rarity": "六级 稀"
+          "rarity": "六级 稀",
+          "thumbnail": "/images/coins/唐朝钱币/建中通宝/main.jpg"
         }
       },
       {
@@ -1804,7 +1928,8 @@
           "ruler": "唐武宗李炎",
           "coreFeatures": "背铸州名地名，共发现二十三种背字（昌、京、洛、益、蓝、襄、荆、越、宣、洪、潭、兖、润、鄂、平、兴、梁、广、梓、福、丹、桂、永）；毁佛铸钱",
           "estimatedValue": "20—500元",
-          "rarity": "九级 较多"
+          "rarity": "九级 较多",
+          "thumbnail": "/images/coins/唐朝钱币/会昌开元/main.jpg"
         }
       },
       {
@@ -1818,7 +1943,8 @@
           "ruler": "唐懿宗李漼",
           "coreFeatures": "面文\"咸通玄宝\"；铸量极少；试铸性质；唐代稀有钱",
           "estimatedValue": "5,000—30,000元",
-          "rarity": "一级 大珍（特珍）"
+          "rarity": "一级 大珍（特珍）",
+          "thumbnail": "/images/coins/唐朝钱币/咸通玄宝/main.jpg"
         }
       },
       {
@@ -1832,7 +1958,8 @@
           "ruler": "史思明（安史之乱叛将）",
           "coreFeatures": "面文\"得壹元宝\"；史思明叛军铸行；铸行时间极短；以一当开元通宝百枚",
           "estimatedValue": "3,000—30,000元",
-          "rarity": "三级 罕贵"
+          "rarity": "三级 罕贵",
+          "thumbnail": ""
         }
       },
       {
@@ -1846,7 +1973,8 @@
           "ruler": "史思明（安史之乱叛将）",
           "coreFeatures": "面文\"顺天元宝\"；史思明称帝后改铸；以一当开元通宝百枚；版别较得壹元宝多",
           "estimatedValue": "2,000—20,000元",
-          "rarity": "三级 罕贵"
+          "rarity": "三级 罕贵",
+          "thumbnail": ""
         }
       },
       {
@@ -1860,7 +1988,8 @@
           "ruler": "唐代西域地方政权",
           "coreFeatures": "西域地区仿铸开元通宝及地方铸币；铸工粗率；面文简省或变异；多出土于新疆地区",
           "estimatedValue": "100—5,000元",
-          "rarity": "七级 甚少"
+          "rarity": "七级 甚少",
+          "thumbnail": "/images/coins/唐朝钱币/西域铸币/main.jpg"
         }
       }
     ]
@@ -1880,7 +2009,8 @@
           "ruler": "太祖朱温",
           "coreFeatures": "面文\"开平通宝\"，大钱型制，存世极罕",
           "estimatedValue": "80000—300000元",
-          "rarity": "一级（大珍）"
+          "rarity": "一级（大珍）",
+          "thumbnail": "/images/coins/五代十国钱币/开平通宝/main.jpg"
         }
       },
       {
@@ -1894,7 +2024,8 @@
           "ruler": "太祖朱温",
           "coreFeatures": "面文\"开平元宝\"，存世极罕，五代顶级珍品",
           "estimatedValue": "80000—300000元",
-          "rarity": "二级（珍）"
+          "rarity": "二级（珍）",
+          "thumbnail": ""
         }
       },
       {
@@ -1908,7 +2039,8 @@
           "ruler": "明宗李嗣源",
           "coreFeatures": "面文\"天成元宝\"，铸量稀少",
           "estimatedValue": "10000—50000元",
-          "rarity": "二级（珍）"
+          "rarity": "二级（珍）",
+          "thumbnail": "/images/coins/五代十国钱币/天成元宝/main.jpg"
         }
       },
       {
@@ -1922,7 +2054,8 @@
           "ruler": "高祖石敬瑭",
           "coreFeatures": "面文\"天福元宝\"，允许民间铸造，质量参差",
           "estimatedValue": "300—3000元",
-          "rarity": "七级（甚少）"
+          "rarity": "七级（甚少）",
+          "thumbnail": "/images/coins/五代十国钱币/天福元宝/main.jpg"
         }
       },
       {
@@ -1936,7 +2069,8 @@
           "ruler": "隐帝刘承祐",
           "coreFeatures": "面文\"汉元通宝\"，仿开元通宝风格",
           "estimatedValue": "100—1000元",
-          "rarity": "八级（少）"
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/五代十国钱币/汉元通宝/main.jpg"
         }
       },
       {
@@ -1950,7 +2084,8 @@
           "ruler": "世宗柴荣",
           "coreFeatures": "面文\"周元通宝\"，毁佛铸钱，铸工精整",
           "estimatedValue": "30—500元",
-          "rarity": "八级（少）"
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/五代十国钱币/周元通宝/main.jpg"
         }
       },
       {
@@ -1964,7 +2099,8 @@
           "ruler": "高祖王建",
           "coreFeatures": "面文\"永平元宝\"，存世稀少",
           "estimatedValue": "5000—30000元",
-          "rarity": "五级（稀贵）"
+          "rarity": "五级（稀贵）",
+          "thumbnail": "/images/coins/五代十国钱币/永平元宝/main.jpg"
         }
       },
       {
@@ -1978,7 +2114,8 @@
           "ruler": "高祖王建",
           "coreFeatures": "面文\"通正元宝\"，较少见",
           "estimatedValue": "500—5000元",
-          "rarity": "七级（甚少）"
+          "rarity": "七级（甚少）",
+          "thumbnail": "/images/coins/五代十国钱币/通正元宝/main.jpg"
         }
       },
       {
@@ -1992,7 +2129,8 @@
           "ruler": "高祖王建",
           "coreFeatures": "面文\"天汉元宝\"，较少见",
           "estimatedValue": "200—2000元",
-          "rarity": "八级（少）"
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/五代十国钱币/天汉元宝/main.jpg"
         }
       },
       {
@@ -2006,7 +2144,8 @@
           "ruler": "高祖王建",
           "coreFeatures": "面文\"光天元宝\"，较少见",
           "estimatedValue": "200—2000元",
-          "rarity": "八级（少）"
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/五代十国钱币/光天元宝/main.jpg"
         }
       },
       {
@@ -2020,7 +2159,8 @@
           "ruler": "后主王衍",
           "coreFeatures": "面文\"乾德元宝\"，铸量稍多",
           "estimatedValue": "100—1000元",
-          "rarity": "八级（少）"
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/五代十国钱币/乾德元宝/main.jpg"
         }
       },
       {
@@ -2034,7 +2174,8 @@
           "ruler": "后主王衍",
           "coreFeatures": "面文\"咸康元宝\"，铸量稍多",
           "estimatedValue": "100—1000元",
-          "rarity": "八级（少）"
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/五代十国钱币/咸康元宝/main.jpg"
         }
       },
       {
@@ -2048,7 +2189,8 @@
           "ruler": "王延羲",
           "coreFeatures": "铁钱为主，背\"闽\"字或星月纹",
           "estimatedValue": "500—5000元",
-          "rarity": "六级（稀）"
+          "rarity": "六级（稀）",
+          "thumbnail": "/images/coins/五代十国钱币/永隆通宝/main.jpg"
         }
       },
       {
@@ -2062,7 +2204,8 @@
           "ruler": "王延政",
           "coreFeatures": "面文\"天德重宝\"，铜铁均有，铜品极罕",
           "estimatedValue": "铜：20000—100000元；铁：1000—5000元",
-          "rarity": "二级（珍）"
+          "rarity": "二级（珍）",
+          "thumbnail": "/images/coins/五代十国钱币/天德重宝/main.jpg"
         }
       },
       {
@@ -2076,7 +2219,8 @@
           "ruler": "王延政",
           "coreFeatures": "面文\"天德通宝\"，存世极罕",
           "estimatedValue": "10000—50000元",
-          "rarity": "三级（罕贵）"
+          "rarity": "三级（罕贵）",
+          "thumbnail": "/images/coins/五代十国钱币/天德通宝/main.jpg"
         }
       },
       {
@@ -2090,7 +2234,8 @@
           "ruler": "马殷",
           "coreFeatures": "面文\"天策府宝\"，铜铁均有，具纪念性质",
           "estimatedValue": "铜：50000—200000元；铁：2000—10000元",
-          "rarity": "二级（珍）"
+          "rarity": "二级（珍）",
+          "thumbnail": "/images/coins/五代十国钱币/天策府宝/main.jpg"
         }
       },
       {
@@ -2104,7 +2249,8 @@
           "ruler": "马殷",
           "coreFeatures": "铁钱为主，背有\"天策\"字",
           "estimatedValue": "铁：200—2000元",
-          "rarity": "六级（稀）"
+          "rarity": "六级（稀）",
+          "thumbnail": "/images/coins/五代十国钱币/乾封泉宝-楚/main.jpg"
         }
       },
       {
@@ -2118,7 +2264,8 @@
           "ruler": "孟昶",
           "coreFeatures": "面文\"广政通宝\"，铜铁均有，铜品较少",
           "estimatedValue": "铜：3000—20000元；铁：500—3000元",
-          "rarity": "四级（罕）"
+          "rarity": "四级（罕）",
+          "thumbnail": "/images/coins/五代十国钱币/广政通宝/main.jpg"
         }
       },
       {
@@ -2132,7 +2279,8 @@
           "ruler": "不详",
           "coreFeatures": "面文\"大蜀通宝\"，极罕见",
           "estimatedValue": "20000—100000元",
-          "rarity": "二级（珍）"
+          "rarity": "二级（珍）",
+          "thumbnail": "/images/coins/五代十国钱币/大蜀通宝/main.jpg"
         }
       },
       {
@@ -2146,7 +2294,8 @@
           "ruler": "李璟",
           "coreFeatures": "面文\"保大元宝\"，存世较少",
           "estimatedValue": "2000—15000元",
-          "rarity": "五级（稀贵）"
+          "rarity": "五级（稀贵）",
+          "thumbnail": "/images/coins/五代十国钱币/保大元宝/main.jpg"
         }
       },
       {
@@ -2160,7 +2309,8 @@
           "ruler": "李璟",
           "coreFeatures": "面文\"永通泉货\"，当十大钱，存世较少",
           "estimatedValue": "3000—20000元",
-          "rarity": "四级（罕）"
+          "rarity": "四级（罕）",
+          "thumbnail": "/images/coins/五代十国钱币/永通泉货/main.jpg"
         }
       },
       {
@@ -2174,7 +2324,8 @@
           "ruler": "李璟",
           "coreFeatures": "面文\"大唐通宝\"，铸量较少",
           "estimatedValue": "100—1000元",
-          "rarity": "七级（甚少）"
+          "rarity": "七级（甚少）",
+          "thumbnail": "/images/coins/五代十国钱币/大唐通宝/main.jpg"
         }
       },
       {
@@ -2188,7 +2339,8 @@
           "ruler": "李璟",
           "coreFeatures": "面文\"唐国通宝\"，篆楷隶三体对钱",
           "estimatedValue": "20—300元",
-          "rarity": "八级（少）"
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/五代十国钱币/唐国通宝/main.jpg"
         }
       },
       {
@@ -2202,7 +2354,8 @@
           "ruler": "李昪",
           "coreFeatures": "面文\"开国通宝\"，存世稀少",
           "estimatedValue": "10000—50000元",
-          "rarity": "三级（罕贵）"
+          "rarity": "三级（罕贵）",
+          "thumbnail": ""
         }
       },
       {
@@ -2216,7 +2369,8 @@
           "ruler": "徐知诰（李昪）",
           "coreFeatures": "面文\"大齐通宝\"，存世极罕，古泉大珍",
           "estimatedValue": "200000—1000000元",
-          "rarity": "一级（大珍）"
+          "rarity": "一级（大珍）",
+          "thumbnail": ""
         }
       },
       {
@@ -2230,7 +2384,8 @@
           "ruler": "高祖刘龑",
           "coreFeatures": "面文\"乾亨通宝\"，铅钱为主",
           "estimatedValue": "铅：20—200元；铜：500—5000元",
-          "rarity": "六级（稀）"
+          "rarity": "六级（稀）",
+          "thumbnail": "/images/coins/五代十国钱币/乾亨通宝-南汉/main.jpg"
         }
       },
       {
@@ -2244,7 +2399,8 @@
           "ruler": "高祖刘龑",
           "coreFeatures": "面文\"乾亨重宝\"，铜铁铅三种材质",
           "estimatedValue": "铜：500—5000元；铅：20—200元",
-          "rarity": "七级（甚少）"
+          "rarity": "七级（甚少）",
+          "thumbnail": "/images/coins/五代十国钱币/乾亨重宝/main.jpg"
         }
       },
       {
@@ -2258,7 +2414,8 @@
           "ruler": "高祖刘龑",
           "coreFeatures": "面文\"飞龙进宝\"，存世极罕",
           "estimatedValue": "50000—200000元",
-          "rarity": "二级（珍）"
+          "rarity": "二级（珍）",
+          "thumbnail": ""
         }
       },
       {
@@ -2272,7 +2429,8 @@
           "ruler": "不详",
           "coreFeatures": "面文\"永安\"，存世较少",
           "estimatedValue": "3000—20000元",
-          "rarity": "五级（稀贵）"
+          "rarity": "五级（稀贵）",
+          "thumbnail": "/images/coins/五代十国钱币/永安钱/main.jpg"
         }
       }
     ]
@@ -2292,7 +2450,8 @@
           "ruler": "太祖赵匡胤",
           "coreFeatures": "北宋开国钱，仿周元通宝风格",
           "estimatedValue": "10—100元",
-          "rarity": "十级（多泛）"
+          "rarity": "十级（多泛）",
+          "thumbnail": "/images/coins/北宋钱币/宋元通宝/main.jpg"
         }
       },
       {
@@ -2306,7 +2465,8 @@
           "ruler": "太宗赵光义",
           "coreFeatures": "中国第一种年号钱",
           "estimatedValue": "10—80元",
-          "rarity": "十级（多泛）"
+          "rarity": "十级（多泛）",
+          "thumbnail": "/images/coins/北宋钱币/太平通宝/main.jpg"
         }
       },
       {
@@ -2320,7 +2480,8 @@
           "ruler": "太宗赵光义",
           "coreFeatures": "中国最早御书钱，真行草三体",
           "estimatedValue": "20—300元",
-          "rarity": "九级（较多）"
+          "rarity": "九级（较多）",
+          "thumbnail": "/images/coins/北宋钱币/淳化元宝/main.jpg"
         }
       },
       {
@@ -2334,7 +2495,8 @@
           "ruler": "太宗赵光义",
           "coreFeatures": "御书三体（真、行、草）",
           "estimatedValue": "10—100元",
-          "rarity": "十级（多泛）"
+          "rarity": "十级（多泛）",
+          "thumbnail": "/images/coins/北宋钱币/至道元宝/main.jpg"
         }
       },
       {
@@ -2348,7 +2510,8 @@
           "ruler": "真宗赵恒",
           "coreFeatures": "楷书，铸量大",
           "estimatedValue": "5—50元",
-          "rarity": "十级（多泛）"
+          "rarity": "十级（多泛）",
+          "thumbnail": "/images/coins/北宋钱币/咸平元宝/main.jpg"
         }
       },
       {
@@ -2362,7 +2525,8 @@
           "ruler": "真宗赵恒",
           "coreFeatures": "楷书，铸量大",
           "estimatedValue": "5—50元",
-          "rarity": "十级（多泛）"
+          "rarity": "十级（多泛）",
+          "thumbnail": "/images/coins/北宋钱币/景德元宝/main.jpg"
         }
       },
       {
@@ -2376,7 +2540,8 @@
           "ruler": "真宗赵恒",
           "coreFeatures": "楷书，铸量大",
           "estimatedValue": "5—50元",
-          "rarity": "十级（多泛）"
+          "rarity": "十级（多泛）",
+          "thumbnail": "/images/coins/北宋钱币/祥符通宝/main.jpg"
         }
       },
       {
@@ -2390,7 +2555,8 @@
           "ruler": "真宗赵恒",
           "coreFeatures": "楷书，铸量大",
           "estimatedValue": "5—50元",
-          "rarity": "十级（多泛）"
+          "rarity": "十级（多泛）",
+          "thumbnail": "/images/coins/北宋钱币/祥符元宝/main.jpg"
         }
       },
       {
@@ -2404,7 +2570,8 @@
           "ruler": "真宗赵恒",
           "coreFeatures": "楷书，铸量大",
           "estimatedValue": "5—50元",
-          "rarity": "十级（多泛）"
+          "rarity": "十级（多泛）",
+          "thumbnail": "/images/coins/北宋钱币/天禧通宝/main.jpg"
         }
       },
       {
@@ -2418,7 +2585,8 @@
           "ruler": "仁宗赵祯",
           "coreFeatures": "篆楷对钱",
           "estimatedValue": "5—50元",
-          "rarity": "十级（多泛）"
+          "rarity": "十级（多泛）",
+          "thumbnail": "/images/coins/北宋钱币/天圣元宝/main.jpg"
         }
       },
       {
@@ -2432,7 +2600,8 @@
           "ruler": "仁宗赵祯",
           "coreFeatures": "篆楷对钱",
           "estimatedValue": "5—50元",
-          "rarity": "十级（多泛）"
+          "rarity": "十级（多泛）",
+          "thumbnail": "/images/coins/北宋钱币/明道元宝/main.jpg"
         }
       },
       {
@@ -2446,7 +2615,8 @@
           "ruler": "仁宗赵祯",
           "coreFeatures": "篆楷对钱",
           "estimatedValue": "5—50元",
-          "rarity": "十级（多泛）"
+          "rarity": "十级（多泛）",
+          "thumbnail": "/images/coins/北宋钱币/景祐元宝/main.jpg"
         }
       },
       {
@@ -2460,7 +2630,8 @@
           "ruler": "仁宗赵祯",
           "coreFeatures": "非年号钱，九叠篆为极品珍品",
           "estimatedValue": "普品：3—30元；九叠篆：50000—200000元",
-          "rarity": "十级（多泛）/一级（大珍）"
+          "rarity": "十级（多泛）/一级（大珍）",
+          "thumbnail": "/images/coins/北宋钱币/皇宋通宝/main.jpg"
         }
       },
       {
@@ -2474,7 +2645,8 @@
           "ruler": "仁宗赵祯",
           "coreFeatures": "铁钱为主，存世较少",
           "estimatedValue": "铁：500—3000元",
-          "rarity": "六级（稀）"
+          "rarity": "六级（稀）",
+          "thumbnail": ""
         }
       },
       {
@@ -2488,7 +2660,8 @@
           "ruler": "仁宗赵祯",
           "coreFeatures": "当十钱，铜铁并行",
           "estimatedValue": "20—300元",
-          "rarity": "八级（少）"
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/北宋钱币/庆历重宝/main.jpg"
         }
       },
       {
@@ -2502,7 +2675,8 @@
           "ruler": "仁宗赵祯",
           "coreFeatures": "篆楷对钱",
           "estimatedValue": "5—50元",
-          "rarity": "十级（多泛）"
+          "rarity": "十级（多泛）",
+          "thumbnail": "/images/coins/北宋钱币/至和元宝/main.jpg"
         }
       },
       {
@@ -2516,7 +2690,8 @@
           "ruler": "仁宗赵祯",
           "coreFeatures": "篆楷对钱",
           "estimatedValue": "5—50元",
-          "rarity": "十级（多泛）"
+          "rarity": "十级（多泛）",
+          "thumbnail": "/images/coins/北宋钱币/至和通宝/main.jpg"
         }
       },
       {
@@ -2530,7 +2705,8 @@
           "ruler": "仁宗赵祯",
           "coreFeatures": "折二折三，铁钱多见",
           "estimatedValue": "铜：200—2000元",
-          "rarity": "八级（少）"
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/北宋钱币/至和重宝/main.jpg"
         }
       },
       {
@@ -2544,7 +2720,8 @@
           "ruler": "仁宗赵祯",
           "coreFeatures": "篆楷对钱",
           "estimatedValue": "5—50元",
-          "rarity": "十级（多泛）"
+          "rarity": "十级（多泛）",
+          "thumbnail": "/images/coins/北宋钱币/嘉祐元宝/main.jpg"
         }
       },
       {
@@ -2558,7 +2735,8 @@
           "ruler": "仁宗赵祯",
           "coreFeatures": "篆楷对钱",
           "estimatedValue": "5—50元",
-          "rarity": "十级（多泛）"
+          "rarity": "十级（多泛）",
+          "thumbnail": "/images/coins/北宋钱币/嘉祐通宝/main.jpg"
         }
       },
       {
@@ -2572,7 +2750,8 @@
           "ruler": "仁宗赵祯",
           "coreFeatures": "铁钱，存世较少",
           "estimatedValue": "铁：200—2000元",
-          "rarity": "七级（甚少）"
+          "rarity": "七级（甚少）",
+          "thumbnail": ""
         }
       },
       {
@@ -2586,7 +2765,8 @@
           "ruler": "英宗赵曙",
           "coreFeatures": "篆楷对钱",
           "estimatedValue": "5—50元",
-          "rarity": "十级（多泛）"
+          "rarity": "十级（多泛）",
+          "thumbnail": "/images/coins/北宋钱币/治平元宝/main.jpg"
         }
       },
       {
@@ -2600,7 +2780,8 @@
           "ruler": "英宗赵曙",
           "coreFeatures": "篆楷对钱",
           "estimatedValue": "5—50元",
-          "rarity": "十级（多泛）"
+          "rarity": "十级（多泛）",
+          "thumbnail": "/images/coins/北宋钱币/治平通宝/main.jpg"
         }
       },
       {
@@ -2614,7 +2795,8 @@
           "ruler": "神宗赵顼",
           "coreFeatures": "篆楷对钱，版别繁多",
           "estimatedValue": "5—100元",
-          "rarity": "十级（多泛）"
+          "rarity": "十级（多泛）",
+          "thumbnail": "/images/coins/北宋钱币/熙宁元宝/main.jpg"
         }
       },
       {
@@ -2628,7 +2810,8 @@
           "ruler": "神宗赵顼",
           "coreFeatures": "铁钱，折二型",
           "estimatedValue": "铁：100—1000元",
-          "rarity": "八级（少）"
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/北宋钱币/熙宁通宝/main.jpg"
         }
       },
       {
@@ -2642,7 +2825,8 @@
           "ruler": "神宗赵顼",
           "coreFeatures": "折二型，铸量大",
           "estimatedValue": "5—50元",
-          "rarity": "九级（较多）"
+          "rarity": "九级（较多）",
+          "thumbnail": "/images/coins/北宋钱币/熙宁重宝/main.jpg"
         }
       },
       {
@@ -2656,7 +2840,8 @@
           "ruler": "神宗赵顼",
           "coreFeatures": "篆行隶三体，版别极多，铸量巨大",
           "estimatedValue": "5—100元",
-          "rarity": "十级（多泛）"
+          "rarity": "十级（多泛）",
+          "thumbnail": "/images/coins/北宋钱币/元丰通宝/main.jpg"
         }
       },
       {
@@ -2670,7 +2855,8 @@
           "ruler": "神宗赵顼",
           "coreFeatures": "铁钱，存世较少",
           "estimatedValue": "铁：500—3000元",
-          "rarity": "七级（甚少）"
+          "rarity": "七级（甚少）",
+          "thumbnail": ""
         }
       },
       {
@@ -2684,7 +2870,8 @@
           "ruler": "哲宗赵煦",
           "coreFeatures": "篆行对钱，传为司马光、苏轼手书",
           "estimatedValue": "10—200元",
-          "rarity": "九级（较多）"
+          "rarity": "九级（较多）",
+          "thumbnail": "/images/coins/北宋钱币/元祐通宝/main.jpg"
         }
       },
       {
@@ -2698,7 +2885,8 @@
           "ruler": "哲宗赵煦",
           "coreFeatures": "篆行对钱，铜铁并行",
           "estimatedValue": "5—100元",
-          "rarity": "九级（较多）"
+          "rarity": "九级（较多）",
+          "thumbnail": "/images/coins/北宋钱币/绍圣元宝/main.jpg"
         }
       },
       {
@@ -2712,7 +2900,8 @@
           "ruler": "哲宗赵煦",
           "coreFeatures": "铜品较少",
           "estimatedValue": "100—2000元",
-          "rarity": "七级（甚少）"
+          "rarity": "七级（甚少）",
+          "thumbnail": "/images/coins/北宋钱币/绍圣通宝/main.jpg"
         }
       },
       {
@@ -2726,7 +2915,8 @@
           "ruler": "哲宗赵煦",
           "coreFeatures": "铁钱，存世较少",
           "estimatedValue": "铁：500—3000元",
-          "rarity": "七级（甚少）"
+          "rarity": "七级（甚少）",
+          "thumbnail": "/images/coins/北宋钱币/绍圣重宝/main.jpg"
         }
       },
       {
@@ -2740,7 +2930,8 @@
           "ruler": "哲宗赵煦",
           "coreFeatures": "篆行对钱",
           "estimatedValue": "5—100元",
-          "rarity": "九级（较多）"
+          "rarity": "九级（较多）",
+          "thumbnail": "/images/coins/北宋钱币/元符通宝/main.jpg"
         }
       },
       {
@@ -2754,7 +2945,8 @@
           "ruler": "哲宗赵煦",
           "coreFeatures": "铁钱，存世较少",
           "estimatedValue": "铁：500—3000元",
-          "rarity": "七级（甚少）"
+          "rarity": "七级（甚少）",
+          "thumbnail": "/images/coins/北宋钱币/元符重宝/main.jpg"
         }
       },
       {
@@ -2768,7 +2960,8 @@
           "ruler": "徽宗赵佶",
           "coreFeatures": "非年号钱，篆行对钱，铸工精美",
           "estimatedValue": "10—200元",
-          "rarity": "九级（较多）"
+          "rarity": "九级（较多）",
+          "thumbnail": "/images/coins/北宋钱币/圣宋元宝/main.jpg"
         }
       },
       {
@@ -2782,7 +2975,8 @@
           "ruler": "徽宗赵佶",
           "coreFeatures": "存世较少",
           "estimatedValue": "200—3000元",
-          "rarity": "七级（甚少）"
+          "rarity": "七级（甚少）",
+          "thumbnail": "/images/coins/北宋钱币/圣宋通宝/main.jpg"
         }
       },
       {
@@ -2796,7 +2990,8 @@
           "ruler": "徽宗赵佶",
           "coreFeatures": "存世极罕，试铸性质",
           "estimatedValue": "50000—200000元",
-          "rarity": "一级（大珍）"
+          "rarity": "一级（大珍）",
+          "thumbnail": ""
         }
       },
       {
@@ -2810,7 +3005,8 @@
           "ruler": "徽宗赵佶",
           "coreFeatures": "御书瘦金体，铸工极精，当十钱",
           "estimatedValue": "30—500元",
-          "rarity": "八级（少）"
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/北宋钱币/崇宁通宝/main.jpg"
         }
       },
       {
@@ -2824,7 +3020,8 @@
           "ruler": "徽宗赵佶",
           "coreFeatures": "存世较少",
           "estimatedValue": "100—3000元",
-          "rarity": "七级（甚少）"
+          "rarity": "七级（甚少）",
+          "thumbnail": "/images/coins/北宋钱币/崇宁元宝/main.jpg"
         }
       },
       {
@@ -2838,7 +3035,8 @@
           "ruler": "徽宗赵佶",
           "coreFeatures": "当十钱，铸量大",
           "estimatedValue": "10—200元",
-          "rarity": "九级（较多）"
+          "rarity": "九级（较多）",
+          "thumbnail": "/images/coins/北宋钱币/崇宁重宝/main.jpg"
         }
       },
       {
@@ -2852,7 +3050,8 @@
           "ruler": "徽宗赵佶",
           "coreFeatures": "御书瘦金体，折十最精",
           "estimatedValue": "小平：20—300元；折十：50—800元",
-          "rarity": "八级（少）"
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/北宋钱币/大观通宝/main.jpg"
         }
       },
       {
@@ -2866,7 +3065,8 @@
           "ruler": "徽宗赵佶",
           "coreFeatures": "篆隶对钱",
           "estimatedValue": "5—100元",
-          "rarity": "九级（较多）"
+          "rarity": "九级（较多）",
+          "thumbnail": "/images/coins/北宋钱币/政和通宝/main.jpg"
         }
       },
       {
@@ -2880,7 +3080,8 @@
           "ruler": "徽宗赵佶",
           "coreFeatures": "铁钱为主",
           "estimatedValue": "铁：50—500元",
-          "rarity": "八级（少）"
+          "rarity": "八级（少）",
+          "thumbnail": ""
         }
       },
       {
@@ -2894,7 +3095,8 @@
           "ruler": "徽宗赵佶",
           "coreFeatures": "铸行仅一年，存世较少",
           "estimatedValue": "1000—8000元",
-          "rarity": "四级（罕）"
+          "rarity": "四级（罕）",
+          "thumbnail": "/images/coins/北宋钱币/重和通宝/main.jpg"
         }
       },
       {
@@ -2908,7 +3110,8 @@
           "ruler": "徽宗赵佶",
           "coreFeatures": "版别众多，篆隶对钱",
           "estimatedValue": "10—300元",
-          "rarity": "九级（较多）"
+          "rarity": "九级（较多）",
+          "thumbnail": "/images/coins/北宋钱币/宣和通宝/main.jpg"
         }
       },
       {
@@ -2922,7 +3125,8 @@
           "ruler": "徽宗赵佶",
           "coreFeatures": "存世较少",
           "estimatedValue": "50—500元",
-          "rarity": "八级（少）"
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/北宋钱币/宣和元宝/main.jpg"
         }
       },
       {
@@ -2936,7 +3140,8 @@
           "ruler": "钦宗赵桓",
           "coreFeatures": "北宋最后铸币，存世极罕",
           "estimatedValue": "50000—500000元",
-          "rarity": "一级（大珍）"
+          "rarity": "一级（大珍）",
+          "thumbnail": "/images/coins/北宋钱币/靖康通宝/main.jpg"
         }
       },
       {
@@ -2950,7 +3155,8 @@
           "ruler": "钦宗赵桓",
           "coreFeatures": "北宋最后铸币，存世极罕",
           "estimatedValue": "50000—500000元",
-          "rarity": "一级（大珍）"
+          "rarity": "一级（大珍）",
+          "thumbnail": "/images/coins/北宋钱币/靖康元宝/main.jpg"
         }
       },
       {
@@ -2964,7 +3170,8 @@
           "ruler": "仁宗赵祯",
           "coreFeatures": "存世极罕",
           "estimatedValue": "30000—150000元",
-          "rarity": "三级（罕贵）"
+          "rarity": "三级（罕贵）",
+          "thumbnail": ""
         }
       },
       {
@@ -2978,7 +3185,8 @@
           "ruler": "仁宗赵祯",
           "coreFeatures": "铁钱，当十",
           "estimatedValue": "铁：500—3000元",
-          "rarity": "七级（甚少）"
+          "rarity": "七级（甚少）",
+          "thumbnail": "/images/coins/北宋钱币/庆历直十/main.jpg"
         }
       },
       {
@@ -2992,7 +3200,8 @@
           "ruler": "李顺（农民起义）",
           "coreFeatures": "四川农民起义军铸币，存世极罕",
           "estimatedValue": "100000—500000元",
-          "rarity": "一级（大珍）"
+          "rarity": "一级（大珍）",
+          "thumbnail": "/images/coins/北宋钱币/应运元宝/main.jpg"
         }
       },
       {
@@ -3006,7 +3215,8 @@
           "ruler": "李顺（农民起义）",
           "coreFeatures": "四川农民起义军铸币",
           "estimatedValue": "50000—200000元",
-          "rarity": "二级（珍）"
+          "rarity": "二级（珍）",
+          "thumbnail": "/images/coins/北宋钱币/应运钱/main.jpg"
         }
       },
       {
@@ -3020,7 +3230,8 @@
           "ruler": "李顺（农民起义）",
           "coreFeatures": "四川农民起义军铸币，存世极罕",
           "estimatedValue": "30000—150000元",
-          "rarity": "三级（罕贵）"
+          "rarity": "三级（罕贵）",
+          "thumbnail": "/images/coins/北宋钱币/应感通宝/main.jpg"
         }
       },
       {
@@ -3034,7 +3245,8 @@
           "ruler": "李顺（农民起义）",
           "coreFeatures": "四川农民起义军铸币",
           "estimatedValue": "50000—200000元",
-          "rarity": "二级（珍）"
+          "rarity": "二级（珍）",
+          "thumbnail": "/images/coins/北宋钱币/应感钱/main.jpg"
         }
       }
     ]
@@ -3054,7 +3266,8 @@
           "ruler": "高宗赵构",
           "coreFeatures": "南宋开国钱，铜铁并行",
           "estimatedValue": "小平：10—200元",
-          "rarity": "九级（较多）"
+          "rarity": "九级（较多）",
+          "thumbnail": "/images/coins/南宋钱币/建炎通宝/main.jpg"
         }
       },
       {
@@ -3068,7 +3281,8 @@
           "ruler": "高宗赵构",
           "coreFeatures": "存世稀少",
           "estimatedValue": "3000—30000元",
-          "rarity": "五级（稀贵）"
+          "rarity": "五级（稀贵）",
+          "thumbnail": "/images/coins/南宋钱币/建炎元宝/main.jpg"
         }
       },
       {
@@ -3082,7 +3296,8 @@
           "ruler": "高宗赵构",
           "coreFeatures": "折三型，铜铁并行",
           "estimatedValue": "铜：500—5000元",
-          "rarity": "七级（甚少）"
+          "rarity": "七级（甚少）",
+          "thumbnail": "/images/coins/南宋钱币/建炎重宝/main.jpg"
         }
       },
       {
@@ -3096,7 +3311,8 @@
           "ruler": "高宗赵构",
           "coreFeatures": "存世较少",
           "estimatedValue": "200—3000元",
-          "rarity": "七级（甚少）"
+          "rarity": "七级（甚少）",
+          "thumbnail": "/images/coins/南宋钱币/绍兴通宝/main.jpg"
         }
       },
       {
@@ -3110,7 +3326,8 @@
           "ruler": "高宗赵构",
           "coreFeatures": "篆楷对钱，铜铁并行",
           "estimatedValue": "小平：5—100元",
-          "rarity": "九级（较多）"
+          "rarity": "九级（较多）",
+          "thumbnail": "/images/coins/南宋钱币/绍兴元宝/main.jpg"
         }
       },
       {
@@ -3124,7 +3341,8 @@
           "ruler": "孝宗赵昚",
           "coreFeatures": "篆楷对钱",
           "estimatedValue": "20—300元",
-          "rarity": "八级（少）"
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/南宋钱币/隆兴元宝/main.jpg"
         }
       },
       {
@@ -3138,7 +3356,8 @@
           "ruler": "孝宗赵昚",
           "coreFeatures": "篆楷对钱，铁钱",
           "estimatedValue": "铁：50—500元",
-          "rarity": "八级（少）"
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/南宋钱币/隆兴通宝/main.jpg"
         }
       },
       {
@@ -3152,7 +3371,8 @@
           "ruler": "孝宗赵昚",
           "coreFeatures": "铁钱",
           "estimatedValue": "铁：200—2000元",
-          "rarity": "七级（甚少）"
+          "rarity": "七级（甚少）",
+          "thumbnail": ""
         }
       },
       {
@@ -3166,7 +3386,8 @@
           "ruler": "孝宗赵昚",
           "coreFeatures": "篆楷对钱，铜铁并行",
           "estimatedValue": "10—200元",
-          "rarity": "八级（少）"
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/南宋钱币/乾道元宝/main.jpg"
         }
       },
       {
@@ -3180,7 +3401,8 @@
           "ruler": "孝宗赵昚",
           "coreFeatures": "铁钱为主",
           "estimatedValue": "铁：100—1000元",
-          "rarity": "八级（少）"
+          "rarity": "八级（少）",
+          "thumbnail": ""
         }
       },
       {
@@ -3194,7 +3416,8 @@
           "ruler": "孝宗赵昚",
           "coreFeatures": "铁钱",
           "estimatedValue": "铁：200—2000元",
-          "rarity": "七级（甚少）"
+          "rarity": "七级（甚少）",
+          "thumbnail": ""
         }
       },
       {
@@ -3208,7 +3431,8 @@
           "ruler": "孝宗赵昚",
           "coreFeatures": "铁钱，年号仅六月",
           "estimatedValue": "铁：500—5000元",
-          "rarity": "六级（稀）"
+          "rarity": "六级（稀）",
+          "thumbnail": ""
         }
       },
       {
@@ -3222,7 +3446,8 @@
           "ruler": "孝宗赵昚",
           "coreFeatures": "篆楷对钱，铜铁并行",
           "estimatedValue": "5—100元",
-          "rarity": "九级（较多）"
+          "rarity": "九级（较多）",
+          "thumbnail": "/images/coins/南宋钱币/淳熙元宝/main.jpg"
         }
       },
       {
@@ -3236,7 +3461,8 @@
           "ruler": "孝宗赵昚",
           "coreFeatures": "铁钱为主",
           "estimatedValue": "铁：50—500元",
-          "rarity": "八级（少）"
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/南宋钱币/淳熙通宝/main.jpg"
         }
       },
       {
@@ -3250,7 +3476,8 @@
           "ruler": "光宗赵惇",
           "coreFeatures": "篆楷对钱",
           "estimatedValue": "5—100元",
-          "rarity": "八级（少）"
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/南宋钱币/绍熙元宝/main.jpg"
         }
       },
       {
@@ -3264,7 +3491,8 @@
           "ruler": "光宗赵惇",
           "coreFeatures": "篆楷对钱",
           "estimatedValue": "5—100元",
-          "rarity": "八级（少）"
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/南宋钱币/绍熙通宝/main.jpg"
         }
       },
       {
@@ -3278,7 +3506,8 @@
           "ruler": "宁宗赵扩",
           "coreFeatures": "篆楷对钱",
           "estimatedValue": "5—50元",
-          "rarity": "九级（较多）"
+          "rarity": "九级（较多）",
+          "thumbnail": "/images/coins/南宋钱币/庆元通宝/main.jpg"
         }
       },
       {
@@ -3292,7 +3521,8 @@
           "ruler": "宁宗赵扩",
           "coreFeatures": "铁钱",
           "estimatedValue": "铁：50—500元",
-          "rarity": "八级（少）"
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/南宋钱币/庆元元宝/main.jpg"
         }
       },
       {
@@ -3306,7 +3536,8 @@
           "ruler": "宁宗赵扩",
           "coreFeatures": "篆楷对钱",
           "estimatedValue": "10—200元",
-          "rarity": "八级（少）"
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/南宋钱币/嘉泰通宝/main.jpg"
         }
       },
       {
@@ -3320,7 +3551,8 @@
           "ruler": "宁宗赵扩",
           "coreFeatures": "铁钱",
           "estimatedValue": "铁：100—1000元",
-          "rarity": "八级（少）"
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/南宋钱币/嘉泰元宝/main.jpg"
         }
       },
       {
@@ -3334,7 +3566,8 @@
           "ruler": "宁宗赵扩",
           "coreFeatures": "篆楷对钱",
           "estimatedValue": "10—200元",
-          "rarity": "八级（少）"
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/南宋钱币/开禧通宝/main.jpg"
         }
       },
       {
@@ -3348,7 +3581,8 @@
           "ruler": "宁宗赵扩",
           "coreFeatures": "铁钱",
           "estimatedValue": "铁：100—1000元",
-          "rarity": "八级（少）"
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/南宋钱币/开禧元宝/main.jpg"
         }
       },
       {
@@ -3362,7 +3596,8 @@
           "ruler": "宁宗赵扩",
           "coreFeatures": "铁钱当五",
           "estimatedValue": "铁：200—2000元",
-          "rarity": "七级（甚少）"
+          "rarity": "七级（甚少）",
+          "thumbnail": ""
         }
       },
       {
@@ -3376,7 +3611,8 @@
           "ruler": "宁宗赵扩",
           "coreFeatures": "篆楷对钱",
           "estimatedValue": "5—50元",
-          "rarity": "九级（较多）"
+          "rarity": "九级（较多）",
+          "thumbnail": "/images/coins/南宋钱币/嘉定通宝/main.jpg"
         }
       },
       {
@@ -3390,7 +3626,8 @@
           "ruler": "宁宗赵扩",
           "coreFeatures": "篆楷对钱",
           "estimatedValue": "10—100元",
-          "rarity": "九级（较多）"
+          "rarity": "九级（较多）",
+          "thumbnail": "/images/coins/南宋钱币/嘉定元宝/main.jpg"
         }
       },
       {
@@ -3404,7 +3641,8 @@
           "ruler": "宁宗赵扩",
           "coreFeatures": "折五型",
           "estimatedValue": "50—500元",
-          "rarity": "八级（少）"
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/南宋钱币/嘉定重宝/main.jpg"
         }
       },
       {
@@ -3418,7 +3656,8 @@
           "ruler": "宁宗赵扩",
           "coreFeatures": "铁钱",
           "estimatedValue": "铁：100—1000元",
-          "rarity": "八级（少）"
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/南宋钱币/嘉定崇宝/main.jpg"
         }
       },
       {
@@ -3432,7 +3671,8 @@
           "ruler": "宁宗赵扩",
           "coreFeatures": "铁钱",
           "estimatedValue": "铁：100—1000元",
-          "rarity": "八级（少）"
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/南宋钱币/嘉定正宝/main.jpg"
         }
       },
       {
@@ -3446,7 +3686,8 @@
           "ruler": "宁宗赵扩",
           "coreFeatures": "铁钱",
           "estimatedValue": "铁：100—1000元",
-          "rarity": "八级（少）"
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/南宋钱币/嘉定全宝/main.jpg"
         }
       },
       {
@@ -3460,7 +3701,8 @@
           "ruler": "宁宗赵扩",
           "coreFeatures": "铁钱",
           "estimatedValue": "铁：100—1000元",
-          "rarity": "八级（少）"
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/南宋钱币/嘉定永宝/main.jpg"
         }
       },
       {
@@ -3474,7 +3716,8 @@
           "ruler": "宁宗赵扩",
           "coreFeatures": "铁钱",
           "estimatedValue": "铁：100—1000元",
-          "rarity": "八级（少）"
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/南宋钱币/嘉定安宝/main.jpg"
         }
       },
       {
@@ -3488,7 +3731,8 @@
           "ruler": "宁宗赵扩",
           "coreFeatures": "铁钱",
           "estimatedValue": "铁：100—1000元",
-          "rarity": "八级（少）"
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/南宋钱币/嘉定真宝/main.jpg"
         }
       },
       {
@@ -3502,7 +3746,8 @@
           "ruler": "宁宗赵扩",
           "coreFeatures": "铁钱",
           "estimatedValue": "铁：100—1000元",
-          "rarity": "八级（少）"
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/南宋钱币/嘉定之宝/main.jpg"
         }
       },
       {
@@ -3516,7 +3761,8 @@
           "ruler": "宁宗赵扩",
           "coreFeatures": "铁钱",
           "estimatedValue": "铁：100—1000元",
-          "rarity": "八级（少）"
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/南宋钱币/嘉定万宝/main.jpg"
         }
       },
       {
@@ -3530,7 +3776,8 @@
           "ruler": "宁宗赵扩",
           "coreFeatures": "铁钱",
           "estimatedValue": "铁：100—1000元",
-          "rarity": "八级（少）"
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/南宋钱币/嘉定隆宝/main.jpg"
         }
       },
       {
@@ -3544,7 +3791,8 @@
           "ruler": "宁宗赵扩",
           "coreFeatures": "铁钱",
           "estimatedValue": "铁：100—1000元",
-          "rarity": "八级（少）"
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/南宋钱币/嘉定洪宝/main.jpg"
         }
       },
       {
@@ -3558,7 +3806,8 @@
           "ruler": "宁宗赵扩",
           "coreFeatures": "铁钱",
           "estimatedValue": "铁：100—1000元",
-          "rarity": "八级（少）"
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/南宋钱币/嘉定新宝/main.jpg"
         }
       },
       {
@@ -3572,7 +3821,8 @@
           "ruler": "宁宗赵扩",
           "coreFeatures": "铁钱",
           "estimatedValue": "铁：100—1000元",
-          "rarity": "八级（少）"
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/南宋钱币/嘉定泉宝/main.jpg"
         }
       },
       {
@@ -3586,7 +3836,8 @@
           "ruler": "宁宗赵扩",
           "coreFeatures": "铁钱",
           "estimatedValue": "铁：100—1000元",
-          "rarity": "八级（少）"
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/南宋钱币/嘉定大宝/main.jpg"
         }
       },
       {
@@ -3600,7 +3851,8 @@
           "ruler": "宁宗赵扩",
           "coreFeatures": "铁钱",
           "estimatedValue": "铁：100—1000元",
-          "rarity": "八级（少）"
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/南宋钱币/嘉定珍宝/main.jpg"
         }
       },
       {
@@ -3614,7 +3866,8 @@
           "ruler": "宁宗赵扩",
           "coreFeatures": "铁钱",
           "estimatedValue": "铁：100—1000元",
-          "rarity": "八级（少）"
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/南宋钱币/嘉定至宝/main.jpg"
         }
       },
       {
@@ -3628,7 +3881,8 @@
           "ruler": "宁宗赵扩",
           "coreFeatures": "铁钱",
           "estimatedValue": "铁：100—1000元",
-          "rarity": "八级（少）"
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/南宋钱币/嘉定兴宝/main.jpg"
         }
       },
       {
@@ -3642,7 +3896,8 @@
           "ruler": "宁宗赵扩",
           "coreFeatures": "铁钱",
           "estimatedValue": "铁：100—1000元",
-          "rarity": "八级（少）"
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/南宋钱币/嘉定封宝/main.jpg"
         }
       },
       {
@@ -3656,7 +3911,8 @@
           "ruler": "理宗赵昀",
           "coreFeatures": "当十大钱，存世极罕",
           "estimatedValue": "100000—500000元",
-          "rarity": "一级（大珍）"
+          "rarity": "一级（大珍）",
+          "thumbnail": "/images/coins/南宋钱币/大宋通宝/main.jpg"
         }
       },
       {
@@ -3670,7 +3926,8 @@
           "ruler": "理宗赵昀",
           "coreFeatures": "篆楷对钱",
           "estimatedValue": "10—200元",
-          "rarity": "八级（少）"
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/南宋钱币/大宋元宝/main.jpg"
         }
       },
       {
@@ -3684,7 +3941,8 @@
           "ruler": "理宗赵昀",
           "coreFeatures": "铁钱为主",
           "estimatedValue": "铁：100—1000元",
-          "rarity": "八级（少）"
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/南宋钱币/宝庆元宝/main.jpg"
         }
       },
       {
@@ -3698,7 +3956,8 @@
           "ruler": "理宗赵昀",
           "coreFeatures": "篆楷对钱",
           "estimatedValue": "10—200元",
-          "rarity": "八级（少）"
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/南宋钱币/绍定通宝/main.jpg"
         }
       },
       {
@@ -3712,7 +3971,8 @@
           "ruler": "理宗赵昀",
           "coreFeatures": "铁钱",
           "estimatedValue": "铁：100—1000元",
-          "rarity": "八级（少）"
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/南宋钱币/绍定元宝/main.jpg"
         }
       },
       {
@@ -3726,7 +3986,8 @@
           "ruler": "理宗赵昀",
           "coreFeatures": "折五型",
           "estimatedValue": "50—500元",
-          "rarity": "八级（少）"
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/南宋钱币/端平通宝/main.jpg"
         }
       },
       {
@@ -3740,7 +4001,8 @@
           "ruler": "理宗赵昀",
           "coreFeatures": "篆楷对钱",
           "estimatedValue": "10—200元",
-          "rarity": "八级（少）"
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/南宋钱币/端平元宝/main.jpg"
         }
       },
       {
@@ -3754,7 +4016,8 @@
           "ruler": "理宗赵昀",
           "coreFeatures": "铁钱",
           "estimatedValue": "铁：200—2000元",
-          "rarity": "七级（甚少）"
+          "rarity": "七级（甚少）",
+          "thumbnail": "/images/coins/南宋钱币/端平重宝/main.jpg"
         }
       },
       {
@@ -3768,7 +4031,8 @@
           "ruler": "理宗赵昀",
           "coreFeatures": "篆楷对钱",
           "estimatedValue": "10—200元",
-          "rarity": "八级（少）"
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/南宋钱币/嘉熙通宝/main.jpg"
         }
       },
       {
@@ -3782,7 +4046,8 @@
           "ruler": "理宗赵昀",
           "coreFeatures": "铁钱当五",
           "estimatedValue": "铁：200—2000元",
-          "rarity": "七级（甚少）"
+          "rarity": "七级（甚少）",
+          "thumbnail": "/images/coins/南宋钱币/嘉熙重宝/main.jpg"
         }
       },
       {
@@ -3796,7 +4061,8 @@
           "ruler": "理宗赵昀",
           "coreFeatures": "铜铁并行",
           "estimatedValue": "20—300元",
-          "rarity": "八级（少）"
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/南宋钱币/淳佑通宝/main.jpg"
         }
       },
       {
@@ -3810,7 +4076,8 @@
           "ruler": "理宗赵昀",
           "coreFeatures": "篆楷对钱",
           "estimatedValue": "10—200元",
-          "rarity": "八级（少）"
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/南宋钱币/淳祐元宝/main.jpg"
         }
       },
       {
@@ -3824,7 +4091,8 @@
           "ruler": "理宗赵昀",
           "coreFeatures": "篆楷对钱",
           "estimatedValue": "10—200元",
-          "rarity": "八级（少）"
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/南宋钱币/淳祐通宝/main.jpg"
         }
       },
       {
@@ -3838,7 +4106,8 @@
           "ruler": "理宗赵昀",
           "coreFeatures": "篆楷对钱",
           "estimatedValue": "10—200元",
-          "rarity": "八级（少）"
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/南宋钱币/皇宋元宝/main.jpg"
         }
       },
       {
@@ -3852,7 +4121,8 @@
           "ruler": "理宗赵昀",
           "coreFeatures": "篆楷对钱，铸行仅一年",
           "estimatedValue": "100—2000元",
-          "rarity": "六级（稀）"
+          "rarity": "六级（稀）",
+          "thumbnail": "/images/coins/南宋钱币/开庆通宝/main.jpg"
         }
       },
       {
@@ -3866,7 +4136,8 @@
           "ruler": "理宗赵昀",
           "coreFeatures": "篆楷对钱",
           "estimatedValue": "10—200元",
-          "rarity": "八级（少）"
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/南宋钱币/景定元宝/main.jpg"
         }
       },
       {
@@ -3880,7 +4151,8 @@
           "ruler": "度宗赵禥",
           "coreFeatures": "南宋最后大规模铸币",
           "estimatedValue": "10—200元",
-          "rarity": "七级（甚少）"
+          "rarity": "七级（甚少）",
+          "thumbnail": "/images/coins/南宋钱币/咸淳元宝/main.jpg"
         }
       },
       {
@@ -3894,7 +4166,8 @@
           "ruler": "不详",
           "coreFeatures": "铅铜钱牌，代用货币",
           "estimatedValue": "5000—50000元",
-          "rarity": "五级（稀贵）"
+          "rarity": "五级（稀贵）",
+          "thumbnail": "/images/coins/南宋钱币/临安府钱牌/main.jpg"
         }
       }
     ]
@@ -3914,7 +4187,8 @@
           "ruler": "太祖耶律阿保机",
           "coreFeatures": "辽最早铸币，存世稀少",
           "estimatedValue": "5000—30000元",
-          "rarity": "五级（稀贵）"
+          "rarity": "五级（稀贵）",
+          "thumbnail": "/images/coins/辽朝钱币/通行泉货/main.jpg"
         }
       },
       {
@@ -3928,7 +4202,8 @@
           "ruler": "太祖耶律阿保机",
           "coreFeatures": "存世稀少",
           "estimatedValue": "5000—30000元",
-          "rarity": "五级（稀贵）"
+          "rarity": "五级（稀贵）",
+          "thumbnail": ""
         }
       },
       {
@@ -3942,7 +4217,8 @@
           "ruler": "太祖耶律阿保机",
           "coreFeatures": "存世稀少",
           "estimatedValue": "5000—30000元",
-          "rarity": "三级（罕贵）"
+          "rarity": "三级（罕贵）",
+          "thumbnail": "/images/coins/辽朝钱币/天赞通宝/main.jpg"
         }
       },
       {
@@ -3956,7 +4232,8 @@
           "ruler": "太祖/太宗",
           "coreFeatures": "存世极罕",
           "estimatedValue": "10000—80000元",
-          "rarity": "三级（罕贵）"
+          "rarity": "三级（罕贵）",
+          "thumbnail": "/images/coins/辽朝钱币/天显通宝/main.jpg"
         }
       },
       {
@@ -3970,7 +4247,8 @@
           "ruler": "太宗耶律德光",
           "coreFeatures": "存世稀少",
           "estimatedValue": "5000—30000元",
-          "rarity": "五级（稀贵）"
+          "rarity": "五级（稀贵）",
+          "thumbnail": ""
         }
       },
       {
@@ -3984,7 +4262,8 @@
           "ruler": "世宗耶律阮",
           "coreFeatures": "存世不多",
           "estimatedValue": "1000—10000元",
-          "rarity": "六级（稀）"
+          "rarity": "六级（稀）",
+          "thumbnail": ""
         }
       },
       {
@@ -3998,7 +4277,8 @@
           "ruler": "穆宗耶律璟",
           "coreFeatures": "存世稀少",
           "estimatedValue": "10000—50000元",
-          "rarity": "五级（稀贵）"
+          "rarity": "五级（稀贵）",
+          "thumbnail": "/images/coins/辽朝钱币/应历通宝/main.jpg"
         }
       },
       {
@@ -4012,7 +4292,8 @@
           "ruler": "景宗耶律贤",
           "coreFeatures": "存世稀少",
           "estimatedValue": "3000—20000元",
-          "rarity": "六级（稀）"
+          "rarity": "六级（稀）",
+          "thumbnail": "/images/coins/辽朝钱币/保宁通宝/main.jpg"
         }
       },
       {
@@ -4026,7 +4307,8 @@
           "ruler": "景宗耶律贤",
           "coreFeatures": "存世稀少",
           "estimatedValue": "3000—20000元",
-          "rarity": "六级（稀）"
+          "rarity": "六级（稀）",
+          "thumbnail": "/images/coins/辽朝钱币/乾亨通宝-辽/main.jpg"
         }
       },
       {
@@ -4040,7 +4322,8 @@
           "ruler": "圣宗耶律隆绪",
           "coreFeatures": "铸量稍多",
           "estimatedValue": "3000—20000元",
-          "rarity": "五级（稀贵）"
+          "rarity": "五级（稀贵）",
+          "thumbnail": "/images/coins/辽朝钱币/统和元宝/main.jpg"
         }
       },
       {
@@ -4054,7 +4337,8 @@
           "ruler": "圣宗耶律隆绪",
           "coreFeatures": "存世稀少",
           "estimatedValue": "3000—20000元",
-          "rarity": "六级（稀）"
+          "rarity": "六级（稀）",
+          "thumbnail": ""
         }
       },
       {
@@ -4068,7 +4352,8 @@
           "ruler": "圣宗耶律隆绪",
           "coreFeatures": "存世稀少",
           "estimatedValue": "3000—20000元",
-          "rarity": "六级（稀）"
+          "rarity": "六级（稀）",
+          "thumbnail": ""
         }
       },
       {
@@ -4082,7 +4367,8 @@
           "ruler": "兴宗耶律宗真",
           "coreFeatures": "存世稀少",
           "estimatedValue": "3000—20000元",
-          "rarity": "六级（稀）"
+          "rarity": "六级（稀）",
+          "thumbnail": ""
         }
       },
       {
@@ -4096,7 +4382,8 @@
           "ruler": "兴宗耶律宗真",
           "coreFeatures": "辽铸量最大钱币",
           "estimatedValue": "100—1000元",
-          "rarity": "七级（甚少）"
+          "rarity": "七级（甚少）",
+          "thumbnail": "/images/coins/辽朝钱币/重熙通宝/main.jpg"
         }
       },
       {
@@ -4110,7 +4397,8 @@
           "ruler": "道宗耶律洪基",
           "coreFeatures": "存世较少",
           "estimatedValue": "100—1000元",
-          "rarity": "七级（甚少）"
+          "rarity": "七级（甚少）",
+          "thumbnail": "/images/coins/辽朝钱币/清宁通宝/main.jpg"
         }
       },
       {
@@ -4124,7 +4412,8 @@
           "ruler": "道宗耶律洪基",
           "coreFeatures": "存世稀少",
           "estimatedValue": "3000—15000元",
-          "rarity": "六级（稀）"
+          "rarity": "六级（稀）",
+          "thumbnail": "/images/coins/辽朝钱币/清宁元宝/main.jpg"
         }
       },
       {
@@ -4138,7 +4427,8 @@
           "ruler": "道宗耶律洪基",
           "coreFeatures": "存世较少",
           "estimatedValue": "200—2000元",
-          "rarity": "七级（甚少）"
+          "rarity": "七级（甚少）",
+          "thumbnail": "/images/coins/辽朝钱币/咸雍通宝/main.jpg"
         }
       },
       {
@@ -4152,7 +4442,8 @@
           "ruler": "道宗耶律洪基",
           "coreFeatures": "存世较少",
           "estimatedValue": "200—2000元",
-          "rarity": "七级（甚少）"
+          "rarity": "七级（甚少）",
+          "thumbnail": "/images/coins/辽朝钱币/大康通宝/main.jpg"
         }
       },
       {
@@ -4166,7 +4457,8 @@
           "ruler": "道宗耶律洪基",
           "coreFeatures": "存世稀少",
           "estimatedValue": "3000—15000元",
-          "rarity": "六级（稀）"
+          "rarity": "六级（稀）",
+          "thumbnail": "/images/coins/辽朝钱币/大康元宝/main.jpg"
         }
       },
       {
@@ -4180,7 +4472,8 @@
           "ruler": "道宗耶律洪基",
           "coreFeatures": "存世较少",
           "estimatedValue": "500—3000元",
-          "rarity": "七级（甚少）"
+          "rarity": "七级（甚少）",
+          "thumbnail": "/images/coins/辽朝钱币/大安元宝/main.jpg"
         }
       },
       {
@@ -4194,7 +4487,8 @@
           "ruler": "道宗耶律洪基",
           "coreFeatures": "存世较少",
           "estimatedValue": "500—3000元",
-          "rarity": "七级（甚少）"
+          "rarity": "七级（甚少）",
+          "thumbnail": "/images/coins/辽朝钱币/寿昌元宝/main.jpg"
         }
       },
       {
@@ -4208,7 +4502,8 @@
           "ruler": "天祚帝耶律延禧",
           "coreFeatures": "存世较少",
           "estimatedValue": "200—2000元",
-          "rarity": "七级（甚少）"
+          "rarity": "七级（甚少）",
+          "thumbnail": "/images/coins/辽朝钱币/乾统元宝/main.jpg"
         }
       },
       {
@@ -4222,7 +4517,8 @@
           "ruler": "天祚帝耶律延禧",
           "coreFeatures": "存世较少",
           "estimatedValue": "500—3000元",
-          "rarity": "七级（甚少）"
+          "rarity": "七级（甚少）",
+          "thumbnail": "/images/coins/辽朝钱币/天庆元宝-辽/main.jpg"
         }
       },
       {
@@ -4236,7 +4532,8 @@
           "ruler": "不详",
           "coreFeatures": "契丹文钱币",
           "estimatedValue": "5000—30000元",
-          "rarity": "五级（稀贵）"
+          "rarity": "五级（稀贵）",
+          "thumbnail": "/images/coins/辽朝钱币/天朝万顺/main.jpg"
         }
       },
       {
@@ -4250,7 +4547,8 @@
           "ruler": "不详",
           "coreFeatures": "存世稀少",
           "estimatedValue": "5000—30000元",
-          "rarity": "五级（稀贵）"
+          "rarity": "五级（稀贵）",
+          "thumbnail": "/images/coins/辽朝钱币/助国元宝/main.jpg"
         }
       },
       {
@@ -4264,7 +4562,8 @@
           "ruler": "不详",
           "coreFeatures": "存世稀少",
           "estimatedValue": "5000—30000元",
-          "rarity": "五级（稀贵）"
+          "rarity": "五级（稀贵）",
+          "thumbnail": "/images/coins/辽朝钱币/壮国元宝/main.jpg"
         }
       },
       {
@@ -4278,7 +4577,8 @@
           "ruler": "不详",
           "coreFeatures": "祝语钱",
           "estimatedValue": "3000—20000元",
-          "rarity": "六级（稀）"
+          "rarity": "六级（稀）",
+          "thumbnail": "/images/coins/辽朝钱币/千秋万岁/main.jpg"
         }
       },
       {
@@ -4292,7 +4592,8 @@
           "ruler": "天祚帝耶律延禧",
           "coreFeatures": "存世极罕",
           "estimatedValue": "20000—100000元",
-          "rarity": "三级（罕贵）"
+          "rarity": "三级（罕贵）",
+          "thumbnail": "/images/coins/辽朝钱币/大辽天庆/main.jpg"
         }
       }
     ]
@@ -4312,7 +4613,8 @@
           "ruler": "太祖完颜阿骨打",
           "coreFeatures": "金最早铸币，存世极罕",
           "estimatedValue": "30000—150000元",
-          "rarity": "三级（罕贵）"
+          "rarity": "三级（罕贵）",
+          "thumbnail": ""
         }
       },
       {
@@ -4326,7 +4628,8 @@
           "ruler": "熙宗完颜亶",
           "coreFeatures": "存世稀少",
           "estimatedValue": "5000—30000元",
-          "rarity": "五级（稀贵）"
+          "rarity": "五级（稀贵）",
+          "thumbnail": ""
         }
       },
       {
@@ -4340,7 +4643,8 @@
           "ruler": "熙宗完颜亶",
           "coreFeatures": "存世稀少",
           "estimatedValue": "5000—30000元",
-          "rarity": "五级（稀贵）"
+          "rarity": "五级（稀贵）",
+          "thumbnail": ""
         }
       },
       {
@@ -4354,7 +4658,8 @@
           "ruler": "熙宗完颜亶",
           "coreFeatures": "存世稀少",
           "estimatedValue": "5000—30000元",
-          "rarity": "五级（稀贵）"
+          "rarity": "五级（稀贵）",
+          "thumbnail": ""
         }
       },
       {
@@ -4368,7 +4673,8 @@
           "ruler": "熙宗完颜亶",
           "coreFeatures": "存世稀少",
           "estimatedValue": "5000—30000元",
-          "rarity": "五级（稀贵）"
+          "rarity": "五级（稀贵）",
+          "thumbnail": "/images/coins/金朝钱币/皇统元宝/main.jpg"
         }
       },
       {
@@ -4382,7 +4688,8 @@
           "ruler": "熙宗完颜亶",
           "coreFeatures": "存世稀少",
           "estimatedValue": "5000—30000元",
-          "rarity": "五级（稀贵）"
+          "rarity": "五级（稀贵）",
+          "thumbnail": "/images/coins/金朝钱币/皇统通宝/main.jpg"
         }
       },
       {
@@ -4396,7 +4703,8 @@
           "ruler": "海陵王完颜亮",
           "coreFeatures": "金铸量最大钱币",
           "estimatedValue": "20—500元",
-          "rarity": "八级（少）"
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/金朝钱币/正隆元宝/main.jpg"
         }
       },
       {
@@ -4410,7 +4718,8 @@
           "ruler": "世宗完颜雍",
           "coreFeatures": "铸工极精，仿大观通宝",
           "estimatedValue": "30—1000元",
-          "rarity": "八级（少）"
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/金朝钱币/大定通宝/main.jpg"
         }
       },
       {
@@ -4424,7 +4733,8 @@
           "ruler": "章宗完颜璟",
           "coreFeatures": "铸工精整",
           "estimatedValue": "50—1000元",
-          "rarity": "八级（少）"
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/金朝钱币/泰和通宝/main.jpg"
         }
       },
       {
@@ -4438,7 +4748,8 @@
           "ruler": "章宗完颜璟",
           "coreFeatures": "当十大钱，玉箸篆",
           "estimatedValue": "100—3000元",
-          "rarity": "七级（甚少）"
+          "rarity": "七级（甚少）",
+          "thumbnail": "/images/coins/金朝钱币/泰和重宝/main.jpg"
         }
       },
       {
@@ -4452,7 +4763,8 @@
           "ruler": "卫绍王完颜永济",
           "coreFeatures": "存世较少",
           "estimatedValue": "2000—10000元",
-          "rarity": "五级（稀贵）"
+          "rarity": "五级（稀贵）",
+          "thumbnail": "/images/coins/金朝钱币/崇庆通宝/main.jpg"
         }
       },
       {
@@ -4466,7 +4778,8 @@
           "ruler": "卫绍王完颜永济",
           "coreFeatures": "存世极罕",
           "estimatedValue": "30000—100000元",
-          "rarity": "四级（罕）"
+          "rarity": "四级（罕）",
+          "thumbnail": "/images/coins/金朝钱币/崇庆元宝/main.jpg"
         }
       },
       {
@@ -4480,7 +4793,8 @@
           "ruler": "卫绍王完颜永济",
           "coreFeatures": "存世极罕",
           "estimatedValue": "30000—100000元",
-          "rarity": "四级（罕）"
+          "rarity": "四级（罕）",
+          "thumbnail": "/images/coins/金朝钱币/至宁元宝/main.jpg"
         }
       },
       {
@@ -4494,7 +4808,8 @@
           "ruler": "宣宗完颜珣",
           "coreFeatures": "存世稀少",
           "estimatedValue": "10000—50000元",
-          "rarity": "五级（稀贵）"
+          "rarity": "五级（稀贵）",
+          "thumbnail": "/images/coins/金朝钱币/贞祐通宝/main.jpg"
         }
       },
       {
@@ -4508,7 +4823,8 @@
           "ruler": "宣宗完颜珣",
           "coreFeatures": "存世稀少",
           "estimatedValue": "3000—20000元",
-          "rarity": "五级（稀贵）"
+          "rarity": "五级（稀贵）",
+          "thumbnail": "/images/coins/金朝钱币/贞祐元宝/main.jpg"
         }
       }
     ]
@@ -4528,7 +4844,8 @@
           "ruler": "毅宗李谅祚",
           "coreFeatures": "西夏文钱币，存世稀少",
           "estimatedValue": "5000—30000元",
-          "rarity": "三级（罕贵）"
+          "rarity": "三级（罕贵）",
+          "thumbnail": "/images/coins/西夏钱币/福圣宝钱/main.jpg"
         }
       },
       {
@@ -4542,7 +4859,8 @@
           "ruler": "惠宗李秉常",
           "coreFeatures": "西夏文钱币，存世稀少",
           "estimatedValue": "5000—30000元",
-          "rarity": "五级（稀贵）"
+          "rarity": "五级（稀贵）",
+          "thumbnail": "/images/coins/西夏钱币/大安宝钱/main.jpg"
         }
       },
       {
@@ -4556,7 +4874,8 @@
           "ruler": "惠宗李秉常",
           "coreFeatures": "汉文钱币，存世稀少",
           "estimatedValue": "5000—30000元",
-          "rarity": "五级（稀贵）"
+          "rarity": "五级（稀贵）",
+          "thumbnail": "/images/coins/西夏钱币/大安通宝/main.jpg"
         }
       },
       {
@@ -4570,7 +4889,8 @@
           "ruler": "崇宗李乾顺",
           "coreFeatures": "西夏文钱币，存世极罕",
           "estimatedValue": "30000—150000元",
-          "rarity": "三级（罕贵）"
+          "rarity": "三级（罕贵）",
+          "thumbnail": "/images/coins/西夏钱币/贞观宝钱/main.jpg"
         }
       },
       {
@@ -4584,7 +4904,8 @@
           "ruler": "崇宗李乾顺",
           "coreFeatures": "汉文钱币，存世稀少",
           "estimatedValue": "3000—20000元",
-          "rarity": "六级（稀）"
+          "rarity": "六级（稀）",
+          "thumbnail": "/images/coins/西夏钱币/元德通宝/main.jpg"
         }
       },
       {
@@ -4598,7 +4919,8 @@
           "ruler": "崇宗李乾顺",
           "coreFeatures": "汉文钱币，折二型",
           "estimatedValue": "5000—30000元",
-          "rarity": "五级（稀贵）"
+          "rarity": "五级（稀贵）",
+          "thumbnail": "/images/coins/西夏钱币/元德重宝/main.jpg"
         }
       },
       {
@@ -4612,7 +4934,8 @@
           "ruler": "仁宗李仁孝",
           "coreFeatures": "西夏铸量最大钱币",
           "estimatedValue": "30—500元",
-          "rarity": "七级（甚少）"
+          "rarity": "七级（甚少）",
+          "thumbnail": "/images/coins/西夏钱币/天盛元宝/main.jpg"
         }
       },
       {
@@ -4626,7 +4949,8 @@
           "ruler": "仁宗李仁孝",
           "coreFeatures": "汉文钱币，铜铁并行",
           "estimatedValue": "50—500元",
-          "rarity": "八级（少）"
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/西夏钱币/乾祐元宝/main.jpg"
         }
       },
       {
@@ -4640,7 +4964,8 @@
           "ruler": "仁宗李仁孝",
           "coreFeatures": "西夏文钱币，存世稀少",
           "estimatedValue": "5000—30000元",
-          "rarity": "五级（稀贵）"
+          "rarity": "五级（稀贵）",
+          "thumbnail": "/images/coins/西夏钱币/乾祐宝钱/main.jpg"
         }
       },
       {
@@ -4654,7 +4979,8 @@
           "ruler": "桓宗李纯祐",
           "coreFeatures": "西夏文钱币，存世稀少",
           "estimatedValue": "3000—20000元",
-          "rarity": "六级（稀）"
+          "rarity": "六级（稀）",
+          "thumbnail": "/images/coins/西夏钱币/天庆宝钱/main.jpg"
         }
       },
       {
@@ -4668,7 +4994,8 @@
           "ruler": "桓宗李纯祐",
           "coreFeatures": "汉文钱币，存世较少",
           "estimatedValue": "100—1000元",
-          "rarity": "七级（甚少）"
+          "rarity": "七级（甚少）",
+          "thumbnail": "/images/coins/西夏钱币/天庆元宝-西夏/main.jpg"
         }
       },
       {
@@ -4682,7 +5009,8 @@
           "ruler": "襄宗李安全",
           "coreFeatures": "汉文钱币，存世较少",
           "estimatedValue": "200—2000元",
-          "rarity": "七级（甚少）"
+          "rarity": "七级（甚少）",
+          "thumbnail": "/images/coins/西夏钱币/皇建元宝/main.jpg"
         }
       },
       {
@@ -4696,7 +5024,8 @@
           "ruler": "神宗李遵顼",
           "coreFeatures": "汉文钱币，篆楷对钱",
           "estimatedValue": "500—5000元",
-          "rarity": "六级（稀）"
+          "rarity": "六级（稀）",
+          "thumbnail": "/images/coins/西夏钱币/光定元宝/main.jpg"
         }
       },
       {
@@ -4710,7 +5039,8 @@
           "ruler": "不详",
           "coreFeatures": "西夏文钱币，存世极罕",
           "estimatedValue": "30000—150000元",
-          "rarity": "三级（罕贵）"
+          "rarity": "三级（罕贵）",
+          "thumbnail": ""
         }
       }
     ]
@@ -4730,7 +5060,8 @@
           "ruler": "太祖成吉思汗",
           "coreFeatures": "蒙古建国前铸币，楷书直读光背，有银质、铜质两种",
           "estimatedValue": "银质4000—8000元；铜质2000—4000元",
-          "rarity": "四级（罕）"
+          "rarity": "四级（罕）",
+          "thumbnail": "/images/coins/元朝钱币/大朝通宝/main.jpg"
         }
       },
       {
@@ -4744,7 +5075,8 @@
           "ruler": "蒙古汗廷",
           "coreFeatures": "楷书直读，光背无文，存世极罕",
           "estimatedValue": "珍稀级，参考价50000—150000元",
-          "rarity": "二级（珍）"
+          "rarity": "二级（珍）",
+          "thumbnail": "/images/coins/元朝钱币/大朝金合/main.jpg"
         }
       },
       {
@@ -4758,7 +5090,8 @@
           "ruler": "世祖忽必烈",
           "coreFeatures": "楷书、篆书两体，直读光背，元代最早汉文铸币",
           "estimatedValue": "4000—8000元",
-          "rarity": "三级（罕贵）"
+          "rarity": "三级（罕贵）",
+          "thumbnail": "/images/coins/元朝钱币/中统元宝/main.jpg"
         }
       },
       {
@@ -4772,7 +5105,8 @@
           "ruler": "成宗铁穆耳",
           "coreFeatures": "汉文、蒙文两种版式，楷书直读光背",
           "estimatedValue": "汉文小平2000—4000元",
-          "rarity": "五级（稀贵）"
+          "rarity": "五级（稀贵）",
+          "thumbnail": "/images/coins/元朝钱币/元贞通宝/main.jpg"
         }
       },
       {
@@ -4786,7 +5120,8 @@
           "ruler": "成宗铁穆耳",
           "coreFeatures": "汉文、蒙文两种版式，楷书直读光背",
           "estimatedValue": "小平2000—4000元",
-          "rarity": "五级（稀贵）"
+          "rarity": "五级（稀贵）",
+          "thumbnail": "/images/coins/元朝钱币/大德通宝/main.jpg"
         }
       },
       {
@@ -4800,7 +5135,8 @@
           "ruler": "武宗海山",
           "coreFeatures": "汉文楷书直读光背，元代铸量最大的汉文小平钱",
           "estimatedValue": "100—300元",
-          "rarity": "七级（甚少）"
+          "rarity": "七级（甚少）",
+          "thumbnail": "/images/coins/元朝钱币/至大通宝/main.jpg"
         }
       },
       {
@@ -4814,7 +5150,8 @@
           "ruler": "武宗海山",
           "coreFeatures": "楷书直读光背，供养钱性质，存世极罕",
           "estimatedValue": "珍稀级，参考价30000—80000元",
-          "rarity": "二级（珍）"
+          "rarity": "二级（珍）",
+          "thumbnail": "/images/coins/元朝钱币/至大元宝/main.jpg"
         }
       },
       {
@@ -4828,7 +5165,8 @@
           "ruler": "仁宗爱育黎拔力八达",
           "coreFeatures": "楷书直读光背，供养钱性质",
           "estimatedValue": "珍稀级，参考价30000—80000元",
-          "rarity": "二级（珍）"
+          "rarity": "二级（珍）",
+          "thumbnail": "/images/coins/元朝钱币/皇庆通宝/main.jpg"
         }
       },
       {
@@ -4842,7 +5180,8 @@
           "ruler": "仁宗爱育黎拔力八达",
           "coreFeatures": "楷书直读光背，供养钱性质",
           "estimatedValue": "珍稀级，参考价30000—80000元",
-          "rarity": "二级（珍）"
+          "rarity": "二级（珍）",
+          "thumbnail": ""
         }
       },
       {
@@ -4856,7 +5195,8 @@
           "ruler": "仁宗爱育黎拔力八达",
           "coreFeatures": "楷书直读光背，供养钱性质",
           "estimatedValue": "珍稀级，参考价30000—80000元",
-          "rarity": "二级（珍）"
+          "rarity": "二级（珍）",
+          "thumbnail": ""
         }
       },
       {
@@ -4870,7 +5210,8 @@
           "ruler": "仁宗爱育黎拔力八达",
           "coreFeatures": "楷书直读光背，供养钱性质",
           "estimatedValue": "珍稀级，参考价30000—80000元",
-          "rarity": "四级（罕）"
+          "rarity": "四级（罕）",
+          "thumbnail": ""
         }
       },
       {
@@ -4884,7 +5225,8 @@
           "ruler": "英宗硕德八剌",
           "coreFeatures": "楷书直读光背，供养钱性质",
           "estimatedValue": "珍稀级，参考价30000—80000元",
-          "rarity": "二级（珍）"
+          "rarity": "二级（珍）",
+          "thumbnail": "/images/coins/元朝钱币/至治通宝/main.jpg"
         }
       },
       {
@@ -4898,7 +5240,8 @@
           "ruler": "英宗硕德八剌",
           "coreFeatures": "楷书直读光背，供养钱性质",
           "estimatedValue": "珍稀级，参考价30000—80000元",
-          "rarity": "二级（珍）"
+          "rarity": "二级（珍）",
+          "thumbnail": ""
         }
       },
       {
@@ -4912,7 +5255,8 @@
           "ruler": "泰定帝也孙铁木儿",
           "coreFeatures": "楷书直读光背，供养钱性质",
           "estimatedValue": "珍稀级，参考价30000—80000元",
-          "rarity": "二级（珍）"
+          "rarity": "二级（珍）",
+          "thumbnail": ""
         }
       },
       {
@@ -4926,7 +5270,8 @@
           "ruler": "泰定帝也孙铁木儿",
           "coreFeatures": "楷书直读光背，年号仅存数月",
           "estimatedValue": "珍稀级，参考价30000—80000元",
-          "rarity": "二级（珍）"
+          "rarity": "二级（珍）",
+          "thumbnail": "/images/coins/元朝钱币/致和元宝/main.jpg"
         }
       },
       {
@@ -4940,7 +5285,8 @@
           "ruler": "文宗图帖睦尔",
           "coreFeatures": "楷书直读光背，供养钱性质",
           "estimatedValue": "珍稀级，参考价30000—80000元",
-          "rarity": "二级（珍）"
+          "rarity": "二级（珍）",
+          "thumbnail": "/images/coins/元朝钱币/天历元宝/main.jpg"
         }
       },
       {
@@ -4954,7 +5300,8 @@
           "ruler": "文宗图帖睦尔",
           "coreFeatures": "楷书直读光背，供养钱性质",
           "estimatedValue": "珍稀级，参考价30000—80000元",
-          "rarity": "二级（珍）"
+          "rarity": "二级（珍）",
+          "thumbnail": ""
         }
       },
       {
@@ -4968,7 +5315,8 @@
           "ruler": "惠宗妥懽帖睦尔",
           "coreFeatures": "楷书直读光背，铸量极少",
           "estimatedValue": "300—3000元",
-          "rarity": "五级（稀贵）"
+          "rarity": "五级（稀贵）",
+          "thumbnail": ""
         }
       },
       {
@@ -4982,7 +5330,8 @@
           "ruler": "世祖忽必烈；惠宗妥懽帖睦尔",
           "coreFeatures": "汉文、蒙文两大版式，楷书直读光背",
           "estimatedValue": "小平汉文700—1500元",
-          "rarity": "五级（稀贵）"
+          "rarity": "五级（稀贵）",
+          "thumbnail": "/images/coins/元朝钱币/至元通宝/main.jpg"
         }
       },
       {
@@ -4996,7 +5345,8 @@
           "ruler": "惠宗妥懽帖睦尔",
           "coreFeatures": "楷书旋读光背，存世极罕",
           "estimatedValue": "珍稀级，参考价30000—80000元",
-          "rarity": "二级（珍）"
+          "rarity": "二级（珍）",
+          "thumbnail": "/images/coins/元朝钱币/至元元宝/main.jpg"
         }
       },
       {
@@ -5010,7 +5360,8 @@
           "ruler": "惠宗妥懽帖睦尔",
           "coreFeatures": "楷书对读，背八思巴文纪年纪值，元代铸工最精的钱币",
           "estimatedValue": "小平200—500元",
-          "rarity": "六级（稀）"
+          "rarity": "六级（稀）",
+          "thumbnail": "/images/coins/元朝钱币/至正通宝/main.jpg"
         }
       },
       {
@@ -5024,7 +5375,8 @@
           "ruler": "惠宗妥懽帖睦尔",
           "coreFeatures": "权钞钱，背铸\"吉\"\"权钞\"及面值，铜钱代表纸币面值",
           "estimatedValue": "5000—50000元",
-          "rarity": "三级（罕贵）"
+          "rarity": "三级（罕贵）",
+          "thumbnail": "/images/coins/元朝钱币/至正之宝/main.jpg"
         }
       },
       {
@@ -5038,7 +5390,8 @@
           "ruler": "武宗海山",
           "coreFeatures": "八思巴文折十大钱，元代铸量最大、流通最广的金属货币",
           "estimatedValue": "蒙文30—300元；汉文200—3000元",
-          "rarity": "七级（甚少）"
+          "rarity": "七级（甚少）",
+          "thumbnail": "/images/coins/元朝钱币/大元通宝/main.jpg"
         }
       },
       {
@@ -5052,7 +5405,8 @@
           "ruler": "元廷",
           "coreFeatures": "面文\"大元国宝\"，试铸性质，存世极罕",
           "estimatedValue": "珍稀级，参考价80000—200000元",
-          "rarity": "一级（大珍）"
+          "rarity": "一级（大珍）",
+          "thumbnail": "/images/coins/元朝钱币/大元国宝/main.jpg"
         }
       },
       {
@@ -5066,7 +5420,8 @@
           "ruler": "元廷",
           "coreFeatures": "面文\"大元至治\"，性质待考，存世极罕",
           "estimatedValue": "珍稀级，参考价50000—150000元",
-          "rarity": "二级（珍）"
+          "rarity": "二级（珍）",
+          "thumbnail": ""
         }
       },
       {
@@ -5080,7 +5435,8 @@
           "ruler": "陈友谅",
           "coreFeatures": "楷书对读，小平至折三，元末起义军铸币",
           "estimatedValue": "100—500元",
-          "rarity": "七级（甚少）"
+          "rarity": "七级（甚少）",
+          "thumbnail": ""
         }
       },
       {
@@ -5094,7 +5450,8 @@
           "ruler": "张士诚",
           "coreFeatures": "楷书对读，背篆书纪值，小平至折五",
           "estimatedValue": "500—5000元",
-          "rarity": "六级（稀）"
+          "rarity": "六级（稀）",
+          "thumbnail": ""
         }
       },
       {
@@ -5108,7 +5465,8 @@
           "ruler": "陈友谅",
           "coreFeatures": "楷书对读，小平至折三，元末起义军铸币",
           "estimatedValue": "100—1000元",
-          "rarity": "七级（甚少）"
+          "rarity": "七级（甚少）",
+          "thumbnail": ""
         }
       },
       {
@@ -5122,7 +5480,8 @@
           "ruler": "韩林儿（小明王）",
           "coreFeatures": "楷书对读，小平至折三，宋政权铸币",
           "estimatedValue": "500—5000元",
-          "rarity": "六级（稀）"
+          "rarity": "六级（稀）",
+          "thumbnail": ""
         }
       },
       {
@@ -5136,7 +5495,8 @@
           "ruler": "朱元璋",
           "coreFeatures": "楷书对读，背纪地纪值，小平至当十",
           "estimatedValue": "20—500元",
-          "rarity": "七级（甚少）"
+          "rarity": "七级（甚少）",
+          "thumbnail": "/images/coins/元朝钱币/大中通宝-朱元璋/main.jpg"
         }
       },
       {
@@ -5150,7 +5510,8 @@
           "ruler": "元廷",
           "coreFeatures": "面文\"穆清金宝\"，金质，供养钱性质",
           "estimatedValue": "珍稀级，参考价100000—300000元",
-          "rarity": "一级（大珍）"
+          "rarity": "一级（大珍）",
+          "thumbnail": ""
         }
       },
       {
@@ -5164,7 +5525,8 @@
           "ruler": "元廷",
           "coreFeatures": "面文\"穆清银宝\"，银质，供养钱性质",
           "estimatedValue": "珍稀级，参考价50000—150000元",
-          "rarity": "二级（珍）"
+          "rarity": "二级（珍）",
+          "thumbnail": ""
         }
       },
       {
@@ -5178,7 +5540,8 @@
           "ruler": "元廷",
           "coreFeatures": "面文\"穆清铜宝\"，铜质，供养钱性质",
           "estimatedValue": "珍稀级，参考价30000—80000元",
-          "rarity": "二级（珍）"
+          "rarity": "二级（珍）",
+          "thumbnail": ""
         }
       }
     ]
@@ -5198,7 +5561,8 @@
           "ruler": "太祖朱元璋",
           "coreFeatures": "明朝开国铸币，楷书对读，背纪地纪值，小平至当十",
           "estimatedValue": "20—500元",
-          "rarity": "七级（甚少）"
+          "rarity": "七级（甚少）",
+          "thumbnail": "/images/coins/明朝钱币/大中通宝/main.jpg"
         }
       },
       {
@@ -5212,7 +5576,8 @@
           "ruler": "太祖朱元璋",
           "coreFeatures": "纪地纪值制度，小平至折十五等制，明朝统一铸币基础",
           "estimatedValue": "20—500元",
-          "rarity": "八级（少）"
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/明朝钱币/洪武通宝/main.jpg"
         }
       },
       {
@@ -5226,7 +5591,8 @@
           "ruler": "仁宗朱高炽",
           "coreFeatures": "洪熙年号仅十月，铸期极短，存世极罕",
           "estimatedValue": "珍稀级，参考价50000—150000元",
-          "rarity": "一级（大珍）"
+          "rarity": "一级（大珍）",
+          "thumbnail": ""
         }
       },
       {
@@ -5240,7 +5606,8 @@
           "ruler": "成祖朱棣",
           "coreFeatures": "铸工精整，随郑和下西洋流通海外",
           "estimatedValue": "10—200元",
-          "rarity": "九级（较多）"
+          "rarity": "九级（较多）",
+          "thumbnail": "/images/coins/明朝钱币/永乐通宝/main.jpg"
         }
       },
       {
@@ -5254,7 +5621,8 @@
           "ruler": "宣宗朱瞻基",
           "coreFeatures": "宽缘窄郭，楷书直读光背，铸量较少",
           "estimatedValue": "30—500元",
-          "rarity": "八级（少）"
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/明朝钱币/宣德通宝/main.jpg"
         }
       },
       {
@@ -5268,7 +5636,8 @@
           "ruler": "孝宗朱祐樘",
           "coreFeatures": "楷书直读光背，铸量不多",
           "estimatedValue": "50—800元",
-          "rarity": "七级（甚少）"
+          "rarity": "七级（甚少）",
+          "thumbnail": "/images/coins/明朝钱币/弘治通宝/main.jpg"
         }
       },
       {
@@ -5282,7 +5651,8 @@
           "ruler": "世宗朱厚熜",
           "coreFeatures": "开黄铜铸币先河，小平至折十，版别丰富",
           "estimatedValue": "小平10—200元",
-          "rarity": "八级（少）"
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/明朝钱币/嘉靖通宝/main.jpg"
         }
       },
       {
@@ -5296,7 +5666,8 @@
           "ruler": "穆宗朱载坖",
           "coreFeatures": "铸行仅半年，黄铜铸造，存世较少",
           "estimatedValue": "500—5000元",
-          "rarity": "六级（稀）"
+          "rarity": "六级（稀）",
+          "thumbnail": ""
         }
       },
       {
@@ -5310,7 +5681,8 @@
           "ruler": "神宗朱翊钧",
           "coreFeatures": "明代铸量最大钱币，版别极多",
           "estimatedValue": "5—100元",
-          "rarity": "九级（较多）"
+          "rarity": "九级（较多）",
+          "thumbnail": "/images/coins/明朝钱币/万历通宝/main.jpg"
         }
       },
       {
@@ -5324,7 +5696,8 @@
           "ruler": "神宗朱翊钧",
           "coreFeatures": "银质铸币，试铸性质，存世极罕",
           "estimatedValue": "珍稀级，参考价30000—80000元",
-          "rarity": "二级（珍）"
+          "rarity": "二级（珍）",
+          "thumbnail": "/images/coins/明朝钱币/万历银钱/main.jpg"
         }
       },
       {
@@ -5338,7 +5711,8 @@
           "ruler": "光宗朱常洛",
           "coreFeatures": "光宗在位仅一月，天启元年补铸",
           "estimatedValue": "50—500元",
-          "rarity": "七级（甚少）"
+          "rarity": "七级（甚少）",
+          "thumbnail": "/images/coins/明朝钱币/泰昌通宝/main.jpg"
         }
       },
       {
@@ -5352,7 +5726,8 @@
           "ruler": "熹宗朱由校",
           "coreFeatures": "小平至当十，当十大钱版别繁多",
           "estimatedValue": "小平5—100元；当十100—1000元",
-          "rarity": "八级（少）"
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/明朝钱币/天启通宝/main.jpg"
         }
       },
       {
@@ -5366,7 +5741,8 @@
           "ruler": "思宗朱由检",
           "coreFeatures": "版别极复杂，背文含奔马、星月、纪局纪重等数百种",
           "estimatedValue": "5—200元",
-          "rarity": "九级（较多）"
+          "rarity": "九级（较多）",
+          "thumbnail": "/images/coins/明朝钱币/崇祯通宝/main.jpg"
         }
       }
     ]
@@ -5386,7 +5762,8 @@
           "ruler": "鲁王朱以海",
           "coreFeatures": "国号钱，楷书直读光背，铸期极短",
           "estimatedValue": "500—5000元",
-          "rarity": "六级（稀）"
+          "rarity": "六级（稀）",
+          "thumbnail": ""
         }
       },
       {
@@ -5400,7 +5777,8 @@
           "ruler": "福王朱由崧",
           "coreFeatures": "楷书直读，多版别，铸期仅一年",
           "estimatedValue": "100—1000元",
-          "rarity": "七级（甚少）"
+          "rarity": "七级（甚少）",
+          "thumbnail": ""
         }
       },
       {
@@ -5414,7 +5792,8 @@
           "ruler": "唐王朱聿键",
           "coreFeatures": "楷书直读，小平及折二，铸于福建",
           "estimatedValue": "300—3000元",
-          "rarity": "六级（稀）"
+          "rarity": "六级（稀）",
+          "thumbnail": ""
         }
       },
       {
@@ -5428,7 +5807,8 @@
           "ruler": "桂王朱由榔",
           "coreFeatures": "小平至折十，版别复杂，南明持续时间最长的铸币",
           "estimatedValue": "100—2000元",
-          "rarity": "七级（甚少）"
+          "rarity": "七级（甚少）",
+          "thumbnail": ""
         }
       }
     ]
@@ -5448,7 +5828,8 @@
           "ruler": "李自成",
           "coreFeatures": "楷书直读光背，铸期极短",
           "estimatedValue": "500—5000元",
-          "rarity": "六级（稀）"
+          "rarity": "六级（稀）",
+          "thumbnail": "/images/coins/明末农民起义钱币/大顺通宝/main.jpg"
         }
       },
       {
@@ -5462,7 +5843,8 @@
           "ruler": "张献忠",
           "coreFeatures": "赏功钱性质，有金、银、铜三等，存世极罕",
           "estimatedValue": "金质参考价200000—500000元",
-          "rarity": "一级（大珍）"
+          "rarity": "一级（大珍）",
+          "thumbnail": "/images/coins/明末农民起义钱币/西王赏功/main.jpg"
         }
       },
       {
@@ -5476,7 +5858,8 @@
           "ruler": "李自成",
           "coreFeatures": "楷书直读，小平至折十，铸于西安",
           "estimatedValue": "100—2000元",
-          "rarity": "七级（甚少）"
+          "rarity": "七级（甚少）",
+          "thumbnail": "/images/coins/明末农民起义钱币/永昌通宝/main.jpg"
         }
       },
       {
@@ -5490,7 +5873,8 @@
           "ruler": "孙可望",
           "coreFeatures": "楷书直读，背纪值，铸于云南",
           "estimatedValue": "100—1000元",
-          "rarity": "七级（甚少）"
+          "rarity": "七级（甚少）",
+          "thumbnail": ""
         }
       }
     ]
@@ -5510,7 +5894,8 @@
           "ruler": "太祖努尔哈赤",
           "coreFeatures": "满、汉两种文字，后金开国铸币",
           "estimatedValue": "汉文2000—8000元；满文1000—3000元",
-          "rarity": "六级（稀）"
+          "rarity": "六级（稀）",
+          "thumbnail": "/images/coins/清朝钱币/天命通宝/main.jpg"
         }
       },
       {
@@ -5524,7 +5909,8 @@
           "ruler": "太宗皇太极",
           "coreFeatures": "满文折十型，后金第二铸币",
           "estimatedValue": "珍稀级，参考价10000—30000元",
-          "rarity": "五级（稀贵）"
+          "rarity": "五级（稀贵）",
+          "thumbnail": "/images/coins/清朝钱币/天聪通宝/main.jpg"
         }
       },
       {
@@ -5538,7 +5924,8 @@
           "ruler": "世祖福临",
           "coreFeatures": "清入关后第一铸币，五种版式，背满文纪局",
           "estimatedValue": "50—500元",
-          "rarity": "八级（少）"
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/清朝钱币/顺治通宝/main.jpg"
         }
       },
       {
@@ -5552,7 +5939,8 @@
           "ruler": "圣祖玄烨",
           "coreFeatures": "背满文纪局，罗汉钱为名誉品",
           "estimatedValue": "5—100元",
-          "rarity": "九级（较多）"
+          "rarity": "九级（较多）",
+          "thumbnail": "/images/coins/清朝钱币/康熙通宝/main.jpg"
         }
       },
       {
@@ -5566,7 +5954,8 @@
           "ruler": "世宗胤禛",
           "coreFeatures": "背满文纪局，铸局精简，铸量较少",
           "estimatedValue": "50—500元",
-          "rarity": "七级（甚少）"
+          "rarity": "七级（甚少）",
+          "thumbnail": "/images/coins/清朝钱币/雍正通宝/main.jpg"
         }
       },
       {
@@ -5580,7 +5969,8 @@
           "ruler": "高宗弘历",
           "coreFeatures": "铸量极大，版别丰富，背满文纪局",
           "estimatedValue": "3—50元",
-          "rarity": "十级（多泛）"
+          "rarity": "十级（多泛）",
+          "thumbnail": "/images/coins/清朝钱币/乾隆通宝/main.jpg"
         }
       },
       {
@@ -5594,7 +5984,8 @@
           "ruler": "仁宗颙琰",
           "coreFeatures": "背满文纪局，铸量大",
           "estimatedValue": "3—30元",
-          "rarity": "九级（较多）"
+          "rarity": "九级（较多）",
+          "thumbnail": "/images/coins/清朝钱币/嘉庆通宝/main.jpg"
         }
       },
       {
@@ -5608,7 +5999,8 @@
           "ruler": "宣宗旻宁",
           "coreFeatures": "背满文纪局，铸量大",
           "estimatedValue": "3—20元",
-          "rarity": "九级（较多）"
+          "rarity": "九级（较多）",
+          "thumbnail": "/images/coins/清朝钱币/道光通宝/main.jpg"
         }
       },
       {
@@ -5622,7 +6014,8 @@
           "ruler": "文宗奕詝",
           "coreFeatures": "小平钱，背满文纪局，减重严重",
           "estimatedValue": "10—500元",
-          "rarity": "八级（少）"
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/清朝钱币/咸丰通宝/main.jpg"
         }
       },
       {
@@ -5636,7 +6029,8 @@
           "ruler": "文宗奕詝",
           "coreFeatures": "当五至当五十，铸于各省，版别极多",
           "estimatedValue": "100—10000元",
-          "rarity": "七级（甚少）"
+          "rarity": "七级（甚少）",
+          "thumbnail": "/images/coins/清朝钱币/咸丰重宝/main.jpg"
         }
       },
       {
@@ -5650,7 +6044,8 @@
           "ruler": "文宗奕詝",
           "coreFeatures": "当百至当千大钱，中国历史上最大铜钱",
           "estimatedValue": "500—50000元",
-          "rarity": "六级（稀）"
+          "rarity": "六级（稀）",
+          "thumbnail": "/images/coins/清朝钱币/咸丰元宝/main.jpg"
         }
       },
       {
@@ -5664,7 +6059,8 @@
           "ruler": "穆宗载淳",
           "coreFeatures": "年号仅存69天即废，存世极罕",
           "estimatedValue": "珍稀级，参考价50000—150000元",
-          "rarity": "一级（大珍）"
+          "rarity": "一级（大珍）",
+          "thumbnail": "/images/coins/清朝钱币/祺祥通宝/main.jpg"
         }
       },
       {
@@ -5678,7 +6074,8 @@
           "ruler": "穆宗载淳",
           "coreFeatures": "当十大钱，年号仅存69天即废",
           "estimatedValue": "珍稀级，参考价100000—300000元",
-          "rarity": "一级（大珍）"
+          "rarity": "一级（大珍）",
+          "thumbnail": "/images/coins/清朝钱币/祺祥重宝/main.jpg"
         }
       },
       {
@@ -5692,7 +6089,8 @@
           "ruler": "穆宗载淳",
           "coreFeatures": "背满文纪局，铸量较少",
           "estimatedValue": "10—200元",
-          "rarity": "八级（少）"
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/清朝钱币/同治通宝/main.jpg"
         }
       },
       {
@@ -5706,7 +6104,8 @@
           "ruler": "穆宗载淳",
           "coreFeatures": "当十大钱，铸量有限",
           "estimatedValue": "200—3000元",
-          "rarity": "七级（甚少）"
+          "rarity": "七级（甚少）",
+          "thumbnail": ""
         }
       },
       {
@@ -5720,7 +6119,8 @@
           "ruler": "德宗载湉",
           "coreFeatures": "背满文纪局，部分机制币",
           "estimatedValue": "5—100元",
-          "rarity": "八级（少）"
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/清朝钱币/光绪通宝/main.jpg"
         }
       },
       {
@@ -5734,7 +6134,8 @@
           "ruler": "德宗载湉",
           "coreFeatures": "当五、当十大钱",
           "estimatedValue": "100—3000元",
-          "rarity": "七级（甚少）"
+          "rarity": "七级（甚少）",
+          "thumbnail": "/images/coins/清朝钱币/光绪重宝/main.jpg"
         }
       },
       {
@@ -5748,7 +6149,8 @@
           "ruler": "末帝溥仪",
           "coreFeatures": "清代最后一种方孔铜钱",
           "estimatedValue": "10—100元",
-          "rarity": "八级（少）"
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/清朝钱币/宣统通宝/main.jpg"
         }
       },
       {
@@ -5762,7 +6164,8 @@
           "ruler": "末帝溥仪",
           "coreFeatures": "机制银元，库平七钱二分",
           "estimatedValue": "1000—5000元",
-          "rarity": "七级（甚少）"
+          "rarity": "七级（甚少）",
+          "thumbnail": "/images/coins/清朝钱币/宣统元宝/main.jpg"
         }
       },
       {
@@ -5776,7 +6179,8 @@
           "ruler": "末帝溥仪",
           "coreFeatures": "机制银元，清代最后法定银币",
           "estimatedValue": "1000—5000元",
-          "rarity": "七级（甚少）"
+          "rarity": "七级（甚少）",
+          "thumbnail": "/images/coins/清朝钱币/大清银币/main.jpg"
         }
       },
       {
@@ -5790,7 +6194,8 @@
           "ruler": "德宗载湉",
           "coreFeatures": "机制铜元，开创铜元时代",
           "estimatedValue": "10—500元",
-          "rarity": "八级（少）"
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/清朝钱币/光绪元宝铜币/main.jpg"
         }
       }
     ]
@@ -5810,7 +6215,8 @@
           "ruler": "吴三桂",
           "coreFeatures": "楷书直读，有光背及背纪值，铸于云南",
           "estimatedValue": "100—1000元",
-          "rarity": "七级（甚少）"
+          "rarity": "七级（甚少）",
+          "thumbnail": ""
         }
       },
       {
@@ -5824,7 +6230,8 @@
           "ruler": "吴三桂",
           "coreFeatures": "楷书、篆书两体，铸于湖南",
           "estimatedValue": "300—3000元",
-          "rarity": "六级（稀）"
+          "rarity": "六级（稀）",
+          "thumbnail": ""
         }
       },
       {
@@ -5838,7 +6245,8 @@
           "ruler": "吴世璠",
           "coreFeatures": "楷书直读，光背或背纪局",
           "estimatedValue": "100—1000元",
-          "rarity": "七级（甚少）"
+          "rarity": "七级（甚少）",
+          "thumbnail": ""
         }
       },
       {
@@ -5852,7 +6260,8 @@
           "ruler": "耿精忠",
           "coreFeatures": "楷书直读，背\"一分\"等纪值",
           "estimatedValue": "300—3000元",
-          "rarity": "六级（稀）"
+          "rarity": "六级（稀）",
+          "thumbnail": ""
         }
       }
     ]
@@ -5872,7 +6281,8 @@
           "ruler": "洪秀全",
           "coreFeatures": "面文\"太平天国\"，背\"圣宝\"，宋体楷书",
           "estimatedValue": "200—5000元",
-          "rarity": "七级（甚少）"
+          "rarity": "七级（甚少）",
+          "thumbnail": "/images/coins/太平天国钱币/太平天国/main.jpg"
         }
       },
       {
@@ -5886,7 +6296,8 @@
           "ruler": "洪秀全",
           "coreFeatures": "早期铸币，面文\"天国通宝\"",
           "estimatedValue": "3000—20000元",
-          "rarity": "五级（稀贵）"
+          "rarity": "五级（稀贵）",
+          "thumbnail": "/images/coins/太平天国钱币/天国通宝/main.jpg"
         }
       },
       {
@@ -5900,7 +6311,8 @@
           "ruler": "洪秀全",
           "coreFeatures": "面文\"天国圣宝\"，圣宝制",
           "estimatedValue": "1000—10000元",
-          "rarity": "六级（稀）"
+          "rarity": "六级（稀）",
+          "thumbnail": "/images/coins/太平天国钱币/天国圣宝/main.jpg"
         }
       },
       {
@@ -5914,7 +6326,8 @@
           "ruler": "洪秀全",
           "coreFeatures": "面文\"太平圣宝\"",
           "estimatedValue": "1000—10000元",
-          "rarity": "六级（稀）"
+          "rarity": "六级（稀）",
+          "thumbnail": "/images/coins/太平天国钱币/太平圣宝/main.jpg"
         }
       },
       {
@@ -5928,7 +6341,8 @@
           "ruler": "洪秀全",
           "coreFeatures": "面文\"天国\"，背\"通宝\"",
           "estimatedValue": "2000—15000元",
-          "rarity": "五级（稀贵）"
+          "rarity": "五级（稀贵）",
+          "thumbnail": "/images/coins/太平天国钱币/天国背通宝/main.jpg"
         }
       },
       {
@@ -5942,7 +6356,8 @@
           "ruler": "洪秀全",
           "coreFeatures": "面文\"天国\"，背\"圣宝\"",
           "estimatedValue": "2000—15000元",
-          "rarity": "五级（稀贵）"
+          "rarity": "五级（稀贵）",
+          "thumbnail": "/images/coins/太平天国钱币/天国背圣宝/main.jpg"
         }
       },
       {
@@ -5956,7 +6371,8 @@
           "ruler": "洪秀全",
           "coreFeatures": "标准版，面\"太平天国\"，背\"圣宝\"",
           "estimatedValue": "200—5000元",
-          "rarity": "七级（甚少）"
+          "rarity": "七级（甚少）",
+          "thumbnail": "/images/coins/太平天国钱币/太平天国背圣宝/main.jpg"
         }
       },
       {
@@ -5970,7 +6386,8 @@
           "ruler": "洪秀全",
           "coreFeatures": "面文上下右左读\"天国太平\"，背\"圣宝\"",
           "estimatedValue": "500—5000元",
-          "rarity": "六级（稀）"
+          "rarity": "六级（稀）",
+          "thumbnail": "/images/coins/太平天国钱币/天国太平背圣宝/main.jpg"
         }
       },
       {
@@ -5984,7 +6401,8 @@
           "ruler": "洪秀全",
           "coreFeatures": "面\"天国圣宝\"，背\"太平\"",
           "estimatedValue": "500—5000元",
-          "rarity": "六级（稀）"
+          "rarity": "六级（稀）",
+          "thumbnail": "/images/coins/太平天国钱币/天国圣宝背太平/main.jpg"
         }
       },
       {
@@ -5998,7 +6416,8 @@
           "ruler": "洪秀全",
           "coreFeatures": "面\"太平圣宝\"，背\"天国\"",
           "estimatedValue": "500—5000元",
-          "rarity": "六级（稀）"
+          "rarity": "六级（稀）",
+          "thumbnail": "/images/coins/太平天国钱币/太平圣宝背天国/main.jpg"
         }
       },
       {
@@ -6012,7 +6431,8 @@
           "ruler": "洪秀全",
           "coreFeatures": "大型当十型，面\"太平天国\"，背\"圣宝\"",
           "estimatedValue": "500—10000元",
-          "rarity": "六级（稀）"
+          "rarity": "六级（稀）",
+          "thumbnail": "/images/coins/太平天国钱币/太平天国钱/main.jpg"
         }
       }
     ]
@@ -6032,7 +6452,8 @@
           "ruler": "天地会",
           "coreFeatures": "楷书直读，背\"中\"字，天地会铸币",
           "estimatedValue": "500—5000元",
-          "rarity": "六级（稀）"
+          "rarity": "六级（稀）",
+          "thumbnail": ""
         }
       },
       {
@@ -6046,7 +6467,8 @@
           "ruler": "天地会",
           "coreFeatures": "赏功钱性质，金、银、铜三等",
           "estimatedValue": "珍稀级，参考价30000—100000元",
-          "rarity": "三级（罕贵）"
+          "rarity": "三级（罕贵）",
+          "thumbnail": ""
         }
       },
       {
@@ -6060,7 +6482,8 @@
           "ruler": "上海小刀会",
           "coreFeatures": "楷书直读光背，小刀会铸币",
           "estimatedValue": "1000—5000元",
-          "rarity": "六级（稀）"
+          "rarity": "六级（稀）",
+          "thumbnail": ""
         }
       },
       {
@@ -6074,7 +6497,8 @@
           "ruler": "天地会",
           "coreFeatures": "楷书直读，天地会铸币",
           "estimatedValue": "500—3000元",
-          "rarity": "六级（稀）"
+          "rarity": "六级（稀）",
+          "thumbnail": ""
         }
       },
       {
@@ -6088,7 +6512,8 @@
           "ruler": "天地会",
           "coreFeatures": "楷书直读，天地会铸币",
           "estimatedValue": "500—3000元",
-          "rarity": "六级（稀）"
+          "rarity": "六级（稀）",
+          "thumbnail": ""
         }
       },
       {
@@ -6102,7 +6527,8 @@
           "ruler": "天地会",
           "coreFeatures": "楷书直读，天地会铸币",
           "estimatedValue": "500—3000元",
-          "rarity": "六级（稀）"
+          "rarity": "六级（稀）",
+          "thumbnail": ""
         }
       },
       {
@@ -6116,7 +6542,8 @@
           "ruler": "金钱会",
           "coreFeatures": "面文\"金钱义记\"，会党铸币",
           "estimatedValue": "500—5000元",
-          "rarity": "六级（稀）"
+          "rarity": "六级（稀）",
+          "thumbnail": ""
         }
       },
       {
@@ -6130,7 +6557,8 @@
           "ruler": "热西丁和卓",
           "coreFeatures": "回文钱币，新疆起义铸币",
           "estimatedValue": "1000—5000元",
-          "rarity": "六级（稀）"
+          "rarity": "六级（稀）",
+          "thumbnail": ""
         }
       }
     ]
@@ -6150,7 +6578,8 @@
           "ruler": "两汉诸帝",
           "coreFeatures": "吉语花钱，如\"长乐未央\"\"常乐\"",
           "estimatedValue": "500—50000元",
-          "rarity": "五级至七级"
+          "rarity": "五级至七级",
+          "thumbnail": ""
         }
       },
       {
@@ -6164,7 +6593,8 @@
           "ruler": "唐朝诸帝",
           "coreFeatures": "开元通宝吉语版，背铸星月花草纹",
           "estimatedValue": "300—10000元",
-          "rarity": "六级至八级"
+          "rarity": "六级至八级",
+          "thumbnail": ""
         }
       },
       {
@@ -6178,7 +6608,8 @@
           "ruler": "五代诸帝",
           "coreFeatures": "吉语花钱，铸量较少",
           "estimatedValue": "500—5000元",
-          "rarity": "六级至七级"
+          "rarity": "六级至七级",
+          "thumbnail": ""
         }
       },
       {
@@ -6192,7 +6623,8 @@
           "ruler": "两宋诸帝",
           "coreFeatures": "花钱鼎盛期，品种丰富，有吉语、生肖、八卦多种",
           "estimatedValue": "200—30000元",
-          "rarity": "六级至九级"
+          "rarity": "六级至九级",
+          "thumbnail": ""
         }
       },
       {
@@ -6206,7 +6638,8 @@
           "ruler": "金朝诸帝",
           "coreFeatures": "仿宋风格，背铸生肖或吉语",
           "estimatedValue": "500—20000元",
-          "rarity": "六级至七级"
+          "rarity": "六级至七级",
+          "thumbnail": ""
         }
       },
       {
@@ -6220,7 +6653,8 @@
           "ruler": "辽朝诸帝",
           "coreFeatures": "铸工粗犷，有契丹风格",
           "estimatedValue": "500—20000元",
-          "rarity": "五级至七级"
+          "rarity": "五级至七级",
+          "thumbnail": ""
         }
       },
       {
@@ -6234,7 +6668,8 @@
           "ruler": "元朝诸帝",
           "coreFeatures": "供养钱性质，寺观铸造",
           "estimatedValue": "500—30000元",
-          "rarity": "五级至七级"
+          "rarity": "五级至七级",
+          "thumbnail": ""
         }
       },
       {
@@ -6248,7 +6683,8 @@
           "ruler": "明朝诸帝",
           "coreFeatures": "吉语花钱，如\"天下太平\"\"金玉满堂\"",
           "estimatedValue": "100—10000元",
-          "rarity": "七级至九级"
+          "rarity": "七级至九级",
+          "thumbnail": ""
         }
       },
       {
@@ -6262,7 +6698,8 @@
           "ruler": "清朝诸帝",
           "coreFeatures": "花钱最繁荣时期，种类极多，有宫钱、民俗钱",
           "estimatedValue": "50—50000元",
-          "rarity": "七级至十级"
+          "rarity": "七级至十级",
+          "thumbnail": ""
         }
       },
       {
@@ -6276,7 +6713,8 @@
           "ruler": "日本幕府",
           "coreFeatures": "仿中国花钱风格，铸有吉语纹饰",
           "estimatedValue": "100—5000元",
-          "rarity": "八级至九级"
+          "rarity": "八级至九级",
+          "thumbnail": ""
         }
       },
       {
@@ -6290,7 +6728,8 @@
           "ruler": "民国",
           "coreFeatures": "花钱尾声，多为民俗性质",
           "estimatedValue": "50—3000元",
-          "rarity": "八级至十级"
+          "rarity": "八级至十级",
+          "thumbnail": ""
         }
       }
     ]
@@ -6310,7 +6749,8 @@
           "ruler": "阮惠",
           "coreFeatures": "楷书直读，有汉文、喃字两版，越南铸币",
           "estimatedValue": "20—200元",
-          "rarity": "八级（少）"
+          "rarity": "八级（少）",
+          "thumbnail": ""
         }
       },
       {
@@ -6324,7 +6764,8 @@
           "ruler": "后黎朝",
           "coreFeatures": "版别极多，铸行时间最长越南钱币",
           "estimatedValue": "10—100元",
-          "rarity": "九级（较多）"
+          "rarity": "九级（较多）",
+          "thumbnail": ""
         }
       },
       {
@@ -6338,7 +6779,8 @@
           "ruler": "德川幕府",
           "coreFeatures": "日本铸量最大钱币，大量流入中国",
           "estimatedValue": "5—30元",
-          "rarity": "十级（多泛）"
+          "rarity": "十级（多泛）",
+          "thumbnail": ""
         }
       },
       {
@@ -6352,7 +6794,8 @@
           "ruler": "阮光缵",
           "coreFeatures": "楷书直读，越南西山朝铸币",
           "estimatedValue": "20—200元",
-          "rarity": "八级（少）"
+          "rarity": "八级（少）",
+          "thumbnail": ""
         }
       }
     ]

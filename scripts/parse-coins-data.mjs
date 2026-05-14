@@ -37,6 +37,59 @@ const DYNASTY_FILES = [
   { file: 'z-外国钱币.md', dynasty: '外国钱币', dynastyIndex: 25 },
 ];
 
+const IMAGES_DIR = path.join(ROOT, 'public', 'images', 'coins');
+
+function sanitizeFileName(name) {
+  return name.replace(/[\/\\:*?"<>|]/g, '-').replace(/\s+/g, '');
+}
+
+function getCoinImageBasePath(dynasty, coinName) {
+  return `/images/coins/${sanitizeFileName(dynasty)}/${sanitizeFileName(coinName)}`;
+}
+
+function extractVariantNames(variantsText) {
+  if (!variantsText) return [];
+  const names = [];
+  const regex = /\*\*(.+?)\*\*/g;
+  let match;
+  while ((match = regex.exec(variantsText)) !== null) {
+    const name = match[1].trim();
+    if (!names.includes(name)) {
+      names.push(name);
+    }
+  }
+  return names;
+}
+
+function buildCoinImages(dynasty, coinName, variantsText) {
+  const basePath = getCoinImageBasePath(dynasty, coinName);
+  const coinDir = path.join(IMAGES_DIR, sanitizeFileName(dynasty), sanitizeFileName(coinName));
+
+  const mainExists = fs.existsSync(path.join(coinDir, 'main.jpg'));
+  const main = mainExists ? `${basePath}/main.jpg` : '';
+
+  const variants = [];
+
+  if (fs.existsSync(coinDir)) {
+    const files = fs.readdirSync(coinDir).sort();
+    for (const file of files) {
+      if (file.startsWith('variant_') && file.endsWith('.jpg')) {
+        const match = file.match(/^variant_(\d+)\.jpg$/);
+        if (match) {
+          const idx = parseInt(match[1], 10);
+          variants.push({
+            src: `${basePath}/${file}`,
+            alt: `${coinName} - 版别${idx}`,
+            label: `版别${idx}`,
+          });
+        }
+      }
+    }
+  }
+
+  return { main, variants };
+}
+
 function parseSummaryTable(content) {
   const coins = [];
   const lines = content.split('\n');
@@ -200,12 +253,19 @@ function parseFile(filePath, dynasty, dynastyIndex) {
 
   const coins = summaries.map((summary, idx) => {
     const detail = detailMap.get(summary.name) || null;
+    const images = buildCoinImages(dynasty, summary.name, detail?.variants || '');
+    if (detail) {
+      detail.images = images;
+    }
     return {
       id: `${dynastyIndex}-${idx}`,
       name: summary.name,
       dynasty,
       dynastyIndex,
-      summary,
+      summary: {
+        ...summary,
+        thumbnail: images.main,
+      },
       detail,
     };
   });
@@ -236,6 +296,16 @@ function main() {
   fs.writeFileSync(OUTPUT_FILE, JSON.stringify(allData, null, 2), 'utf-8');
   console.log(`\n总计: ${allData.length} 个朝代, ${totalCoins} 枚钱币`);
   console.log(`输出: ${OUTPUT_FILE}`);
+
+  let totalImageDirs = 0;
+  for (const dynastyData of allData) {
+    for (const coin of dynastyData.coins) {
+      const coinDir = path.join(IMAGES_DIR, sanitizeFileName(dynastyData.dynasty), sanitizeFileName(coin.name));
+      fs.mkdirSync(coinDir, { recursive: true });
+      totalImageDirs++;
+    }
+  }
+  console.log(`✓ 图片目录已生成: ${IMAGES_DIR} (${totalImageDirs} 个钱币目录)`);
 }
 
 main();

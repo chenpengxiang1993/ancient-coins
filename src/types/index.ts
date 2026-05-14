@@ -1,5 +1,16 @@
 export type RarityLevel = '1' | '2' | '3' | '4' | '5' | '6' | 'default';
 
+export interface CoinImage {
+  src: string;
+  alt: string;
+  label?: string;
+}
+
+export interface CoinImages {
+  main: string;
+  variants: CoinImage[];
+}
+
 export interface CoinSummary {
   name: string;
   historicalPeriod: string;
@@ -7,6 +18,7 @@ export interface CoinSummary {
   coreFeatures: string;
   estimatedValue: string;
   rarity: string;
+  thumbnail: string;
 }
 
 export interface ValueTableRow {
@@ -26,6 +38,7 @@ export interface CoinDetail {
   variants: string;
   valueReference: string;
   valueTable: ValueTableRow[];
+  images: CoinImages;
 }
 
 export interface Coin {

@@ -38,7 +38,7 @@
 }
 
 .coinItem {
-  display: block;
+  display: flex;
   width: 100%;
   padding: 12px 14px;
   margin-bottom: 4px;
@@ -48,12 +48,42 @@
   cursor: pointer;
   text-align: left;
   transition: all 0.2s ease;
+  gap: 12px;
 
   &:hover {
     border-color: var(--border);
     box-shadow: 0 2px 8px var(--shadow);
     transform: translateY(-1px);
   }
+}
+
+.coinItemThumb {
+  flex-shrink: 0;
+  width: 44px;
+  height: 44px;
+  border-radius: 6px;
+  overflow: hidden;
+  background: var(--bg-secondary);
+  border: 1px solid var(--border-light);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.coinItemThumbImg {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.coinItemThumbPlaceholder {
+  font-size: 20px;
+  opacity: 0.4;
+}
+
+.coinItemContent {
+  flex: 1;
+  min-width: 0;
 }
 
 .coinItemActive {
