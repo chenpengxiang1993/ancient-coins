@@ -1,4 +1,4 @@
-import { memo, useRef, useEffect, useState, useCallback } from 'react';
+import { memo, useRef, useEffect } from 'react';
 import type { Coin } from '../../types';
 import { getRarityLevel } from '../../utils/rarity';
 import styles from './index.module.scss';
@@ -8,29 +8,6 @@ interface CoinListProps {
   selectedCoinId: string | null;
   onSelect: (coin: Coin) => void;
 }
-
-const CoinThumbnail = memo(function CoinThumbnail({ coin }: { coin: Coin }) {
-  const [error, setError] = useState(false);
-  const src = coin.summary.thumbnail;
-
-  const handleError = useCallback(() => setError(true), []);
-
-  if (error || !src) {
-    return (
-      <span className={styles.coinItemThumbPlaceholder}>🏺</span>
-    );
-  }
-
-  return (
-    <img
-      src={src}
-      alt={coin.name}
-      className={styles.coinItemThumbImg}
-      onError={handleError}
-      loading="lazy"
-    />
-  );
-});
 
 export default memo(function CoinList({ coins, selectedCoinId, onSelect }: CoinListProps) {
   const itemsRef = useRef<HTMLDivElement>(null);
