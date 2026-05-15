@@ -24,10 +24,40 @@
   object-fit: contain;
   opacity: 0;
   transition: opacity 0.3s ease;
+  cursor: zoom-in;
 }
 
 .coinImageImgVisible {
   opacity: 1;
+}
+
+.coinImageZoomHint {
+  position: absolute;
+  bottom: 8px;
+  right: 8px;
+  width: 32px;
+  height: 32px;
+  border: none;
+  border-radius: 50%;
+  background: rgba(0, 0, 0, 0.5);
+  color: #fff;
+  font-size: 14px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  transition: opacity 0.2s ease;
+  padding: 0;
+  line-height: 1;
+
+  .coinImageMain:hover & {
+    opacity: 1;
+  }
+
+  &:hover {
+    background: rgba(0, 0, 0, 0.7);
+  }
 }
 
 .coinImagePlaceholder {
@@ -49,12 +79,6 @@
 .coinImagePlaceholderText {
   font-size: 14px;
   font-family: $font-sans;
-}
-
-.coinImagePlaceholderHint {
-  font-size: 11px;
-  font-family: $font-sans;
-  color: var(--border);
 }
 
 .coinImageLabel {
@@ -113,4 +137,71 @@
   max-width: 72px;
   overflow: hidden;
   text-overflow: ellipsis;
+}
+
+// Zoom overlay
+
+.coinImageOverlay {
+  position: fixed;
+  inset: 0;
+  z-index: 2000;
+  background: rgba(0, 0, 0, 0.85);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 32px;
+  animation: overlayFadeIn 0.2s ease;
+  cursor: zoom-out;
+}
+
+@keyframes overlayFadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+.coinImageOverlayContent {
+  position: relative;
+  max-width: 90vw;
+  max-height: 90vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.coinImageOverlayImg {
+  max-width: 100%;
+  max-height: 85vh;
+  object-fit: contain;
+  border-radius: 8px;
+  animation: overlayImgIn 0.25s ease;
+}
+
+@keyframes overlayImgIn {
+  from { transform: scale(0.9); opacity: 0; }
+  to { transform: scale(1); opacity: 1; }
+}
+
+.coinImageOverlayClose {
+  position: absolute;
+  top: -12px;
+  right: -12px;
+  width: 36px;
+  height: 36px;
+  border: 2px solid rgba(255, 255, 255, 0.4);
+  border-radius: 50%;
+  background: rgba(0, 0, 0, 0.6);
+  color: #fff;
+  font-size: 16px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.15s ease;
+  padding: 0;
+  line-height: 1;
+
+  &:hover {
+    background: rgba(0, 0, 0, 0.9);
+    border-color: #fff;
+  }
 }

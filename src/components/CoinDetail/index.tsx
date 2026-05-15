@@ -1,8 +1,7 @@
 import { memo, useMemo } from 'react';
-import type { Coin, CoinDetail as CoinDetailType, ValueTableRow } from '../../types';
+import type { Coin, CoinDetail as CoinDetailType, VariantTableRow } from '../../types';
 import { formatContent } from '../../utils/format';
 import { getRarityLevel } from '../../utils/rarity';
-import CoinImage from '../CoinImage';
 import styles from './index.module.scss';
 
 interface CoinDetailProps {
@@ -66,15 +65,13 @@ export default memo(function CoinDetail({ coin, detail, loading, error, onRetry 
 
         {detail && (
           <>
-            <CoinImage coinName={coin.name} images={detail.images} />
             <DetailSection title="铸造时间" content={detail.castingTime} icon="🕐" />
             <DetailSection title="材质成分" content={detail.material} icon="⚗" />
             <DetailSection title="尺寸重量" content={detail.dimensions} icon="📏" />
             <DetailSection title="面背特征" content={detail.obverseFeatures} icon="🔍" />
             <DetailSection title="铸造工艺" content={detail.castingCraft} icon="⚒" />
             <DetailSection title="核心背景" content={detail.coreBackground} icon="📜" />
-            <DetailSection title="版别体系" content={detail.variants} icon="🏷" />
-            <ValueSection text={detail.valueReference} table={detail.valueTable} />
+            <VariantsSection table={detail.variantsTable} />
           </>
         )}
 
@@ -106,52 +103,74 @@ const DetailSection = memo(function DetailSection({ title, content, icon }: Deta
   );
 });
 
-interface ValueSectionProps {
-  text: string;
-  table: ValueTableRow[];
+interface VariantsSectionProps {
+  table: VariantTableRow[];
 }
 
-const ValueSection = memo(function ValueSection({ text, table }: ValueSectionProps) {
-  if (!text && (!table || table.length === 0)) return null;
-  const html = useMemo(() => formatContent(text), [text]);
-  const formattedRows = useMemo(
-    () => table.map(row => ({ ...row, variantHtml: formatContent(row.variant) })),
-    [table]
-  );
+const VariantsSection = memo(function VariantsSection({ table }: VariantsSectionProps) {
+  if (!table || table.length === 0) return null;
+
+  const groupedRows = useMemo(() => {
+    const groups: { variant: string; descriptionHtml: string; rows: { grade: string; priceRange: string; notes: string }[] }[] = [];
+    for (const row of table) {
+      const last = groups[groups.length - 1];
+      if (last && last.variant === row.variant) {
+        last.rows.push({ grade: row.grade, priceRange: row.priceRange, notes: row.notes });
+      } else {
+        groups.push({
+          variant: row.variant,
+          descriptionHtml: formatContent(row.description),
+          rows: [{ grade: row.grade, priceRange: row.priceRange, notes: row.notes }],
+        });
+      }
+    }
+    return groups;
+  }, [table]);
 
   return (
     <div className={styles.coinDetailSection}>
       <div className={styles.coinDetailSectionTitle}>
-        <span className={styles.coinDetailSectionIcon}>💰</span>
-        价值参考
+        <span className={styles.coinDetailSectionIcon}>🏷</span>
+        版别体系
       </div>
-      {text && (
-        <div className={styles.coinDetailSectionContent} dangerouslySetInnerHTML={{ __html: html }} />
-      )}
-      {formattedRows.length > 0 && (
-        <div className={styles.coinDetailTableWrapper}>
-          <table className={styles.coinDetailTable}>
-            <thead>
-              <tr>
-                <th>版别</th>
-                <th>品相等级</th>
-                <th>参考价格区间</th>
-                <th>备注</th>
-              </tr>
-            </thead>
-            <tbody>
-              {formattedRows.map((row, idx) => (
-                <tr key={idx}>
-                  <td dangerouslySetInnerHTML={{ __html: row.variantHtml }} />
-                  <td>{row.grade}</td>
+      <div className={styles.coinDetailTableWrapper}>
+        <table className={`${styles.coinDetailTable} ${styles.coinDetailVariantsTable}`}>
+          <thead>
+            <tr>
+              <th>版别</th>
+              <th>特征描述</th>
+              <th>品相等级</th>
+              <th>参考价格</th>
+              <th>备注</th>
+            </tr>
+          </thead>
+          <tbody>
+            {groupedRows.map((group, gi) =>
+              group.rows.map((row, ri) => (
+                <tr key={`${gi}-${ri}`}>
+                  {ri === 0 && (
+                    <>
+                      <td
+                        className={styles.coinDetailVariantCell}
+                        rowSpan={group.rows.length}
+                        dangerouslySetInnerHTML={{ __html: formatContent(group.variant) }}
+                      />
+                      <td
+                        className={styles.coinDetailDescCell}
+                        rowSpan={group.rows.length}
+                        dangerouslySetInnerHTML={{ __html: group.descriptionHtml }}
+                      />
+                    </>
+                  )}
+                  <td className={styles.coinDetailGradeCell}>{row.grade}</td>
                   <td className={styles.coinDetailPrice}>{row.priceRange}</td>
                   <td>{row.notes}</td>
                 </tr>
-              ))}
-            </tbody>
-          </table>
-        </div>
-      )}
+              ))
+            )}
+          </tbody>
+        </table>
+      </div>
     </div>
   );
 });

@@ -209,6 +209,24 @@
   }
 }
 
+.coinDetailVariantsTable {
+  .coinDetailVariantCell {
+    font-weight: 600;
+    color: var(--text-primary);
+    white-space: nowrap;
+    vertical-align: middle;
+  }
+
+  .coinDetailDescCell {
+    min-width: 180px;
+    vertical-align: middle;
+  }
+
+  .coinDetailGradeCell {
+    white-space: nowrap;
+  }
+}
+
 .coinDetailPrice {
   color: var(--accent);
   font-weight: 500;
@@ -225,4 +243,22 @@
   color: var(--text-muted);
   font-family: $font-sans;
   line-height: 1.6;
+}
+
+@media (max-width: 768px) {
+  .coinDetailScroll {
+    padding: 20px 16px;
+  }
+
+  .coinDetailTitle {
+    font-size: 22px;
+  }
+
+  .coinDetailSummaryGrid {
+    grid-template-columns: 1fr;
+  }
+
+  .coinDetailTableWrapper {
+    overflow-x: auto;
+  }
 }

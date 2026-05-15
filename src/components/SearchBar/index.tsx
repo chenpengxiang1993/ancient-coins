@@ -29,7 +29,7 @@ export default memo(function SearchBar({ allData, onSelectResult }: SearchBarPro
     const searchResults = searchCoins(allData, kw);
     setTotalCount(searchResults.length);
     setResults(searchResults.slice(0, 20));
-    setIsOpen(searchResults.length > 0);
+    setIsOpen(true);
     setHighlightIndex(-1);
   }, [allData]);
 
@@ -62,6 +62,14 @@ export default memo(function SearchBar({ allData, onSelectResult }: SearchBarPro
     }
   }, []);
 
+  const handleBlur = useCallback(() => {
+    setTimeout(() => {
+      if (wrapperRef.current && !wrapperRef.current.contains(document.activeElement)) {
+        setIsOpen(false);
+      }
+    }, 150);
+  }, []);
+
   useEffect(() => {
     document.addEventListener('mousedown', handleClickOutside);
     return () => document.removeEventListener('mousedown', handleClickOutside);
@@ -77,7 +85,15 @@ export default memo(function SearchBar({ allData, onSelectResult }: SearchBarPro
   }, [highlightIndex]);
 
   const handleKeyDown = useCallback((e: React.KeyboardEvent) => {
-    if (!isOpen || results.length === 0) return;
+    if (!isOpen) return;
+
+    if (e.key === 'Escape') {
+      setIsOpen(false);
+      inputRef.current?.blur();
+      return;
+    }
+
+    if (results.length === 0) return;
 
     if (e.key === 'ArrowDown') {
       e.preventDefault();
@@ -88,9 +104,6 @@ export default memo(function SearchBar({ allData, onSelectResult }: SearchBarPro
     } else if (e.key === 'Enter' && highlightIndex >= 0) {
       e.preventDefault();
       handleSelect(results[highlightIndex]);
-    } else if (e.key === 'Escape') {
-      setIsOpen(false);
-      inputRef.current?.blur();
     }
   }, [isOpen, results, highlightIndex, handleSelect]);
 
@@ -113,7 +126,8 @@ export default memo(function SearchBar({ allData, onSelectResult }: SearchBarPro
           placeholder="搜索钱币名称、朝代、特征…"
           value={keyword}
           onChange={e => handleInputChange(e.target.value)}
-          onFocus={() => { if (results.length > 0) setIsOpen(true); }}
+          onFocus={() => { if (results.length > 0 || (keyword.trim() && totalCount === 0)) setIsOpen(true); }}
+          onBlur={handleBlur}
           onKeyDown={handleKeyDown}
         />
         {keyword && (
@@ -122,27 +136,34 @@ export default memo(function SearchBar({ allData, onSelectResult }: SearchBarPro
           </button>
         )}
       </div>
-      {isOpen && results.length > 0 && (
+      {isOpen && (
         <div className={styles.searchBarDropdown} ref={listRef} role="listbox" aria-label="搜索结果">
-          <div className={styles.searchBarDropdownHeader}>
-            找到 {totalCount} 枚相关钱币{totalCount > 20 ? '，显示前 20 枚' : ''}
-          </div>
-          {results.map((result, idx) => (
-            <button
-              key={result.coin.id}
-              id={`search-result-${idx}`}
-              role="option"
-              aria-selected={idx === highlightIndex}
-              className={`${styles.searchBarResult} ${idx === highlightIndex ? styles.searchBarResultHighlight : ''}`}
-              onClick={() => handleSelect(result)}
-            >
-              <div className={styles.searchBarResultName}>{result.coin.name}</div>
-              <div className={styles.searchBarResultMeta}>
-                <span className={styles.searchBarResultDynasty}>{result.coin.dynasty}</span>
-                <span className={styles.searchBarResultField}>匹配: {result.matchField}</span>
+          {results.length > 0 ? (
+            <>
+              <div className={styles.searchBarDropdownHeader}>
+                找到 {totalCount} 枚相关钱币{totalCount > 20 ? '，显示前 20 枚' : ''}
               </div>
-            </button>
-          ))}
+              {results.map((result, idx) => (
+                <button
+                  key={result.coin.id}
+                  id={`search-result-${idx}`}
+                  role="option"
+                  aria-selected={idx === highlightIndex}
+                  className={`${styles.searchBarResult} ${idx === highlightIndex ? styles.searchBarResultHighlight : ''}`}
+                  onMouseDown={(e) => e.preventDefault()}
+                  onClick={() => handleSelect(result)}
+                >
+                  <div className={styles.searchBarResultName}>{result.coin.name}</div>
+                  <div className={styles.searchBarResultMeta}>
+                    <span className={styles.searchBarResultDynasty}>{result.coin.dynasty}</span>
+                    <span className={styles.searchBarResultField}>匹配: {result.matchField}</span>
+                  </div>
+                </button>
+              ))}
+            </>
+          ) : (
+            <div className={styles.searchBarEmpty}>未找到相关钱币</div>
+          )}
         </div>
       )}
     </div>

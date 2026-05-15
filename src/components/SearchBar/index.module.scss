@@ -3,6 +3,26 @@
 .searchBar {
   position: relative;
   width: 360px;
+  flex-shrink: 1;
+  min-width: 0;
+}
+
+@media (max-width: 1024px) {
+  .searchBar {
+    width: 280px;
+  }
+}
+
+@media (max-width: 768px) {
+  .searchBar {
+    width: 200px;
+  }
+}
+
+@media (max-width: 480px) {
+  .searchBar {
+    width: 100%;
+  }
 }
 
 .searchBarInputWrapper {
@@ -125,4 +145,12 @@
 
 .searchBarResultField {
   color: var(--text-muted);
+}
+
+.searchBarEmpty {
+  padding: 20px 14px;
+  text-align: center;
+  font-size: 13px;
+  color: var(--text-muted);
+  font-family: $font-sans;
 }

@@ -1,5 +1,6 @@
 import { memo, useRef, useEffect, useState, useCallback } from 'react';
 import type { Coin } from '../../types';
+import { getRarityLevel } from '../../utils/rarity';
 import styles from './index.module.scss';
 
 interface CoinListProps {
@@ -69,13 +70,10 @@ export default memo(function CoinList({ coins, selectedCoinId, onSelect }: CoinL
             className={`${styles.coinItem} ${selectedCoinId === coin.id ? styles.coinItemActive : ''}`}
             onClick={() => onSelect(coin)}
           >
-            <div className={styles.coinItemThumb}>
-              <CoinThumbnail coin={coin} />
-            </div>
             <div className={styles.coinItemContent}>
               <div className={styles.coinItemName}>{coin.name}</div>
               <div className={styles.coinItemMeta}>
-                <span className={styles.coinItemRarity}>{coin.summary.rarity}</span>
+                <span className={styles.coinItemRarity} data-rarity={getRarityLevel(coin.summary.rarity)}>{coin.summary.rarity}</span>
               </div>
               <div className={styles.coinItemFeatures}>{coin.summary.coreFeatures}</div>
             </div>

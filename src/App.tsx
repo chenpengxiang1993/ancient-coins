@@ -14,6 +14,7 @@ const allData: DynastyData[] = summaryData as DynastyData[];
 export default function App() {
   const [activeDynastyIndex, setActiveDynastyIndex] = useState(0);
   const [selectedCoin, setSelectedCoin] = useState<Coin>(() => allData[0].coins[0]);
+  const [sidebarOpen, setSidebarOpen] = useState(false);
 
   const activeDynasty = allData[activeDynastyIndex];
 
@@ -38,6 +39,7 @@ export default function App() {
 
   const handleCoinSelect = useCallback((coin: Coin) => {
     setSelectedCoin(coin);
+    setSidebarOpen(false);
   }, []);
 
   const handleSearchSelect = useCallback((dynastyIndex: number, coinId: string) => {
@@ -53,11 +55,20 @@ export default function App() {
     <div className={styles.app}>
       <a href="#coin-detail" className={styles.skipLink}>跳转到钱币详情</a>
       <header className={styles.appHeader}>
-        <div className={styles.appBrand}>
-          <h1 className={styles.appTitle}>中国古代钱币图鉴</h1>
-          <span className={styles.appSubtitle}>先秦至清代 · 金属铸币全集</span>
+        <div className={styles.appHeaderTop}>
+          <div className={styles.appBrand}>
+            <button
+              className={styles.sidebarToggle}
+              onClick={() => setSidebarOpen(prev => !prev)}
+              aria-label={sidebarOpen ? '关闭列表' : '打开列表'}
+            >
+              <span className={styles.sidebarToggleIcon} />
+            </button>
+            <h1 className={styles.appTitle}>中国古代钱币图鉴</h1>
+          </div>
+          <SearchBar allData={allData} onSelectResult={handleSearchSelect} />
         </div>
-        <SearchBar allData={allData} onSelectResult={handleSearchSelect} />
+        <span className={styles.appSubtitle}>先秦至清代 · 金属铸币全集</span>
       </header>
 
       <DynastyTabs
@@ -67,7 +78,11 @@ export default function App() {
       />
 
       <main className={styles.appContent}>
-        <nav className={styles.appSidebar} aria-label="钱币列表">
+        <div
+          className={`${styles.sidebarOverlay} ${sidebarOpen ? styles.sidebarOverlayVisible : ''}`}
+          onClick={() => setSidebarOpen(false)}
+        />
+        <nav className={`${styles.appSidebar} ${sidebarOpen ? styles.appSidebarOpen : ''}`} aria-label="钱币列表">
           <CoinList
             coins={activeDynasty.coins}
             selectedCoinId={selectedCoin?.id ?? null}

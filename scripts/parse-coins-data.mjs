@@ -9,32 +9,32 @@ const OUTPUT_DIR = path.join(ROOT, 'data');
 const OUTPUT_FILE = path.join(OUTPUT_DIR, 'coins.json');
 
 const DYNASTY_FILES = [
-  { file: 'a-先秦钱币.md', dynasty: '先秦钱币', dynastyIndex: 0 },
-  { file: 'b-秦钱币.md', dynasty: '秦钱币', dynastyIndex: 1 },
-  { file: 'c-汉代钱币.md', dynasty: '汉代钱币', dynastyIndex: 2 },
-  { file: 'd-新莽钱币.md', dynasty: '新莽钱币', dynastyIndex: 3 },
-  { file: 'e-三国钱币.md', dynasty: '三国钱币', dynastyIndex: 4 },
-  { file: 'f-两晋十六国钱币.md', dynasty: '两晋十六国钱币', dynastyIndex: 5 },
-  { file: 'g-南朝钱币.md', dynasty: '南朝钱币', dynastyIndex: 6 },
-  { file: 'h-北朝钱币.md', dynasty: '北朝钱币', dynastyIndex: 7 },
-  { file: 'i-隋朝钱币.md', dynasty: '隋朝钱币', dynastyIndex: 8 },
-  { file: 'j-唐朝钱币.md', dynasty: '唐朝钱币', dynastyIndex: 9 },
-  { file: 'k-五代十国钱币.md', dynasty: '五代十国钱币', dynastyIndex: 10 },
-  { file: 'l-北宋钱币.md', dynasty: '北宋钱币', dynastyIndex: 11 },
-  { file: 'm-南宋钱币.md', dynasty: '南宋钱币', dynastyIndex: 12 },
-  { file: 'n-辽朝钱币.md', dynasty: '辽朝钱币', dynastyIndex: 13 },
-  { file: 'o-金朝钱币.md', dynasty: '金朝钱币', dynastyIndex: 14 },
-  { file: 'p-西夏钱币.md', dynasty: '西夏钱币', dynastyIndex: 15 },
-  { file: 'q-元朝钱币.md', dynasty: '元朝钱币', dynastyIndex: 16 },
-  { file: 'r-明朝钱币.md', dynasty: '明朝钱币', dynastyIndex: 17 },
-  { file: 's-南明钱币.md', dynasty: '南明钱币', dynastyIndex: 18 },
-  { file: 't-明末农民起义钱币.md', dynasty: '明末农民起义钱币', dynastyIndex: 19 },
-  { file: 'u-清朝钱币.md', dynasty: '清朝钱币', dynastyIndex: 20 },
-  { file: 'v-三藩钱币.md', dynasty: '三藩钱币', dynastyIndex: 21 },
-  { file: 'w-太平天国钱币.md', dynasty: '太平天国钱币', dynastyIndex: 22 },
-  { file: 'x-晚清起义钱币.md', dynasty: '晚清起义钱币', dynastyIndex: 23 },
-  { file: 'y-花钱_压胜钱.md', dynasty: '花钱_压胜钱', dynastyIndex: 24 },
-  { file: 'z-外国钱币.md', dynasty: '外国钱币', dynastyIndex: 25 },
+  { file: 'a-先秦钱币.md', dynasty: '先秦钱币', prefix: 'a', dynastyIndex: 0 },
+  { file: 'b-秦钱币.md', dynasty: '秦钱币', prefix: 'b', dynastyIndex: 1 },
+  { file: 'c-汉代钱币.md', dynasty: '汉代钱币', prefix: 'c', dynastyIndex: 2 },
+  { file: 'd-新莽钱币.md', dynasty: '新莽钱币', prefix: 'd', dynastyIndex: 3 },
+  { file: 'e-三国钱币.md', dynasty: '三国钱币', prefix: 'e', dynastyIndex: 4 },
+  { file: 'f-两晋十六国钱币.md', dynasty: '两晋十六国钱币', prefix: 'f', dynastyIndex: 5 },
+  { file: 'g-南朝钱币.md', dynasty: '南朝钱币', prefix: 'g', dynastyIndex: 6 },
+  { file: 'h-北朝钱币.md', dynasty: '北朝钱币', prefix: 'h', dynastyIndex: 7 },
+  { file: 'i-隋朝钱币.md', dynasty: '隋朝钱币', prefix: 'i', dynastyIndex: 8 },
+  { file: 'j-唐朝钱币.md', dynasty: '唐朝钱币', prefix: 'j', dynastyIndex: 9 },
+  { file: 'k-五代十国钱币.md', dynasty: '五代十国钱币', prefix: 'k', dynastyIndex: 10 },
+  { file: 'l-北宋钱币.md', dynasty: '北宋钱币', prefix: 'l', dynastyIndex: 11 },
+  { file: 'm-南宋钱币.md', dynasty: '南宋钱币', prefix: 'm', dynastyIndex: 12 },
+  { file: 'n-辽朝钱币.md', dynasty: '辽朝钱币', prefix: 'n', dynastyIndex: 13 },
+  { file: 'o-金朝钱币.md', dynasty: '金朝钱币', prefix: 'o', dynastyIndex: 14 },
+  { file: 'p-西夏钱币.md', dynasty: '西夏钱币', prefix: 'p', dynastyIndex: 15 },
+  { file: 'q-元朝钱币.md', dynasty: '元朝钱币', prefix: 'q', dynastyIndex: 16 },
+  { file: 'r-明朝钱币.md', dynasty: '明朝钱币', prefix: 'r', dynastyIndex: 17 },
+  { file: 's-南明钱币.md', dynasty: '南明钱币', prefix: 's', dynastyIndex: 18 },
+  { file: 't-明末农民起义钱币.md', dynasty: '明末农民起义钱币', prefix: 't', dynastyIndex: 19 },
+  { file: 'u-清朝钱币.md', dynasty: '清朝钱币', prefix: 'u', dynastyIndex: 20 },
+  { file: 'v-三藩钱币.md', dynasty: '三藩钱币', prefix: 'v', dynastyIndex: 21 },
+  { file: 'w-太平天国钱币.md', dynasty: '太平天国钱币', prefix: 'w', dynastyIndex: 22 },
+  { file: 'x-晚清起义钱币.md', dynasty: '晚清起义钱币', prefix: 'x', dynastyIndex: 23 },
+  { file: 'y-花钱_压胜钱.md', dynasty: '花钱_压胜钱', prefix: 'y', dynastyIndex: 24 },
+  { file: 'z-外国钱币.md', dynasty: '外国钱币', prefix: 'z', dynastyIndex: 25 },
 ];
 
 const IMAGES_DIR = path.join(ROOT, 'public', 'images', 'coins');
@@ -43,8 +43,8 @@ function sanitizeFileName(name) {
   return name.replace(/[\/\\:*?"<>|]/g, '-').replace(/\s+/g, '');
 }
 
-function getCoinImageBasePath(dynasty, coinName) {
-  return `/images/coins/${sanitizeFileName(dynasty)}/${sanitizeFileName(coinName)}`;
+function getCoinImageBasePath(dynasty, coinName, prefix) {
+  return `/images/coins/${prefix}-${sanitizeFileName(dynasty)}/${sanitizeFileName(coinName)}`;
 }
 
 function extractVariantNames(variantsText) {
@@ -61,13 +61,14 @@ function extractVariantNames(variantsText) {
   return names;
 }
 
-function buildCoinImages(dynasty, coinName, variantsText) {
-  const basePath = getCoinImageBasePath(dynasty, coinName);
-  const coinDir = path.join(IMAGES_DIR, sanitizeFileName(dynasty), sanitizeFileName(coinName));
+function buildCoinImages(dynasty, coinName, variantsText, prefix) {
+  const basePath = getCoinImageBasePath(dynasty, coinName, prefix);
+  const coinDir = path.join(IMAGES_DIR, `${prefix}-${sanitizeFileName(dynasty)}`, sanitizeFileName(coinName));
 
   const mainExists = fs.existsSync(path.join(coinDir, 'main.jpg'));
   const main = mainExists ? `${basePath}/main.jpg` : '';
 
+  const variantNames = extractVariantNames(variantsText);
   const variants = [];
 
   if (fs.existsSync(coinDir)) {
@@ -77,10 +78,11 @@ function buildCoinImages(dynasty, coinName, variantsText) {
         const match = file.match(/^variant_(\d+)\.jpg$/);
         if (match) {
           const idx = parseInt(match[1], 10);
+          const variantName = variantNames[idx - 1] || `版别${idx}`;
           variants.push({
             src: `${basePath}/${file}`,
-            alt: `${coinName} - 版别${idx}`,
-            label: `版别${idx}`,
+            alt: `${coinName} - ${variantName}`,
+            label: variantName,
           });
         }
       }
@@ -236,7 +238,7 @@ function parseCoinDetails(content) {
   return details;
 }
 
-function parseFile(filePath, dynasty, dynastyIndex) {
+function parseFile(filePath, dynasty, dynastyIndex, prefix) {
   const content = fs.readFileSync(filePath, 'utf-8');
 
   const parts = content.split(/^# 2\./m);
@@ -253,7 +255,7 @@ function parseFile(filePath, dynasty, dynastyIndex) {
 
   const coins = summaries.map((summary, idx) => {
     const detail = detailMap.get(summary.name) || null;
-    const images = buildCoinImages(dynasty, summary.name, detail?.variants || '');
+    const images = buildCoinImages(dynasty, summary.name, detail?.variants || '', prefix);
     if (detail) {
       detail.images = images;
     }
@@ -281,13 +283,13 @@ function main() {
   const allData = [];
   let totalCoins = 0;
 
-  for (const { file, dynasty, dynastyIndex } of DYNASTY_FILES) {
+  for (const { file, dynasty, dynastyIndex, prefix } of DYNASTY_FILES) {
     const filePath = path.join(TARGET_DIR, file);
     if (!fs.existsSync(filePath)) {
       console.warn(`文件不存在: ${file}`);
       continue;
     }
-    const data = parseFile(filePath, dynasty, dynastyIndex);
+    const data = parseFile(filePath, dynasty, dynastyIndex, prefix);
     allData.push(data);
     totalCoins += data.coins.length;
     console.log(`✓ ${dynasty}: ${data.coins.length} 枚`);
@@ -298,9 +300,11 @@ function main() {
   console.log(`输出: ${OUTPUT_FILE}`);
 
   let totalImageDirs = 0;
-  for (const dynastyData of allData) {
+  for (const { prefix } of DYNASTY_FILES) {
+    const dynastyData = allData.find(d => d.dynastyIndex === DYNASTY_FILES.find(f => f.prefix === prefix).dynastyIndex);
+    if (!dynastyData) continue;
     for (const coin of dynastyData.coins) {
-      const coinDir = path.join(IMAGES_DIR, sanitizeFileName(dynastyData.dynasty), sanitizeFileName(coin.name));
+      const coinDir = path.join(IMAGES_DIR, `${prefix}-${sanitizeFileName(dynastyData.dynasty)}`, sanitizeFileName(coin.name));
       fs.mkdirSync(coinDir, { recursive: true });
       totalImageDirs++;
     }

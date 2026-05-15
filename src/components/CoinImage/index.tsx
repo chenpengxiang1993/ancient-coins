@@ -1,4 +1,4 @@
-import { memo, useState, useCallback, useMemo } from 'react';
+import { memo, useState, useCallback, useMemo, useEffect } from 'react';
 import type { CoinImages } from '../../types';
 import styles from './index.module.scss';
 
@@ -13,6 +13,15 @@ export default memo(function CoinImage({ coinName, images }: CoinImageProps) {
   const [mainLoaded, setMainLoaded] = useState(false);
   const [mainError, setMainError] = useState(!hasMainImage);
   const [variantErrors, setVariantErrors] = useState<Set<number>>(new Set());
+  const [zoomed, setZoomed] = useState(false);
+
+  useEffect(() => {
+    setActiveSrc(images.main);
+    setMainLoaded(false);
+    setMainError(!Boolean(images.main));
+    setVariantErrors(new Set());
+    setZoomed(false);
+  }, [images.main]);
 
   const allImages = useMemo(() => {
     const list = hasMainImage ? [{ src: images.main, alt: coinName, label: '主图' }] : [];
@@ -42,6 +51,22 @@ export default memo(function CoinImage({ coinName, images }: CoinImageProps) {
     setMainError(false);
   }, []);
 
+  const handleImageClick = useCallback(() => {
+    if (mainLoaded && !mainError && hasMainImage) {
+      setZoomed(true);
+    }
+  }, [mainLoaded, mainError, hasMainImage]);
+
+  const handleZoomClose = useCallback(() => {
+    setZoomed(false);
+  }, []);
+
+  const handleZoomKeyDown = useCallback((e: React.KeyboardEvent) => {
+    if (e.key === 'Escape') {
+      setZoomed(false);
+    }
+  }, []);
+
   const activeLabel = useMemo(
     () => allImages.find(img => img.src === activeSrc)?.label || '主图',
     [allImages, activeSrc]
@@ -49,6 +74,7 @@ export default memo(function CoinImage({ coinName, images }: CoinImageProps) {
 
   const hasVariantImages = images.variants.length > 0;
   const showPlaceholder = mainError || !hasMainImage;
+  const isVariant = activeSrc !== images.main;
 
   return (
     <div className={styles.coinImage}>
@@ -72,14 +98,22 @@ export default memo(function CoinImage({ coinName, images }: CoinImageProps) {
               className={`${styles.coinImageImg} ${mainLoaded ? styles.coinImageImgVisible : ''}`}
               onLoad={handleMainLoad}
               onError={handleMainError}
+              onClick={handleImageClick}
               loading="lazy"
             />
+            {mainLoaded && !mainError && (
+              <button className={styles.coinImageZoomHint} onClick={handleImageClick} aria-label="放大查看">
+                🔍
+              </button>
+            )}
           </>
         )}
       </div>
 
       {hasVariantImages && (
-        <div className={styles.coinImageLabel}>{activeLabel}</div>
+        <div className={styles.coinImageLabel}>
+          {isVariant ? `${coinName}·${activeLabel}` : activeLabel}
+        </div>
       )}
 
       {hasVariantImages && (
@@ -105,6 +139,28 @@ export default memo(function CoinImage({ coinName, images }: CoinImageProps) {
               </button>
             );
           })}
+        </div>
+      )}
+
+      {zoomed && (
+        <div
+          className={styles.coinImageOverlay}
+          onClick={handleZoomClose}
+          onKeyDown={handleZoomKeyDown}
+          role="dialog"
+          aria-label={`${coinName} ${activeLabel} 放大查看`}
+          tabIndex={-1}
+        >
+          <div className={styles.coinImageOverlayContent} onClick={e => e.stopPropagation()}>
+            <img
+              src={activeSrc}
+              alt={activeLabel}
+              className={styles.coinImageOverlayImg}
+            />
+            <button className={styles.coinImageOverlayClose} onClick={handleZoomClose} aria-label="关闭">
+              ✕
+            </button>
+          </div>
         </div>
       )}
     </div>

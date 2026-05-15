@@ -60,6 +60,7 @@ export function useCoinDetail(dynastyIndex: number, coinId: string, hasDetail: b
     }
 
     let cancelled = false;
+    setDetail(null);
     setLoading(true);
     setError(false);
 
@@ -82,6 +83,7 @@ export function useCoinDetail(dynastyIndex: number, coinId: string, hasDetail: b
   }, [dynastyIndex, coinId, hasDetail]);
 
   const retry = useCallback(() => {
+    setDetail(null);
     setError(false);
     setLoading(true);
     fetchDynastyDetail(dynastyIndex)

@@ -21,8 +21,9 @@ export interface CoinSummary {
   thumbnail: string;
 }
 
-export interface ValueTableRow {
+export interface VariantTableRow {
   variant: string;
+  description: string;
   grade: string;
   priceRange: string;
   notes: string;
@@ -35,9 +36,7 @@ export interface CoinDetail {
   obverseFeatures: string;
   castingCraft: string;
   coreBackground: string;
-  variants: string;
-  valueReference: string;
-  valueTable: ValueTableRow[];
+  variantsTable: VariantTableRow[];
   images: CoinImages;
 }
 
