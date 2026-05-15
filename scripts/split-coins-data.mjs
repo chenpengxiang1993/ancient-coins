@@ -37,7 +37,7 @@ for (const dynasty of data) {
   }
   const filePath = path.join(DETAIL_OUT, `${dynasty.dynastyIndex}.json`);
   fs.mkdirSync(path.dirname(filePath), { recursive: true });
-  fs.writeFileSync(filePath, JSON.stringify(detailMap), 'utf-8');
+  fs.writeFileSync(filePath, JSON.stringify(detailMap, null, 2), 'utf-8');
 }
 
 const totalDetails = data.reduce((sum, d) => sum + d.coins.length, 0);

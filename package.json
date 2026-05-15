@@ -7,7 +7,7 @@
     "dev": "vite",
     "build": "tsc -b && vite build",
     "preview": "vite preview",
-    "parse-data": "node scripts/parse-coins-data.mjs && node scripts/split-coins-data.mjs && cp -r data/detail public/data/detail"
+    "parse-data": "node scripts/parse-coins-data.mjs && node scripts/split-coins-data.mjs"
   },
   "dependencies": {
     "react": "^18.3.1",

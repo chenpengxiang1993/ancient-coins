@@ -6,63 +6,54 @@
     "obverseFeatures": "* 面文\"宋元通宝\"，四字对读，楷书含隶意\n* 文字风格仿后周周元通宝，端正规整\n* 外廓规整，好廓清晰\n* 背面有光背、背星月纹、背\"日\"字",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。宋元通宝为宋太祖赵匡胤建隆元年（公元960年）铸行，是北宋开国铸币。制作流程为：先雕刻宋元通宝阴文母范（含面文\"宋元通宝\"四字，楷书含隶意，文字风格仿后周周元通宝），外廓规整，中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。铸工精整，沿袭五代后周铸币传统，各监均有铸造，铸量大。",
     "coreBackground": "* 宋元通宝是北宋开国铸币，铸量大，据文献记载各监均有铸造\n* 面文\"宋元\"即\"大宋开元\"之意，非年号钱\n* 铸工精整，沿袭五代后周铸币传统\n* 为宋代钱币制度的开端",
-    "images": {
-      "main": "/images/coins/北宋钱币/宋元通宝/main.jpg",
-      "variants": [
-        {
-          "src": "/images/coins/北宋钱币/宋元通宝/variant_1.jpg",
-          "alt": "宋元通宝 - 版别1",
-          "label": "版别1"
-        },
-        {
-          "src": "/images/coins/北宋钱币/宋元通宝/variant_2.jpg",
-          "alt": "宋元通宝 - 版别2",
-          "label": "版别2"
-        },
-        {
-          "src": "/images/coins/北宋钱币/宋元通宝/variant_3.jpg",
-          "alt": "宋元通宝 - 版别3",
-          "label": "版别3"
-        }
-      ]
-    },
-    "variantsTable": [
+    "variants": "* **光背版**：背面无文无纹，最为常见\n* **背星月版**：背面铸有星纹或月纹\n* **背\"日\"字版**：背面铸\"日\"字，较少见\n* **大字版**：面文字体较大",
+    "valueReference": "",
+    "valueTable": [
       {
         "variant": "光背",
-        "description": "背面无文无纹，最为常见",
-        "grade": "十级（多泛） 普品",
+        "grade": "普品",
         "priceRange": "10—30元",
         "notes": "北宋开国钱"
       },
       {
         "variant": "光背",
-        "description": "背面无文无纹，最为常见",
-        "grade": "十级（多泛） 美品",
+        "grade": "美品",
         "priceRange": "30—60元",
         "notes": ""
       },
       {
         "variant": "背星月",
-        "description": "背面铸有星纹或月纹",
-        "grade": "九级（较多） 美品",
+        "grade": "美品",
         "priceRange": "50—100元",
         "notes": ""
       },
       {
         "variant": "背\"日\"字",
-        "description": "背面铸\"日\"字，较少见",
-        "grade": "七级（甚少） 美品",
+        "grade": "美品",
         "priceRange": "100—300元",
         "notes": "较少见"
-      },
-      {
-        "variant": "大字版",
-        "description": "面文字体较大",
-        "grade": "九级（较多）",
-        "priceRange": "",
-        "notes": ""
       }
-    ]
+    ],
+    "images": {
+      "main": "/images/coins/l-北宋钱币/宋元通宝/main.jpg",
+      "variants": [
+        {
+          "src": "/images/coins/l-北宋钱币/宋元通宝/variant_1.jpg",
+          "alt": "宋元通宝 - 光背版",
+          "label": "光背版"
+        },
+        {
+          "src": "/images/coins/l-北宋钱币/宋元通宝/variant_2.jpg",
+          "alt": "宋元通宝 - 背星月版",
+          "label": "背星月版"
+        },
+        {
+          "src": "/images/coins/l-北宋钱币/宋元通宝/variant_3.jpg",
+          "alt": "宋元通宝 - 背\"日\"字版",
+          "label": "背\"日\"字版"
+        }
+      ]
+    }
   },
   "11-1": {
     "castingTime": "宋太宗赵光义太平兴国年间（公元976年—984年）。",
@@ -71,51 +62,37 @@
     "obverseFeatures": "* 面文\"太平通宝\"，四字对读，楷书\n* 文字规整端庄\n* 外廓规整，好廓清晰\n* 背面光素无文",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。太平通宝为宋太宗赵光义太平兴国年间（公元976年—984年）铸行，是中国历史上第一种以年号为面文的流通铸币。制作流程为：先雕刻太平通宝阴文母范（含面文\"太平通宝\"四字，楷书），文字规整端庄，中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。铸工精整，铸量大。",
     "coreBackground": "* 太平通宝是中国历史上第一种以年号为面文的流通铸币（年号钱），开创了以年号命名钱币的惯例\n* 此后宋代每逢改元必铸新钱，成为定制\n* \"太平\"寓意天下太平，反映了宋初统一后的政治愿景",
-    "images": {
-      "main": "/images/coins/北宋钱币/太平通宝/main.jpg",
-      "variants": [
-        {
-          "src": "/images/coins/北宋钱币/太平通宝/variant_1.jpg",
-          "alt": "太平通宝 - 版别1",
-          "label": "版别1"
-        },
-        {
-          "src": "/images/coins/北宋钱币/太平通宝/variant_2.jpg",
-          "alt": "太平通宝 - 版别2",
-          "label": "版别2"
-        }
-      ]
-    },
-    "variantsTable": [
+    "variants": "* **光背版**：背面无文，最为常见\n* **大字版**：面文字体较大\n* **阔缘版**：外廓较宽",
+    "valueReference": "",
+    "valueTable": [
       {
         "variant": "光背",
-        "description": "背面无文，最为常见",
-        "grade": "十级（多泛） 普品",
+        "grade": "普品",
         "priceRange": "10—30元",
         "notes": "年号钱之始"
       },
       {
         "variant": "光背",
-        "description": "背面无文，最为常见",
-        "grade": "十级（多泛） 美品",
+        "grade": "美品",
         "priceRange": "30—80元",
         "notes": ""
-      },
-      {
-        "variant": "大字版",
-        "description": "面文字体较大",
-        "grade": "九级（较多）",
-        "priceRange": "",
-        "notes": ""
-      },
-      {
-        "variant": "阔缘版",
-        "description": "外廓较宽",
-        "grade": "九级（较多）",
-        "priceRange": "",
-        "notes": ""
       }
-    ]
+    ],
+    "images": {
+      "main": "/images/coins/l-北宋钱币/太平通宝/main.jpg",
+      "variants": [
+        {
+          "src": "/images/coins/l-北宋钱币/太平通宝/variant_1.jpg",
+          "alt": "太平通宝 - 光背版",
+          "label": "光背版"
+        },
+        {
+          "src": "/images/coins/l-北宋钱币/太平通宝/variant_2.jpg",
+          "alt": "太平通宝 - 大字版",
+          "label": "大字版"
+        }
+      ]
+    }
   },
   "11-2": {
     "castingTime": "宋太宗赵光义淳化年间（公元990年—994年）。",
@@ -124,61 +101,59 @@
     "obverseFeatures": "* 面文\"淳化元宝\"，有真书（楷书）、行书、草书三种书体\n* 三种书体均为太宗赵光义御书亲笔\n* 外廓规整\n* 背面光素无文",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。淳化元宝为宋太宗赵光义淳化年间（公元990年—994年）铸行，是中国最早的御书钱。制作流程为：先雕刻淳化元宝阴文母范（含面文\"淳化元宝\"四字），有真书、行书、草书三种书体，均为太宗御书亲笔，中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。三种书体分别铸行，标志着宋代对钱制度的萌芽。",
     "coreBackground": "* 淳化元宝是中国最早的御书钱，太宗以三种书体亲笔书写钱文，开创了皇帝御书钱文的先河\n* 此后宋代多位皇帝效仿御书钱文，成为宋代钱币的一大特色\n* 淳化元宝三种书体的铸行，也标志着宋代对钱制度的萌芽",
-    "images": {
-      "main": "/images/coins/北宋钱币/淳化元宝/main.jpg",
-      "variants": [
-        {
-          "src": "/images/coins/北宋钱币/淳化元宝/variant_1.jpg",
-          "alt": "淳化元宝 - 版别1",
-          "label": "版别1"
-        },
-        {
-          "src": "/images/coins/北宋钱币/淳化元宝/variant_2.jpg",
-          "alt": "淳化元宝 - 版别2",
-          "label": "版别2"
-        },
-        {
-          "src": "/images/coins/北宋钱币/淳化元宝/variant_3.jpg",
-          "alt": "淳化元宝 - 版别3",
-          "label": "版别3"
-        },
-        {
-          "src": "/images/coins/北宋钱币/淳化元宝/variant_4.jpg",
-          "alt": "淳化元宝 - 版别4",
-          "label": "版别4"
-        }
-      ]
-    },
-    "variantsTable": [
+    "variants": "* **真书版**：楷书面文，笔画规整\n* **行书版**：行书面文，流畅自然\n* **草书版**：草书面文，潇洒飘逸",
+    "valueReference": "",
+    "valueTable": [
       {
         "variant": "真书版",
-        "description": "楷书面文，笔画规整",
-        "grade": "九级（较多） 普品",
+        "grade": "普品",
         "priceRange": "20—50元",
         "notes": ""
       },
       {
         "variant": "行书版",
-        "description": "行书面文，流畅自然",
-        "grade": "九级（较多） 普品",
+        "grade": "普品",
         "priceRange": "20—50元",
         "notes": ""
       },
       {
         "variant": "草书版",
-        "description": "草书面文，潇洒飘逸",
-        "grade": "九级（较多） 普品",
+        "grade": "普品",
         "priceRange": "20—50元",
         "notes": ""
       },
       {
         "variant": "三体全套",
-        "description": "直径：约2.4厘米，厚度：约0.1厘米，单枚重量：约3.5克",
-        "grade": "九级（较多） 美品",
+        "grade": "美品",
         "priceRange": "100—300元",
         "notes": "三体配对收藏"
       }
-    ]
+    ],
+    "images": {
+      "main": "/images/coins/l-北宋钱币/淳化元宝/main.jpg",
+      "variants": [
+        {
+          "src": "/images/coins/l-北宋钱币/淳化元宝/variant_1.jpg",
+          "alt": "淳化元宝 - 真书版",
+          "label": "真书版"
+        },
+        {
+          "src": "/images/coins/l-北宋钱币/淳化元宝/variant_2.jpg",
+          "alt": "淳化元宝 - 行书版",
+          "label": "行书版"
+        },
+        {
+          "src": "/images/coins/l-北宋钱币/淳化元宝/variant_3.jpg",
+          "alt": "淳化元宝 - 草书版",
+          "label": "草书版"
+        },
+        {
+          "src": "/images/coins/l-北宋钱币/淳化元宝/variant_4.jpg",
+          "alt": "淳化元宝 - 版别4",
+          "label": "版别4"
+        }
+      ]
+    }
   },
   "11-3": {
     "castingTime": "宋太宗赵光义至道年间（公元995年—997年）。",
@@ -187,68 +162,47 @@
     "obverseFeatures": "* 面文\"至道元宝\"，御书三体（真书、行书、草书）\n* 外廓规整\n* 背面光素无文",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。至道元宝为宋太宗赵光义至道年间（公元995年—997年）铸行。制作流程为：先雕刻至道元宝阴文母范（含面文\"至道元宝\"四字），御书三体（真书、行书、草书），中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。继淳化元宝之后，太宗再次御书三体钱文，铸量较大。",
     "coreBackground": "* 继淳化元宝之后，太宗再次御书三体钱文\n* 至道为太宗最后一个年号，铸量较大",
-    "images": {
-      "main": "/images/coins/北宋钱币/至道元宝/main.jpg",
-      "variants": [
-        {
-          "src": "/images/coins/北宋钱币/至道元宝/variant_1.jpg",
-          "alt": "至道元宝 - 版别1",
-          "label": "版别1"
-        },
-        {
-          "src": "/images/coins/北宋钱币/至道元宝/variant_2.jpg",
-          "alt": "至道元宝 - 版别2",
-          "label": "版别2"
-        },
-        {
-          "src": "/images/coins/北宋钱币/至道元宝/variant_3.jpg",
-          "alt": "至道元宝 - 版别3",
-          "label": "版别3"
-        },
-        {
-          "src": "/images/coins/北宋钱币/至道元宝/variant_4.jpg",
-          "alt": "至道元宝 - 版别4",
-          "label": "版别4"
-        }
-      ]
-    },
-    "variantsTable": [
+    "variants": "* **真书版**：楷书面文\n* **行书版**：行书面文\n* **草书版**：草书面文",
+    "valueReference": "",
+    "valueTable": [
       {
         "variant": "各体",
-        "description": "直径：约2.4厘米，厚度：约0.1厘米，单枚重量：约3.5克",
-        "grade": "九级（较多） 普品",
+        "grade": "普品",
         "priceRange": "10—30元",
         "notes": "铸量大"
       },
       {
         "variant": "各体",
-        "description": "直径：约2.4厘米，厚度：约0.1厘米，单枚重量：约3.5克",
-        "grade": "九级（较多） 美品",
+        "grade": "美品",
         "priceRange": "30—100元",
         "notes": ""
-      },
-      {
-        "variant": "真书版",
-        "description": "楷书面文",
-        "grade": "九级（较多）",
-        "priceRange": "",
-        "notes": ""
-      },
-      {
-        "variant": "行书版",
-        "description": "行书面文",
-        "grade": "九级（较多）",
-        "priceRange": "",
-        "notes": ""
-      },
-      {
-        "variant": "草书版",
-        "description": "草书面文",
-        "grade": "九级（较多）",
-        "priceRange": "",
-        "notes": ""
       }
-    ]
+    ],
+    "images": {
+      "main": "/images/coins/l-北宋钱币/至道元宝/main.jpg",
+      "variants": [
+        {
+          "src": "/images/coins/l-北宋钱币/至道元宝/variant_1.jpg",
+          "alt": "至道元宝 - 真书版",
+          "label": "真书版"
+        },
+        {
+          "src": "/images/coins/l-北宋钱币/至道元宝/variant_2.jpg",
+          "alt": "至道元宝 - 行书版",
+          "label": "行书版"
+        },
+        {
+          "src": "/images/coins/l-北宋钱币/至道元宝/variant_3.jpg",
+          "alt": "至道元宝 - 草书版",
+          "label": "草书版"
+        },
+        {
+          "src": "/images/coins/l-北宋钱币/至道元宝/variant_4.jpg",
+          "alt": "至道元宝 - 版别4",
+          "label": "版别4"
+        }
+      ]
+    }
   },
   "11-4": {
     "castingTime": "宋真宗赵恒咸平年间（公元998年—1003年）。",
@@ -257,37 +211,37 @@
     "obverseFeatures": "* 面文\"咸平元宝\"，四字旋读，楷书\n* 文字规整\n* 外廓规整\n* 背面光素无文",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。咸平元宝为宋真宗赵恒咸平年间（公元998年—1003年）铸行。制作流程为：先雕刻咸平元宝阴文母范（含面文\"咸平元宝\"四字，楷书），中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。真宗朝钱币不再使用御书多体，统一为楷书面文。咸平年间为北宋经济繁荣时期，铸量巨大。",
     "coreBackground": "* 咸平年间为北宋经济繁荣时期，铸量巨大\n* 真宗朝钱币不再使用御书多体，统一为楷书面文",
-    "images": {
-      "main": "/images/coins/北宋钱币/咸平元宝/main.jpg",
-      "variants": [
-        {
-          "src": "/images/coins/北宋钱币/咸平元宝/variant_1.jpg",
-          "alt": "咸平元宝 - 版别1",
-          "label": "版别1"
-        },
-        {
-          "src": "/images/coins/北宋钱币/咸平元宝/variant_2.jpg",
-          "alt": "咸平元宝 - 版别2",
-          "label": "版别2"
-        }
-      ]
-    },
-    "variantsTable": [
+    "variants": "* 仅见小平钱一种型制，版别变化不大",
+    "valueReference": "",
+    "valueTable": [
       {
         "variant": "小平钱",
-        "description": "仅见小平钱一种型制，版别变化不大，直径约2.3—2.5cm，重约3—4g",
-        "grade": "十级（多泛） 普品",
+        "grade": "普品",
         "priceRange": "5—15元",
         "notes": "常见品"
       },
       {
         "variant": "小平钱",
-        "description": "仅见小平钱一种型制，版别变化不大，直径约2.3—2.5cm，重约3—4g",
-        "grade": "十级（多泛） 美品",
+        "grade": "美品",
         "priceRange": "15—50元",
         "notes": ""
       }
-    ]
+    ],
+    "images": {
+      "main": "/images/coins/l-北宋钱币/咸平元宝/main.jpg",
+      "variants": [
+        {
+          "src": "/images/coins/l-北宋钱币/咸平元宝/variant_1.jpg",
+          "alt": "咸平元宝 - 版别1",
+          "label": "版别1"
+        },
+        {
+          "src": "/images/coins/l-北宋钱币/咸平元宝/variant_2.jpg",
+          "alt": "咸平元宝 - 版别2",
+          "label": "版别2"
+        }
+      ]
+    }
   },
   "11-5": {
     "castingTime": "宋真宗赵恒景德年间（公元1004年—1007年）。",
@@ -296,37 +250,37 @@
     "obverseFeatures": "面文\"景德元宝\"，四字旋读，楷书，文字规整，背面光素无文。",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。景德元宝为宋真宗赵恒景德年间（公元1004年—1007年）铸行。制作流程为：先雕刻景德元宝阴文母范（含面文\"景德元宝\"四字，楷书），中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。铸量大。",
     "coreBackground": "景德年间因辽军南侵而有\"澶渊之盟\"，铸量大。",
-    "images": {
-      "main": "/images/coins/北宋钱币/景德元宝/main.jpg",
-      "variants": [
-        {
-          "src": "/images/coins/北宋钱币/景德元宝/variant_1.jpg",
-          "alt": "景德元宝 - 版别1",
-          "label": "版别1"
-        },
-        {
-          "src": "/images/coins/北宋钱币/景德元宝/variant_2.jpg",
-          "alt": "景德元宝 - 版别2",
-          "label": "版别2"
-        }
-      ]
-    },
-    "variantsTable": [
+    "variants": "仅见小平钱，版别变化不大。",
+    "valueReference": "",
+    "valueTable": [
       {
         "variant": "小平钱",
-        "description": "仅见小平钱，版别变化不大，直径约2.3—2.5cm，重约3—4g",
-        "grade": "十级（多泛） 普品",
+        "grade": "普品",
         "priceRange": "5—15元",
         "notes": ""
       },
       {
         "variant": "小平钱",
-        "description": "仅见小平钱，版别变化不大，直径约2.3—2.5cm，重约3—4g",
-        "grade": "十级（多泛） 美品",
+        "grade": "美品",
         "priceRange": "15—50元",
         "notes": ""
       }
-    ]
+    ],
+    "images": {
+      "main": "/images/coins/l-北宋钱币/景德元宝/main.jpg",
+      "variants": [
+        {
+          "src": "/images/coins/l-北宋钱币/景德元宝/variant_1.jpg",
+          "alt": "景德元宝 - 版别1",
+          "label": "版别1"
+        },
+        {
+          "src": "/images/coins/l-北宋钱币/景德元宝/variant_2.jpg",
+          "alt": "景德元宝 - 版别2",
+          "label": "版别2"
+        }
+      ]
+    }
   },
   "11-6": {
     "castingTime": "宋真宗赵恒大中祥符年间（公元1008年—1016年）。",
@@ -335,26 +289,26 @@
     "obverseFeatures": "面文\"祥符通宝\"，四字旋读，楷书，背面光素无文。",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。祥符通宝为宋真宗赵恒大中祥符年间（公元1008年—1016年）铸行。制作流程为：先雕刻祥符通宝阴文母范（含面文\"祥符通宝\"四字，楷书），中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。铸量极大。",
     "coreBackground": "大中祥符年间因\"天书降临\"事件，真宗封禅泰山，铸量极大。",
-    "images": {
-      "main": "/images/coins/北宋钱币/祥符通宝/main.jpg",
-      "variants": []
-    },
-    "variantsTable": [
+    "variants": "仅见小平钱，版别变化不大。",
+    "valueReference": "",
+    "valueTable": [
       {
         "variant": "小平钱",
-        "description": "仅见小平钱，版别变化不大，直径约2.3—2.5cm，重约3—4g",
-        "grade": "十级（多泛） 普品",
+        "grade": "普品",
         "priceRange": "5—15元",
         "notes": ""
       },
       {
         "variant": "小平钱",
-        "description": "仅见小平钱，版别变化不大，直径约2.3—2.5cm，重约3—4g",
-        "grade": "十级（多泛） 美品",
+        "grade": "美品",
         "priceRange": "15—50元",
         "notes": ""
       }
-    ]
+    ],
+    "images": {
+      "main": "/images/coins/l-北宋钱币/祥符通宝/main.jpg",
+      "variants": []
+    }
   },
   "11-7": {
     "castingTime": "宋真宗赵恒大中祥符年间（公元1008年—1016年）。",
@@ -363,37 +317,37 @@
     "obverseFeatures": "面文\"祥符元宝\"，四字旋读，楷书，背面光素无文。",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。祥符元宝为宋真宗赵恒大中祥符年间（公元1008年—1016年）铸行，与祥符通宝并行。制作流程为：先雕刻祥符元宝阴文母范（含面文\"祥符元宝\"四字，楷书），中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。铸量大。",
     "coreBackground": "与祥符通宝并行铸行，铸量大。",
-    "images": {
-      "main": "/images/coins/北宋钱币/祥符元宝/main.jpg",
-      "variants": [
-        {
-          "src": "/images/coins/北宋钱币/祥符元宝/variant_1.jpg",
-          "alt": "祥符元宝 - 版别1",
-          "label": "版别1"
-        },
-        {
-          "src": "/images/coins/北宋钱币/祥符元宝/variant_2.jpg",
-          "alt": "祥符元宝 - 版别2",
-          "label": "版别2"
-        }
-      ]
-    },
-    "variantsTable": [
+    "variants": "仅见小平钱，版别变化不大。",
+    "valueReference": "",
+    "valueTable": [
       {
         "variant": "小平钱",
-        "description": "仅见小平钱，版别变化不大，直径约2.3—2.5cm，重约3—4g",
-        "grade": "十级（多泛） 普品",
+        "grade": "普品",
         "priceRange": "5—15元",
         "notes": ""
       },
       {
         "variant": "小平钱",
-        "description": "仅见小平钱，版别变化不大，直径约2.3—2.5cm，重约3—4g",
-        "grade": "十级（多泛） 美品",
+        "grade": "美品",
         "priceRange": "15—50元",
         "notes": ""
       }
-    ]
+    ],
+    "images": {
+      "main": "/images/coins/l-北宋钱币/祥符元宝/main.jpg",
+      "variants": [
+        {
+          "src": "/images/coins/l-北宋钱币/祥符元宝/variant_1.jpg",
+          "alt": "祥符元宝 - 版别1",
+          "label": "版别1"
+        },
+        {
+          "src": "/images/coins/l-北宋钱币/祥符元宝/variant_2.jpg",
+          "alt": "祥符元宝 - 版别2",
+          "label": "版别2"
+        }
+      ]
+    }
   },
   "11-8": {
     "castingTime": "宋真宗赵恒天禧年间（公元1017年—1021年）。",
@@ -402,37 +356,37 @@
     "obverseFeatures": "面文\"天禧通宝\"，四字旋读，楷书，背面光素无文。",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。天禧通宝为宋真宗赵恒天禧年间（公元1017年—1021年）铸行。制作流程为：先雕刻天禧通宝阴文母范（含面文\"天禧通宝\"四字，楷书），中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。铸量大。",
     "coreBackground": "天禧为真宗最后一个年号，铸量大。",
-    "images": {
-      "main": "/images/coins/北宋钱币/天禧通宝/main.jpg",
-      "variants": [
-        {
-          "src": "/images/coins/北宋钱币/天禧通宝/variant_1.jpg",
-          "alt": "天禧通宝 - 版别1",
-          "label": "版别1"
-        },
-        {
-          "src": "/images/coins/北宋钱币/天禧通宝/variant_2.jpg",
-          "alt": "天禧通宝 - 版别2",
-          "label": "版别2"
-        }
-      ]
-    },
-    "variantsTable": [
+    "variants": "仅见小平钱，版别变化不大。",
+    "valueReference": "",
+    "valueTable": [
       {
         "variant": "小平钱",
-        "description": "仅见小平钱，版别变化不大，直径约2.3—2.5cm，重约3—4g",
-        "grade": "十级（多泛） 普品",
+        "grade": "普品",
         "priceRange": "5—15元",
         "notes": ""
       },
       {
         "variant": "小平钱",
-        "description": "仅见小平钱，版别变化不大，直径约2.3—2.5cm，重约3—4g",
-        "grade": "十级（多泛） 美品",
+        "grade": "美品",
         "priceRange": "15—50元",
         "notes": ""
       }
-    ]
+    ],
+    "images": {
+      "main": "/images/coins/l-北宋钱币/天禧通宝/main.jpg",
+      "variants": [
+        {
+          "src": "/images/coins/l-北宋钱币/天禧通宝/variant_1.jpg",
+          "alt": "天禧通宝 - 版别1",
+          "label": "版别1"
+        },
+        {
+          "src": "/images/coins/l-北宋钱币/天禧通宝/variant_2.jpg",
+          "alt": "天禧通宝 - 版别2",
+          "label": "版别2"
+        }
+      ]
+    }
   },
   "11-9": {
     "castingTime": "宋仁宗赵祯天圣年间（公元1023年—1032年）。",
@@ -441,37 +395,37 @@
     "obverseFeatures": "面文\"天圣元宝\"，四字旋读，篆书与楷书两种书体对钱，背面光素无文。",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。天圣元宝为宋仁宗赵祯天圣年间（公元1023年—1032年）铸行。制作流程为：先雕刻天圣元宝阴文母范（含面文\"天圣元宝\"四字），有篆书与楷书两种书体，中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。天圣元宝恢复了篆楷对钱制度，铸量大。",
     "coreBackground": "天圣元宝为仁宗朝最早的铸币，恢复了篆楷对钱制度。",
-    "images": {
-      "main": "/images/coins/北宋钱币/天圣元宝/main.jpg",
-      "variants": [
-        {
-          "src": "/images/coins/北宋钱币/天圣元宝/variant_1.jpg",
-          "alt": "天圣元宝 - 版别1",
-          "label": "版别1"
-        },
-        {
-          "src": "/images/coins/北宋钱币/天圣元宝/variant_2.jpg",
-          "alt": "天圣元宝 - 版别2",
-          "label": "版别2"
-        }
-      ]
-    },
-    "variantsTable": [
+    "variants": "篆书版、楷书版。",
+    "valueReference": "",
+    "valueTable": [
       {
         "variant": "篆书/楷书",
-        "description": "篆书版、楷书版",
-        "grade": "九级（较多） 普品",
+        "grade": "普品",
         "priceRange": "5—15元",
         "notes": ""
       },
       {
         "variant": "篆书/楷书",
-        "description": "篆书版、楷书版",
-        "grade": "九级（较多） 美品",
+        "grade": "美品",
         "priceRange": "15—50元",
         "notes": ""
       }
-    ]
+    ],
+    "images": {
+      "main": "/images/coins/l-北宋钱币/天圣元宝/main.jpg",
+      "variants": [
+        {
+          "src": "/images/coins/l-北宋钱币/天圣元宝/variant_1.jpg",
+          "alt": "天圣元宝 - 版别1",
+          "label": "版别1"
+        },
+        {
+          "src": "/images/coins/l-北宋钱币/天圣元宝/variant_2.jpg",
+          "alt": "天圣元宝 - 版别2",
+          "label": "版别2"
+        }
+      ]
+    }
   },
   "11-10": {
     "castingTime": "宋仁宗赵祯明道年间（公元1032年—1033年）。",
@@ -480,37 +434,37 @@
     "obverseFeatures": "面文\"明道元宝\"，四字旋读，篆楷对钱，背面光素无文。",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。明道元宝为宋仁宗赵祯明道年间（公元1032年—1033年）铸行。制作流程为：先雕刻明道元宝阴文母范（含面文\"明道元宝\"四字），篆楷对钱，中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。明道年号仅两年，铸量尚多。",
     "coreBackground": "明道年号仅两年，铸量尚多。",
-    "images": {
-      "main": "/images/coins/北宋钱币/明道元宝/main.jpg",
-      "variants": [
-        {
-          "src": "/images/coins/北宋钱币/明道元宝/variant_1.jpg",
-          "alt": "明道元宝 - 版别1",
-          "label": "版别1"
-        },
-        {
-          "src": "/images/coins/北宋钱币/明道元宝/variant_2.jpg",
-          "alt": "明道元宝 - 版别2",
-          "label": "版别2"
-        }
-      ]
-    },
-    "variantsTable": [
+    "variants": "篆书版、楷书版。",
+    "valueReference": "",
+    "valueTable": [
       {
         "variant": "篆书/楷书",
-        "description": "篆书版、楷书版",
-        "grade": "九级（较多） 普品",
+        "grade": "普品",
         "priceRange": "5—15元",
         "notes": ""
       },
       {
         "variant": "篆书/楷书",
-        "description": "篆书版、楷书版",
-        "grade": "九级（较多） 美品",
+        "grade": "美品",
         "priceRange": "15—50元",
         "notes": ""
       }
-    ]
+    ],
+    "images": {
+      "main": "/images/coins/l-北宋钱币/明道元宝/main.jpg",
+      "variants": [
+        {
+          "src": "/images/coins/l-北宋钱币/明道元宝/variant_1.jpg",
+          "alt": "明道元宝 - 版别1",
+          "label": "版别1"
+        },
+        {
+          "src": "/images/coins/l-北宋钱币/明道元宝/variant_2.jpg",
+          "alt": "明道元宝 - 版别2",
+          "label": "版别2"
+        }
+      ]
+    }
   },
   "11-11": {
     "castingTime": "宋仁宗赵祯景祐年间（公元1034年—1038年）。",
@@ -519,42 +473,42 @@
     "obverseFeatures": "面文\"景祐元宝\"，四字旋读，篆楷对钱，背面光素无文。",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。景祐元宝为宋仁宗赵祯景祐年间（公元1034年—1038年）铸行。制作流程为：先雕刻景祐元宝阴文母范（含面文\"景祐元宝\"四字），篆楷对钱，中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。铸量较大。",
     "coreBackground": "景祐年间铸量较大。",
-    "images": {
-      "main": "/images/coins/北宋钱币/景祐元宝/main.jpg",
-      "variants": [
-        {
-          "src": "/images/coins/北宋钱币/景祐元宝/variant_1.jpg",
-          "alt": "景祐元宝 - 版别1",
-          "label": "版别1"
-        },
-        {
-          "src": "/images/coins/北宋钱币/景祐元宝/variant_2.jpg",
-          "alt": "景祐元宝 - 版别2",
-          "label": "版别2"
-        },
-        {
-          "src": "/images/coins/北宋钱币/景祐元宝/variant_3.jpg",
-          "alt": "景祐元宝 - 版别3",
-          "label": "版别3"
-        }
-      ]
-    },
-    "variantsTable": [
+    "variants": "篆书版、楷书版。",
+    "valueReference": "",
+    "valueTable": [
       {
         "variant": "篆书/楷书",
-        "description": "篆书版、楷书版",
-        "grade": "九级（较多） 普品",
+        "grade": "普品",
         "priceRange": "5—15元",
         "notes": ""
       },
       {
         "variant": "篆书/楷书",
-        "description": "篆书版、楷书版",
-        "grade": "九级（较多） 美品",
+        "grade": "美品",
         "priceRange": "15—50元",
         "notes": ""
       }
-    ]
+    ],
+    "images": {
+      "main": "/images/coins/l-北宋钱币/景祐元宝/main.jpg",
+      "variants": [
+        {
+          "src": "/images/coins/l-北宋钱币/景祐元宝/variant_1.jpg",
+          "alt": "景祐元宝 - 版别1",
+          "label": "版别1"
+        },
+        {
+          "src": "/images/coins/l-北宋钱币/景祐元宝/variant_2.jpg",
+          "alt": "景祐元宝 - 版别2",
+          "label": "版别2"
+        },
+        {
+          "src": "/images/coins/l-北宋钱币/景祐元宝/variant_3.jpg",
+          "alt": "景祐元宝 - 版别3",
+          "label": "版别3"
+        }
+      ]
+    }
   },
   "11-12": {
     "castingTime": "宋仁宗赵祯宝元二年（公元1039年）始铸。",
@@ -563,47 +517,32 @@
     "obverseFeatures": "* 面文\"皇宋通宝\"，四字对读\n* 有篆书、楷书两种书体对钱\n* 九叠篆书体为极品珍品\n* 外廓规整\n* 背面光素无文",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。皇宋通宝为宋仁宗赵祯宝元二年（公元1039年）始铸，为非年号钱。制作流程为：先雕刻皇宋通宝阴文母范（含面文\"皇宋通宝\"四字），有篆书、楷书两种书体，中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。铸量极为巨大，是北宋最常见的钱币之一。九叠篆版为极品珍品，九叠篆是一种极其繁复的篆书变体，笔画反复折叠，用于钱文极为罕见，存世仅数枚。",
     "coreBackground": "* 皇宋通宝为非年号钱，\"皇宋\"意为\"大宋\"，非具体年号\n* 铸量极为巨大，是北宋最常见的钱币之一\n* 九叠篆书体皇宋通宝为北宋钱币中的顶级名珍，存世仅数枚，据华光普《中国古钱目录》记载为一级（大珍）\n* 九叠篆是一种极其繁复的篆书变体，笔画反复折叠，用于钱文极为罕见",
-    "images": {
-      "main": "/images/coins/北宋钱币/皇宋通宝/main.jpg",
-      "variants": []
-    },
-    "variantsTable": [
+    "variants": "* **篆书版**：普通篆书，最为常见\n* **楷书版**：楷书面文，最为常见\n* **九叠篆版**：面文为九叠篆书体，极品珍品，存世仅数枚\n* **大字版**：面文字体较大",
+    "valueReference": "",
+    "valueTable": [
       {
         "variant": "篆书/楷书",
-        "description": "普通篆书，最为常见",
-        "grade": "十级（多泛） 普品",
+        "grade": "普品",
         "priceRange": "3—10元",
         "notes": "极常见"
       },
       {
         "variant": "篆书/楷书",
-        "description": "普通篆书，最为常见",
-        "grade": "十级（多泛） 美品",
+        "grade": "美品",
         "priceRange": "10—30元",
         "notes": ""
       },
       {
         "variant": "九叠篆",
-        "description": "面文为九叠篆书体，极品珍品，存世仅数枚",
-        "grade": "四级（罕） 美品以上",
+        "grade": "美品以上",
         "priceRange": "50000—200000元",
         "notes": "顶级大珍，存世仅数枚"
-      },
-      {
-        "variant": "楷书版",
-        "description": "楷书面文，最为常见",
-        "grade": "十级（多泛）",
-        "priceRange": "",
-        "notes": ""
-      },
-      {
-        "variant": "大字版",
-        "description": "面文字体较大",
-        "grade": "九级（较多）",
-        "priceRange": "",
-        "notes": ""
       }
-    ]
+    ],
+    "images": {
+      "main": "/images/coins/l-北宋钱币/皇宋通宝/main.jpg",
+      "variants": []
+    }
   },
   "11-13": {
     "castingTime": "宋仁宗赵祯康定元年（公元1040年）。",
@@ -612,33 +551,32 @@
     "obverseFeatures": "面文\"康定元宝\"，四字旋读，楷书，铁钱铸工尚可。",
     "castingCraft": "采用范铸法（铁范），一范多钱。康定元宝为宋仁宗赵祯康定元年（公元1040年）铸行。制作流程为：先雕刻康定元宝阴文母范（含面文\"康定元宝\"四字，楷书），中央方孔设金属芯；合范浇铸熔融铁液，冷却脱范后逐枚修整。康定年号仅一年，因对西夏战争军费开支巨大，铸行铁钱。铜品极罕见。",
     "coreBackground": "康定年号仅一年，因对西夏战争军费开支巨大，铸行铁钱。铜品极罕见。",
-    "images": {
-      "main": "",
-      "variants": []
-    },
-    "variantsTable": [
+    "variants": "铁钱版为主，铜品极罕见。",
+    "valueReference": "",
+    "valueTable": [
       {
         "variant": "铁钱",
-        "description": "铁钱版为主，铜品极罕见",
-        "grade": "六级（稀） 普品",
+        "grade": "普品",
         "priceRange": "500—1500元",
         "notes": ""
       },
       {
         "variant": "铁钱",
-        "description": "铁钱版为主，铜品极罕见",
-        "grade": "六级（稀） 美品",
+        "grade": "美品",
         "priceRange": "1500—3000元",
         "notes": ""
       },
       {
         "variant": "铜品",
-        "description": "铁钱版为主，铜品极罕见",
-        "grade": "六级（稀） 美品以上",
+        "grade": "美品以上",
         "priceRange": "50000—150000元",
         "notes": "极罕见"
       }
-    ]
+    ],
+    "images": {
+      "main": "",
+      "variants": []
+    }
   },
   "11-14": {
     "castingTime": "宋仁宗赵祯庆历年间（公元1041年—1048年）。",
@@ -647,51 +585,43 @@
     "obverseFeatures": "* 面文\"庆历重宝\"，四字对读，楷书\n* 当十型大钱，一枚当十枚小平钱\n* 铜铁并行\n* 背面光素无文",
     "castingCraft": "采用范铸法（铜范、铁范或砂范），一范多钱。庆历重宝为宋仁宗赵祯庆历年间（公元1041年—1048年）铸行，为当十型大钱。制作流程为：先雕刻庆历重宝阴文母范（含面文\"庆历重宝\"四字，楷书），当十型大钱，中央方孔设金属芯；合范浇铸熔融青铜液或铁液，冷却脱范后逐枚修整。铜铁并行，因对西夏战争军费开支巨大而铸行当十大钱。",
     "coreBackground": "* 庆历年间因对西夏战争，军费开支巨大，铸行当十大钱以弥补财政不足\n* 当十大钱为虚值货币，引发了通货膨胀",
-    "images": {
-      "main": "/images/coins/北宋钱币/庆历重宝/main.jpg",
-      "variants": [
-        {
-          "src": "/images/coins/北宋钱币/庆历重宝/variant_1.jpg",
-          "alt": "庆历重宝 - 版别1",
-          "label": "版别1"
-        },
-        {
-          "src": "/images/coins/北宋钱币/庆历重宝/variant_2.jpg",
-          "alt": "庆历重宝 - 版别2",
-          "label": "版别2"
-        }
-      ]
-    },
-    "variantsTable": [
+    "variants": "* **铜品当十**：青铜铸造\n* **铁品当十**：铁质铸造",
+    "valueReference": "",
+    "valueTable": [
       {
         "variant": "铜品当十",
-        "description": "青铜铸造，直径约3.8—4.5cm，重约15—25g",
-        "grade": "九级（较多） 普品",
+        "grade": "普品",
         "priceRange": "20—80元",
         "notes": ""
       },
       {
         "variant": "铜品当十",
-        "description": "青铜铸造，直径约3.8—4.5cm，重约15—25g",
-        "grade": "九级（较多） 美品",
+        "grade": "美品",
         "priceRange": "80—200元",
         "notes": ""
       },
       {
         "variant": "铜品当十",
-        "description": "青铜铸造，直径约3.8—4.5cm，重约15—25g",
-        "grade": "九级（较多） 极美品",
+        "grade": "极美品",
         "priceRange": "200—300元",
         "notes": ""
-      },
-      {
-        "variant": "铁品当十",
-        "description": "铁质铸造，直径约3.8—4.5cm，重约15—25g",
-        "grade": "九级（较多）",
-        "priceRange": "",
-        "notes": ""
       }
-    ]
+    ],
+    "images": {
+      "main": "/images/coins/l-北宋钱币/庆历重宝/main.jpg",
+      "variants": [
+        {
+          "src": "/images/coins/l-北宋钱币/庆历重宝/variant_1.jpg",
+          "alt": "庆历重宝 - 铜品当十",
+          "label": "铜品当十"
+        },
+        {
+          "src": "/images/coins/l-北宋钱币/庆历重宝/variant_2.jpg",
+          "alt": "庆历重宝 - 铁品当十",
+          "label": "铁品当十"
+        }
+      ]
+    }
   },
   "11-15": {
     "castingTime": "宋仁宗赵祯至和年间（公元1054年—1056年）。",
@@ -700,37 +630,37 @@
     "obverseFeatures": "面文\"至和元宝\"，四字旋读，篆楷对钱，背面光素无文。",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。至和元宝为宋仁宗赵祯至和年间（公元1054年—1056年）铸行。制作流程为：先雕刻至和元宝阴文母范（含面文\"至和元宝\"四字），篆楷对钱，中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。铸量较大。",
     "coreBackground": "至和年间铸量较大。",
-    "images": {
-      "main": "/images/coins/北宋钱币/至和元宝/main.jpg",
-      "variants": [
-        {
-          "src": "/images/coins/北宋钱币/至和元宝/variant_1.jpg",
-          "alt": "至和元宝 - 版别1",
-          "label": "版别1"
-        },
-        {
-          "src": "/images/coins/北宋钱币/至和元宝/variant_2.jpg",
-          "alt": "至和元宝 - 版别2",
-          "label": "版别2"
-        }
-      ]
-    },
-    "variantsTable": [
+    "variants": "篆书版、楷书版。",
+    "valueReference": "",
+    "valueTable": [
       {
         "variant": "篆书/楷书",
-        "description": "篆书版、楷书版",
-        "grade": "九级（较多） 普品",
+        "grade": "普品",
         "priceRange": "5—15元",
         "notes": ""
       },
       {
         "variant": "篆书/楷书",
-        "description": "篆书版、楷书版",
-        "grade": "九级（较多） 美品",
+        "grade": "美品",
         "priceRange": "15—50元",
         "notes": ""
       }
-    ]
+    ],
+    "images": {
+      "main": "/images/coins/l-北宋钱币/至和元宝/main.jpg",
+      "variants": [
+        {
+          "src": "/images/coins/l-北宋钱币/至和元宝/variant_1.jpg",
+          "alt": "至和元宝 - 版别1",
+          "label": "版别1"
+        },
+        {
+          "src": "/images/coins/l-北宋钱币/至和元宝/variant_2.jpg",
+          "alt": "至和元宝 - 版别2",
+          "label": "版别2"
+        }
+      ]
+    }
   },
   "11-16": {
     "castingTime": "宋仁宗赵祯至和年间（公元1054年—1056年）。",
@@ -739,26 +669,26 @@
     "obverseFeatures": "面文\"至和通宝\"，四字对读，篆楷对钱，背面光素无文。",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。至和通宝为宋仁宗赵祯至和年间（公元1054年—1056年）铸行，与至和元宝并行。制作流程为：先雕刻至和通宝阴文母范（含面文\"至和通宝\"四字），篆楷对钱，中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。\"通宝\"为对读，\"元宝\"为旋读。",
     "coreBackground": "与至和元宝并行铸行，\"通宝\"为对读，\"元宝\"为旋读。",
-    "images": {
-      "main": "/images/coins/北宋钱币/至和通宝/main.jpg",
-      "variants": []
-    },
-    "variantsTable": [
+    "variants": "篆书版、楷书版。",
+    "valueReference": "",
+    "valueTable": [
       {
         "variant": "篆书/楷书",
-        "description": "篆书版、楷书版",
-        "grade": "九级（较多） 普品",
+        "grade": "普品",
         "priceRange": "5—15元",
         "notes": ""
       },
       {
         "variant": "篆书/楷书",
-        "description": "篆书版、楷书版",
-        "grade": "九级（较多） 美品",
+        "grade": "美品",
         "priceRange": "15—50元",
         "notes": ""
       }
-    ]
+    ],
+    "images": {
+      "main": "/images/coins/l-北宋钱币/至和通宝/main.jpg",
+      "variants": []
+    }
   },
   "11-17": {
     "castingTime": "宋仁宗赵祯至和年间（公元1054年—1056年）。",
@@ -767,49 +697,48 @@
     "obverseFeatures": "面文\"至和重宝\"，四字对读，楷书，背面有纪地文字或光背。",
     "castingCraft": "采用范铸法（铜范或铁范），一范多钱。至和重宝为宋仁宗赵祯至和年间（公元1054年—1056年）铸行，有折二、折三两种型制。制作流程为：先雕刻至和重宝阴文母范（含面文\"至和重宝\"四字，楷书），中央方孔设金属芯；合范浇铸熔融青铜液或铁液，冷却脱范后逐枚修整。铁钱多见，铜品较少。",
     "coreBackground": "至和重宝有折二、折三两种型制，铁钱多见，铜品较少。",
-    "images": {
-      "main": "/images/coins/北宋钱币/至和重宝/main.jpg",
-      "variants": [
-        {
-          "src": "/images/coins/北宋钱币/至和重宝/variant_1.jpg",
-          "alt": "至和重宝 - 版别1",
-          "label": "版别1"
-        },
-        {
-          "src": "/images/coins/北宋钱币/至和重宝/variant_2.jpg",
-          "alt": "至和重宝 - 版别2",
-          "label": "版别2"
-        },
-        {
-          "src": "/images/coins/北宋钱币/至和重宝/variant_3.jpg",
-          "alt": "至和重宝 - 版别3",
-          "label": "版别3"
-        }
-      ]
-    },
-    "variantsTable": [
+    "variants": "铜品折二、铜品折三、铁品。",
+    "valueReference": "",
+    "valueTable": [
       {
         "variant": "铜品折二",
-        "description": "铜品折二、铜品折三、铁品，直径约2.8厘米，重约5—7g",
-        "grade": "七级（甚少） 美品",
+        "grade": "美品",
         "priceRange": "200—800元",
         "notes": "较少见"
       },
       {
         "variant": "铜品折三",
-        "description": "铜品折二、铜品折三、铁品，直径约3.0厘米，重约8—10g",
-        "grade": "八级（少） 美品",
+        "grade": "美品",
         "priceRange": "500—2000元",
         "notes": "少见"
       },
       {
         "variant": "铁品",
-        "description": "铜品折二、铜品折三、铁品",
-        "grade": "九级（较多） 普品",
+        "grade": "普品",
         "priceRange": "50—200元",
         "notes": ""
       }
-    ]
+    ],
+    "images": {
+      "main": "/images/coins/l-北宋钱币/至和重宝/main.jpg",
+      "variants": [
+        {
+          "src": "/images/coins/l-北宋钱币/至和重宝/variant_1.jpg",
+          "alt": "至和重宝 - 版别1",
+          "label": "版别1"
+        },
+        {
+          "src": "/images/coins/l-北宋钱币/至和重宝/variant_2.jpg",
+          "alt": "至和重宝 - 版别2",
+          "label": "版别2"
+        },
+        {
+          "src": "/images/coins/l-北宋钱币/至和重宝/variant_3.jpg",
+          "alt": "至和重宝 - 版别3",
+          "label": "版别3"
+        }
+      ]
+    }
   },
   "11-18": {
     "castingTime": "宋仁宗赵祯嘉祐年间（公元1056年—1063年）。",
@@ -818,37 +747,37 @@
     "obverseFeatures": "面文\"嘉祐元宝\"，四字旋读，篆楷对钱，背面光素无文。",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。嘉祐元宝为宋仁宗赵祯嘉祐年间（公元1056年—1063年）铸行。制作流程为：先雕刻嘉祐元宝阴文母范（含面文\"嘉祐元宝\"四字），篆楷对钱，中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。嘉祐为仁宗最后一个年号，铸量大。",
     "coreBackground": "嘉祐为仁宗最后一个年号，铸量大。",
-    "images": {
-      "main": "/images/coins/北宋钱币/嘉祐元宝/main.jpg",
-      "variants": [
-        {
-          "src": "/images/coins/北宋钱币/嘉祐元宝/variant_1.jpg",
-          "alt": "嘉祐元宝 - 版别1",
-          "label": "版别1"
-        },
-        {
-          "src": "/images/coins/北宋钱币/嘉祐元宝/variant_2.jpg",
-          "alt": "嘉祐元宝 - 版别2",
-          "label": "版别2"
-        }
-      ]
-    },
-    "variantsTable": [
+    "variants": "篆书版、楷书版。",
+    "valueReference": "",
+    "valueTable": [
       {
         "variant": "篆书/楷书",
-        "description": "篆书版、楷书版",
-        "grade": "九级（较多） 普品",
+        "grade": "普品",
         "priceRange": "5—15元",
         "notes": ""
       },
       {
         "variant": "篆书/楷书",
-        "description": "篆书版、楷书版",
-        "grade": "九级（较多） 美品",
+        "grade": "美品",
         "priceRange": "15—50元",
         "notes": ""
       }
-    ]
+    ],
+    "images": {
+      "main": "/images/coins/l-北宋钱币/嘉祐元宝/main.jpg",
+      "variants": [
+        {
+          "src": "/images/coins/l-北宋钱币/嘉祐元宝/variant_1.jpg",
+          "alt": "嘉祐元宝 - 版别1",
+          "label": "版别1"
+        },
+        {
+          "src": "/images/coins/l-北宋钱币/嘉祐元宝/variant_2.jpg",
+          "alt": "嘉祐元宝 - 版别2",
+          "label": "版别2"
+        }
+      ]
+    }
   },
   "11-19": {
     "castingTime": "宋仁宗赵祯嘉祐年间（公元1056年—1063年）。",
@@ -857,37 +786,37 @@
     "obverseFeatures": "面文\"嘉祐通宝\"，四字对读，篆楷对钱，背面光素无文。",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。嘉祐通宝为宋仁宗赵祯嘉祐年间（公元1056年—1063年）铸行，与嘉祐元宝并行。制作流程为：先雕刻嘉祐通宝阴文母范（含面文\"嘉祐通宝\"四字），篆楷对钱，中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。",
     "coreBackground": "与嘉祐元宝并行铸行。",
-    "images": {
-      "main": "/images/coins/北宋钱币/嘉祐通宝/main.jpg",
-      "variants": [
-        {
-          "src": "/images/coins/北宋钱币/嘉祐通宝/variant_1.jpg",
-          "alt": "嘉祐通宝 - 版别1",
-          "label": "版别1"
-        },
-        {
-          "src": "/images/coins/北宋钱币/嘉祐通宝/variant_2.jpg",
-          "alt": "嘉祐通宝 - 版别2",
-          "label": "版别2"
-        }
-      ]
-    },
-    "variantsTable": [
+    "variants": "篆书版、楷书版。",
+    "valueReference": "",
+    "valueTable": [
       {
         "variant": "篆书/楷书",
-        "description": "篆书版、楷书版",
-        "grade": "九级（较多） 普品",
+        "grade": "普品",
         "priceRange": "5—15元",
         "notes": ""
       },
       {
         "variant": "篆书/楷书",
-        "description": "篆书版、楷书版",
-        "grade": "九级（较多） 美品",
+        "grade": "美品",
         "priceRange": "15—50元",
         "notes": ""
       }
-    ]
+    ],
+    "images": {
+      "main": "/images/coins/l-北宋钱币/嘉祐通宝/main.jpg",
+      "variants": [
+        {
+          "src": "/images/coins/l-北宋钱币/嘉祐通宝/variant_1.jpg",
+          "alt": "嘉祐通宝 - 版别1",
+          "label": "版别1"
+        },
+        {
+          "src": "/images/coins/l-北宋钱币/嘉祐通宝/variant_2.jpg",
+          "alt": "嘉祐通宝 - 版别2",
+          "label": "版别2"
+        }
+      ]
+    }
   },
   "11-20": {
     "castingTime": "宋仁宗赵祯嘉祐年间（公元1056年—1063年）。",
@@ -896,26 +825,26 @@
     "obverseFeatures": "面文\"嘉祐重宝\"，四字对读，楷书，铁钱，背面光素无文。",
     "castingCraft": "采用范铸法（铁范），一范多钱。嘉祐重宝为宋仁宗赵祯嘉祐年间（公元1056年—1063年）铸行，为折三型铁钱。制作流程为：先雕刻嘉祐重宝阴文母范（含面文\"嘉祐重宝\"四字，楷书），中央方孔设金属芯；合范浇铸熔融铁液，冷却脱范后逐枚修整。铜品极罕见。",
     "coreBackground": "嘉祐重宝为铁钱，铜品极罕见。",
-    "images": {
-      "main": "",
-      "variants": []
-    },
-    "variantsTable": [
+    "variants": "仅见铁钱折三型。",
+    "valueReference": "",
+    "valueTable": [
       {
         "variant": "铁钱",
-        "description": "仅见铁钱折三型",
-        "grade": "七级（甚少） 普品",
+        "grade": "普品",
         "priceRange": "200—500元",
         "notes": ""
       },
       {
         "variant": "铁钱",
-        "description": "仅见铁钱折三型",
-        "grade": "七级（甚少） 美品",
+        "grade": "美品",
         "priceRange": "500—2000元",
         "notes": ""
       }
-    ]
+    ],
+    "images": {
+      "main": "",
+      "variants": []
+    }
   },
   "11-21": {
     "castingTime": "宋英宗赵曙治平年间（公元1064年—1067年）。",
@@ -924,42 +853,42 @@
     "obverseFeatures": "面文\"治平元宝\"，四字旋读，篆楷对钱，背面光素无文。",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。治平元宝为宋英宗赵曙治平年间（公元1064年—1067年）铸行。制作流程为：先雕刻治平元宝阴文母范（含面文\"治平元宝\"四字），篆楷对钱，中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。英宗在位仅四年，铸量尚多。",
     "coreBackground": "英宗在位仅四年，治平铸量尚多。",
-    "images": {
-      "main": "/images/coins/北宋钱币/治平元宝/main.jpg",
-      "variants": [
-        {
-          "src": "/images/coins/北宋钱币/治平元宝/variant_1.jpg",
-          "alt": "治平元宝 - 版别1",
-          "label": "版别1"
-        },
-        {
-          "src": "/images/coins/北宋钱币/治平元宝/variant_2.jpg",
-          "alt": "治平元宝 - 版别2",
-          "label": "版别2"
-        },
-        {
-          "src": "/images/coins/北宋钱币/治平元宝/variant_3.jpg",
-          "alt": "治平元宝 - 版别3",
-          "label": "版别3"
-        }
-      ]
-    },
-    "variantsTable": [
+    "variants": "篆书版、楷书版。",
+    "valueReference": "",
+    "valueTable": [
       {
         "variant": "篆书/楷书",
-        "description": "篆书版、楷书版",
-        "grade": "九级（较多） 普品",
+        "grade": "普品",
         "priceRange": "5—15元",
         "notes": ""
       },
       {
         "variant": "篆书/楷书",
-        "description": "篆书版、楷书版",
-        "grade": "九级（较多） 美品",
+        "grade": "美品",
         "priceRange": "15—50元",
         "notes": ""
       }
-    ]
+    ],
+    "images": {
+      "main": "/images/coins/l-北宋钱币/治平元宝/main.jpg",
+      "variants": [
+        {
+          "src": "/images/coins/l-北宋钱币/治平元宝/variant_1.jpg",
+          "alt": "治平元宝 - 版别1",
+          "label": "版别1"
+        },
+        {
+          "src": "/images/coins/l-北宋钱币/治平元宝/variant_2.jpg",
+          "alt": "治平元宝 - 版别2",
+          "label": "版别2"
+        },
+        {
+          "src": "/images/coins/l-北宋钱币/治平元宝/variant_3.jpg",
+          "alt": "治平元宝 - 版别3",
+          "label": "版别3"
+        }
+      ]
+    }
   },
   "11-22": {
     "castingTime": "宋英宗赵曙治平年间（公元1064年—1067年）。",
@@ -968,42 +897,42 @@
     "obverseFeatures": "面文\"治平通宝\"，四字对读，篆楷对钱，背面光素无文。",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。治平通宝为宋英宗赵曙治平年间（公元1064年—1067年）铸行，与治平元宝并行。制作流程为：先雕刻治平通宝阴文母范（含面文\"治平通宝\"四字），篆楷对钱，中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。",
     "coreBackground": "与治平元宝并行铸行。",
-    "images": {
-      "main": "/images/coins/北宋钱币/治平通宝/main.jpg",
-      "variants": [
-        {
-          "src": "/images/coins/北宋钱币/治平通宝/variant_1.jpg",
-          "alt": "治平通宝 - 版别1",
-          "label": "版别1"
-        },
-        {
-          "src": "/images/coins/北宋钱币/治平通宝/variant_2.jpg",
-          "alt": "治平通宝 - 版别2",
-          "label": "版别2"
-        },
-        {
-          "src": "/images/coins/北宋钱币/治平通宝/variant_3.jpg",
-          "alt": "治平通宝 - 版别3",
-          "label": "版别3"
-        }
-      ]
-    },
-    "variantsTable": [
+    "variants": "篆书版、楷书版。",
+    "valueReference": "",
+    "valueTable": [
       {
         "variant": "篆书/楷书",
-        "description": "篆书版、楷书版",
-        "grade": "九级（较多） 普品",
+        "grade": "普品",
         "priceRange": "5—15元",
         "notes": ""
       },
       {
         "variant": "篆书/楷书",
-        "description": "篆书版、楷书版",
-        "grade": "九级（较多） 美品",
+        "grade": "美品",
         "priceRange": "15—50元",
         "notes": ""
       }
-    ]
+    ],
+    "images": {
+      "main": "/images/coins/l-北宋钱币/治平通宝/main.jpg",
+      "variants": [
+        {
+          "src": "/images/coins/l-北宋钱币/治平通宝/variant_1.jpg",
+          "alt": "治平通宝 - 版别1",
+          "label": "版别1"
+        },
+        {
+          "src": "/images/coins/l-北宋钱币/治平通宝/variant_2.jpg",
+          "alt": "治平通宝 - 版别2",
+          "label": "版别2"
+        },
+        {
+          "src": "/images/coins/l-北宋钱币/治平通宝/variant_3.jpg",
+          "alt": "治平通宝 - 版别3",
+          "label": "版别3"
+        }
+      ]
+    }
   },
   "11-23": {
     "castingTime": "宋神宗赵顼熙宁年间（公元1068年—1077年）。",
@@ -1012,58 +941,43 @@
     "obverseFeatures": "* 面文\"熙宁元宝\"，四字旋读，篆楷对钱\n* 版别繁多\n* 背面有光背、背星月、背文字",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。熙宁元宝为宋神宗赵顼熙宁年间（公元1068年—1077年）铸行。制作流程为：先雕刻熙宁元宝阴文母范（含面文\"熙宁元宝\"四字），篆楷对钱，中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。熙宁年间为王安石变法时期，铸量大，版别繁多，是北宋常见钱币之一。",
     "coreBackground": "* 熙宁年间为王安石变法时期，铸量大，版别繁多\n* 熙宁元宝是北宋常见钱币之一",
-    "images": {
-      "main": "/images/coins/北宋钱币/熙宁元宝/main.jpg",
-      "variants": [
-        {
-          "src": "/images/coins/北宋钱币/熙宁元宝/variant_1.jpg",
-          "alt": "熙宁元宝 - 版别1",
-          "label": "版别1"
-        },
-        {
-          "src": "/images/coins/北宋钱币/熙宁元宝/variant_2.jpg",
-          "alt": "熙宁元宝 - 版别2",
-          "label": "版别2"
-        }
-      ]
-    },
-    "variantsTable": [
+    "variants": "* **篆书版**：篆书面文\n* **楷书版**：楷书面文\n* **背星月版**：背面铸星月纹\n* **阔缘版**：外廓较宽",
+    "valueReference": "",
+    "valueTable": [
       {
         "variant": "篆书/楷书",
-        "description": "篆书面文",
-        "grade": "九级（较多） 普品",
+        "grade": "普品",
         "priceRange": "5—15元",
         "notes": "极常见"
       },
       {
         "variant": "篆书/楷书",
-        "description": "篆书面文",
-        "grade": "九级（较多） 美品",
+        "grade": "美品",
         "priceRange": "15—50元",
         "notes": ""
       },
       {
         "variant": "背星月",
-        "description": "背面铸星月纹",
-        "grade": "九级（较多） 美品",
+        "grade": "美品",
         "priceRange": "30—100元",
         "notes": ""
-      },
-      {
-        "variant": "楷书版",
-        "description": "楷书面文",
-        "grade": "九级（较多）",
-        "priceRange": "",
-        "notes": ""
-      },
-      {
-        "variant": "阔缘版",
-        "description": "外廓较宽",
-        "grade": "九级（较多）",
-        "priceRange": "",
-        "notes": ""
       }
-    ]
+    ],
+    "images": {
+      "main": "/images/coins/l-北宋钱币/熙宁元宝/main.jpg",
+      "variants": [
+        {
+          "src": "/images/coins/l-北宋钱币/熙宁元宝/variant_1.jpg",
+          "alt": "熙宁元宝 - 篆书版",
+          "label": "篆书版"
+        },
+        {
+          "src": "/images/coins/l-北宋钱币/熙宁元宝/variant_2.jpg",
+          "alt": "熙宁元宝 - 楷书版",
+          "label": "楷书版"
+        }
+      ]
+    }
   },
   "11-24": {
     "castingTime": "宋神宗赵顼熙宁年间（公元1068年—1077年）。",
@@ -1072,42 +986,42 @@
     "obverseFeatures": "面文\"熙宁通宝\"，四字对读，楷书，折二型，背面光素无文。",
     "castingCraft": "采用范铸法（铜范或铁范），一范多钱。熙宁通宝为宋神宗赵顼熙宁年间（公元1068年—1077年）铸行，为折二型。制作流程为：先雕刻熙宁通宝阴文母范（含面文\"熙宁通宝\"四字，楷书），中央方孔设金属芯；合范浇铸熔融青铜液或铁液，冷却脱范后逐枚修整。铁钱多见，铜品较少。",
     "coreBackground": "熙宁通宝为折二型，铁钱多见，铜品较少。",
-    "images": {
-      "main": "/images/coins/北宋钱币/熙宁通宝/main.jpg",
-      "variants": [
-        {
-          "src": "/images/coins/北宋钱币/熙宁通宝/variant_1.jpg",
-          "alt": "熙宁通宝 - 版别1",
-          "label": "版别1"
-        },
-        {
-          "src": "/images/coins/北宋钱币/熙宁通宝/variant_2.jpg",
-          "alt": "熙宁通宝 - 版别2",
-          "label": "版别2"
-        },
-        {
-          "src": "/images/coins/北宋钱币/熙宁通宝/variant_3.jpg",
-          "alt": "熙宁通宝 - 版别3",
-          "label": "版别3"
-        }
-      ]
-    },
-    "variantsTable": [
+    "variants": "铜品折二、铁品折二。",
+    "valueReference": "",
+    "valueTable": [
       {
         "variant": "铁品",
-        "description": "铜品折二、铁品折二",
-        "grade": "九级（较多） 普品",
+        "grade": "普品",
         "priceRange": "100—300元",
         "notes": ""
       },
       {
         "variant": "铜品",
-        "description": "铜品折二、铁品折二",
-        "grade": "七级（甚少） 美品",
+        "grade": "美品",
         "priceRange": "300—1000元",
         "notes": "较少见"
       }
-    ]
+    ],
+    "images": {
+      "main": "/images/coins/l-北宋钱币/熙宁通宝/main.jpg",
+      "variants": [
+        {
+          "src": "/images/coins/l-北宋钱币/熙宁通宝/variant_1.jpg",
+          "alt": "熙宁通宝 - 版别1",
+          "label": "版别1"
+        },
+        {
+          "src": "/images/coins/l-北宋钱币/熙宁通宝/variant_2.jpg",
+          "alt": "熙宁通宝 - 版别2",
+          "label": "版别2"
+        },
+        {
+          "src": "/images/coins/l-北宋钱币/熙宁通宝/variant_3.jpg",
+          "alt": "熙宁通宝 - 版别3",
+          "label": "版别3"
+        }
+      ]
+    }
   },
   "11-25": {
     "castingTime": "宋神宗赵顼熙宁年间（公元1068年—1077年）。",
@@ -1116,42 +1030,42 @@
     "obverseFeatures": "面文\"熙宁重宝\"，四字对读，楷书，折二型，背面光素无文或背星月。",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。熙宁重宝为宋神宗赵顼熙宁年间（公元1068年—1077年）铸行，为折二型大钱。制作流程为：先雕刻熙宁重宝阴文母范（含面文\"熙宁重宝\"四字，楷书），中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。铸量大。",
     "coreBackground": "熙宁重宝为折二型大钱，铸量大。",
-    "images": {
-      "main": "/images/coins/北宋钱币/熙宁重宝/main.jpg",
-      "variants": [
-        {
-          "src": "/images/coins/北宋钱币/熙宁重宝/variant_1.jpg",
-          "alt": "熙宁重宝 - 版别1",
-          "label": "版别1"
-        },
-        {
-          "src": "/images/coins/北宋钱币/熙宁重宝/variant_2.jpg",
-          "alt": "熙宁重宝 - 版别2",
-          "label": "版别2"
-        },
-        {
-          "src": "/images/coins/北宋钱币/熙宁重宝/variant_3.jpg",
-          "alt": "熙宁重宝 - 版别3",
-          "label": "版别3"
-        }
-      ]
-    },
-    "variantsTable": [
+    "variants": "光背版、背星月版。",
+    "valueReference": "",
+    "valueTable": [
       {
         "variant": "光背",
-        "description": "光背版、背星月版",
-        "grade": "九级（较多） 普品",
+        "grade": "普品",
         "priceRange": "5—15元",
         "notes": ""
       },
       {
         "variant": "光背",
-        "description": "光背版、背星月版",
-        "grade": "九级（较多） 美品",
+        "grade": "美品",
         "priceRange": "15—50元",
         "notes": ""
       }
-    ]
+    ],
+    "images": {
+      "main": "/images/coins/l-北宋钱币/熙宁重宝/main.jpg",
+      "variants": [
+        {
+          "src": "/images/coins/l-北宋钱币/熙宁重宝/variant_1.jpg",
+          "alt": "熙宁重宝 - 版别1",
+          "label": "版别1"
+        },
+        {
+          "src": "/images/coins/l-北宋钱币/熙宁重宝/variant_2.jpg",
+          "alt": "熙宁重宝 - 版别2",
+          "label": "版别2"
+        },
+        {
+          "src": "/images/coins/l-北宋钱币/熙宁重宝/variant_3.jpg",
+          "alt": "熙宁重宝 - 版别3",
+          "label": "版别3"
+        }
+      ]
+    }
   },
   "11-26": {
     "castingTime": "宋神宗赵顼元丰年间（公元1078年—1085年）。",
@@ -1160,240 +1074,109 @@
     "obverseFeatures": "* 面文\"元丰通宝\"，有篆书、行书、隶书三种书体\n* 版别极多，居北宋钱币之冠\n* 背面有光背、背星月、背文字",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。元丰通宝为宋神宗赵顼元丰年间（公元1078年—1085年）铸行。制作流程为：先雕刻元丰通宝阴文母范（含面文\"元丰通宝\"四字），有篆书、行书、隶书三种书体，中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。元丰通宝是北宋铸量最大的钱币之一，版别极多，居北宋钱币之冠。据文献记载，元丰年间全国铸钱监达数十处，年铸量达数百万贯。另有铁母、铁范铜等特殊工艺版别。",
     "coreBackground": "* 元丰通宝是北宋铸量最大的钱币之一，版别极其复杂\n* 据文献记载，元丰年间全国铸钱监达数十处，年铸量达数百万贯\n* 元丰通宝的版别研究是宋代钱币学的重要领域",
-    "images": {
-      "main": "/images/coins/北宋钱币/元丰通宝/main.jpg",
-      "variants": [
-        {
-          "src": "/images/coins/北宋钱币/元丰通宝/variant_1.jpg",
-          "alt": "元丰通宝 - 版别1",
-          "label": "版别1"
-        },
-        {
-          "src": "/images/coins/北宋钱币/元丰通宝/variant_2.jpg",
-          "alt": "元丰通宝 - 版别2",
-          "label": "版别2"
-        }
-      ]
-    },
-    "variantsTable": [
+    "variants": "* **按书体分**：元丰通宝有篆书、行书、隶书三种书体，据《中国钱币大辞典》记载，版别极多，居北宋钱币之冠\n* **篆书版**：篆书面文，笔画圆润\n* **行书版**：行书面文，笔势流畅\n* **隶书版**：隶书面文，较为少见\n* **按面值分**：\n* **小平钱**：直径约2.4厘米，铸量最大\n* **折二型**：直径约2.8厘米，铸量较大\n* **按面文风格分（篆书小平）**：\n* **大字版**：面文字体较大\n* **小字版**：面文字体较小\n* **阔缘版**：外缘较宽\n* **窄缘版**：外缘较窄\n* **狭穿版**：穿孔较窄\n* **阔穿版**：穿孔较宽\n* **长\"元\"版**：\"元\"字较长\n* **短\"元\"版**：\"元\"字较短\n* **按面文风格分（行书小平）**：\n* **大字版**：面文字体较大\n* **小字版**：面文字体较小\n* **阔缘版**：外缘较宽\n* **连轮版**：文字与外廓相连\n* **离轮版**：文字与外廓分离\n* **特殊版别**：\n* **铁母**：铁钱的母钱，铜质精良，极为珍贵\n* **铁范铜**：以铁钱范铸造的铜钱，较为少见\n* **母钱**：铸工精整，字口深峻\n* **背星月**：背面铸有星纹或月纹，较为少见",
+    "valueReference": "",
+    "valueTable": [
       {
         "variant": "小平钱",
-        "description": "直径约2.4厘米，铸量最大，直径约2.4厘米，单枚重量约3.5克",
-        "grade": "九级（较多）",
+        "grade": "",
         "priceRange": "",
         "notes": ""
       },
       {
         "variant": "篆书/行书普通版",
-        "description": "篆书面文，笔画圆润",
-        "grade": "九级（较多） 普品",
+        "grade": "普品",
         "priceRange": "5—15元",
         "notes": "极常见"
       },
       {
         "variant": "篆书/行书普通版",
-        "description": "篆书面文，笔画圆润",
-        "grade": "九级（较多） 美品",
+        "grade": "美品",
         "priceRange": "15—50元",
         "notes": ""
       },
       {
         "variant": "隶书版",
-        "description": "隶书面文，较为少见",
-        "grade": "七级（甚少） 美品",
+        "grade": "美品",
         "priceRange": "30—100元",
         "notes": "较少见"
       },
       {
         "variant": "大字版",
-        "description": "面文字体较大",
-        "grade": "九级（较多） 美品",
+        "grade": "美品",
         "priceRange": "30—100元",
         "notes": ""
       },
       {
         "variant": "阔缘版",
-        "description": "外缘较宽",
-        "grade": "九级（较多） 美品",
+        "grade": "美品",
         "priceRange": "30—100元",
         "notes": ""
       },
       {
         "variant": "背星月",
-        "description": "背面铸有星纹或月纹，较为少见",
-        "grade": "七级（甚少） 美品",
+        "grade": "美品",
         "priceRange": "50—200元",
         "notes": "较少见"
       },
       {
         "variant": "折二型",
-        "description": "直径约2.8厘米，铸量较大，直径约2.8厘米，单枚重量约5克",
-        "grade": "九级（较多）",
+        "grade": "",
         "priceRange": "",
         "notes": ""
       },
       {
         "variant": "篆书/行书普通版",
-        "description": "篆书面文，笔画圆润",
-        "grade": "九级（较多） 普品",
+        "grade": "普品",
         "priceRange": "5—15元",
         "notes": ""
       },
       {
         "variant": "篆书/行书普通版",
-        "description": "篆书面文，笔画圆润",
-        "grade": "九级（较多） 美品",
+        "grade": "美品",
         "priceRange": "15—100元",
         "notes": ""
       },
       {
         "variant": "特殊版别",
-        "description": "特殊版别，存世较少",
-        "grade": "九级（较多）",
+        "grade": "",
         "priceRange": "",
         "notes": ""
       },
       {
         "variant": "铁母",
-        "description": "铁钱的母钱，铜质精良，极为珍贵",
-        "grade": "二级（珍） 美品以上",
+        "grade": "美品以上",
         "priceRange": "3000—10000元",
         "notes": "极珍贵"
       },
       {
         "variant": "铁范铜",
-        "description": "以铁钱范铸造的铜钱，较为少见",
-        "grade": "七级（甚少） 美品",
+        "grade": "美品",
         "priceRange": "500—2000元",
         "notes": "较少见"
       },
       {
         "variant": "母钱",
-        "description": "铁钱的母钱，铜质精良，极为珍贵",
-        "grade": "二级（珍） 美品以上",
+        "grade": "美品以上",
         "priceRange": "3000—10000元",
         "notes": "存世极少"
-      },
-      {
-        "variant": "按书体分",
-        "description": "元丰通宝有篆书、行书、隶书三种书体，据《中国钱币大辞典》记载，版别极多，居北宋钱币之冠",
-        "grade": "九级（较多）",
-        "priceRange": "",
-        "notes": ""
-      },
-      {
-        "variant": "行书版",
-        "description": "行书面文，笔势流畅",
-        "grade": "九级（较多）",
-        "priceRange": "",
-        "notes": ""
-      },
-      {
-        "variant": "按面值分",
-        "description": "按类别细分的版别",
-        "grade": "九级（较多）",
-        "priceRange": "",
-        "notes": ""
-      },
-      {
-        "variant": "按面文风格分（篆书小平）",
-        "description": "直径约2.3—2.5cm，重约3—4g",
-        "grade": "九级（较多）",
-        "priceRange": "",
-        "notes": ""
-      },
-      {
-        "variant": "小字版",
-        "description": "面文字体较小",
-        "grade": "九级（较多）",
-        "priceRange": "",
-        "notes": ""
-      },
-      {
-        "variant": "窄缘版",
-        "description": "外缘较窄",
-        "grade": "九级（较多）",
-        "priceRange": "",
-        "notes": ""
-      },
-      {
-        "variant": "狭穿版",
-        "description": "穿孔较窄",
-        "grade": "九级（较多）",
-        "priceRange": "",
-        "notes": ""
-      },
-      {
-        "variant": "阔穿版",
-        "description": "穿孔较宽",
-        "grade": "九级（较多）",
-        "priceRange": "",
-        "notes": ""
-      },
-      {
-        "variant": "长\"元\"版",
-        "description": "\"元\"字较长",
-        "grade": "九级（较多）",
-        "priceRange": "",
-        "notes": ""
-      },
-      {
-        "variant": "短\"元\"版",
-        "description": "\"元\"字较短",
-        "grade": "九级（较多）",
-        "priceRange": "",
-        "notes": ""
-      },
-      {
-        "variant": "按面文风格分（行书小平）",
-        "description": "直径约2.3—2.5cm，重约3—4g",
-        "grade": "九级（较多）",
-        "priceRange": "",
-        "notes": ""
-      },
-      {
-        "variant": "大字版",
-        "description": "面文字体较大",
-        "grade": "九级（较多）",
-        "priceRange": "",
-        "notes": ""
-      },
-      {
-        "variant": "小字版",
-        "description": "面文字体较小",
-        "grade": "九级（较多）",
-        "priceRange": "",
-        "notes": ""
-      },
-      {
-        "variant": "阔缘版",
-        "description": "外缘较宽",
-        "grade": "九级（较多）",
-        "priceRange": "",
-        "notes": ""
-      },
-      {
-        "variant": "连轮版",
-        "description": "文字与外廓相连",
-        "grade": "九级（较多）",
-        "priceRange": "",
-        "notes": ""
-      },
-      {
-        "variant": "离轮版",
-        "description": "文字与外廓分离",
-        "grade": "九级（较多）",
-        "priceRange": "",
-        "notes": ""
-      },
-      {
-        "variant": "母钱",
-        "description": "铸工精整，字口深峻",
-        "grade": "九级（较多）",
-        "priceRange": "",
-        "notes": ""
       }
-    ]
+    ],
+    "images": {
+      "main": "/images/coins/l-北宋钱币/元丰通宝/main.jpg",
+      "variants": [
+        {
+          "src": "/images/coins/l-北宋钱币/元丰通宝/variant_1.jpg",
+          "alt": "元丰通宝 - 按书体分",
+          "label": "按书体分"
+        },
+        {
+          "src": "/images/coins/l-北宋钱币/元丰通宝/variant_2.jpg",
+          "alt": "元丰通宝 - 篆书版",
+          "label": "篆书版"
+        }
+      ]
+    }
   },
   "11-27": {
     "castingTime": "宋神宗赵顼元丰年间（公元1078年—1085年）。",
@@ -1402,26 +1185,26 @@
     "obverseFeatures": "面文\"元丰重宝\"，四字对读，楷书，铁钱，背面光素无文。",
     "castingCraft": "采用范铸法（铁范），一范多钱。元丰重宝为宋神宗赵顼元丰年间（公元1078年—1085年）铸行，为折三型铁钱。制作流程为：先雕刻元丰重宝阴文母范（含面文\"元丰重宝\"四字，楷书），中央方孔设金属芯；合范浇铸熔融铁液，冷却脱范后逐枚修整。铜品极罕见。",
     "coreBackground": "元丰重宝为铁钱，铜品极罕见。",
-    "images": {
-      "main": "",
-      "variants": []
-    },
-    "variantsTable": [
+    "variants": "仅见铁钱折三型。",
+    "valueReference": "",
+    "valueTable": [
       {
         "variant": "铁钱",
-        "description": "仅见铁钱折三型",
-        "grade": "七级（甚少） 普品",
+        "grade": "普品",
         "priceRange": "500—1500元",
         "notes": ""
       },
       {
         "variant": "铁钱",
-        "description": "仅见铁钱折三型",
-        "grade": "七级（甚少） 美品",
+        "grade": "美品",
         "priceRange": "1500—3000元",
         "notes": ""
       }
-    ]
+    ],
+    "images": {
+      "main": "",
+      "variants": []
+    }
   },
   "11-28": {
     "castingTime": "宋哲宗赵煦元祐年间（公元1086年—1094年）。",
@@ -1430,63 +1213,48 @@
     "obverseFeatures": "* 面文\"元祐通宝\"，篆书与行书对钱\n* 传行书版为司马光手书，篆书版为苏轼手书\n* 铸工精整\n* 背面光素无文",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。元祐通宝为宋哲宗赵煦元祐年间（公元1086年—1094年）铸行。制作流程为：先雕刻元祐通宝阴文母范（含面文\"元祐通宝\"四字），篆书与行书对钱，中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。铸工精整，铸量大。传行书版为司马光手书，篆书版为苏轼手书，虽难以确证，但为此钱增添了文化魅力。",
     "coreBackground": "* 元祐年间为旧党执政时期，以司马光、苏轼为代表人物的旧党大臣活跃于政坛\n* 传说元祐通宝行书版为司马光手书、篆书版为苏轼手书，虽难以确证，但为此钱增添了文化魅力\n* 元祐通宝铸量大，但因其文化内涵而备受收藏者喜爱",
-    "images": {
-      "main": "/images/coins/北宋钱币/元祐通宝/main.jpg",
-      "variants": [
-        {
-          "src": "/images/coins/北宋钱币/元祐通宝/variant_1.jpg",
-          "alt": "元祐通宝 - 版别1",
-          "label": "版别1"
-        },
-        {
-          "src": "/images/coins/北宋钱币/元祐通宝/variant_2.jpg",
-          "alt": "元祐通宝 - 版别2",
-          "label": "版别2"
-        },
-        {
-          "src": "/images/coins/北宋钱币/元祐通宝/variant_3.jpg",
-          "alt": "元祐通宝 - 版别3",
-          "label": "版别3"
-        }
-      ]
-    },
-    "variantsTable": [
+    "variants": "* **篆书版**：篆书面文\n* **行书版**：行书面文\n* **小平钱**：直径约2.4厘米\n* **折二型**：直径约2.8厘米",
+    "valueReference": "",
+    "valueTable": [
       {
         "variant": "小平钱（各体）",
-        "description": "直径约2.4厘米，直径约2.4厘米，单枚重量约3.5克",
-        "grade": "九级（较多） 普品",
+        "grade": "普品",
         "priceRange": "10—30元",
         "notes": ""
       },
       {
         "variant": "小平钱（各体）",
-        "description": "直径约2.4厘米，直径约2.4厘米，单枚重量约3.5克",
-        "grade": "九级（较多） 美品",
+        "grade": "美品",
         "priceRange": "30—100元",
         "notes": ""
       },
       {
         "variant": "折二型",
-        "description": "直径约2.8厘米，直径约2.8厘米，单枚重量约5克",
-        "grade": "九级（较多） 美品",
+        "grade": "美品",
         "priceRange": "30—200元",
         "notes": ""
-      },
-      {
-        "variant": "篆书版",
-        "description": "篆书面文",
-        "grade": "九级（较多）",
-        "priceRange": "",
-        "notes": ""
-      },
-      {
-        "variant": "行书版",
-        "description": "行书面文",
-        "grade": "九级（较多）",
-        "priceRange": "",
-        "notes": ""
       }
-    ]
+    ],
+    "images": {
+      "main": "/images/coins/l-北宋钱币/元祐通宝/main.jpg",
+      "variants": [
+        {
+          "src": "/images/coins/l-北宋钱币/元祐通宝/variant_1.jpg",
+          "alt": "元祐通宝 - 篆书版",
+          "label": "篆书版"
+        },
+        {
+          "src": "/images/coins/l-北宋钱币/元祐通宝/variant_2.jpg",
+          "alt": "元祐通宝 - 行书版",
+          "label": "行书版"
+        },
+        {
+          "src": "/images/coins/l-北宋钱币/元祐通宝/variant_3.jpg",
+          "alt": "元祐通宝 - 小平钱",
+          "label": "小平钱"
+        }
+      ]
+    }
   },
   "11-29": {
     "castingTime": "宋哲宗赵煦绍圣年间（公元1094年—1098年）。",
@@ -1495,37 +1263,37 @@
     "obverseFeatures": "面文\"绍圣元宝\"，四字旋读，篆行对钱，铜铁并行，背面光素无文。",
     "castingCraft": "采用范铸法（铜范、铁范或砂范），一范多钱。绍圣元宝为宋哲宗赵煦绍圣年间（公元1094年—1098年）铸行。制作流程为：先雕刻绍圣元宝阴文母范（含面文\"绍圣元宝\"四字），篆行对钱，中央方孔设金属芯；合范浇铸熔融青铜液或铁液，冷却脱范后逐枚修整。绍圣年间为新党重新执政时期，铸量大。",
     "coreBackground": "绍圣年间为新党重新执政时期，铸量大。",
-    "images": {
-      "main": "/images/coins/北宋钱币/绍圣元宝/main.jpg",
-      "variants": [
-        {
-          "src": "/images/coins/北宋钱币/绍圣元宝/variant_1.jpg",
-          "alt": "绍圣元宝 - 版别1",
-          "label": "版别1"
-        },
-        {
-          "src": "/images/coins/北宋钱币/绍圣元宝/variant_2.jpg",
-          "alt": "绍圣元宝 - 版别2",
-          "label": "版别2"
-        }
-      ]
-    },
-    "variantsTable": [
+    "variants": "篆书版、行书版、小平钱、折二型。",
+    "valueReference": "",
+    "valueTable": [
       {
         "variant": "小平钱（各体）",
-        "description": "篆书版、行书版、小平钱、折二型，直径约2.3—2.5cm，重约3—4g",
-        "grade": "九级（较多） 普品",
+        "grade": "普品",
         "priceRange": "5—20元",
         "notes": ""
       },
       {
         "variant": "小平钱（各体）",
-        "description": "篆书版、行书版、小平钱、折二型，直径约2.3—2.5cm，重约3—4g",
-        "grade": "九级（较多） 美品",
+        "grade": "美品",
         "priceRange": "20—100元",
         "notes": ""
       }
-    ]
+    ],
+    "images": {
+      "main": "/images/coins/l-北宋钱币/绍圣元宝/main.jpg",
+      "variants": [
+        {
+          "src": "/images/coins/l-北宋钱币/绍圣元宝/variant_1.jpg",
+          "alt": "绍圣元宝 - 版别1",
+          "label": "版别1"
+        },
+        {
+          "src": "/images/coins/l-北宋钱币/绍圣元宝/variant_2.jpg",
+          "alt": "绍圣元宝 - 版别2",
+          "label": "版别2"
+        }
+      ]
+    }
   },
   "11-30": {
     "castingTime": "宋哲宗赵煦绍圣年间（公元1094年—1098年）。",
@@ -1534,26 +1302,26 @@
     "obverseFeatures": "面文\"绍圣通宝\"，四字对读，楷书，铜品较少。",
     "castingCraft": "采用范铸法（铜范或铁范），一范多钱。绍圣通宝为宋哲宗赵煦绍圣年间（公元1094年—1098年）铸行。制作流程为：先雕刻绍圣通宝阴文母范（含面文\"绍圣通宝\"四字，楷书），中央方孔设金属芯；合范浇铸熔融青铜液或铁液，冷却脱范后逐枚修整。铜品较少，铁品多见。",
     "coreBackground": "绍圣通宝铜品较少，铁品多见。",
-    "images": {
-      "main": "/images/coins/北宋钱币/绍圣通宝/main.jpg",
-      "variants": []
-    },
-    "variantsTable": [
+    "variants": "铜品小平、铁品小平。",
+    "valueReference": "",
+    "valueTable": [
       {
         "variant": "铜品",
-        "description": "铜品小平、铁品小平",
-        "grade": "七级（甚少） 普品",
+        "grade": "普品",
         "priceRange": "100—500元",
         "notes": "较少见"
       },
       {
         "variant": "铜品",
-        "description": "铜品小平、铁品小平",
-        "grade": "九级（较多） 美品",
+        "grade": "美品",
         "priceRange": "500—2000元",
         "notes": ""
       }
-    ]
+    ],
+    "images": {
+      "main": "/images/coins/l-北宋钱币/绍圣通宝/main.jpg",
+      "variants": []
+    }
   },
   "11-31": {
     "castingTime": "宋哲宗赵煦绍圣年间（公元1094年—1098年）。",
@@ -1562,26 +1330,26 @@
     "obverseFeatures": "面文\"绍圣重宝\"，四字对读，楷书，铁钱。",
     "castingCraft": "采用范铸法（铁范），一范多钱。绍圣重宝为宋哲宗赵煦绍圣年间（公元1094年—1098年）铸行，为折三型铁钱。制作流程为：先雕刻绍圣重宝阴文母范（含面文\"绍圣重宝\"四字，楷书），中央方孔设金属芯；合范浇铸熔融铁液，冷却脱范后逐枚修整。铜品极罕见。",
     "coreBackground": "绍圣重宝为铁钱，铜品极罕见。",
-    "images": {
-      "main": "/images/coins/北宋钱币/绍圣重宝/main.jpg",
-      "variants": []
-    },
-    "variantsTable": [
+    "variants": "仅见铁钱折三型。",
+    "valueReference": "",
+    "valueTable": [
       {
         "variant": "铁钱",
-        "description": "仅见铁钱折三型",
-        "grade": "七级（甚少） 普品",
+        "grade": "普品",
         "priceRange": "500—1500元",
         "notes": ""
       },
       {
         "variant": "铁钱",
-        "description": "仅见铁钱折三型",
-        "grade": "七级（甚少） 美品",
+        "grade": "美品",
         "priceRange": "1500—3000元",
         "notes": ""
       }
-    ]
+    ],
+    "images": {
+      "main": "/images/coins/l-北宋钱币/绍圣重宝/main.jpg",
+      "variants": []
+    }
   },
   "11-32": {
     "castingTime": "宋哲宗赵煦元符年间（公元1098年—1100年）。",
@@ -1590,42 +1358,42 @@
     "obverseFeatures": "面文\"元符通宝\"，四字对读，篆行对钱，背面光素无文。",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。元符通宝为宋哲宗赵煦元符年间（公元1098年—1100年）铸行。制作流程为：先雕刻元符通宝阴文母范（含面文\"元符通宝\"四字），篆行对钱，中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。元符年号仅三年，铸量尚多。",
     "coreBackground": "元符年号仅三年，铸量尚多。",
-    "images": {
-      "main": "/images/coins/北宋钱币/元符通宝/main.jpg",
-      "variants": [
-        {
-          "src": "/images/coins/北宋钱币/元符通宝/variant_1.jpg",
-          "alt": "元符通宝 - 版别1",
-          "label": "版别1"
-        },
-        {
-          "src": "/images/coins/北宋钱币/元符通宝/variant_2.jpg",
-          "alt": "元符通宝 - 版别2",
-          "label": "版别2"
-        },
-        {
-          "src": "/images/coins/北宋钱币/元符通宝/variant_3.jpg",
-          "alt": "元符通宝 - 版别3",
-          "label": "版别3"
-        }
-      ]
-    },
-    "variantsTable": [
+    "variants": "篆书版、行书版。",
+    "valueReference": "",
+    "valueTable": [
       {
         "variant": "小平钱（各体）",
-        "description": "篆书版、行书版，直径约2.3—2.5cm，重约3—4g",
-        "grade": "九级（较多） 普品",
+        "grade": "普品",
         "priceRange": "5—20元",
         "notes": ""
       },
       {
         "variant": "小平钱（各体）",
-        "description": "篆书版、行书版，直径约2.3—2.5cm，重约3—4g",
-        "grade": "九级（较多） 美品",
+        "grade": "美品",
         "priceRange": "20—100元",
         "notes": ""
       }
-    ]
+    ],
+    "images": {
+      "main": "/images/coins/l-北宋钱币/元符通宝/main.jpg",
+      "variants": [
+        {
+          "src": "/images/coins/l-北宋钱币/元符通宝/variant_1.jpg",
+          "alt": "元符通宝 - 版别1",
+          "label": "版别1"
+        },
+        {
+          "src": "/images/coins/l-北宋钱币/元符通宝/variant_2.jpg",
+          "alt": "元符通宝 - 版别2",
+          "label": "版别2"
+        },
+        {
+          "src": "/images/coins/l-北宋钱币/元符通宝/variant_3.jpg",
+          "alt": "元符通宝 - 版别3",
+          "label": "版别3"
+        }
+      ]
+    }
   },
   "11-33": {
     "castingTime": "宋哲宗赵煦元符年间（公元1098年—1100年）。",
@@ -1634,37 +1402,37 @@
     "obverseFeatures": "面文\"元符重宝\"，四字对读，楷书，铁钱。",
     "castingCraft": "采用范铸法（铁范），一范多钱。元符重宝为宋哲宗赵煦元符年间（公元1098年—1100年）铸行，为折三型铁钱。制作流程为：先雕刻元符重宝阴文母范（含面文\"元符重宝\"四字，楷书），中央方孔设金属芯；合范浇铸熔融铁液，冷却脱范后逐枚修整。铜品极罕见。",
     "coreBackground": "元符重宝为铁钱，铜品极罕见。",
-    "images": {
-      "main": "/images/coins/北宋钱币/元符重宝/main.jpg",
-      "variants": [
-        {
-          "src": "/images/coins/北宋钱币/元符重宝/variant_1.jpg",
-          "alt": "元符重宝 - 版别1",
-          "label": "版别1"
-        },
-        {
-          "src": "/images/coins/北宋钱币/元符重宝/variant_2.jpg",
-          "alt": "元符重宝 - 版别2",
-          "label": "版别2"
-        }
-      ]
-    },
-    "variantsTable": [
+    "variants": "仅见铁钱折三型。",
+    "valueReference": "",
+    "valueTable": [
       {
         "variant": "铁钱",
-        "description": "仅见铁钱折三型",
-        "grade": "七级（甚少） 普品",
+        "grade": "普品",
         "priceRange": "500—1500元",
         "notes": ""
       },
       {
         "variant": "铁钱",
-        "description": "仅见铁钱折三型",
-        "grade": "七级（甚少） 美品",
+        "grade": "美品",
         "priceRange": "1500—3000元",
         "notes": ""
       }
-    ]
+    ],
+    "images": {
+      "main": "/images/coins/l-北宋钱币/元符重宝/main.jpg",
+      "variants": [
+        {
+          "src": "/images/coins/l-北宋钱币/元符重宝/variant_1.jpg",
+          "alt": "元符重宝 - 版别1",
+          "label": "版别1"
+        },
+        {
+          "src": "/images/coins/l-北宋钱币/元符重宝/variant_2.jpg",
+          "alt": "元符重宝 - 版别2",
+          "label": "版别2"
+        }
+      ]
+    }
   },
   "11-34": {
     "castingTime": "宋徽宗赵佶建中靖国元年（公元1101年）。",
@@ -1673,79 +1441,61 @@
     "obverseFeatures": "* 面文\"圣宋元宝\"，四字旋读，篆行对钱\n* 铸工精美，文字规整\n* 背面光素无文",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。圣宋元宝为宋徽宗赵佶建中靖国元年（公元1101年）铸行，为非年号钱。制作流程为：先雕刻圣宋元宝阴文母范（含面文\"圣宋元宝\"四字），篆行对钱，中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。铸工精美，文字规整。",
     "coreBackground": "* 圣宋元宝为非年号钱，\"圣宋\"意为\"神圣的宋朝\"\n* 建中靖国为徽宗第一个年号，仅一年即改元崇宁",
-    "images": {
-      "main": "/images/coins/北宋钱币/圣宋元宝/main.jpg",
-      "variants": [
-        {
-          "src": "/images/coins/北宋钱币/圣宋元宝/variant_1.jpg",
-          "alt": "圣宋元宝 - 版别1",
-          "label": "版别1"
-        },
-        {
-          "src": "/images/coins/北宋钱币/圣宋元宝/variant_2.jpg",
-          "alt": "圣宋元宝 - 版别2",
-          "label": "版别2"
-        }
-      ]
-    },
-    "variantsTable": [
+    "variants": "* **篆书版**：面文篆书，与行书配对为对钱\n* **行书版**：面文行书，与篆书配对为对钱\n* **小平钱**：直径约2.4厘米\n* **折二型**：直径约2.8厘米",
+    "valueReference": "",
+    "valueTable": [
       {
         "variant": "小平篆书版",
-        "description": "面文篆书，与行书配对为对钱，直径约2.4厘米，单枚重量约3.5克",
-        "grade": "九级（较多） 普品",
+        "grade": "普品",
         "priceRange": "10—30元",
         "notes": "较常见"
       },
       {
         "variant": "小平篆书版",
-        "description": "面文篆书，与行书配对为对钱，直径约2.4厘米，单枚重量约3.5克",
-        "grade": "九级（较多） 美品",
+        "grade": "美品",
         "priceRange": "50—150元",
         "notes": ""
       },
       {
         "variant": "小平行书版",
-        "description": "面文行书，与篆书配对为对钱，直径约2.4厘米，单枚重量约3.5克",
-        "grade": "九级（较多） 普品",
+        "grade": "普品",
         "priceRange": "10—30元",
         "notes": "较常见"
       },
       {
         "variant": "小平行书版",
-        "description": "面文行书，与篆书配对为对钱，直径约2.4厘米，单枚重量约3.5克",
-        "grade": "九级（较多） 美品",
+        "grade": "美品",
         "priceRange": "50—150元",
         "notes": ""
       },
       {
         "variant": "折二篆书版",
-        "description": "面文篆书，与行书配对为对钱，直径约2.8厘米，重约5—7g",
-        "grade": "九级（较多） 美品",
+        "grade": "美品",
         "priceRange": "30—80元",
         "notes": ""
       },
       {
         "variant": "折二行书版",
-        "description": "面文行书，与篆书配对为对钱，直径约2.8厘米，重约5—7g",
-        "grade": "九级（较多） 美品",
+        "grade": "美品",
         "priceRange": "30—80元",
         "notes": ""
-      },
-      {
-        "variant": "小平钱",
-        "description": "直径约2.4厘米，直径约2.4厘米，单枚重量约3.5克",
-        "grade": "九级（较多）",
-        "priceRange": "",
-        "notes": ""
-      },
-      {
-        "variant": "折二型",
-        "description": "直径约2.8厘米，重约5—7g",
-        "grade": "九级（较多）",
-        "priceRange": "",
-        "notes": ""
       }
-    ]
+    ],
+    "images": {
+      "main": "/images/coins/l-北宋钱币/圣宋元宝/main.jpg",
+      "variants": [
+        {
+          "src": "/images/coins/l-北宋钱币/圣宋元宝/variant_1.jpg",
+          "alt": "圣宋元宝 - 篆书版",
+          "label": "篆书版"
+        },
+        {
+          "src": "/images/coins/l-北宋钱币/圣宋元宝/variant_2.jpg",
+          "alt": "圣宋元宝 - 行书版",
+          "label": "行书版"
+        }
+      ]
+    }
   },
   "11-35": {
     "castingTime": "宋徽宗赵佶建中靖国元年（公元1101年）。",
@@ -1754,37 +1504,37 @@
     "obverseFeatures": "面文\"圣宋通宝\"，四字对读，楷书，铸工精美，背面光素无文。",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。圣宋通宝为宋徽宗赵佶建中靖国元年（公元1101年）铸行，为圣宋元宝的对读版。制作流程为：先雕刻圣宋通宝阴文母范（含面文\"圣宋通宝\"四字，楷书），中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。铸工精美，存世较少。",
     "coreBackground": "圣宋通宝为圣宋元宝的对读版，存世较少。",
-    "images": {
-      "main": "/images/coins/北宋钱币/圣宋通宝/main.jpg",
-      "variants": [
-        {
-          "src": "/images/coins/北宋钱币/圣宋通宝/variant_1.jpg",
-          "alt": "圣宋通宝 - 版别1",
-          "label": "版别1"
-        },
-        {
-          "src": "/images/coins/北宋钱币/圣宋通宝/variant_2.jpg",
-          "alt": "圣宋通宝 - 版别2",
-          "label": "版别2"
-        }
-      ]
-    },
-    "variantsTable": [
+    "variants": "仅见小平钱。",
+    "valueReference": "",
+    "valueTable": [
       {
         "variant": "小平钱",
-        "description": "仅见小平钱，直径约2.3—2.5cm，重约3—4g",
-        "grade": "七级（甚少） 普品",
+        "grade": "普品",
         "priceRange": "200—800元",
         "notes": "较少见"
       },
       {
         "variant": "小平钱",
-        "description": "仅见小平钱，直径约2.3—2.5cm，重约3—4g",
-        "grade": "七级（甚少） 美品",
+        "grade": "美品",
         "priceRange": "800—3000元",
         "notes": ""
       }
-    ]
+    ],
+    "images": {
+      "main": "/images/coins/l-北宋钱币/圣宋通宝/main.jpg",
+      "variants": [
+        {
+          "src": "/images/coins/l-北宋钱币/圣宋通宝/variant_1.jpg",
+          "alt": "圣宋通宝 - 版别1",
+          "label": "版别1"
+        },
+        {
+          "src": "/images/coins/l-北宋钱币/圣宋通宝/variant_2.jpg",
+          "alt": "圣宋通宝 - 版别2",
+          "label": "版别2"
+        }
+      ]
+    }
   },
   "11-36": {
     "castingTime": "宋徽宗赵佶建中靖国元年（公元1101年）前后。",
@@ -1793,19 +1543,20 @@
     "obverseFeatures": "面文\"建国通宝\"，四字对读，楷书，背面光素无文。",
     "castingCraft": "采用范铸法（铜范），一范多钱。建国通宝为宋徽宗赵佶建中靖国元年（公元1101年）前后试铸。制作流程为：先雕刻建国通宝阴文母范（含面文\"建国通宝\"四字，楷书），中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。为试铸性质，未大规模铸行，存世极罕。",
     "coreBackground": "建国通宝为试铸性质，未大规模铸行，存世极罕。马定祥十级制定为一级（大珍）。",
-    "images": {
-      "main": "",
-      "variants": []
-    },
-    "variantsTable": [
+    "variants": "仅见小平钱，存世极罕。",
+    "valueReference": "",
+    "valueTable": [
       {
         "variant": "小平钱",
-        "description": "仅见小平钱，存世极罕，直径约2.3—2.5cm，重约3—4g",
-        "grade": "一级（大珍） 美品以上",
+        "grade": "美品以上",
         "priceRange": "50000—200000元",
         "notes": "存世极罕"
       }
-    ]
+    ],
+    "images": {
+      "main": "",
+      "variants": []
+    }
   },
   "11-37": {
     "castingTime": "宋徽宗赵佶崇宁年间（公元1102年—1106年）。",
@@ -1814,203 +1565,102 @@
     "obverseFeatures": "* 面文\"崇宁通宝\"，四字旋读，为徽宗御书瘦金体\n* 瘦金体铁画银钩，笔力遒劲，是中国钱币书法艺术的巅峰之作\n* 外廓规整，铸工极精\n* 背面光素无文",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。崇宁通宝为宋徽宗赵佶崇宁年间（公元1102年—1106年）铸行，为当十型大钱。制作流程为：先雕刻崇宁通宝阴文母范（含面文\"崇宁通宝\"四字），徽宗御书瘦金体，铁画银钩，笔力遒劲，中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。铸工极精，为北宋钱币铸造工艺的巅峰之作。另有铁母、铁范铜等特殊工艺版别。崇宁通宝铸工之精、书法之美，被誉为\"北宋第一美泉\"。",
     "coreBackground": "* 崇宁通宝面文为宋徽宗赵佶亲笔所书瘦金体，是中国钱币史上书法艺术价值最高的钱币之一\n* 徽宗以书画著称，独创瘦金体书法，崇宁通宝为其代表作\n* 崇宁年间铸行当十大钱（一枚当十枚小平钱），因虚值过大引发通货膨胀\n* 崇宁通宝铸工之精、书法之美，被誉为\"北宋第一美泉\"",
-    "images": {
-      "main": "/images/coins/北宋钱币/崇宁通宝/main.jpg",
-      "variants": [
-        {
-          "src": "/images/coins/北宋钱币/崇宁通宝/variant_1.jpg",
-          "alt": "崇宁通宝 - 版别1",
-          "label": "版别1"
-        },
-        {
-          "src": "/images/coins/北宋钱币/崇宁通宝/variant_2.jpg",
-          "alt": "崇宁通宝 - 版别2",
-          "label": "版别2"
-        },
-        {
-          "src": "/images/coins/北宋钱币/崇宁通宝/variant_3.jpg",
-          "alt": "崇宁通宝 - 版别3",
-          "label": "版别3"
-        }
-      ]
-    },
-    "variantsTable": [
+    "variants": "* **按面文风格分**：据《中国钱币大辞典》记载，崇宁通宝版别极为丰富，主要按面文风格区分：\n* **大字版**：面文字体较大，笔画粗壮\n* **小字版**：面文字体较小，笔画纤细\n* **长尾\"宁\"版**：\"宁\"字末笔较长，为崇宁通宝中的常见版别\n* **短尾\"宁\"版**：\"宁\"字末笔较短\n* **阔缘版**：外廓较宽\n* **窄缘版**：外廓较窄\n* **厚肉版**：钱体较厚\n* **薄肉版**：钱体较薄\n* **狭穿版**：穿孔较窄\n* **阔穿版**：穿孔较宽\n* **退\"崇\"版**：\"崇\"字位置偏右\n* **进\"崇\"版**：\"崇\"字位置偏左\n* **俯\"宁\"版**：\"宁\"字略向右倾\n* **仰\"宁\"版**：\"宁\"字略向左倾\n* **特殊版别**：\n* **铁母**：铁钱的母钱，铜质精良，铸工极精，据《中国钱币大辞典》记载极为珍贵\n* **铁范铜**：以铁钱范铸造的铜钱，较为少见\n* **合背版**：两面均为面文\n* **母钱**：铸工精整，字口深峻",
+    "valueReference": "",
+    "valueTable": [
       {
         "variant": "普通版",
-        "description": "直径：约3.4—3.5厘米（当十型），厚度：约0.15—0.2厘米，单枚重量：约7—10克",
-        "grade": "九级（较多） 普品",
+        "grade": "普品",
         "priceRange": "30—80元",
         "notes": "瘦金体名品"
       },
       {
         "variant": "普通版",
-        "description": "直径：约3.4—3.5厘米（当十型），厚度：约0.15—0.2厘米，单枚重量：约7—10克",
-        "grade": "九级（较多） 美品",
+        "grade": "美品",
         "priceRange": "80—200元",
         "notes": ""
       },
       {
         "variant": "普通版",
-        "description": "直径：约3.4—3.5厘米（当十型），厚度：约0.15—0.2厘米，单枚重量：约7—10克",
-        "grade": "九级（较多） 极美品",
+        "grade": "极美品",
         "priceRange": "200—500元",
         "notes": ""
       },
       {
         "variant": "大字版",
-        "description": "面文字体较大，笔画粗壮",
-        "grade": "九级（较多） 美品",
+        "grade": "美品",
         "priceRange": "200—500元",
         "notes": ""
       },
       {
         "variant": "大字版",
-        "description": "面文字体较大，笔画粗壮",
-        "grade": "九级（较多） 极美品",
+        "grade": "极美品",
         "priceRange": "500—1500元",
         "notes": ""
       },
       {
         "variant": "小字版",
-        "description": "面文字体较小，笔画纤细",
-        "grade": "九级（较多） 美品",
+        "grade": "美品",
         "priceRange": "100—300元",
         "notes": ""
       },
       {
         "variant": "长尾\"宁\"版",
-        "description": "\"宁\"字末笔较长，为崇宁通宝中的常见版别",
-        "grade": "九级（较多） 美品",
+        "grade": "美品",
         "priceRange": "100—300元",
         "notes": ""
       },
       {
         "variant": "阔缘版",
-        "description": "外廓较宽",
-        "grade": "九级（较多） 美品",
+        "grade": "美品",
         "priceRange": "100—300元",
         "notes": ""
       },
       {
         "variant": "铁母",
-        "description": "铁钱的母钱，铜质精良，铸工极精，据《中国钱币大辞典》记载极为珍贵",
-        "grade": "二级（珍） 美品以上",
+        "grade": "美品以上",
         "priceRange": "5000—20000元",
         "notes": "极珍贵"
       },
       {
         "variant": "铁范铜",
-        "description": "以铁钱范铸造的铜钱，较为少见",
-        "grade": "七级（甚少） 美品",
+        "grade": "美品",
         "priceRange": "1000—3000元",
         "notes": "较少见"
       },
       {
         "variant": "合背版",
-        "description": "两面均为面文",
-        "grade": "七级（甚少） 美品",
+        "grade": "美品",
         "priceRange": "1000—3000元",
         "notes": "较少见"
       },
       {
         "variant": "母钱",
-        "description": "铁钱的母钱，铜质精良，铸工极精，据《中国钱币大辞典》记载极为珍贵",
-        "grade": "二级（珍） 美品以上",
+        "grade": "美品以上",
         "priceRange": "5000—15000元",
         "notes": "存世极少"
-      },
-      {
-        "variant": "按面文风格分",
-        "description": "据《中国钱币大辞典》记载，崇宁通宝版别极为丰富，主要按面文风格区分",
-        "grade": "九级（较多）",
-        "priceRange": "",
-        "notes": ""
-      },
-      {
-        "variant": "短尾\"宁\"版",
-        "description": "\"宁\"字末笔较短",
-        "grade": "九级（较多）",
-        "priceRange": "",
-        "notes": ""
-      },
-      {
-        "variant": "窄缘版",
-        "description": "外廓较窄",
-        "grade": "九级（较多）",
-        "priceRange": "",
-        "notes": ""
-      },
-      {
-        "variant": "厚肉版",
-        "description": "钱体较厚",
-        "grade": "九级（较多）",
-        "priceRange": "",
-        "notes": ""
-      },
-      {
-        "variant": "薄肉版",
-        "description": "钱体较薄",
-        "grade": "九级（较多）",
-        "priceRange": "",
-        "notes": ""
-      },
-      {
-        "variant": "狭穿版",
-        "description": "穿孔较窄",
-        "grade": "九级（较多）",
-        "priceRange": "",
-        "notes": ""
-      },
-      {
-        "variant": "阔穿版",
-        "description": "穿孔较宽",
-        "grade": "九级（较多）",
-        "priceRange": "",
-        "notes": ""
-      },
-      {
-        "variant": "退\"崇\"版",
-        "description": "\"崇\"字位置偏右",
-        "grade": "九级（较多）",
-        "priceRange": "",
-        "notes": ""
-      },
-      {
-        "variant": "进\"崇\"版",
-        "description": "\"崇\"字位置偏左",
-        "grade": "九级（较多）",
-        "priceRange": "",
-        "notes": ""
-      },
-      {
-        "variant": "俯\"宁\"版",
-        "description": "\"宁\"字略向右倾",
-        "grade": "九级（较多）",
-        "priceRange": "",
-        "notes": ""
-      },
-      {
-        "variant": "仰\"宁\"版",
-        "description": "\"宁\"字略向左倾",
-        "grade": "九级（较多）",
-        "priceRange": "",
-        "notes": ""
-      },
-      {
-        "variant": "特殊版别",
-        "description": "直径：约3.4—3.5厘米（当十型），厚度：约0.15—0.2厘米，单枚重量：约7—10克",
-        "grade": "九级（较多）",
-        "priceRange": "",
-        "notes": ""
-      },
-      {
-        "variant": "母钱",
-        "description": "铸工精整，字口深峻",
-        "grade": "九级（较多）",
-        "priceRange": "",
-        "notes": ""
       }
-    ]
+    ],
+    "images": {
+      "main": "/images/coins/l-北宋钱币/崇宁通宝/main.jpg",
+      "variants": [
+        {
+          "src": "/images/coins/l-北宋钱币/崇宁通宝/variant_1.jpg",
+          "alt": "崇宁通宝 - 按面文风格分",
+          "label": "按面文风格分"
+        },
+        {
+          "src": "/images/coins/l-北宋钱币/崇宁通宝/variant_2.jpg",
+          "alt": "崇宁通宝 - 大字版",
+          "label": "大字版"
+        },
+        {
+          "src": "/images/coins/l-北宋钱币/崇宁通宝/variant_3.jpg",
+          "alt": "崇宁通宝 - 小字版",
+          "label": "小字版"
+        }
+      ]
+    }
   },
   "11-38": {
     "castingTime": "宋徽宗赵佶崇宁年间（公元1102年—1106年）。",
@@ -2019,44 +1669,43 @@
     "obverseFeatures": "面文\"崇宁元宝\"，四字旋读，楷书，背面光素无文。",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。崇宁元宝为宋徽宗赵佶崇宁年间（公元1102年—1106年）铸行，为小平钱型制。制作流程为：先雕刻崇宁元宝阴文母范（含面文\"崇宁元宝\"四字，楷书），中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。存世较崇宁通宝少。",
     "coreBackground": "崇宁元宝为小平钱型制，存世较崇宁通宝少。",
-    "images": {
-      "main": "/images/coins/北宋钱币/崇宁元宝/main.jpg",
-      "variants": [
-        {
-          "src": "/images/coins/北宋钱币/崇宁元宝/variant_1.jpg",
-          "alt": "崇宁元宝 - 版别1",
-          "label": "版别1"
-        },
-        {
-          "src": "/images/coins/北宋钱币/崇宁元宝/variant_2.jpg",
-          "alt": "崇宁元宝 - 版别2",
-          "label": "版别2"
-        }
-      ]
-    },
-    "variantsTable": [
+    "variants": "仅见小平钱。",
+    "valueReference": "",
+    "valueTable": [
       {
         "variant": "小平钱",
-        "description": "仅见小平钱，直径约2.3—2.5cm，重约3—4g",
-        "grade": "七级（甚少） 普品",
+        "grade": "普品",
         "priceRange": "100—500元",
         "notes": "较少见"
       },
       {
         "variant": "小平钱",
-        "description": "仅见小平钱，直径约2.3—2.5cm，重约3—4g",
-        "grade": "七级（甚少） 美品",
+        "grade": "美品",
         "priceRange": "500—1500元",
         "notes": ""
       },
       {
         "variant": "小平钱",
-        "description": "仅见小平钱，直径约2.3—2.5cm，重约3—4g",
-        "grade": "七级（甚少） 极美品",
+        "grade": "极美品",
         "priceRange": "1500—3000元",
         "notes": ""
       }
-    ]
+    ],
+    "images": {
+      "main": "/images/coins/l-北宋钱币/崇宁元宝/main.jpg",
+      "variants": [
+        {
+          "src": "/images/coins/l-北宋钱币/崇宁元宝/variant_1.jpg",
+          "alt": "崇宁元宝 - 版别1",
+          "label": "版别1"
+        },
+        {
+          "src": "/images/coins/l-北宋钱币/崇宁元宝/variant_2.jpg",
+          "alt": "崇宁元宝 - 版别2",
+          "label": "版别2"
+        }
+      ]
+    }
   },
   "11-39": {
     "castingTime": "宋徽宗赵佶崇宁年间（公元1102年—1106年）。",
@@ -2065,49 +1714,48 @@
     "obverseFeatures": "面文\"崇宁重宝\"，四字对读，楷书，铸工尚精，背面光素无文。",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。崇宁重宝为宋徽宗赵佶崇宁年间（公元1102年—1106年）铸行，为当十型大钱。制作流程为：先雕刻崇宁重宝阴文母范（含面文\"崇宁重宝\"四字，楷书），中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。铸工尚精，铸量大，与崇宁通宝并行流通。",
     "coreBackground": "崇宁重宝为当十大钱，铸量大，与崇宁通宝并行流通。",
-    "images": {
-      "main": "/images/coins/北宋钱币/崇宁重宝/main.jpg",
-      "variants": [
-        {
-          "src": "/images/coins/北宋钱币/崇宁重宝/variant_1.jpg",
-          "alt": "崇宁重宝 - 版别1",
-          "label": "版别1"
-        },
-        {
-          "src": "/images/coins/北宋钱币/崇宁重宝/variant_2.jpg",
-          "alt": "崇宁重宝 - 版别2",
-          "label": "版别2"
-        },
-        {
-          "src": "/images/coins/北宋钱币/崇宁重宝/variant_3.jpg",
-          "alt": "崇宁重宝 - 版别3",
-          "label": "版别3"
-        }
-      ]
-    },
-    "variantsTable": [
+    "variants": "光背版、背星月版。",
+    "valueReference": "",
+    "valueTable": [
       {
         "variant": "光背",
-        "description": "光背版、背星月版",
-        "grade": "九级（较多） 普品",
+        "grade": "普品",
         "priceRange": "10—30元",
         "notes": ""
       },
       {
         "variant": "光背",
-        "description": "光背版、背星月版",
-        "grade": "九级（较多） 美品",
+        "grade": "美品",
         "priceRange": "30—100元",
         "notes": ""
       },
       {
         "variant": "光背",
-        "description": "光背版、背星月版",
-        "grade": "九级（较多） 极美品",
+        "grade": "极美品",
         "priceRange": "100—200元",
         "notes": ""
       }
-    ]
+    ],
+    "images": {
+      "main": "/images/coins/l-北宋钱币/崇宁重宝/main.jpg",
+      "variants": [
+        {
+          "src": "/images/coins/l-北宋钱币/崇宁重宝/variant_1.jpg",
+          "alt": "崇宁重宝 - 版别1",
+          "label": "版别1"
+        },
+        {
+          "src": "/images/coins/l-北宋钱币/崇宁重宝/variant_2.jpg",
+          "alt": "崇宁重宝 - 版别2",
+          "label": "版别2"
+        },
+        {
+          "src": "/images/coins/l-北宋钱币/崇宁重宝/variant_3.jpg",
+          "alt": "崇宁重宝 - 版别3",
+          "label": "版别3"
+        }
+      ]
+    }
   },
   "11-40": {
     "castingTime": "宋徽宗赵佶大观年间（公元1107年—1110年）。",
@@ -2116,294 +1764,150 @@
     "obverseFeatures": "* 面文\"大观通宝\"，四字对读，徽宗御书瘦金体\n* 瘦金体铁画银钩，笔力遒劲\n* 折十型铸工极精，为北宋大钱之冠\n* 背面光素无文",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。大观通宝为宋徽宗赵佶大观年间（公元1107年—1110年）铸行。制作流程为：先雕刻大观通宝阴文母范（含面文\"大观通宝\"四字），徽宗御书瘦金体，铁画银钩，笔力遒劲，中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。折十型铸工极精，为北宋大钱之冠。另有铁母、铁范铜等特殊工艺版别。大观通宝与崇宁通宝并称\"瘦金体双绝\"。",
     "coreBackground": "* 大观通宝为徽宗御书瘦金体钱币的又一代表作\n* 折十型大钱铸工极精，被钱币学界誉为\"北宋大钱之冠\"\n* 小平钱铸量大，折十型铸量较少\n* 大观通宝与崇宁通宝并称\"瘦金体双绝\"",
-    "images": {
-      "main": "/images/coins/北宋钱币/大观通宝/main.jpg",
-      "variants": [
-        {
-          "src": "/images/coins/北宋钱币/大观通宝/variant_1.jpg",
-          "alt": "大观通宝 - 版别1",
-          "label": "版别1"
-        },
-        {
-          "src": "/images/coins/北宋钱币/大观通宝/variant_2.jpg",
-          "alt": "大观通宝 - 版别2",
-          "label": "版别2"
-        },
-        {
-          "src": "/images/coins/北宋钱币/大观通宝/variant_3.jpg",
-          "alt": "大观通宝 - 版别3",
-          "label": "版别3"
-        }
-      ]
-    },
-    "variantsTable": [
+    "variants": "* **按面值分**：据《中国钱币大辞典》记载，大观通宝主要有以下面值：\n* **小平钱**：直径约2.5厘米，铸量最大\n* **折二型**：直径约2.8厘米，较少见\n* **折三型**：直径约3.1厘米，罕见\n* **折五型**：直径约3.5厘米，极为罕见\n* **折十型**：直径约4.0—4.2厘米，铸量较少，铸工极精\n* **按面文风格分（小平钱）**：\n* **大字版**：面文字体较大，笔画粗壮\n* **小字版**：面文字体较小\n* **狭穿版**：穿孔较窄\n* **阔穿版**：穿孔较宽\n* **阔缘版**：外缘较宽\n* **窄缘版**：外缘较窄\n* **短\"通\"版**：\"通\"字较短\n* **长\"通\"版**：\"通\"字较长\n* **折十型版别**：据《中国钱币大辞典》记载，折十大观通宝版别丰富：\n* **大字降\"宝\"版**：\"宝\"字位置偏低\n* **小字版**：面文字体较小\n* **狭穿版**：穿孔较窄\n* **阔穿版**：穿孔较宽\n* **狭缘版**：外缘较窄\n* **阔缘版**：外缘较宽\n* **垂\"宝\"版**：\"宝\"字末笔下垂\n* **特殊版别**：\n* **铁母**：铁钱的母钱，铜质精良，极为珍贵\n* **合背版**：两面均为面文\n* **母钱**：铸工精整，字口深峻",
+    "valueReference": "",
+    "valueTable": [
       {
         "variant": "小平钱",
-        "description": "直径约2.5厘米，铸量最大，直径约2.5厘米，单枚重量约3.5克",
-        "grade": "九级（较多）",
+        "grade": "",
         "priceRange": "",
         "notes": ""
       },
       {
         "variant": "普通版",
-        "description": "普通版别，较为常见",
-        "grade": "九级（较多） 普品",
+        "grade": "普品",
         "priceRange": "20—50元",
         "notes": ""
       },
       {
         "variant": "普通版",
-        "description": "普通版别，较为常见",
-        "grade": "九级（较多） 美品",
+        "grade": "美品",
         "priceRange": "50—150元",
         "notes": ""
       },
       {
         "variant": "普通版",
-        "description": "普通版别，较为常见",
-        "grade": "九级（较多） 极美品",
+        "grade": "极美品",
         "priceRange": "150—300元",
         "notes": ""
       },
       {
         "variant": "大字版",
-        "description": "面文字体较大，笔画粗壮",
-        "grade": "九级（较多） 美品",
+        "grade": "美品",
         "priceRange": "100—300元",
         "notes": ""
       },
       {
         "variant": "小字版",
-        "description": "面文字体较小",
-        "grade": "九级（较多） 美品",
+        "grade": "美品",
         "priceRange": "50—150元",
         "notes": ""
       },
       {
         "variant": "折二型",
-        "description": "直径约2.8厘米，较少见，重约5—7g",
-        "grade": "七级（甚少）",
+        "grade": "",
         "priceRange": "",
         "notes": ""
       },
       {
         "variant": "折二",
-        "description": "直径约2.8厘米，较少见，重约5—7g",
-        "grade": "七级（甚少） 美品",
+        "grade": "美品",
         "priceRange": "200—500元",
         "notes": "较少见"
       },
       {
         "variant": "折二",
-        "description": "直径约2.8厘米，较少见，重约5—7g",
-        "grade": "七级（甚少） 极美品",
+        "grade": "极美品",
         "priceRange": "500—1000元",
         "notes": ""
       },
       {
         "variant": "折十型",
-        "description": "直径约4.0—4.2厘米，铸量较少，铸工极精，（当十）：直径约4.0—4.2厘米，单枚重量约12—15克",
-        "grade": "九级（较多）",
+        "grade": "",
         "priceRange": "",
         "notes": ""
       },
       {
         "variant": "折十普通版",
-        "description": "直径约4.0—4.2厘米，铸量较少，铸工极精，（当十）：直径约4.0—4.2厘米，单枚重量约12—15克",
-        "grade": "九级（较多） 普品",
+        "grade": "普品",
         "priceRange": "50—150元",
         "notes": "北宋大钱之冠"
       },
       {
         "variant": "折十普通版",
-        "description": "直径约4.0—4.2厘米，铸量较少，铸工极精，（当十）：直径约4.0—4.2厘米，单枚重量约12—15克",
-        "grade": "九级（较多） 美品",
+        "grade": "美品",
         "priceRange": "150—400元",
         "notes": ""
       },
       {
         "variant": "折十普通版",
-        "description": "直径约4.0—4.2厘米，铸量较少，铸工极精，（当十）：直径约4.0—4.2厘米，单枚重量约12—15克",
-        "grade": "九级（较多） 极美品",
+        "grade": "极美品",
         "priceRange": "400—800元",
         "notes": ""
       },
       {
         "variant": "折十大字版",
-        "description": "直径约4.0—4.2厘米，铸量较少，铸工极精，（当十）：直径约4.0—4.2厘米，单枚重量约12—15克",
-        "grade": "九级（较多） 美品",
+        "grade": "美品",
         "priceRange": "300—800元",
         "notes": ""
       },
       {
         "variant": "折十狭穿版",
-        "description": "直径约4.0—4.2厘米，铸量较少，铸工极精，（当十）：直径约4.0—4.2厘米，单枚重量约12—15克",
-        "grade": "九级（较多） 美品",
+        "grade": "美品",
         "priceRange": "300—800元",
         "notes": ""
       },
       {
         "variant": "特殊版别",
-        "description": "特殊版别，存世较少",
-        "grade": "九级（较多）",
+        "grade": "",
         "priceRange": "",
         "notes": ""
       },
       {
         "variant": "铁母",
-        "description": "铁钱的母钱，铜质精良，极为珍贵",
-        "grade": "二级（珍） 美品以上",
+        "grade": "美品以上",
         "priceRange": "5000—20000元",
         "notes": "极珍贵"
       },
       {
         "variant": "折三型",
-        "description": "直径约3.1厘米，罕见，重约8—10g",
-        "grade": "四级（罕） 美品",
+        "grade": "美品",
         "priceRange": "3000—10000元",
         "notes": "罕见"
       },
       {
         "variant": "折五型",
-        "description": "直径约3.5厘米，极为罕见，重约10—15g",
-        "grade": "二级（珍） 美品",
+        "grade": "美品",
         "priceRange": "10000—30000元",
         "notes": "极罕见"
       },
       {
         "variant": "母钱",
-        "description": "铁钱的母钱，铜质精良，极为珍贵",
-        "grade": "二级（珍） 美品以上",
+        "grade": "美品以上",
         "priceRange": "5000—15000元",
         "notes": "存世极少"
-      },
-      {
-        "variant": "按面值分",
-        "description": "据《中国钱币大辞典》记载，大观通宝主要有以下面值",
-        "grade": "九级（较多）",
-        "priceRange": "",
-        "notes": ""
-      },
-      {
-        "variant": "按面文风格分（小平钱）",
-        "description": "直径约2.3—2.5cm，重约3—4g",
-        "grade": "九级（较多）",
-        "priceRange": "",
-        "notes": ""
-      },
-      {
-        "variant": "狭穿版",
-        "description": "穿孔较窄",
-        "grade": "九级（较多）",
-        "priceRange": "",
-        "notes": ""
-      },
-      {
-        "variant": "阔穿版",
-        "description": "穿孔较宽",
-        "grade": "九级（较多）",
-        "priceRange": "",
-        "notes": ""
-      },
-      {
-        "variant": "阔缘版",
-        "description": "外缘较宽",
-        "grade": "九级（较多）",
-        "priceRange": "",
-        "notes": ""
-      },
-      {
-        "variant": "窄缘版",
-        "description": "外缘较窄",
-        "grade": "九级（较多）",
-        "priceRange": "",
-        "notes": ""
-      },
-      {
-        "variant": "短\"通\"版",
-        "description": "\"通\"字较短",
-        "grade": "九级（较多）",
-        "priceRange": "",
-        "notes": ""
-      },
-      {
-        "variant": "长\"通\"版",
-        "description": "\"通\"字较长",
-        "grade": "九级（较多）",
-        "priceRange": "",
-        "notes": ""
-      },
-      {
-        "variant": "折十型版别",
-        "description": "据《中国钱币大辞典》记载，折十大观通宝版别丰富，（当十）：直径约4.0—4.2厘米，单枚重量约12—15克",
-        "grade": "九级（较多）",
-        "priceRange": "",
-        "notes": ""
-      },
-      {
-        "variant": "大字降\"宝\"版",
-        "description": "\"宝\"字位置偏低",
-        "grade": "九级（较多）",
-        "priceRange": "",
-        "notes": ""
-      },
-      {
-        "variant": "小字版",
-        "description": "面文字体较小",
-        "grade": "九级（较多）",
-        "priceRange": "",
-        "notes": ""
-      },
-      {
-        "variant": "狭穿版",
-        "description": "穿孔较窄",
-        "grade": "九级（较多）",
-        "priceRange": "",
-        "notes": ""
-      },
-      {
-        "variant": "阔穿版",
-        "description": "穿孔较宽",
-        "grade": "九级（较多）",
-        "priceRange": "",
-        "notes": ""
-      },
-      {
-        "variant": "狭缘版",
-        "description": "外缘较窄",
-        "grade": "九级（较多）",
-        "priceRange": "",
-        "notes": ""
-      },
-      {
-        "variant": "阔缘版",
-        "description": "外缘较宽",
-        "grade": "九级（较多）",
-        "priceRange": "",
-        "notes": ""
-      },
-      {
-        "variant": "垂\"宝\"版",
-        "description": "\"宝\"字末笔下垂",
-        "grade": "九级（较多）",
-        "priceRange": "",
-        "notes": ""
-      },
-      {
-        "variant": "合背版",
-        "description": "两面均为面文",
-        "grade": "九级（较多）",
-        "priceRange": "",
-        "notes": ""
-      },
-      {
-        "variant": "母钱",
-        "description": "铸工精整，字口深峻",
-        "grade": "九级（较多）",
-        "priceRange": "",
-        "notes": ""
       }
-    ]
+    ],
+    "images": {
+      "main": "/images/coins/l-北宋钱币/大观通宝/main.jpg",
+      "variants": [
+        {
+          "src": "/images/coins/l-北宋钱币/大观通宝/variant_1.jpg",
+          "alt": "大观通宝 - 按面值分",
+          "label": "按面值分"
+        },
+        {
+          "src": "/images/coins/l-北宋钱币/大观通宝/variant_2.jpg",
+          "alt": "大观通宝 - 小平钱",
+          "label": "小平钱"
+        },
+        {
+          "src": "/images/coins/l-北宋钱币/大观通宝/variant_3.jpg",
+          "alt": "大观通宝 - 折二型",
+          "label": "折二型"
+        }
+      ]
+    }
   },
   "11-41": {
     "castingTime": "宋徽宗赵佶政和年间（公元1111年—1118年）。",
@@ -2412,37 +1916,37 @@
     "obverseFeatures": "面文\"政和通宝\"，四字对读，篆隶对钱，背面光素无文。",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。政和通宝为宋徽宗赵佶政和年间（公元1111年—1118年）铸行。制作流程为：先雕刻政和通宝阴文母范（含面文\"政和通宝\"四字），篆隶对钱，中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。铸量大，版别较多。",
     "coreBackground": "政和年间铸量大，版别较多。",
-    "images": {
-      "main": "/images/coins/北宋钱币/政和通宝/main.jpg",
-      "variants": [
-        {
-          "src": "/images/coins/北宋钱币/政和通宝/variant_1.jpg",
-          "alt": "政和通宝 - 版别1",
-          "label": "版别1"
-        },
-        {
-          "src": "/images/coins/北宋钱币/政和通宝/variant_2.jpg",
-          "alt": "政和通宝 - 版别2",
-          "label": "版别2"
-        }
-      ]
-    },
-    "variantsTable": [
+    "variants": "篆书版、隶书版。",
+    "valueReference": "",
+    "valueTable": [
       {
         "variant": "篆书/隶书",
-        "description": "篆书版、隶书版",
-        "grade": "九级（较多） 普品",
+        "grade": "普品",
         "priceRange": "5—20元",
         "notes": ""
       },
       {
         "variant": "篆书/隶书",
-        "description": "篆书版、隶书版",
-        "grade": "九级（较多） 美品",
+        "grade": "美品",
         "priceRange": "20—100元",
         "notes": ""
       }
-    ]
+    ],
+    "images": {
+      "main": "/images/coins/l-北宋钱币/政和通宝/main.jpg",
+      "variants": [
+        {
+          "src": "/images/coins/l-北宋钱币/政和通宝/variant_1.jpg",
+          "alt": "政和通宝 - 版别1",
+          "label": "版别1"
+        },
+        {
+          "src": "/images/coins/l-北宋钱币/政和通宝/variant_2.jpg",
+          "alt": "政和通宝 - 版别2",
+          "label": "版别2"
+        }
+      ]
+    }
   },
   "11-42": {
     "castingTime": "宋徽宗赵佶政和年间（公元1111年—1118年）。",
@@ -2451,26 +1955,26 @@
     "obverseFeatures": "面文\"政和重宝\"，四字对读，楷书，铁钱。",
     "castingCraft": "采用范铸法（铁范），一范多钱。政和重宝为宋徽宗赵佶政和年间（公元1111年—1118年）铸行，为折二型铁钱。制作流程为：先雕刻政和重宝阴文母范（含面文\"政和重宝\"四字，楷书），中央方孔设金属芯；合范浇铸熔融铁液，冷却脱范后逐枚修整。以铁钱为主，铜品较少。",
     "coreBackground": "政和重宝以铁钱为主，铜品较少。",
-    "images": {
-      "main": "",
-      "variants": []
-    },
-    "variantsTable": [
+    "variants": "铁品折二。",
+    "valueReference": "",
+    "valueTable": [
       {
         "variant": "铁品",
-        "description": "铁品折二",
-        "grade": "九级（较多） 普品",
+        "grade": "普品",
         "priceRange": "50—200元",
         "notes": ""
       },
       {
         "variant": "铁品",
-        "description": "铁品折二",
-        "grade": "九级（较多） 美品",
+        "grade": "美品",
         "priceRange": "200—500元",
         "notes": ""
       }
-    ]
+    ],
+    "images": {
+      "main": "",
+      "variants": []
+    }
   },
   "11-43": {
     "castingTime": "宋徽宗赵佶重和元年（公元1118年）。",
@@ -2478,45 +1982,44 @@
     "dimensions": "* 直径：约2.4厘米（小平钱）\n* 单枚重量：约3.5克",
     "obverseFeatures": "* 面文\"重和通宝\"，四字对读，篆隶对钱\n* 铸工精整\n* 背面光素无文",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。重和通宝为宋徽宗赵佶重和元年（公元1118年）铸行。制作流程为：先雕刻重和通宝阴文母范（含面文\"重和通宝\"四字），篆隶对钱，中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。铸工精整。重和年号仅使用一年，铸行时间极短，存世较少。",
-    "coreBackground": "* 重和年号仅使用一年（公元1118年），即改元宣和\n* 因铸行时间极短，存世较少\n* 马定祥十级制定为二级（珍）",
-    "images": {
-      "main": "/images/coins/北宋钱币/重和通宝/main.jpg",
-      "variants": [
-        {
-          "src": "/images/coins/北宋钱币/重和通宝/variant_1.jpg",
-          "alt": "重和通宝 - 版别1",
-          "label": "版别1"
-        },
-        {
-          "src": "/images/coins/北宋钱币/重和通宝/variant_2.jpg",
-          "alt": "重和通宝 - 版别2",
-          "label": "版别2"
-        }
-      ]
-    },
-    "variantsTable": [
+    "coreBackground": "* 重和年号仅使用一年（公元1118年），即改元宣和\n* 因铸行时间极短，存世较少\n* 马定祥十级制定为四级（罕）",
+    "variants": "篆书版、隶书版。",
+    "valueReference": "",
+    "valueTable": [
       {
         "variant": "篆书/隶书",
-        "description": "篆书版、隶书版",
-        "grade": "九级（较多） 普品",
+        "grade": "普品",
         "priceRange": "1000—3000元",
         "notes": "铸行仅一年"
       },
       {
         "variant": "篆书/隶书",
-        "description": "篆书版、隶书版",
-        "grade": "九级（较多） 美品",
+        "grade": "美品",
         "priceRange": "3000—6000元",
         "notes": ""
       },
       {
         "variant": "篆书/隶书",
-        "description": "篆书版、隶书版",
-        "grade": "九级（较多） 极美品",
+        "grade": "极美品",
         "priceRange": "6000—8000元",
         "notes": ""
       }
-    ]
+    ],
+    "images": {
+      "main": "/images/coins/l-北宋钱币/重和通宝/main.jpg",
+      "variants": [
+        {
+          "src": "/images/coins/l-北宋钱币/重和通宝/variant_1.jpg",
+          "alt": "重和通宝 - 版别1",
+          "label": "版别1"
+        },
+        {
+          "src": "/images/coins/l-北宋钱币/重和通宝/variant_2.jpg",
+          "alt": "重和通宝 - 版别2",
+          "label": "版别2"
+        }
+      ]
+    }
   },
   "11-44": {
     "castingTime": "宋徽宗赵佶宣和年间（公元1119年—1125年）。",
@@ -2525,44 +2028,43 @@
     "obverseFeatures": "面文\"宣和通宝\"，四字对读，篆隶对钱，版别众多，背面光素无文。",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。宣和通宝为宋徽宗赵佶宣和年间（公元1119年—1125年）铸行。制作流程为：先雕刻宣和通宝阴文母范（含面文\"宣和通宝\"四字），篆隶对钱，中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。铸量大，版别繁多，为北宋徽宗朝铸量最大的钱币之一。",
     "coreBackground": "宣和年间铸量大，版别繁多，为北宋徽宗朝铸量最大的钱币之一。",
-    "images": {
-      "main": "/images/coins/北宋钱币/宣和通宝/main.jpg",
-      "variants": [
-        {
-          "src": "/images/coins/北宋钱币/宣和通宝/variant_1.jpg",
-          "alt": "宣和通宝 - 版别1",
-          "label": "版别1"
-        },
-        {
-          "src": "/images/coins/北宋钱币/宣和通宝/variant_2.jpg",
-          "alt": "宣和通宝 - 版别2",
-          "label": "版别2"
-        }
-      ]
-    },
-    "variantsTable": [
+    "variants": "篆书版、隶书版、小平钱、折二型。",
+    "valueReference": "",
+    "valueTable": [
       {
         "variant": "小平钱（各体）",
-        "description": "篆书版、隶书版、小平钱、折二型，直径约2.4厘米，单枚重量约3.5克",
-        "grade": "九级（较多） 普品",
+        "grade": "普品",
         "priceRange": "10—30元",
         "notes": ""
       },
       {
         "variant": "小平钱（各体）",
-        "description": "篆书版、隶书版、小平钱、折二型，直径约2.4厘米，单枚重量约3.5克",
-        "grade": "九级（较多） 美品",
+        "grade": "美品",
         "priceRange": "30—100元",
         "notes": ""
       },
       {
         "variant": "折二型",
-        "description": "篆书版、隶书版、小平钱、折二型，直径约2.8厘米，重约5—7g",
-        "grade": "九级（较多） 美品",
+        "grade": "美品",
         "priceRange": "30—300元",
         "notes": ""
       }
-    ]
+    ],
+    "images": {
+      "main": "/images/coins/l-北宋钱币/宣和通宝/main.jpg",
+      "variants": [
+        {
+          "src": "/images/coins/l-北宋钱币/宣和通宝/variant_1.jpg",
+          "alt": "宣和通宝 - 版别1",
+          "label": "版别1"
+        },
+        {
+          "src": "/images/coins/l-北宋钱币/宣和通宝/variant_2.jpg",
+          "alt": "宣和通宝 - 版别2",
+          "label": "版别2"
+        }
+      ]
+    }
   },
   "11-45": {
     "castingTime": "宋徽宗赵佶宣和年间（公元1119年—1125年）。",
@@ -2571,37 +2073,37 @@
     "obverseFeatures": "面文\"宣和元宝\"，四字旋读，篆隶对钱，背面光素无文。",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。宣和元宝为宋徽宗赵佶宣和年间（公元1119年—1125年）铸行。制作流程为：先雕刻宣和元宝阴文母范（含面文\"宣和元宝\"四字），篆隶对钱，中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。较宣和通宝少。",
     "coreBackground": "宣和元宝较宣和通宝少。",
-    "images": {
-      "main": "/images/coins/北宋钱币/宣和元宝/main.jpg",
-      "variants": [
-        {
-          "src": "/images/coins/北宋钱币/宣和元宝/variant_1.jpg",
-          "alt": "宣和元宝 - 版别1",
-          "label": "版别1"
-        },
-        {
-          "src": "/images/coins/北宋钱币/宣和元宝/variant_2.jpg",
-          "alt": "宣和元宝 - 版别2",
-          "label": "版别2"
-        }
-      ]
-    },
-    "variantsTable": [
+    "variants": "篆书版、隶书版。",
+    "valueReference": "",
+    "valueTable": [
       {
         "variant": "篆书/隶书",
-        "description": "篆书版、隶书版",
-        "grade": "九级（较多） 普品",
+        "grade": "普品",
         "priceRange": "50—150元",
         "notes": ""
       },
       {
         "variant": "篆书/隶书",
-        "description": "篆书版、隶书版",
-        "grade": "九级（较多） 美品",
+        "grade": "美品",
         "priceRange": "150—500元",
         "notes": ""
       }
-    ]
+    ],
+    "images": {
+      "main": "/images/coins/l-北宋钱币/宣和元宝/main.jpg",
+      "variants": [
+        {
+          "src": "/images/coins/l-北宋钱币/宣和元宝/variant_1.jpg",
+          "alt": "宣和元宝 - 版别1",
+          "label": "版别1"
+        },
+        {
+          "src": "/images/coins/l-北宋钱币/宣和元宝/variant_2.jpg",
+          "alt": "宣和元宝 - 版别2",
+          "label": "版别2"
+        }
+      ]
+    }
   },
   "11-46": {
     "castingTime": "宋钦宗赵桓靖康元年（公元1126年）。",
@@ -2610,59 +2112,58 @@
     "obverseFeatures": "* 面文\"靖康通宝\"，四字对读，篆楷对钱\n* 铸工尚精\n* 背面光素无文",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。靖康通宝为宋钦宗赵桓靖康元年（公元1126年）铸行，为北宋最后铸币。制作流程为：先雕刻靖康通宝阴文母范（含面文\"靖康通宝\"四字），篆楷对钱，中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。铸工尚精。因靖康之变国祚终结，铸行时间极短，存世极罕。",
     "coreBackground": "* 靖康元年（公元1126年），金兵南下攻陷开封，掳走徽宗、钦宗二帝，北宋灭亡，史称\"靖康之变\"\n* 靖康通宝为北宋最后铸币，因国祚终结而铸行时间极短，存世极罕\n* 马定祥十级制定为一级（大珍），据华光普《中国古钱目录》记载，为北宋钱币第一珍\n* 靖康通宝与靖康元宝并称\"靖康双珍\"，均为博物馆级藏品",
-    "images": {
-      "main": "/images/coins/北宋钱币/靖康通宝/main.jpg",
-      "variants": [
-        {
-          "src": "/images/coins/北宋钱币/靖康通宝/variant_1.jpg",
-          "alt": "靖康通宝 - 版别1",
-          "label": "版别1"
-        },
-        {
-          "src": "/images/coins/北宋钱币/靖康通宝/variant_2.jpg",
-          "alt": "靖康通宝 - 版别2",
-          "label": "版别2"
-        },
-        {
-          "src": "/images/coins/北宋钱币/靖康通宝/variant_3.jpg",
-          "alt": "靖康通宝 - 版别3",
-          "label": "版别3"
-        },
-        {
-          "src": "/images/coins/北宋钱币/靖康通宝/variant_4.jpg",
-          "alt": "靖康通宝 - 版别4",
-          "label": "版别4"
-        },
-        {
-          "src": "/images/coins/北宋钱币/靖康通宝/variant_5.jpg",
-          "alt": "靖康通宝 - 版别5",
-          "label": "版别5"
-        }
-      ]
-    },
-    "variantsTable": [
+    "variants": "* **小平钱篆书版**\n* **小平钱楷书版**\n* **折二型**\n* **折三型**",
+    "valueReference": "",
+    "valueTable": [
       {
         "variant": "小平钱",
-        "description": "小平钱篆书版 小平钱楷书版 折二型 折三型，直径约2.4厘米，单枚重量约3.5克",
-        "grade": "二级（珍） 美品以上",
+        "grade": "美品以上",
         "priceRange": "100000—300000元",
         "notes": "存世极罕"
       },
       {
         "variant": "折二型",
-        "description": "小平钱篆书版 小平钱楷书版 折二型 折三型，直径约2.8厘米，重约5—7g",
-        "grade": "九级（较多） 美品以上",
+        "grade": "美品以上",
         "priceRange": "200000—400000元",
         "notes": ""
       },
       {
         "variant": "折三型",
-        "description": "小平钱篆书版 小平钱楷书版 折二型 折三型，直径约3.0厘米，重约8—10g",
-        "grade": "九级（较多） 美品以上",
+        "grade": "美品以上",
         "priceRange": "300000—500000元",
         "notes": ""
       }
-    ]
+    ],
+    "images": {
+      "main": "/images/coins/l-北宋钱币/靖康通宝/main.jpg",
+      "variants": [
+        {
+          "src": "/images/coins/l-北宋钱币/靖康通宝/variant_1.jpg",
+          "alt": "靖康通宝 - 小平钱篆书版",
+          "label": "小平钱篆书版"
+        },
+        {
+          "src": "/images/coins/l-北宋钱币/靖康通宝/variant_2.jpg",
+          "alt": "靖康通宝 - 小平钱楷书版",
+          "label": "小平钱楷书版"
+        },
+        {
+          "src": "/images/coins/l-北宋钱币/靖康通宝/variant_3.jpg",
+          "alt": "靖康通宝 - 折二型",
+          "label": "折二型"
+        },
+        {
+          "src": "/images/coins/l-北宋钱币/靖康通宝/variant_4.jpg",
+          "alt": "靖康通宝 - 折三型",
+          "label": "折三型"
+        },
+        {
+          "src": "/images/coins/l-北宋钱币/靖康通宝/variant_5.jpg",
+          "alt": "靖康通宝 - 版别5",
+          "label": "版别5"
+        }
+      ]
+    }
   },
   "11-47": {
     "castingTime": "宋钦宗赵桓靖康元年（公元1126年）。",
@@ -2671,30 +2172,31 @@
     "obverseFeatures": "面文\"靖康元宝\"，四字旋读，篆楷对钱，背面光素无文。",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。靖康元宝为宋钦宗赵桓靖康元年（公元1126年）铸行，与靖康通宝同为北宋最后铸币。制作流程为：先雕刻靖康元宝阴文母范（含面文\"靖康元宝\"四字），篆楷对钱，中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。因靖康之变国祚终结，铸行时间极短，存世极罕。",
     "coreBackground": "与靖康通宝同为北宋最后铸币，存世极罕，马定祥十级制定为一级（大珍）。",
+    "variants": "篆书版、楷书版。",
+    "valueReference": "",
+    "valueTable": [
+      {
+        "variant": "小平钱",
+        "grade": "美品以上",
+        "priceRange": "100000—500000元",
+        "notes": "存世极罕"
+      }
+    ],
     "images": {
-      "main": "/images/coins/北宋钱币/靖康元宝/main.jpg",
+      "main": "/images/coins/l-北宋钱币/靖康元宝/main.jpg",
       "variants": [
         {
-          "src": "/images/coins/北宋钱币/靖康元宝/variant_1.jpg",
+          "src": "/images/coins/l-北宋钱币/靖康元宝/variant_1.jpg",
           "alt": "靖康元宝 - 版别1",
           "label": "版别1"
         },
         {
-          "src": "/images/coins/北宋钱币/靖康元宝/variant_2.jpg",
+          "src": "/images/coins/l-北宋钱币/靖康元宝/variant_2.jpg",
           "alt": "靖康元宝 - 版别2",
           "label": "版别2"
         }
       ]
-    },
-    "variantsTable": [
-      {
-        "variant": "小平钱",
-        "description": "篆书版、楷书版，直径约2.3—2.5cm，重约3—4g",
-        "grade": "二级（珍） 美品以上",
-        "priceRange": "100000—500000元",
-        "notes": "存世极罕"
-      }
-    ]
+    }
   },
   "11-48": {
     "castingTime": "宋仁宗赵祯皇祐年间（公元1049年—1054年）。",
@@ -2702,20 +2204,21 @@
     "dimensions": "直径约2.4厘米，单枚重量约3.5克。",
     "obverseFeatures": "面文\"皇祐元宝\"，四字旋读，楷书，背面光素无文。",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。皇祐元宝为宋仁宗赵祯皇祐年间（公元1049年—1054年）铸行。制作流程为：先雕刻皇祐元宝阴文母范（含面文\"皇祐元宝\"四字，楷书），中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。存世极罕。",
-    "coreBackground": "皇祐元宝存世极罕，马定祥十级制定为一级（大珍）。",
-    "images": {
-      "main": "",
-      "variants": []
-    },
-    "variantsTable": [
+    "coreBackground": "皇祐元宝存世极罕，马定祥十级制定为三级（罕贵）。",
+    "variants": "仅见小平钱，存世极罕。",
+    "valueReference": "",
+    "valueTable": [
       {
         "variant": "小平钱",
-        "description": "仅见小平钱，存世极罕，直径约2.3—2.5cm，重约3—4g",
-        "grade": "一级（大珍） 美品以上",
+        "grade": "美品以上",
         "priceRange": "30000—150000元",
         "notes": "存世极罕"
       }
-    ]
+    ],
+    "images": {
+      "main": "",
+      "variants": []
+    }
   },
   "11-49": {
     "castingTime": "宋仁宗赵祯庆历年间（公元1041年—1048年）。",
@@ -2724,26 +2227,26 @@
     "obverseFeatures": "面文\"庆历直十\"，当十型铁钱，背面光素无文。",
     "castingCraft": "采用范铸法（铁范），一范多钱。庆历直十为宋仁宗赵祯庆历年间（公元1041年—1048年）铸行，为当十型铁钱。制作流程为：先雕刻庆历直十阴文母范（含面文\"庆历直十\"四字），中央方孔设金属芯；合范浇铸熔融铁液，冷却脱范后逐枚修整。铜品极罕见。",
     "coreBackground": "庆历直十为铁钱当十型，铜品极罕见。",
-    "images": {
-      "main": "/images/coins/北宋钱币/庆历直十/main.jpg",
-      "variants": []
-    },
-    "variantsTable": [
+    "variants": "仅见铁钱当十型。",
+    "valueReference": "",
+    "valueTable": [
       {
         "variant": "铁钱",
-        "description": "仅见铁钱当十型",
-        "grade": "七级（甚少） 普品",
+        "grade": "普品",
         "priceRange": "500—1500元",
         "notes": ""
       },
       {
         "variant": "铁钱",
-        "description": "仅见铁钱当十型",
-        "grade": "七级（甚少） 美品",
+        "grade": "美品",
         "priceRange": "1500—3000元",
         "notes": ""
       }
-    ]
+    ],
+    "images": {
+      "main": "/images/coins/l-北宋钱币/庆历直十/main.jpg",
+      "variants": []
+    }
   },
   "11-50": {
     "castingTime": "北宋淳化五年（公元994年），农民起义军领袖李顺铸。",
@@ -2752,30 +2255,31 @@
     "obverseFeatures": "面文\"应运元宝\"，四字旋读，楷书，背面光素无文。",
     "castingCraft": "采用范铸法（铜范），一范多钱。应运元宝为北宋淳化五年（公元994年）农民起义军领袖李顺铸行。制作流程为：先雕刻应运元宝阴文母范（含面文\"应运元宝\"四字，楷书），中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。李顺攻占成都后建国号\"大蜀\"，建元\"应运\"，起义很快被镇压，铸行时间极短，存世极罕。",
     "coreBackground": "* 公元993年，四川爆发王小波、李顺农民起义\n* 公元994年，李顺攻占成都，建国号\"大蜀\"，建元\"应运\"，铸行应运元宝\n* 起义很快被镇压，应运元宝铸行时间极短，存世极罕\n* 马定祥十级制定为一级（大珍）",
+    "variants": "仅见小平钱，存世极罕。",
+    "valueReference": "",
+    "valueTable": [
+      {
+        "variant": "小平钱",
+        "grade": "美品以上",
+        "priceRange": "100000—500000元",
+        "notes": "农民起义钱，存世极罕"
+      }
+    ],
     "images": {
-      "main": "/images/coins/北宋钱币/应运元宝/main.jpg",
+      "main": "/images/coins/l-北宋钱币/应运元宝/main.jpg",
       "variants": [
         {
-          "src": "/images/coins/北宋钱币/应运元宝/variant_1.jpg",
+          "src": "/images/coins/l-北宋钱币/应运元宝/variant_1.jpg",
           "alt": "应运元宝 - 版别1",
           "label": "版别1"
         },
         {
-          "src": "/images/coins/北宋钱币/应运元宝/variant_2.jpg",
+          "src": "/images/coins/l-北宋钱币/应运元宝/variant_2.jpg",
           "alt": "应运元宝 - 版别2",
           "label": "版别2"
         }
       ]
-    },
-    "variantsTable": [
-      {
-        "variant": "小平钱",
-        "description": "仅见小平钱，存世极罕，直径约2.3—2.5cm，重约3—4g",
-        "grade": "一级（大珍） 美品以上",
-        "priceRange": "100000—500000元",
-        "notes": "农民起义钱，存世极罕"
-      }
-    ]
+    }
   },
   "11-51": {
     "castingTime": "北宋淳化五年（公元994年），农民起义军领袖李顺铸。",
@@ -2784,26 +2288,26 @@
     "obverseFeatures": "面文\"应运\"，铁钱为主，背面光素无文。",
     "castingCraft": "采用范铸法（铁范或铜范），一范多钱。应运钱为北宋淳化五年（公元994年）农民起义军领袖李顺铸行。制作流程为：先雕刻应运钱阴文母范（含面文\"应运\"二字），中央方孔设金属芯；合范浇铸熔融铁液或青铜液，冷却脱范后逐枚修整。与应运元宝同为李顺起义军铸币，以铁钱为主，存世极罕。",
     "coreBackground": "与应运元宝同为李顺起义军铸币，存世极罕。",
-    "images": {
-      "main": "/images/coins/北宋钱币/应运钱/main.jpg",
-      "variants": []
-    },
-    "variantsTable": [
+    "variants": "铁钱版、铜品。",
+    "valueReference": "",
+    "valueTable": [
       {
         "variant": "铁钱",
-        "description": "铁钱版、铜品",
-        "grade": "九级（较多） 美品以上",
+        "grade": "美品以上",
         "priceRange": "50000—100000元",
         "notes": ""
       },
       {
         "variant": "铜品",
-        "description": "铁钱版、铜品",
-        "grade": "二级（珍） 美品以上",
+        "grade": "美品以上",
         "priceRange": "100000—200000元",
         "notes": "极罕见"
       }
-    ]
+    ],
+    "images": {
+      "main": "/images/coins/l-北宋钱币/应运钱/main.jpg",
+      "variants": []
+    }
   },
   "11-52": {
     "castingTime": "北宋淳化五年至至道元年（公元994年—995年），农民起义军铸。",
@@ -2811,31 +2315,32 @@
     "dimensions": "直径约2.4厘米，单枚重量约3.5克。",
     "obverseFeatures": "面文\"应感通宝\"，四字对读，楷书，背面光素无文。",
     "castingCraft": "采用范铸法（铜范），一范多钱。应感通宝为北宋淳化五年至至道元年（公元994年—995年）农民起义军铸行。制作流程为：先雕刻应感通宝阴文母范（含面文\"应感通宝\"四字，楷书），中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。李顺失败后，其部将张余继续领导起义军，改元\"应感\"，存世极罕。",
-    "coreBackground": "* 李顺失败后，其部将张余继续领导起义军，改元\"应感\"，铸行应感通宝\n* 存世极罕，马定祥十级制定为一级（大珍）",
+    "coreBackground": "* 李顺失败后，其部将张余继续领导起义军，改元\"应感\"，铸行应感通宝\n* 存世极罕，马定祥十级制定为三级（罕贵）",
+    "variants": "仅见小平钱，存世极罕。",
+    "valueReference": "",
+    "valueTable": [
+      {
+        "variant": "小平钱",
+        "grade": "美品以上",
+        "priceRange": "30000—150000元",
+        "notes": "存世极罕"
+      }
+    ],
     "images": {
-      "main": "/images/coins/北宋钱币/应感通宝/main.jpg",
+      "main": "/images/coins/l-北宋钱币/应感通宝/main.jpg",
       "variants": [
         {
-          "src": "/images/coins/北宋钱币/应感通宝/variant_1.jpg",
+          "src": "/images/coins/l-北宋钱币/应感通宝/variant_1.jpg",
           "alt": "应感通宝 - 版别1",
           "label": "版别1"
         },
         {
-          "src": "/images/coins/北宋钱币/应感通宝/variant_2.jpg",
+          "src": "/images/coins/l-北宋钱币/应感通宝/variant_2.jpg",
           "alt": "应感通宝 - 版别2",
           "label": "版别2"
         }
       ]
-    },
-    "variantsTable": [
-      {
-        "variant": "小平钱",
-        "description": "仅见小平钱，存世极罕，直径约2.3—2.5cm，重约3—4g",
-        "grade": "一级（大珍） 美品以上",
-        "priceRange": "30000—150000元",
-        "notes": "存世极罕"
-      }
-    ]
+    }
   },
   "11-53": {
     "castingTime": "北宋淳化五年至至道元年（公元994年—995年），农民起义军铸。",
@@ -2844,25 +2349,25 @@
     "obverseFeatures": "面文\"应感\"，铁钱为主，背面光素无文。",
     "castingCraft": "采用范铸法（铁范或铜范），一范多钱。应感钱为北宋淳化五年至至道元年（公元994年—995年）农民起义军铸行。制作流程为：先雕刻应感钱阴文母范（含面文\"应感\"二字），中央方孔设金属芯；合范浇铸熔融铁液或青铜液，冷却脱范后逐枚修整。与应感通宝同为张余领导起义军所铸，以铁钱为主，存世极罕。",
     "coreBackground": "与应感通宝同为张余领导起义军所铸，存世极罕。",
-    "images": {
-      "main": "/images/coins/北宋钱币/应感钱/main.jpg",
-      "variants": []
-    },
-    "variantsTable": [
+    "variants": "铁钱版、铜品。",
+    "valueReference": "",
+    "valueTable": [
       {
         "variant": "铁钱",
-        "description": "铁钱版、铜品",
-        "grade": "九级（较多） 美品以上",
+        "grade": "美品以上",
         "priceRange": "50000—100000元",
         "notes": ""
       },
       {
         "variant": "铜品",
-        "description": "铁钱版、铜品",
-        "grade": "二级（珍） 美品以上",
+        "grade": "美品以上",
         "priceRange": "100000—200000元",
         "notes": "极罕见"
       }
-    ]
+    ],
+    "images": {
+      "main": "/images/coins/l-北宋钱币/应感钱/main.jpg",
+      "variants": []
+    }
   }
 }
