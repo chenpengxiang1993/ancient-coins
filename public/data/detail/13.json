@@ -6,22 +6,6 @@
     "obverseFeatures": "面文\"通行泉货\"，四字对读，楷书含隶意，背面光素无文。",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。通行泉货为辽太祖耶律阿保机时期（约公元907年—916年）铸行，为辽最早铸币之一。制作流程为：先雕刻通行泉货阴文母范（含面文\"通行泉货\"四字，楷书含隶意），中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。辽初铸工较粗，铜质参差，铸量极少。",
     "coreBackground": "通行泉货为辽最早铸币之一，铸量极少。辽初以物易物为主，钱币使用不广。",
-    "variants": "仅见小平钱。",
-    "valueReference": "",
-    "valueTable": [
-      {
-        "variant": "小平钱",
-        "grade": "美品",
-        "priceRange": "5000—15000元",
-        "notes": "存世稀少"
-      },
-      {
-        "variant": "小平钱",
-        "grade": "极美品",
-        "priceRange": "15000—30000元",
-        "notes": ""
-      }
-    ],
     "images": {
       "main": "/images/coins/n-辽朝钱币/通行泉货/main.jpg",
       "variants": [
@@ -36,7 +20,23 @@
           "label": "版别2"
         }
       ]
-    }
+    },
+    "variantsTable": [
+      {
+        "variant": "小平钱",
+        "description": "仅见小平钱，直径约2.3—2.5cm，重约3—4g",
+        "grade": "一级（孤品） 美品",
+        "priceRange": "5000—15000元",
+        "notes": "存世稀少"
+      },
+      {
+        "variant": "小平钱",
+        "description": "仅见小平钱，直径约2.3—2.5cm，重约3—4g",
+        "grade": "一级（孤品） 极美品",
+        "priceRange": "15000—30000元",
+        "notes": ""
+      }
+    ]
   },
   "13-1": {
     "castingTime": "辽太祖耶律阿保机神册年间（公元916年—922年）。",
@@ -45,26 +45,26 @@
     "obverseFeatures": "面文\"神册通宝\"，四字对读，楷书，背面光素无文。",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。神册通宝为辽太祖耶律阿保机神册年间（公元916年—922年）铸行，为辽太祖建国后第一个年号钱。制作流程为：先雕刻神册通宝阴文母范（含面文\"神册通宝\"四字，楷书），中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。铸工较粗，铸量极少。",
     "coreBackground": "神册为辽太祖建国后第一个年号，神册通宝铸量极少。",
-    "variants": "仅见小平钱。",
-    "valueReference": "",
-    "valueTable": [
+    "images": {
+      "main": "",
+      "variants": []
+    },
+    "variantsTable": [
       {
         "variant": "小平钱",
-        "grade": "美品",
+        "description": "仅见小平钱，直径约2.3—2.5cm，重约3—4g",
+        "grade": "一级（孤品） 美品",
         "priceRange": "5000—15000元",
         "notes": ""
       },
       {
         "variant": "小平钱",
-        "grade": "极美品",
+        "description": "仅见小平钱，直径约2.3—2.5cm，重约3—4g",
+        "grade": "一级（孤品） 极美品",
         "priceRange": "15000—30000元",
         "notes": ""
       }
-    ],
-    "images": {
-      "main": "",
-      "variants": []
-    }
+    ]
   },
   "13-2": {
     "castingTime": "辽太祖耶律阿保机天赞年间（公元922年—926年）。",
@@ -73,22 +73,6 @@
     "obverseFeatures": "面文\"天赞通宝\"，四字对读，楷书，背面光素无文。",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。天赞通宝为辽太祖耶律阿保机天赞年间（公元922年—926年）铸行，为辽最早年号钱。制作流程为：先雕刻天赞通宝阴文母范（含面文\"天赞通宝\"四字，楷书），中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。铸工较粗，铸量极少，极罕见。",
     "coreBackground": "天赞通宝为辽最早年号钱，铸量极少，极罕见。马定祥十级制定为三级（罕贵）。",
-    "variants": "仅见小平钱。",
-    "valueReference": "",
-    "valueTable": [
-      {
-        "variant": "小平钱",
-        "grade": "美品",
-        "priceRange": "30000—80000元",
-        "notes": "存世极罕"
-      },
-      {
-        "variant": "小平钱",
-        "grade": "极美品",
-        "priceRange": "80000—150000元",
-        "notes": ""
-      }
-    ],
     "images": {
       "main": "/images/coins/n-辽朝钱币/天赞通宝/main.jpg",
       "variants": [
@@ -108,7 +92,23 @@
           "label": "版别3"
         }
       ]
-    }
+    },
+    "variantsTable": [
+      {
+        "variant": "小平钱",
+        "description": "仅见小平钱，直径约2.3—2.5cm，重约3—4g",
+        "grade": "一级（孤品） 美品",
+        "priceRange": "30000—80000元",
+        "notes": "存世极罕"
+      },
+      {
+        "variant": "小平钱",
+        "description": "仅见小平钱，直径约2.3—2.5cm，重约3—4g",
+        "grade": "一级（孤品） 极美品",
+        "priceRange": "80000—150000元",
+        "notes": ""
+      }
+    ]
   },
   "13-3": {
     "castingTime": "辽太祖耶律阿保机天显年间（公元926年—938年），太宗沿用。",
@@ -117,22 +117,6 @@
     "obverseFeatures": "面文\"天显通宝\"，四字对读，楷书，背面光素无文。",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。天显通宝为辽太祖耶律阿保机天显年间（公元926年—938年）铸行，太宗沿用。制作流程为：先雕刻天显通宝阴文母范（含面文\"天显通宝\"四字，楷书），中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。铸工较粗，存世极罕。",
     "coreBackground": "天显通宝存世极罕，马定祥十级制定为三级（罕贵）。",
-    "variants": "仅见小平钱。",
-    "valueReference": "",
-    "valueTable": [
-      {
-        "variant": "小平钱",
-        "grade": "美品",
-        "priceRange": "50000—100000元",
-        "notes": "存世极罕"
-      },
-      {
-        "variant": "小平钱",
-        "grade": "极美品",
-        "priceRange": "100000—200000元",
-        "notes": ""
-      }
-    ],
     "images": {
       "main": "/images/coins/n-辽朝钱币/天显通宝/main.jpg",
       "variants": [
@@ -147,7 +131,23 @@
           "label": "版别2"
         }
       ]
-    }
+    },
+    "variantsTable": [
+      {
+        "variant": "小平钱",
+        "description": "仅见小平钱，直径约2.3—2.5cm，重约3—4g",
+        "grade": "一级（孤品） 美品",
+        "priceRange": "50000—100000元",
+        "notes": "存世极罕"
+      },
+      {
+        "variant": "小平钱",
+        "description": "仅见小平钱，直径约2.3—2.5cm，重约3—4g",
+        "grade": "一级（孤品） 极美品",
+        "priceRange": "100000—200000元",
+        "notes": ""
+      }
+    ]
   },
   "13-4": {
     "castingTime": "辽太宗耶律德光会同年间（公元938年—947年）。",
@@ -156,26 +156,26 @@
     "obverseFeatures": "面文\"会同通宝\"，四字对读，楷书，背面光素无文。",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。会同通宝为辽太宗耶律德光会同年间（公元938年—947年）铸行。制作流程为：先雕刻会同通宝阴文母范（含面文\"会同通宝\"四字，楷书），中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。铸工较粗，铸量稀少。",
     "coreBackground": "会同年间太宗改国号为\"大辽\"，会同通宝铸量稀少。",
-    "variants": "仅见小平钱。",
-    "valueReference": "",
-    "valueTable": [
+    "images": {
+      "main": "",
+      "variants": []
+    },
+    "variantsTable": [
       {
         "variant": "小平钱",
-        "grade": "美品",
+        "description": "仅见小平钱，直径约2.3—2.5cm，重约3—4g",
+        "grade": "一级（孤品） 美品",
         "priceRange": "5000—15000元",
         "notes": ""
       },
       {
         "variant": "小平钱",
-        "grade": "极美品",
+        "description": "仅见小平钱，直径约2.3—2.5cm，重约3—4g",
+        "grade": "一级（孤品） 极美品",
         "priceRange": "15000—30000元",
         "notes": ""
       }
-    ],
-    "images": {
-      "main": "",
-      "variants": []
-    }
+    ]
   },
   "13-5": {
     "castingTime": "辽世宗耶律阮天禄年间（公元947年—951年）。",
@@ -184,32 +184,33 @@
     "obverseFeatures": "面文\"天禄通宝\"，四字对读，楷书，背面光素无文。",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。天禄通宝为辽世宗耶律阮天禄年间（公元947年—951年）铸行。制作流程为：先雕刻天禄通宝阴文母范（含面文\"天禄通宝\"四字，楷书），中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。铸工较粗，铸量不多。",
     "coreBackground": "天禄通宝铸量不多，马定祥十级制定为六级（稀）。",
-    "variants": "仅见小平钱。",
-    "valueReference": "",
-    "valueTable": [
+    "images": {
+      "main": "",
+      "variants": []
+    },
+    "variantsTable": [
       {
         "variant": "小平钱",
-        "grade": "普品",
+        "description": "仅见小平钱，直径约2.3—2.5cm，重约3—4g",
+        "grade": "一级（孤品） 普品",
         "priceRange": "1000—3000元",
         "notes": ""
       },
       {
         "variant": "小平钱",
-        "grade": "美品",
+        "description": "仅见小平钱，直径约2.3—2.5cm，重约3—4g",
+        "grade": "一级（孤品） 美品",
         "priceRange": "3000—7000元",
         "notes": ""
       },
       {
         "variant": "小平钱",
-        "grade": "极美品",
+        "description": "仅见小平钱，直径约2.3—2.5cm，重约3—4g",
+        "grade": "一级（孤品） 极美品",
         "priceRange": "7000—10000元",
         "notes": ""
       }
-    ],
-    "images": {
-      "main": "",
-      "variants": []
-    }
+    ]
   },
   "13-6": {
     "castingTime": "辽穆宗耶律璟应历年间（公元951年—969年）。",
@@ -218,28 +219,6 @@
     "obverseFeatures": "面文\"应历通宝\"，四字对读，楷书，背面光素无文。",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。应历通宝为辽穆宗耶律璟应历年间（公元951年—969年）铸行。制作流程为：先雕刻应历通宝阴文母范（含面文\"应历通宝\"四字，楷书），中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。铸工较粗，铸量稀少。",
     "coreBackground": "应历年间历时十九年，但铸量稀少。",
-    "variants": "仅见小平钱。",
-    "valueReference": "",
-    "valueTable": [
-      {
-        "variant": "小平钱",
-        "grade": "普品",
-        "priceRange": "10000—20000元",
-        "notes": ""
-      },
-      {
-        "variant": "小平钱",
-        "grade": "美品",
-        "priceRange": "20000—35000元",
-        "notes": ""
-      },
-      {
-        "variant": "小平钱",
-        "grade": "极美品",
-        "priceRange": "35000—50000元",
-        "notes": ""
-      }
-    ],
     "images": {
       "main": "/images/coins/n-辽朝钱币/应历通宝/main.jpg",
       "variants": [
@@ -254,7 +233,30 @@
           "label": "版别2"
         }
       ]
-    }
+    },
+    "variantsTable": [
+      {
+        "variant": "小平钱",
+        "description": "仅见小平钱，直径约2.3—2.5cm，重约3—4g",
+        "grade": "一级（孤品） 普品",
+        "priceRange": "10000—20000元",
+        "notes": ""
+      },
+      {
+        "variant": "小平钱",
+        "description": "仅见小平钱，直径约2.3—2.5cm，重约3—4g",
+        "grade": "一级（孤品） 美品",
+        "priceRange": "20000—35000元",
+        "notes": ""
+      },
+      {
+        "variant": "小平钱",
+        "description": "仅见小平钱，直径约2.3—2.5cm，重约3—4g",
+        "grade": "一级（孤品） 极美品",
+        "priceRange": "35000—50000元",
+        "notes": ""
+      }
+    ]
   },
   "13-7": {
     "castingTime": "辽景宗耶律贤保宁年间（公元969年—979年）。",
@@ -263,28 +265,6 @@
     "obverseFeatures": "面文\"保宁通宝\"，四字对读，楷书，背面光素无文。",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。保宁通宝为辽景宗耶律贤保宁年间（公元969年—979年）铸行。制作流程为：先雕刻保宁通宝阴文母范（含面文\"保宁通宝\"四字，楷书），中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。铸工较粗，铸量稀少。",
     "coreBackground": "保宁年间铸量稀少。",
-    "variants": "仅见小平钱。",
-    "valueReference": "",
-    "valueTable": [
-      {
-        "variant": "小平钱",
-        "grade": "普品",
-        "priceRange": "3000—8000元",
-        "notes": ""
-      },
-      {
-        "variant": "小平钱",
-        "grade": "美品",
-        "priceRange": "8000—15000元",
-        "notes": ""
-      },
-      {
-        "variant": "小平钱",
-        "grade": "极美品",
-        "priceRange": "15000—20000元",
-        "notes": ""
-      }
-    ],
     "images": {
       "main": "/images/coins/n-辽朝钱币/保宁通宝/main.jpg",
       "variants": [
@@ -304,7 +284,30 @@
           "label": "版别3"
         }
       ]
-    }
+    },
+    "variantsTable": [
+      {
+        "variant": "小平钱",
+        "description": "仅见小平钱，直径约2.3—2.5cm，重约3—4g",
+        "grade": "一级（孤品） 普品",
+        "priceRange": "3000—8000元",
+        "notes": ""
+      },
+      {
+        "variant": "小平钱",
+        "description": "仅见小平钱，直径约2.3—2.5cm，重约3—4g",
+        "grade": "一级（孤品） 美品",
+        "priceRange": "8000—15000元",
+        "notes": ""
+      },
+      {
+        "variant": "小平钱",
+        "description": "仅见小平钱，直径约2.3—2.5cm，重约3—4g",
+        "grade": "一级（孤品） 极美品",
+        "priceRange": "15000—20000元",
+        "notes": ""
+      }
+    ]
   },
   "13-8": {
     "castingTime": "辽景宗耶律贤乾亨年间（公元979年—982年）。",
@@ -313,32 +316,33 @@
     "obverseFeatures": "面文\"乾亨通宝\"，四字对读，楷书，背面光素无文。",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。乾亨通宝为辽景宗耶律贤乾亨年间（公元979年—982年）铸行。制作流程为：先雕刻乾亨通宝阴文母范（含面文\"乾亨通宝\"四字，楷书），中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。铸工较粗，铸量稀少。需与南汉乾亨通宝严格区分。",
     "coreBackground": "乾亨通宝-辽需与南汉乾亨通宝严格区分，故加\"-辽\"后缀。铸量稀少。",
-    "variants": "仅见小平钱。",
-    "valueReference": "",
-    "valueTable": [
+    "images": {
+      "main": "/images/coins/n-辽朝钱币/乾亨通宝-辽/main.jpg",
+      "variants": []
+    },
+    "variantsTable": [
       {
         "variant": "小平钱",
-        "grade": "普品",
+        "description": "仅见小平钱，直径约2.3—2.5cm，重约3—4g",
+        "grade": "一级（孤品） 普品",
         "priceRange": "3000—8000元",
         "notes": ""
       },
       {
         "variant": "小平钱",
-        "grade": "美品",
+        "description": "仅见小平钱，直径约2.3—2.5cm，重约3—4g",
+        "grade": "一级（孤品） 美品",
         "priceRange": "8000—15000元",
         "notes": ""
       },
       {
         "variant": "小平钱",
-        "grade": "极美品",
+        "description": "仅见小平钱，直径约2.3—2.5cm，重约3—4g",
+        "grade": "一级（孤品） 极美品",
         "priceRange": "15000—20000元",
         "notes": ""
       }
-    ],
-    "images": {
-      "main": "/images/coins/n-辽朝钱币/乾亨通宝-辽/main.jpg",
-      "variants": []
-    }
+    ]
   },
   "13-9": {
     "castingTime": "辽圣宗耶律隆绪统和年间（公元983年—1012年）。",
@@ -347,28 +351,6 @@
     "obverseFeatures": "面文\"统和元宝\"，四字旋读，楷书，背面光素无文。",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。统和元宝为辽圣宗耶律隆绪统和年间（公元983年—1012年）铸行，为辽圣宗盛世时期铸币。制作流程为：先雕刻统和元宝阴文母范（含面文\"统和元宝\"四字，楷书），中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。铸工较粗，铸量仍不多。",
     "coreBackground": "统和年间为辽圣宗盛世，萧太后摄政，但铸量仍不多。马定祥十级制定为五级（稀贵）。",
-    "variants": "仅见小平钱。",
-    "valueReference": "",
-    "valueTable": [
-      {
-        "variant": "小平钱",
-        "grade": "普品",
-        "priceRange": "3000—8000元",
-        "notes": ""
-      },
-      {
-        "variant": "小平钱",
-        "grade": "美品",
-        "priceRange": "8000—15000元",
-        "notes": ""
-      },
-      {
-        "variant": "小平钱",
-        "grade": "极美品",
-        "priceRange": "15000—20000元",
-        "notes": ""
-      }
-    ],
     "images": {
       "main": "/images/coins/n-辽朝钱币/统和元宝/main.jpg",
       "variants": [
@@ -383,7 +365,30 @@
           "label": "版别2"
         }
       ]
-    }
+    },
+    "variantsTable": [
+      {
+        "variant": "小平钱",
+        "description": "仅见小平钱，直径约2.3—2.5cm，重约3—4g",
+        "grade": "一级（孤品） 普品",
+        "priceRange": "3000—8000元",
+        "notes": ""
+      },
+      {
+        "variant": "小平钱",
+        "description": "仅见小平钱，直径约2.3—2.5cm，重约3—4g",
+        "grade": "一级（孤品） 美品",
+        "priceRange": "8000—15000元",
+        "notes": ""
+      },
+      {
+        "variant": "小平钱",
+        "description": "仅见小平钱，直径约2.3—2.5cm，重约3—4g",
+        "grade": "一级（孤品） 极美品",
+        "priceRange": "15000—20000元",
+        "notes": ""
+      }
+    ]
   },
   "13-10": {
     "castingTime": "辽圣宗耶律隆绪开泰年间（公元1012年—1021年）。",
@@ -392,20 +397,19 @@
     "obverseFeatures": "面文\"开泰元宝\"，四字旋读，楷书，背面光素无文。",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。开泰元宝为辽圣宗耶律隆绪开泰年间（公元1012年—1021年）铸行。制作流程为：先雕刻开泰元宝阴文母范（含面文\"开泰元宝\"四字，楷书），中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。铸工较粗，铸量稀少。",
     "coreBackground": "开泰年间铸量稀少。",
-    "variants": "仅见小平钱。",
-    "valueReference": "",
-    "valueTable": [
-      {
-        "variant": "小平钱",
-        "grade": "美品",
-        "priceRange": "3000—15000元",
-        "notes": ""
-      }
-    ],
     "images": {
       "main": "",
       "variants": []
-    }
+    },
+    "variantsTable": [
+      {
+        "variant": "小平钱",
+        "description": "仅见小平钱，直径约2.3—2.5cm，重约3—4g",
+        "grade": "一级（孤品） 美品",
+        "priceRange": "3000—15000元",
+        "notes": ""
+      }
+    ]
   },
   "13-11": {
     "castingTime": "辽圣宗耶律隆绪太平年间（公元1021年—1031年）。",
@@ -414,20 +418,19 @@
     "obverseFeatures": "面文\"太平元宝\"，四字旋读，楷书，背面光素无文。",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。太平元宝为辽圣宗耶律隆绪太平年间（公元1021年—1031年）铸行。制作流程为：先雕刻太平元宝阴文母范（含面文\"太平元宝\"四字，楷书），中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。铸工较粗，铸量稀少。",
     "coreBackground": "太平年间铸量稀少。",
-    "variants": "仅见小平钱。",
-    "valueReference": "",
-    "valueTable": [
-      {
-        "variant": "小平钱",
-        "grade": "美品",
-        "priceRange": "3000—15000元",
-        "notes": ""
-      }
-    ],
     "images": {
       "main": "",
       "variants": []
-    }
+    },
+    "variantsTable": [
+      {
+        "variant": "小平钱",
+        "description": "仅见小平钱，直径约2.3—2.5cm，重约3—4g",
+        "grade": "一级（孤品） 美品",
+        "priceRange": "3000—15000元",
+        "notes": ""
+      }
+    ]
   },
   "13-12": {
     "castingTime": "辽兴宗耶律宗真景福年间（公元1031年—1032年）。",
@@ -436,20 +439,19 @@
     "obverseFeatures": "面文\"景福通宝\"，四字对读，楷书，背面光素无文。",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。景福通宝为辽兴宗耶律宗真景福年间（公元1031年—1032年）铸行。制作流程为：先雕刻景福通宝阴文母范（含面文\"景福通宝\"四字，楷书），中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。景福年号仅一年，铸量极少。",
     "coreBackground": "景福年号仅一年，铸量极少。",
-    "variants": "仅见小平钱。",
-    "valueReference": "",
-    "valueTable": [
-      {
-        "variant": "小平钱",
-        "grade": "美品",
-        "priceRange": "3000—15000元",
-        "notes": ""
-      }
-    ],
     "images": {
       "main": "",
       "variants": []
-    }
+    },
+    "variantsTable": [
+      {
+        "variant": "小平钱",
+        "description": "仅见小平钱，直径约2.3—2.5cm，重约3—4g",
+        "grade": "一级（孤品） 美品",
+        "priceRange": "3000—15000元",
+        "notes": ""
+      }
+    ]
   },
   "13-13": {
     "castingTime": "辽兴宗耶律宗真重熙年间（公元1032年—1055年）。",
@@ -458,28 +460,6 @@
     "obverseFeatures": "面文\"重熙通宝\"，四字对读，楷书，背面光素无文。",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。重熙通宝为辽兴宗耶律宗真重熙年间（公元1032年—1055年）铸行。制作流程为：先雕刻重熙通宝阴文母范（含面文\"重熙通宝\"四字，楷书），中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。重熙年间历时二十四年，为辽朝铸量最大的钱币，铸工较粗。",
     "coreBackground": "* 重熙年间历时二十四年，为辽朝铸量最大的钱币\n* 重熙通宝是辽朝钱币中较常见的品种，马定祥十级制定为七级（甚少）\n* 辽朝钱币普遍铸量少于中原王朝，重熙通宝已是辽钱中存世最多者",
-    "variants": "仅见小平钱。",
-    "valueReference": "",
-    "valueTable": [
-      {
-        "variant": "小平钱",
-        "grade": "普品",
-        "priceRange": "100—300元",
-        "notes": "辽钱较常见者"
-      },
-      {
-        "variant": "小平钱",
-        "grade": "美品",
-        "priceRange": "300—700元",
-        "notes": ""
-      },
-      {
-        "variant": "小平钱",
-        "grade": "极美品",
-        "priceRange": "700—1000元",
-        "notes": ""
-      }
-    ],
     "images": {
       "main": "/images/coins/n-辽朝钱币/重熙通宝/main.jpg",
       "variants": [
@@ -494,7 +474,30 @@
           "label": "版别2"
         }
       ]
-    }
+    },
+    "variantsTable": [
+      {
+        "variant": "小平钱",
+        "description": "仅见小平钱，直径约2.3—2.5cm，重约3—4g",
+        "grade": "一级（孤品） 普品",
+        "priceRange": "100—300元",
+        "notes": "辽钱较常见者"
+      },
+      {
+        "variant": "小平钱",
+        "description": "仅见小平钱，直径约2.3—2.5cm，重约3—4g",
+        "grade": "一级（孤品） 美品",
+        "priceRange": "300—700元",
+        "notes": ""
+      },
+      {
+        "variant": "小平钱",
+        "description": "仅见小平钱，直径约2.3—2.5cm，重约3—4g",
+        "grade": "一级（孤品） 极美品",
+        "priceRange": "700—1000元",
+        "notes": ""
+      }
+    ]
   },
   "13-14": {
     "castingTime": "辽道宗耶律洪基清宁年间（公元1055年—1064年）。",
@@ -503,28 +506,6 @@
     "obverseFeatures": "面文\"清宁通宝\"，四字对读，楷书，背面光素无文。",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。清宁通宝为辽道宗耶律洪基清宁年间（公元1055年—1064年）铸行。制作流程为：先雕刻清宁通宝阴文母范（含面文\"清宁通宝\"四字，楷书），中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。铸工较粗，铸量在辽钱中尚可。",
     "coreBackground": "清宁通宝为辽道宗朝铸币，铸量在辽钱中尚可。马定祥十级制定为七级（甚少）。",
-    "variants": "仅见小平钱。",
-    "valueReference": "",
-    "valueTable": [
-      {
-        "variant": "小平钱",
-        "grade": "普品",
-        "priceRange": "100—300元",
-        "notes": ""
-      },
-      {
-        "variant": "小平钱",
-        "grade": "美品",
-        "priceRange": "300—700元",
-        "notes": ""
-      },
-      {
-        "variant": "小平钱",
-        "grade": "极美品",
-        "priceRange": "700—1000元",
-        "notes": ""
-      }
-    ],
     "images": {
       "main": "/images/coins/n-辽朝钱币/清宁通宝/main.jpg",
       "variants": [
@@ -544,7 +525,30 @@
           "label": "版别3"
         }
       ]
-    }
+    },
+    "variantsTable": [
+      {
+        "variant": "小平钱",
+        "description": "仅见小平钱，直径约2.3—2.5cm，重约3—4g",
+        "grade": "一级（孤品） 普品",
+        "priceRange": "100—300元",
+        "notes": ""
+      },
+      {
+        "variant": "小平钱",
+        "description": "仅见小平钱，直径约2.3—2.5cm，重约3—4g",
+        "grade": "一级（孤品） 美品",
+        "priceRange": "300—700元",
+        "notes": ""
+      },
+      {
+        "variant": "小平钱",
+        "description": "仅见小平钱，直径约2.3—2.5cm，重约3—4g",
+        "grade": "一级（孤品） 极美品",
+        "priceRange": "700—1000元",
+        "notes": ""
+      }
+    ]
   },
   "13-15": {
     "castingTime": "辽道宗耶律洪基清宁年间（公元1055年—1064年）。",
@@ -553,22 +557,6 @@
     "obverseFeatures": "面文\"清宁元宝\"，四字旋读，楷书，背面光素无文。",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。清宁元宝为辽道宗耶律洪基清宁年间（公元1055年—1064年）铸行，与清宁通宝并行。制作流程为：先雕刻清宁元宝阴文母范（含面文\"清宁元宝\"四字，楷书），中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。铸工较粗，较清宁通宝少。",
     "coreBackground": "清宁元宝较清宁通宝少。",
-    "variants": "仅见小平钱。",
-    "valueReference": "",
-    "valueTable": [
-      {
-        "variant": "小平钱",
-        "grade": "美品",
-        "priceRange": "3000—10000元",
-        "notes": ""
-      },
-      {
-        "variant": "小平钱",
-        "grade": "极美品",
-        "priceRange": "10000—15000元",
-        "notes": ""
-      }
-    ],
     "images": {
       "main": "/images/coins/n-辽朝钱币/清宁元宝/main.jpg",
       "variants": [
@@ -583,7 +571,23 @@
           "label": "版别2"
         }
       ]
-    }
+    },
+    "variantsTable": [
+      {
+        "variant": "小平钱",
+        "description": "仅见小平钱，直径约2.3—2.5cm，重约3—4g",
+        "grade": "一级（孤品） 美品",
+        "priceRange": "3000—10000元",
+        "notes": ""
+      },
+      {
+        "variant": "小平钱",
+        "description": "仅见小平钱，直径约2.3—2.5cm，重约3—4g",
+        "grade": "一级（孤品） 极美品",
+        "priceRange": "10000—15000元",
+        "notes": ""
+      }
+    ]
   },
   "13-16": {
     "castingTime": "辽道宗耶律洪基咸雍年间（公元1065年—1074年）。",
@@ -592,28 +596,6 @@
     "obverseFeatures": "面文\"咸雍通宝\"，四字对读，楷书，背面光素无文。",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。咸雍通宝为辽道宗耶律洪基咸雍年间（公元1065年—1074年）铸行。制作流程为：先雕刻咸雍通宝阴文母范（含面文\"咸雍通宝\"四字，楷书），中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。铸工较粗，铸量较少。",
     "coreBackground": "咸雍年间铸量较少。",
-    "variants": "仅见小平钱。",
-    "valueReference": "",
-    "valueTable": [
-      {
-        "variant": "小平钱",
-        "grade": "普品",
-        "priceRange": "200—500元",
-        "notes": ""
-      },
-      {
-        "variant": "小平钱",
-        "grade": "美品",
-        "priceRange": "500—1500元",
-        "notes": ""
-      },
-      {
-        "variant": "小平钱",
-        "grade": "极美品",
-        "priceRange": "1500—2000元",
-        "notes": ""
-      }
-    ],
     "images": {
       "main": "/images/coins/n-辽朝钱币/咸雍通宝/main.jpg",
       "variants": [
@@ -633,7 +615,30 @@
           "label": "版别3"
         }
       ]
-    }
+    },
+    "variantsTable": [
+      {
+        "variant": "小平钱",
+        "description": "仅见小平钱，直径约2.3—2.5cm，重约3—4g",
+        "grade": "一级（孤品） 普品",
+        "priceRange": "200—500元",
+        "notes": ""
+      },
+      {
+        "variant": "小平钱",
+        "description": "仅见小平钱，直径约2.3—2.5cm，重约3—4g",
+        "grade": "一级（孤品） 美品",
+        "priceRange": "500—1500元",
+        "notes": ""
+      },
+      {
+        "variant": "小平钱",
+        "description": "仅见小平钱，直径约2.3—2.5cm，重约3—4g",
+        "grade": "一级（孤品） 极美品",
+        "priceRange": "1500—2000元",
+        "notes": ""
+      }
+    ]
   },
   "13-17": {
     "castingTime": "辽道宗耶律洪基大康年间（公元1075年—1084年）。",
@@ -642,32 +647,33 @@
     "obverseFeatures": "面文\"大康通宝\"，四字对读，楷书，背面光素无文。",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。大康通宝为辽道宗耶律洪基大康年间（公元1075年—1084年）铸行。制作流程为：先雕刻大康通宝阴文母范（含面文\"大康通宝\"四字，楷书），中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。铸工较粗，铸量较少。",
     "coreBackground": "大康年间铸量较少。",
-    "variants": "仅见小平钱。",
-    "valueReference": "",
-    "valueTable": [
+    "images": {
+      "main": "/images/coins/n-辽朝钱币/大康通宝/main.jpg",
+      "variants": []
+    },
+    "variantsTable": [
       {
         "variant": "小平钱",
-        "grade": "普品",
+        "description": "仅见小平钱，直径约2.3—2.5cm，重约3—4g",
+        "grade": "一级（孤品） 普品",
         "priceRange": "200—500元",
         "notes": ""
       },
       {
         "variant": "小平钱",
-        "grade": "美品",
+        "description": "仅见小平钱，直径约2.3—2.5cm，重约3—4g",
+        "grade": "一级（孤品） 美品",
         "priceRange": "500—1500元",
         "notes": ""
       },
       {
         "variant": "小平钱",
-        "grade": "极美品",
+        "description": "仅见小平钱，直径约2.3—2.5cm，重约3—4g",
+        "grade": "一级（孤品） 极美品",
         "priceRange": "1500—2000元",
         "notes": ""
       }
-    ],
-    "images": {
-      "main": "/images/coins/n-辽朝钱币/大康通宝/main.jpg",
-      "variants": []
-    }
+    ]
   },
   "13-18": {
     "castingTime": "辽道宗耶律洪基大康年间（公元1075年—1084年）。",
@@ -676,22 +682,6 @@
     "obverseFeatures": "面文\"大康元宝\"，四字旋读，楷书，背面光素无文。",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。大康元宝为辽道宗耶律洪基大康年间（公元1075年—1084年）铸行，与大康通宝并行。制作流程为：先雕刻大康元宝阴文母范（含面文\"大康元宝\"四字，楷书），中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。铸工较粗，较大康通宝少。",
     "coreBackground": "大康元宝较大康通宝少。",
-    "variants": "仅见小平钱。",
-    "valueReference": "",
-    "valueTable": [
-      {
-        "variant": "小平钱",
-        "grade": "美品",
-        "priceRange": "3000—10000元",
-        "notes": ""
-      },
-      {
-        "variant": "小平钱",
-        "grade": "极美品",
-        "priceRange": "10000—15000元",
-        "notes": ""
-      }
-    ],
     "images": {
       "main": "/images/coins/n-辽朝钱币/大康元宝/main.jpg",
       "variants": [
@@ -711,7 +701,23 @@
           "label": "版别3"
         }
       ]
-    }
+    },
+    "variantsTable": [
+      {
+        "variant": "小平钱",
+        "description": "仅见小平钱，直径约2.3—2.5cm，重约3—4g",
+        "grade": "一级（孤品） 美品",
+        "priceRange": "3000—10000元",
+        "notes": ""
+      },
+      {
+        "variant": "小平钱",
+        "description": "仅见小平钱，直径约2.3—2.5cm，重约3—4g",
+        "grade": "一级（孤品） 极美品",
+        "priceRange": "10000—15000元",
+        "notes": ""
+      }
+    ]
   },
   "13-19": {
     "castingTime": "辽道宗耶律洪基大安年间（公元1085年—1094年）。",
@@ -720,28 +726,6 @@
     "obverseFeatures": "面文\"大安元宝\"，四字旋读，楷书，背面光素无文。",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。大安元宝为辽道宗耶律洪基大安年间（公元1085年—1094年）铸行。制作流程为：先雕刻大安元宝阴文母范（含面文\"大安元宝\"四字，楷书），中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。铸工较粗，铸量较少。",
     "coreBackground": "大安年间铸量较少。",
-    "variants": "仅见小平钱。",
-    "valueReference": "",
-    "valueTable": [
-      {
-        "variant": "小平钱",
-        "grade": "普品",
-        "priceRange": "500—1000元",
-        "notes": ""
-      },
-      {
-        "variant": "小平钱",
-        "grade": "美品",
-        "priceRange": "1000—2000元",
-        "notes": ""
-      },
-      {
-        "variant": "小平钱",
-        "grade": "极美品",
-        "priceRange": "2000—3000元",
-        "notes": ""
-      }
-    ],
     "images": {
       "main": "/images/coins/n-辽朝钱币/大安元宝/main.jpg",
       "variants": [
@@ -761,7 +745,30 @@
           "label": "版别3"
         }
       ]
-    }
+    },
+    "variantsTable": [
+      {
+        "variant": "小平钱",
+        "description": "仅见小平钱，直径约2.3—2.5cm，重约3—4g",
+        "grade": "一级（孤品） 普品",
+        "priceRange": "500—1000元",
+        "notes": ""
+      },
+      {
+        "variant": "小平钱",
+        "description": "仅见小平钱，直径约2.3—2.5cm，重约3—4g",
+        "grade": "一级（孤品） 美品",
+        "priceRange": "1000—2000元",
+        "notes": ""
+      },
+      {
+        "variant": "小平钱",
+        "description": "仅见小平钱，直径约2.3—2.5cm，重约3—4g",
+        "grade": "一级（孤品） 极美品",
+        "priceRange": "2000—3000元",
+        "notes": ""
+      }
+    ]
   },
   "13-20": {
     "castingTime": "辽道宗耶律洪基寿昌年间（公元1095年—1101年）。",
@@ -770,28 +777,6 @@
     "obverseFeatures": "面文\"寿昌元宝\"，四字旋读，楷书，背面光素无文。",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。寿昌元宝为辽道宗耶律洪基寿昌年间（公元1095年—1101年）铸行，为道宗最后一个年号钱。制作流程为：先雕刻寿昌元宝阴文母范（含面文\"寿昌元宝\"四字，楷书），中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。铸工较粗，铸量较少。",
     "coreBackground": "寿昌为道宗最后一个年号，铸量较少。",
-    "variants": "仅见小平钱。",
-    "valueReference": "",
-    "valueTable": [
-      {
-        "variant": "小平钱",
-        "grade": "普品",
-        "priceRange": "200—500元",
-        "notes": ""
-      },
-      {
-        "variant": "小平钱",
-        "grade": "美品",
-        "priceRange": "500—1500元",
-        "notes": ""
-      },
-      {
-        "variant": "小平钱",
-        "grade": "极美品",
-        "priceRange": "1500—2000元",
-        "notes": ""
-      }
-    ],
     "images": {
       "main": "/images/coins/n-辽朝钱币/寿昌元宝/main.jpg",
       "variants": [
@@ -806,7 +791,30 @@
           "label": "版别2"
         }
       ]
-    }
+    },
+    "variantsTable": [
+      {
+        "variant": "小平钱",
+        "description": "仅见小平钱，直径约2.3—2.5cm，重约3—4g",
+        "grade": "一级（孤品） 普品",
+        "priceRange": "200—500元",
+        "notes": ""
+      },
+      {
+        "variant": "小平钱",
+        "description": "仅见小平钱，直径约2.3—2.5cm，重约3—4g",
+        "grade": "一级（孤品） 美品",
+        "priceRange": "500—1500元",
+        "notes": ""
+      },
+      {
+        "variant": "小平钱",
+        "description": "仅见小平钱，直径约2.3—2.5cm，重约3—4g",
+        "grade": "一级（孤品） 极美品",
+        "priceRange": "1500—2000元",
+        "notes": ""
+      }
+    ]
   },
   "13-21": {
     "castingTime": "辽天祚帝耶律延禧乾统年间（公元1101年—1110年）。",
@@ -815,28 +823,6 @@
     "obverseFeatures": "面文\"乾统元宝\"，四字旋读，楷书，背面光素无文。",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。乾统元宝为辽天祚帝耶律延禧乾统年间（公元1101年—1110年）铸行。制作流程为：先雕刻乾统元宝阴文母范（含面文\"乾统元宝\"四字，楷书），中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。铸工较粗，辽朝国势衰落，铸量有限。",
     "coreBackground": "乾统年间辽朝国势衰落，铸量有限。",
-    "variants": "仅见小平钱。",
-    "valueReference": "",
-    "valueTable": [
-      {
-        "variant": "小平钱",
-        "grade": "普品",
-        "priceRange": "200—500元",
-        "notes": ""
-      },
-      {
-        "variant": "小平钱",
-        "grade": "美品",
-        "priceRange": "500—1500元",
-        "notes": ""
-      },
-      {
-        "variant": "小平钱",
-        "grade": "极美品",
-        "priceRange": "1500—2000元",
-        "notes": ""
-      }
-    ],
     "images": {
       "main": "/images/coins/n-辽朝钱币/乾统元宝/main.jpg",
       "variants": [
@@ -851,7 +837,30 @@
           "label": "版别2"
         }
       ]
-    }
+    },
+    "variantsTable": [
+      {
+        "variant": "小平钱",
+        "description": "仅见小平钱，直径约2.3—2.5cm，重约3—4g",
+        "grade": "一级（孤品） 普品",
+        "priceRange": "200—500元",
+        "notes": ""
+      },
+      {
+        "variant": "小平钱",
+        "description": "仅见小平钱，直径约2.3—2.5cm，重约3—4g",
+        "grade": "一级（孤品） 美品",
+        "priceRange": "500—1500元",
+        "notes": ""
+      },
+      {
+        "variant": "小平钱",
+        "description": "仅见小平钱，直径约2.3—2.5cm，重约3—4g",
+        "grade": "一级（孤品） 极美品",
+        "priceRange": "1500—2000元",
+        "notes": ""
+      }
+    ]
   },
   "13-22": {
     "castingTime": "辽天祚帝耶律延禧天庆年间（公元1111年—1120年）。",
@@ -860,28 +869,6 @@
     "obverseFeatures": "面文\"天庆元宝\"，四字旋读，楷书，背面光素无文。",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。天庆元宝为辽天祚帝耶律延禧天庆年间（公元1111年—1120年）铸行。制作流程为：先雕刻天庆元宝阴文母范（含面文\"天庆元宝\"四字，楷书），中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。铸工较粗，辽朝即将灭亡，铸量有限。需与金代天庆元宝区分。",
     "coreBackground": "天庆元宝-辽需与金代天庆元宝区分。天庆年间辽朝即将灭亡，铸量有限。",
-    "variants": "仅见小平钱。",
-    "valueReference": "",
-    "valueTable": [
-      {
-        "variant": "小平钱",
-        "grade": "普品",
-        "priceRange": "500—1000元",
-        "notes": ""
-      },
-      {
-        "variant": "小平钱",
-        "grade": "美品",
-        "priceRange": "1000—2000元",
-        "notes": ""
-      },
-      {
-        "variant": "小平钱",
-        "grade": "极美品",
-        "priceRange": "2000—3000元",
-        "notes": ""
-      }
-    ],
     "images": {
       "main": "/images/coins/n-辽朝钱币/天庆元宝-辽/main.jpg",
       "variants": [
@@ -901,7 +888,30 @@
           "label": "版别3"
         }
       ]
-    }
+    },
+    "variantsTable": [
+      {
+        "variant": "小平钱",
+        "description": "仅见小平钱，直径约2.3—2.5cm，重约3—4g",
+        "grade": "一级（孤品） 普品",
+        "priceRange": "500—1000元",
+        "notes": ""
+      },
+      {
+        "variant": "小平钱",
+        "description": "仅见小平钱，直径约2.3—2.5cm，重约3—4g",
+        "grade": "一级（孤品） 美品",
+        "priceRange": "1000—2000元",
+        "notes": ""
+      },
+      {
+        "variant": "小平钱",
+        "description": "仅见小平钱，直径约2.3—2.5cm，重约3—4g",
+        "grade": "一级（孤品） 极美品",
+        "priceRange": "2000—3000元",
+        "notes": ""
+      }
+    ]
   },
   "13-23": {
     "castingTime": "辽朝时期，具体年代不详。",
@@ -910,26 +920,26 @@
     "obverseFeatures": "面文\"天朝万顺\"，契丹文或汉文，背面光素无文。",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。天朝万顺为辽朝时期特殊铸币，具体年代不详。制作流程为：先雕刻天朝万顺阴文母范（含面文\"天朝万顺\"，契丹文或汉文），中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。铸工较粗，存世稀少。",
     "coreBackground": "天朝万顺为辽朝特殊铸币，存世稀少。",
-    "variants": "仅见小平钱。",
-    "valueReference": "",
-    "valueTable": [
+    "images": {
+      "main": "/images/coins/n-辽朝钱币/天朝万顺/main.jpg",
+      "variants": []
+    },
+    "variantsTable": [
       {
         "variant": "小平钱",
-        "grade": "美品",
+        "description": "仅见小平钱，直径约2.3—2.5cm，重约3—4g",
+        "grade": "一级（孤品） 美品",
         "priceRange": "5000—15000元",
         "notes": ""
       },
       {
         "variant": "小平钱",
-        "grade": "极美品",
+        "description": "仅见小平钱，直径约2.3—2.5cm，重约3—4g",
+        "grade": "一级（孤品） 极美品",
         "priceRange": "15000—30000元",
         "notes": ""
       }
-    ],
-    "images": {
-      "main": "/images/coins/n-辽朝钱币/天朝万顺/main.jpg",
-      "variants": []
-    }
+    ]
   },
   "13-24": {
     "castingTime": "辽朝时期，具体年代不详。",
@@ -938,22 +948,6 @@
     "obverseFeatures": "面文\"助国元宝\"，四字旋读，楷书，背面光素无文。",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。助国元宝为辽朝时期铸币，具体年代不详。制作流程为：先雕刻助国元宝阴文母范（含面文\"助国元宝\"四字，楷书），中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。铸工较粗，存世稀少。",
     "coreBackground": "助国元宝为辽朝铸币，存世稀少。",
-    "variants": "仅见小平钱。",
-    "valueReference": "",
-    "valueTable": [
-      {
-        "variant": "小平钱",
-        "grade": "美品",
-        "priceRange": "5000—15000元",
-        "notes": ""
-      },
-      {
-        "variant": "小平钱",
-        "grade": "极美品",
-        "priceRange": "15000—30000元",
-        "notes": ""
-      }
-    ],
     "images": {
       "main": "/images/coins/n-辽朝钱币/助国元宝/main.jpg",
       "variants": [
@@ -968,7 +962,23 @@
           "label": "版别2"
         }
       ]
-    }
+    },
+    "variantsTable": [
+      {
+        "variant": "小平钱",
+        "description": "仅见小平钱，直径约2.3—2.5cm，重约3—4g",
+        "grade": "一级（孤品） 美品",
+        "priceRange": "5000—15000元",
+        "notes": ""
+      },
+      {
+        "variant": "小平钱",
+        "description": "仅见小平钱，直径约2.3—2.5cm，重约3—4g",
+        "grade": "一级（孤品） 极美品",
+        "priceRange": "15000—30000元",
+        "notes": ""
+      }
+    ]
   },
   "13-25": {
     "castingTime": "辽朝时期，具体年代不详。",
@@ -977,26 +987,26 @@
     "obverseFeatures": "面文\"壮国元宝\"，四字旋读，楷书，背面光素无文。",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。壮国元宝为辽朝时期铸币，具体年代不详。制作流程为：先雕刻壮国元宝阴文母范（含面文\"壮国元宝\"四字，楷书），中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。铸工较粗，存世稀少。",
     "coreBackground": "壮国元宝为辽朝铸币，存世稀少。",
-    "variants": "仅见小平钱。",
-    "valueReference": "",
-    "valueTable": [
+    "images": {
+      "main": "/images/coins/n-辽朝钱币/壮国元宝/main.jpg",
+      "variants": []
+    },
+    "variantsTable": [
       {
         "variant": "小平钱",
-        "grade": "美品",
+        "description": "仅见小平钱，直径约2.3—2.5cm，重约3—4g",
+        "grade": "一级（孤品） 美品",
         "priceRange": "5000—15000元",
         "notes": ""
       },
       {
         "variant": "小平钱",
-        "grade": "极美品",
+        "description": "仅见小平钱，直径约2.3—2.5cm，重约3—4g",
+        "grade": "一级（孤品） 极美品",
         "priceRange": "15000—30000元",
         "notes": ""
       }
-    ],
-    "images": {
-      "main": "/images/coins/n-辽朝钱币/壮国元宝/main.jpg",
-      "variants": []
-    }
+    ]
   },
   "13-26": {
     "castingTime": "辽朝时期，具体年代不详。",
@@ -1005,22 +1015,6 @@
     "obverseFeatures": "面文\"千秋万岁\"，祝语钱，背面光素无文。",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。千秋万岁为辽朝时期祝语钱，非年号钱，具纪念性质，具体年代不详。制作流程为：先雕刻千秋万岁阴文母范（含面文\"千秋万岁\"四字），中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。铸工较粗。",
     "coreBackground": "千秋万岁为辽朝祝语钱，非年号钱，具纪念性质。",
-    "variants": "仅见小平钱。",
-    "valueReference": "",
-    "valueTable": [
-      {
-        "variant": "小平钱",
-        "grade": "美品",
-        "priceRange": "3000—10000元",
-        "notes": ""
-      },
-      {
-        "variant": "小平钱",
-        "grade": "极美品",
-        "priceRange": "10000—20000元",
-        "notes": ""
-      }
-    ],
     "images": {
       "main": "/images/coins/n-辽朝钱币/千秋万岁/main.jpg",
       "variants": [
@@ -1040,7 +1034,23 @@
           "label": "版别3"
         }
       ]
-    }
+    },
+    "variantsTable": [
+      {
+        "variant": "小平钱",
+        "description": "仅见小平钱，直径约2.3—2.5cm，重约3—4g",
+        "grade": "一级（孤品） 美品",
+        "priceRange": "3000—10000元",
+        "notes": ""
+      },
+      {
+        "variant": "小平钱",
+        "description": "仅见小平钱，直径约2.3—2.5cm，重约3—4g",
+        "grade": "一级（孤品） 极美品",
+        "priceRange": "10000—20000元",
+        "notes": ""
+      }
+    ]
   },
   "13-27": {
     "castingTime": "辽天祚帝耶律延禧天庆年间（公元1111年—1120年）。",
@@ -1049,22 +1059,6 @@
     "obverseFeatures": "面文\"大辽天庆\"，四字对读，楷书，背面光素无文。",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。大辽天庆为辽天祚帝耶律延禧天庆年间（公元1111年—1120年）铸行，为辽末特殊铸币，以国号\"大辽\"起首。制作流程为：先雕刻大辽天庆阴文母范（含面文\"大辽天庆\"四字，楷书），中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。铸工较粗，存世极罕。",
     "coreBackground": "* 大辽天庆为辽末特殊铸币，以国号\"大辽\"起首\n* 存世极罕，马定祥十级制定为三级（罕贵）\n* 天庆末年，金兵攻灭辽朝，大辽天庆可能为亡国前最后的铸币",
-    "variants": "仅见小平钱。",
-    "valueReference": "",
-    "valueTable": [
-      {
-        "variant": "小平钱",
-        "grade": "美品",
-        "priceRange": "20000—50000元",
-        "notes": "存世极罕"
-      },
-      {
-        "variant": "小平钱",
-        "grade": "极美品",
-        "priceRange": "50000—100000元",
-        "notes": ""
-      }
-    ],
     "images": {
       "main": "/images/coins/n-辽朝钱币/大辽天庆/main.jpg",
       "variants": [
@@ -1079,6 +1073,22 @@
           "label": "版别2"
         }
       ]
-    }
+    },
+    "variantsTable": [
+      {
+        "variant": "小平钱",
+        "description": "仅见小平钱，直径约2.3—2.5cm，重约3—4g",
+        "grade": "一级（孤品） 美品",
+        "priceRange": "20000—50000元",
+        "notes": "存世极罕"
+      },
+      {
+        "variant": "小平钱",
+        "description": "仅见小平钱，直径约2.3—2.5cm，重约3—4g",
+        "grade": "一级（孤品） 极美品",
+        "priceRange": "50000—100000元",
+        "notes": ""
+      }
+    ]
   }
 }
