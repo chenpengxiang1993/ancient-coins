@@ -33,6 +33,6 @@ jobs:
           chmod 600 ~/.ssh/deploy_key
           HOST="${{ secrets.DEPLOY_USER }}@${{ secrets.DEPLOY_HOST }}"
           TARGET="/var/www/frontend/coins"
-          RSYNC_RSH="ssh -i ~/.ssh/deploy_key -o StrictHostKeyChecking=no"
+          SSH_OPTS="-i ~/.ssh/deploy_key -o StrictHostKeyChecking=no"
 
-          rsync -avz --delete dist/ $HOST:$TARGET
+          rsync -avz --delete -e "ssh $SSH_OPTS" dist/ $HOST:$TARGET
