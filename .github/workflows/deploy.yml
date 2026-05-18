@@ -25,9 +25,11 @@ jobs:
       - run: pnpm run build
 
       - name: Deploy via rsync
+        env:
+          DEPLOY_KEY: ${{ secrets.DEPLOY_KEY }}
         run: |
           mkdir -p ~/.ssh
-          echo "${{ secrets.DEPLOY_KEY }}" > ~/.ssh/deploy_key
+          echo "$DEPLOY_KEY" | base64 -d > ~/.ssh/deploy_key
           chmod 600 ~/.ssh/deploy_key
           ssh-keyscan -H ${{ secrets.DEPLOY_HOST }} >> ~/.ssh/known_hosts 2>/dev/null
           rsync -avzr --delete -e "ssh -i ~/.ssh/deploy_key -o StrictHostKeyChecking=no" dist/ ${{ secrets.DEPLOY_USER }}@${{ secrets.DEPLOY_HOST }}:/var/www/frontend/coins/
