@@ -24,12 +24,17 @@ jobs:
       - run: pnpm run parse-data
       - run: pnpm run build
 
-      - name: Deploy via rsync
+      - name: Deploy
         env:
           DEPLOY_KEY: ${{ secrets.DEPLOY_KEY }}
         run: |
           mkdir -p ~/.ssh
           echo "$DEPLOY_KEY" | base64 -d > ~/.ssh/deploy_key
           chmod 600 ~/.ssh/deploy_key
-          ssh-keyscan -H ${{ secrets.DEPLOY_HOST }} >> ~/.ssh/known_hosts 2>/dev/null
-          rsync -avzr --delete -e "ssh -i ~/.ssh/deploy_key -o StrictHostKeyChecking=no" dist/ ${{ secrets.DEPLOY_USER }}@${{ secrets.DEPLOY_HOST }}:/var/www/frontend/coins/
+          SSH="ssh -i ~/.ssh/deploy_key -o StrictHostKeyChecking=no"
+          HOST="${{ secrets.DEPLOY_USER }}@${{ secrets.DEPLOY_HOST }}"
+          TARGET="/var/www/frontend/coins"
+
+          cd dist && tar czf ../dist.tar.gz . && cd ..
+          scp -i ~/.ssh/deploy_key -o StrictHostKeyChecking=no dist.tar.gz $HOST:/tmp/coins.tar.gz
+          $SSH $HOST "mkdir -p $TARGET && rm -rf $TARGET/* && tar xzf /tmp/coins.tar.gz -C $TARGET && rm /tmp/coins.tar.gz"
