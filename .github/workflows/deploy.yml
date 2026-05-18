@@ -31,10 +31,8 @@ jobs:
           mkdir -p ~/.ssh
           echo "$DEPLOY_KEY" | base64 -d > ~/.ssh/deploy_key
           chmod 600 ~/.ssh/deploy_key
-          SSH="ssh -i ~/.ssh/deploy_key -o StrictHostKeyChecking=no"
           HOST="${{ secrets.DEPLOY_USER }}@${{ secrets.DEPLOY_HOST }}"
           TARGET="/var/www/frontend/coins"
+          RSYNC_RSH="ssh -i ~/.ssh/deploy_key -o StrictHostKeyChecking=no"
 
-          cd dist && tar czf ../dist.tar.gz . && cd ..
-          scp -i ~/.ssh/deploy_key -o StrictHostKeyChecking=no dist.tar.gz $HOST:/tmp/coins.tar.gz
-          $SSH $HOST "mkdir -p $TARGET && rm -rf $TARGET/* && tar xzf /tmp/coins.tar.gz -C $TARGET && rm /tmp/coins.tar.gz"
+          rsync -avz --delete dist/ $HOST:$TARGET

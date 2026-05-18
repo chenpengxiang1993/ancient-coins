@@ -2,6 +2,48 @@ import { memo, useState, useCallback, useMemo, useEffect } from 'react';
 import type { CoinImages } from '../../types';
 import styles from './index.module.scss';
 
+function getWebpSrc(src: string): string {
+  return src.replace(/\.jpg$/, '.webp');
+}
+
+function getThumbSrc(src: string): string {
+  return src
+    .replace('/main.jpg', '/thumb.webp')
+    .replace('/variant_', '/thumb_variant_')
+    .replace(/\.jpg$/, '.webp');
+}
+
+interface PictureImgProps {
+  src: string;
+  alt: string;
+  className?: string;
+  loading?: 'lazy' | 'eager';
+  onLoad?: () => void;
+  onError?: () => void;
+  onClick?: () => void;
+  useThumb?: boolean;
+}
+
+function PictureImg({ src, alt, className, loading, onLoad, onError, onClick, useThumb }: PictureImgProps) {
+  const imgSrc = useThumb ? getThumbSrc(src) : src;
+  const webpSrc = useThumb ? getThumbSrc(src) : getWebpSrc(src);
+  return (
+    <picture>
+      <source srcSet={webpSrc} type="image/webp" />
+      <source srcSet={imgSrc} type="image/jpeg" />
+      <img
+        src={imgSrc}
+        alt={alt}
+        className={className}
+        loading={loading}
+        onLoad={onLoad}
+        onError={onError}
+        onClick={onClick}
+      />
+    </picture>
+  );
+}
+
 interface CoinImageProps {
   coinName: string;
   images: CoinImages;
@@ -92,7 +134,7 @@ export default memo(function CoinImage({ coinName, images }: CoinImageProps) {
                 <span className={styles.coinImagePlaceholderText}>图片加载中</span>
               </div>
             )}
-            <img
+            <PictureImg
               src={activeSrc}
               alt={activeLabel}
               className={`${styles.coinImageImg} ${mainLoaded ? styles.coinImageImgVisible : ''}`}
@@ -128,12 +170,13 @@ export default memo(function CoinImage({ coinName, images }: CoinImageProps) {
                 onClick={() => handleThumbClick(img.src)}
                 title={img.label}
               >
-                <img
+                <PictureImg
                   src={img.src}
                   alt={img.alt}
                   className={styles.coinImageThumbImg}
                   onError={variantIdx >= 0 ? () => handleVariantError(variantIdx) : undefined}
                   loading="lazy"
+                  useThumb
                 />
                 <span className={styles.coinImageThumbLabel}>{img.label}</span>
               </button>
@@ -152,7 +195,7 @@ export default memo(function CoinImage({ coinName, images }: CoinImageProps) {
           tabIndex={-1}
         >
           <div className={styles.coinImageOverlayContent} onClick={e => e.stopPropagation()}>
-            <img
+            <PictureImg
               src={activeSrc}
               alt={activeLabel}
               className={styles.coinImageOverlayImg}

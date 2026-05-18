@@ -180,12 +180,24 @@ node scripts/parse-coins-data.mjs
 
 # 步骤二：拆分为摘要与详情
 node scripts/split-coins-data.mjs
+
+# 步骤三：转换图片为 WebP 格式 + 生成缩略图（需安装 cwebp）
+node scripts/convert-images.mjs
+
+# 步骤四：构建生产版本
+pnpm run build
 ```
 
 数据流向：
 
 ```
-docs/target/*.md → parse-coins-data.mjs → data/coins.json → split-coins-data.mjs → data/coins-summary.json + public/data/detail/0.json—25.json
+docs/target/*.md → parse-coins-data.mjs → data/coins.json → split-coins-data.mjs → public/data/coins-summary.json + public/data/detail/0.json—25.json
+```
+
+图片流水线：
+
+```
+public/images/coins/**/*.jpg → convert-images.mjs → *.webp（原图）+ thumb.webp（150×150 缩略图）
 ```
 
 CoinDetail 字段：castingTime、material、dimensions、obverseFeatures、castingCraft、coreBackground、variants、valueReference、valueTable

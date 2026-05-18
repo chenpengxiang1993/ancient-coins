@@ -26,6 +26,31 @@
   position: relative;
 }
 
+.appLoading,
+.appError {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  font-family: $font-sans;
+  font-size: 16px;
+  color: var(--text-muted);
+}
+
+.appError {
+  color: var(--accent);
+}
+
+.coinDetailLoading {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  font-family: $font-sans;
+  font-size: 14px;
+  color: var(--text-muted);
+}
+
 .appHeader {
   padding: 14px 24px;
   background: linear-gradient(135deg, #2c2417 0%, #3d3020 100%);

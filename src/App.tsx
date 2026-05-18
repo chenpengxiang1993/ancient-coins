@@ -1,41 +1,56 @@
-import { useState, useCallback, useEffect } from 'react';
-import type { Coin, DynastyData } from './types';
+import { useState, useCallback, useEffect, useMemo, lazy, Suspense } from 'react';
+import type { Coin } from './types';
 import DynastyTabs from './components/DynastyTabs';
 import CoinList from './components/CoinList';
-import CoinDetail from './components/CoinDetail';
 import SearchBar from './components/SearchBar';
 import { useCoinDetail } from './hooks/useCoinDetail';
+import { useSummaryData } from './hooks/useSummaryData';
 import { warmupSearchIndex } from './utils/search';
-import summaryData from '../data/coins-summary.json';
 import styles from './App.module.scss';
 
-const allData: DynastyData[] = summaryData as DynastyData[];
+const CoinDetail = lazy(() => import('./components/CoinDetail'));
 
 export default function App() {
+  const { data: allData, loading: summaryLoading, error: summaryError } = useSummaryData();
   const [activeDynastyIndex, setActiveDynastyIndex] = useState(0);
-  const [selectedCoin, setSelectedCoin] = useState<Coin>(() => allData[0].coins[0]);
+  const [selectedCoin, setSelectedCoin] = useState<Coin | null>(null);
   const [sidebarOpen, setSidebarOpen] = useState(false);
 
-  const activeDynasty = allData[activeDynastyIndex];
-
-  const { detail, loading, error, retry, prefetchDynasty } = useCoinDetail(
-    selectedCoin.dynastyIndex,
-    selectedCoin.id,
-    true
+  const activeDynasty = useMemo(
+    () => allData?.[activeDynastyIndex],
+    [allData, activeDynastyIndex]
   );
 
   useEffect(() => {
-    prefetchDynasty(activeDynastyIndex);
-  }, [activeDynastyIndex, prefetchDynasty]);
+    if (allData && !selectedCoin) {
+      setSelectedCoin(allData[0].coins[0]);
+    }
+  }, [allData, selectedCoin]);
+
+  const { detail, loading, error, retry, prefetchDynasty } = useCoinDetail(
+    selectedCoin?.dynastyIndex ?? 0,
+    selectedCoin?.id ?? '',
+    Boolean(selectedCoin)
+  );
 
   useEffect(() => {
-    warmupSearchIndex(allData);
-  }, []);
+    if (selectedCoin) {
+      prefetchDynasty(selectedCoin.dynastyIndex);
+    }
+  }, [selectedCoin, prefetchDynasty]);
+
+  useEffect(() => {
+    if (allData) {
+      warmupSearchIndex(allData);
+    }
+  }, [allData]);
 
   const handleDynastySelect = useCallback((index: number) => {
     setActiveDynastyIndex(index);
-    setSelectedCoin(allData[index].coins[0]);
-  }, []);
+    if (allData) {
+      setSelectedCoin(allData[index].coins[0]);
+    }
+  }, [allData]);
 
   const handleCoinSelect = useCallback((coin: Coin) => {
     setSelectedCoin(coin);
@@ -44,12 +59,20 @@ export default function App() {
 
   const handleSearchSelect = useCallback((dynastyIndex: number, coinId: string) => {
     setActiveDynastyIndex(dynastyIndex);
-    const dynasty = allData[dynastyIndex];
-    const coin = dynasty.coins.find(c => c.id === coinId);
+    const dynasty = allData?.[dynastyIndex];
+    const coin = dynasty?.coins.find(c => c.id === coinId);
     if (coin) {
       setSelectedCoin(coin);
     }
-  }, []);
+  }, [allData]);
+
+  if (summaryLoading) {
+    return <div className={styles.appLoading}>加载中…</div>;
+  }
+
+  if (summaryError || !allData) {
+    return <div className={styles.appError}>数据加载失败</div>;
+  }
 
   return (
     <div className={styles.app}>
@@ -84,13 +107,19 @@ export default function App() {
         />
         <nav className={`${styles.appSidebar} ${sidebarOpen ? styles.appSidebarOpen : ''}`} aria-label="钱币列表">
           <CoinList
-            coins={activeDynasty.coins}
+            coins={activeDynasty?.coins ?? []}
             selectedCoinId={selectedCoin?.id ?? null}
             onSelect={handleCoinSelect}
           />
         </nav>
         <section className={styles.appDetail} id="coin-detail">
-          <CoinDetail coin={selectedCoin} detail={detail} loading={loading} error={error} onRetry={retry} />
+          {selectedCoin ? (
+            <Suspense fallback={<div className={styles.coinDetailLoading}>加载中…</div>}>
+              <CoinDetail coin={selectedCoin} detail={detail} loading={loading} error={error} onRetry={retry} />
+            </Suspense>
+          ) : (
+            <div className={styles.coinDetailLoading}>加载中…</div>
+          )}
         </section>
       </main>
     </div>

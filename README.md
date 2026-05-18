@@ -9,12 +9,14 @@
 - **钱币详情** — 展示钱币图片、文字描述、版别信息、铸造工艺、稀有度评级
 - **稀有度评级** — 基于马定祥十级评级体系（一级大珍 → 十级多泛）
 - **响应式布局** — 适配桌面端、平板、手机，移动端侧边栏抽屉式交互
-- **按需加载** — 朝代详情数据懒加载 + 预获取，首屏仅加载摘要数据
+- **按需加载** — 摘要数据异步加载 + 详情按朝代懒加载 + 预获取
+- **图片优化** — WebP 格式 + 独立缩略图 + `<picture>` 元素渐进加载
+- **代码拆分** — CoinDetail 组件 React.lazy 懒加载，首屏 JS 仅 ~18 KB
 
 ## 技术栈
 
 - **React 18** + **TypeScript**
-- **Vite 6** 构建
+- **Vite 6** 构建（terser 压缩 + 预压缩 .gz/.br）
 - **SCSS Modules** 样式方案
 - **pnpm** 包管理
 - 零 UI 框架依赖，原生组件 + 自定义样式
@@ -31,6 +33,9 @@ pnpm dev
 # 解析数据（从 docs/target/*.md 生成 JSON）
 pnpm run parse-data
 
+# 转换图片（JPG → WebP + 生成缩略图，需安装 cwebp）
+pnpm run convert-images
+
 # 构建生产版本
 pnpm run build
 
@@ -45,28 +50,41 @@ docs/target/*.md  →  scripts/parse-coins-data.mjs  →  data/coins.json
                                                       ↓
                                               scripts/split-coins-data.mjs
                                                       ↓
-                                          data/coins-summary.json（摘要，首屏加载）
-                                          public/data/detail/*.json（详情，按需加载）
+                                        public/data/coins-summary.json（摘要，异步加载）
+                                        public/data/detail/*.json（详情，按需加载）
 ```
 
-- `coins-summary.json` — 全部钱币的摘要信息，应用启动时同步加载
-- `detail/*.json` — 按朝代拆分的详情数据，用户切换朝代时异步获取
+- `coins-summary.json` — 全部钱币的摘要信息，应用启动时异步 fetch（preload 提示）
+- `detail/*.json` — 按朝代拆分的详情数据，用户切换朝代时异步获取（带缓存与请求去重）
+
+## 图片流水线
+
+```
+public/images/coins/**/*.jpg  →  scripts/convert-images.mjs  →  *.webp + thumb.webp
+```
+
+- 原图 WebP（Q80）— 比 JPG 减少约 25-35% 体积
+- 缩略图 thumb.webp（150×150，Q70）— 缩略图场景替代原图，减少约 95% 传输量
+- `<picture>` 元素自动选择 WebP，不支持时回退 JPG
 
 ## 项目结构
 
 ```
 ├── public/
-│   ├── images/coins/     # 钱币图片（按朝代分目录）
-│   └── data/detail/      # 朝代详情 JSON
+│   ├── images/coins/     # 钱币图片（JPG + WebP + 缩略图，按朝代分目录）
+│   └── data/
+│       ├── coins-summary.json  # 摘要数据（运行时 fetch）
+│       └── detail/             # 朝代详情 JSON
 ├── src/
 │   ├── components/
-│   │   ├── CoinDetail/   # 钱币详情面板
-│   │   ├── CoinImage/    # 钱币图片组件
+│   │   ├── CoinDetail/   # 钱币详情面板（React.lazy 懒加载）
+│   │   ├── CoinImage/    # 钱币图片组件（picture + WebP + 缩略图）
 │   │   ├── CoinList/     # 侧边栏钱币列表
 │   │   ├── DynastyTabs/  # 朝代标签栏
 │   │   └── SearchBar/    # 搜索栏
 │   ├── hooks/
 │   │   ├── useCoinDetail.ts   # 详情数据获取与缓存
+│   │   ├── useSummaryData.ts  # 摘要数据异步加载
 │   │   └── useDebounce.ts     # 防抖
 │   ├── utils/
 │   │   ├── search.ts    # 全文搜索引擎
@@ -75,9 +93,9 @@ docs/target/*.md  →  scripts/parse-coins-data.mjs  →  data/coins.json
 │   ├── types/index.ts   # TypeScript 类型定义
 │   └── styles/          # 共享样式变量与 mixin
 ├── docs/target/          # 26 个朝代原始 Markdown 数据源
-├── scripts/              # 数据解析、拆分、图片下载等脚本
+├── scripts/              # 数据解析、拆分、图片转换等脚本
 ├── data/                 # 解析后的中间 JSON 数据
-└── deploy/               # 部署配置（Nginx、自动化脚本）
+└── deploy/               # 部署配置（Nginx）
 ```
 
 ## 数据覆盖
