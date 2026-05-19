@@ -268,11 +268,18 @@
         "notes": ""
       },
       {
+        "variant": "大字版",
+        "description": "直径：约2.4厘米，单枚重量：约3.5克",
+        "grade": "八级（较多） 美品",
+        "priceRange": "100—300元",
+        "notes": "文字较大"
+      },
+      {
         "variant": "铁母版",
         "description": "铁钱的母钱，铜质，极少见",
-        "grade": "六级（少）",
-        "priceRange": "",
-        "notes": ""
+        "grade": "六级（少） 美品",
+        "priceRange": "5,000—20,000元",
+        "notes": "六级（少）"
       }
     ]
   },

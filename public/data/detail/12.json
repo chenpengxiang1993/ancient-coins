@@ -46,16 +46,16 @@
       {
         "variant": "小平钱楷书版",
         "description": "楷书面文，直径约2.4厘米，单枚重量约3.5克",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
+        "grade": "八级（较多） 普品",
+        "priceRange": "50—150元",
+        "notes": "楷书小平钱"
       },
       {
         "variant": "折三型",
         "description": "直径约3.0厘米，重约8—10g",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
+        "grade": "七级（较少） 美品",
+        "priceRange": "200—500元",
+        "notes": "折三型，较少见"
       }
     ]
   },
@@ -491,13 +491,6 @@
     },
     "variantsTable": [
       {
-        "variant": "小平钱",
-        "description": "直径约2.4厘米，重约3—4g",
-        "grade": "八级（较多） ",
-        "priceRange": "",
-        "notes": ""
-      },
-      {
         "variant": "篆书/楷书（无纪年）",
         "description": "篆书/楷书（无纪年）",
         "grade": "八级（较多） 普品",
@@ -526,13 +519,6 @@
         "notes": ""
       },
       {
-        "variant": "折二型",
-        "description": "直径约2.8厘米，重约5—7g",
-        "grade": "八级（较多） ",
-        "priceRange": "",
-        "notes": ""
-      },
-      {
         "variant": "篆书/楷书普通版",
         "description": "普通版别，较为常见",
         "grade": "九级（多） 美品",
@@ -554,13 +540,6 @@
         "notes": ""
       },
       {
-        "variant": "特殊版别",
-        "description": "特殊版别，存世较少",
-        "grade": "八级（较多） ",
-        "priceRange": "",
-        "notes": ""
-      },
-      {
         "variant": "铁母",
         "description": "铁质，四川地区铸行较多",
         "grade": "五级（稀） 美品以上",
@@ -575,53 +554,88 @@
         "notes": "存世极少"
       },
       {
+        "variant": "小平钱",
+        "description": "直径约2.4厘米，重约3—4g",
+        "grade": "八级（较多） 普品",
+        "priceRange": "10—30元",
+        "notes": "八级（较多）"
+      },
+      {
+        "variant": "折二型",
+        "description": "直径约2.8厘米，重约5—7g",
+        "grade": "八级（较多） 普品",
+        "priceRange": "10—30元",
+        "notes": "八级（较多）"
+      },
+      {
         "variant": "按书体分",
         "description": "篆书版、楷书版",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
+        "grade": "八级（较多） 美品",
+        "priceRange": "10—30元",
+        "notes": "按书体区分版别"
       },
       {
         "variant": "按面值分",
         "description": "小平钱（直径约2.4厘米）、折二型（直径约2.8厘米）",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
+        "grade": "八级（较多） 美品",
+        "priceRange": "10—30元",
+        "notes": "按面值区分版别"
       },
       {
         "variant": "背\"柒\"",
         "description": "淳熙七年（公元1180年），为纪年最早的淳熙元宝",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
+        "grade": "八级（较多） 美品",
+        "priceRange": "30—80元",
+        "notes": "纪年七年的标记"
       },
       {
         "variant": "背\"八\"至\"十六\"",
         "description": "淳熙八年至十六年铸行",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
+        "grade": "八级（较多） 美品",
+        "priceRange": "20—50元",
+        "notes": "纪年八至十六年"
       },
       {
         "variant": "按材质分",
         "description": "按类别细分的版别",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
+        "grade": "八级（较多） 美品",
+        "priceRange": "10—30元",
+        "notes": "按铜铁材质区分"
       },
       {
         "variant": "铜钱",
         "description": "青铜质，为主要流通货币",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
+        "grade": "八级（较多） 普品",
+        "priceRange": "10—30元",
+        "notes": "铜质较常见"
+      },
+      {
+        "variant": "特殊版别",
+        "description": "特殊版别，存世较少",
+        "grade": "八级（较多） 美品",
+        "priceRange": "500—3,000元",
+        "notes": "八级（较多）"
       },
       {
         "variant": "母钱",
-        "description": "铸工精整，字口深峻",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
+        "description": "铁钱的母钱，铜质精良，极为珍贵",
+        "grade": "二级（极罕） 美品",
+        "priceRange": "5,000—20,000元",
+        "notes": "八级（较多）"
+      },
+      {
+        "variant": "母钱",
+        "description": "铁钱的母钱，铜质精良，极为珍贵",
+        "grade": "二级（极罕） 极美品",
+        "priceRange": "500—2,000元",
+        "notes": "铸母，较少见"
+      },
+      {
+        "variant": "特殊版别",
+        "description": "特殊版别，存世较少",
+        "grade": "七级（较少） 极美品",
+        "priceRange": "200—1,000元",
+        "notes": "特殊版别，较少见"
       }
     ]
   },
@@ -2261,16 +2275,16 @@
       {
         "variant": "准三百文省",
         "description": "面值三百文",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
+        "grade": "八级（较多） 美品",
+        "priceRange": "15,000—30,000元",
+        "notes": "三百文面值"
       },
       {
         "variant": "准五百文省",
         "description": "面值五百文",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
+        "grade": "七级（较少） 美品",
+        "priceRange": "20,000—50,000元",
+        "notes": "五百文面值，较少见"
       }
     ]
   }

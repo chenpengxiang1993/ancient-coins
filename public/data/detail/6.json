@@ -113,9 +113,9 @@
       {
         "variant": "小字版",
         "description": "面文字体较小",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
+        "grade": "八级（较多） 普品",
+        "priceRange": "1,000—3,000元",
+        "notes": "文字较小，较常见"
       }
     ]
   },
@@ -383,9 +383,9 @@
       {
         "variant": "大字版",
         "description": "面文字体较大",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
+        "grade": "八级（较多） 美品",
+        "priceRange": "300—800元",
+        "notes": "文字较大"
       }
     ]
   },

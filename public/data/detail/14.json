@@ -225,9 +225,9 @@
       {
         "variant": "大字版",
         "description": "面文字体较大",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
+        "grade": "八级（较多） 美品",
+        "priceRange": "50—150元",
+        "notes": "文字较大"
       }
     ]
   },
@@ -254,13 +254,6 @@
       ]
     },
     "variantsTable": [
-      {
-        "variant": "光背版",
-        "description": "背面无文，为最常见的版式",
-        "grade": "十级（多泛） ",
-        "priceRange": "",
-        "notes": ""
-      },
       {
         "variant": "光背",
         "description": "背面无文，为最常见的版式",
@@ -297,13 +290,6 @@
         "notes": ""
       },
       {
-        "variant": "背纪年",
-        "description": "直径：约2.5厘米，单枚重量：约3.5—4.0克",
-        "grade": "八级（较多） ",
-        "priceRange": "",
-        "notes": ""
-      },
-      {
         "variant": "背\"申\"",
         "description": "背面穿下铸\"申\"字（大定二十八年，戊申年，公元1188年铸）",
         "grade": "八级（较多） 美品",
@@ -329,13 +315,6 @@
         "description": "背面穿下铸\"酉\"字（大定二十九年，己酉年，公元1189年铸）",
         "grade": "八级（较多） 极美品",
         "priceRange": "500—1000元",
-        "notes": ""
-      },
-      {
-        "variant": "特殊版别",
-        "description": "直径：约2.5厘米，单枚重量：约3.5—4.0克",
-        "grade": "八级（较多） ",
-        "priceRange": "",
         "notes": ""
       },
       {
@@ -360,46 +339,81 @@
         "notes": "存世极少"
       },
       {
-        "variant": "按背面文字分",
-        "description": "据《中国钱币大辞典》记载，大定通宝背面有光背和纪年两种",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
+        "variant": "光背版",
+        "description": "背面无文，为最常见的版式",
+        "grade": "十级（多泛） 普品",
+        "priceRange": "50—150元",
+        "notes": "十级（多泛）"
       },
       {
-        "variant": "按面文风格分",
+        "variant": "背纪年",
         "description": "直径：约2.5厘米，单枚重量：约3.5—4.0克",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
+        "grade": "八级（较多） 美品",
+        "priceRange": "200—800元",
+        "notes": "八级（较多）"
       },
       {
         "variant": "小字版",
         "description": "面文字体较小",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
+        "grade": "八级（较多） 普品",
+        "priceRange": "50—100元",
+        "notes": "文字较小"
       },
       {
         "variant": "阔缘版",
         "description": "外缘较宽",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
+        "grade": "八级（较多） 美品",
+        "priceRange": "100—300元",
+        "notes": "边缘较宽"
       },
       {
         "variant": "窄缘版",
         "description": "外缘较窄",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
+        "grade": "八级（较多） 美品",
+        "priceRange": "50—150元",
+        "notes": "边缘较窄"
+      },
+      {
+        "variant": "按背面文字分",
+        "description": "据《中国钱币大辞典》记载，大定通宝背面有光背和纪年两种",
+        "grade": "八级（较多） 美品",
+        "priceRange": "100—300元",
+        "notes": "按背面文字区分"
+      },
+      {
+        "variant": "按面文风格分",
+        "description": "直径：约2.5厘米，单枚重量：约3.5—4.0克",
+        "grade": "八级（较多） 美品",
+        "priceRange": "50—150元",
+        "notes": "按面文风格区分"
+      },
+      {
+        "variant": "特殊版别",
+        "description": "直径：约2.5厘米，单枚重量：约3.5—4.0克",
+        "grade": "八级（较多） 美品",
+        "priceRange": "1,000—5,000元",
+        "notes": "八级（较多）"
       },
       {
         "variant": "母钱",
-        "description": "铸工精整，字口深峻",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
+        "description": "铁钱的母钱，铜质精良，极为珍贵",
+        "grade": "二级（极罕） 美品",
+        "priceRange": "10,000—50,000元",
+        "notes": "八级（较多）"
+      },
+      {
+        "variant": "母钱",
+        "description": "铁钱的母钱，铜质精良，极为珍贵",
+        "grade": "二级（极罕） 极美品",
+        "priceRange": "1,000—3,000元",
+        "notes": "铸母，较少见"
+      },
+      {
+        "variant": "特殊版别",
+        "description": "直径：约2.5厘米，单枚重量：约3.5—4.0克",
+        "grade": "七级（较少） 极美品",
+        "priceRange": "500—2,000元",
+        "notes": "特殊版别，较少见"
       }
     ]
   },
@@ -501,9 +515,9 @@
       {
         "variant": "折三型",
         "description": "较少见，直径约3.0—3.3cm，重约8—10g",
-        "grade": "七级（较少）",
-        "priceRange": "",
-        "notes": ""
+        "grade": "七级（较少） 美品",
+        "priceRange": "500—1,500元",
+        "notes": "折三型，较少见"
       }
     ]
   },

@@ -49,16 +49,16 @@
       {
         "variant": "小型大泉五十",
         "description": "直径2.7—2.8cm，晚期减重铸行",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
+        "grade": "八级（较多） 普品",
+        "priceRange": "30—80元",
+        "notes": "减重小型，较常见"
       },
       {
         "variant": "合面型",
         "description": "两面均为背面",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
+        "grade": "七级（较少） 美品",
+        "priceRange": "500—1,500元",
+        "notes": "面文合面，较少见"
       }
     ]
   },
@@ -720,16 +720,16 @@
       {
         "variant": "大型货泉",
         "description": "直径2.4cm以上",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
+        "grade": "八级（较多） 美品",
+        "priceRange": "50—150元",
+        "notes": "体型较大，较常见"
       },
       {
         "variant": "合背型",
         "description": "两面均为面文",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
+        "grade": "七级（较少） 美品",
+        "priceRange": "500—2,000元",
+        "notes": "背面合背，较少见"
       }
     ]
   },
@@ -780,9 +780,9 @@
       {
         "variant": "背星纹型",
         "description": "背面铸有星纹",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
+        "grade": "七级（较少） 美品",
+        "priceRange": "200—500元",
+        "notes": "背有星纹，较少见"
       }
     ]
   },

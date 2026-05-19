@@ -35,9 +35,9 @@
       {
         "variant": "背纹版",
         "description": "背面有纹饰",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
+        "grade": "八级（较多） 美品",
+        "priceRange": "50—150元",
+        "notes": "背有纹饰"
       }
     ]
   },
@@ -84,9 +84,9 @@
       {
         "variant": "折二版",
         "description": "较少见，直径约2.7—3.0cm，重约5—7g",
-        "grade": "七级（较少）",
-        "priceRange": "",
-        "notes": ""
+        "grade": "七级（较少） 美品",
+        "priceRange": "50—150元",
+        "notes": "折二型"
       }
     ]
   },
@@ -133,23 +133,23 @@
       {
         "variant": "背\"小\"版",
         "description": "背面铸\"小\"字",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
+        "grade": "八级（较多） 美品",
+        "priceRange": "30—100元",
+        "notes": "背铸\"小\"字"
       },
       {
         "variant": "长字版",
         "description": "面文字体较长",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
+        "grade": "八级（较多） 美品",
+        "priceRange": "30—100元",
+        "notes": "文字较长"
       },
       {
         "variant": "其他版",
         "description": "版别极多",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
+        "grade": "八级（较多） 美品",
+        "priceRange": "20—80元",
+        "notes": "其他版别"
       }
     ]
   },
@@ -189,9 +189,9 @@
       {
         "variant": "小平背纹版",
         "description": "背面有纹饰，直径约2.4厘米，重约2.5—3.5克",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
+        "grade": "八级（较多） 美品",
+        "priceRange": "50—150元",
+        "notes": "背有纹饰"
       }
     ]
   }

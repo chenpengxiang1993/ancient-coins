@@ -53,16 +53,16 @@
       {
         "variant": "阔字版",
         "description": "钱文楷书字体较宽阔",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
+        "grade": "八级（较多） 美品",
+        "priceRange": "1,000—3,000元",
+        "notes": "文字较宽"
       },
       {
         "variant": "狭字版",
         "description": "钱文楷书字体较窄瘦",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
+        "grade": "八级（较多） 美品",
+        "priceRange": "1,000—3,000元",
+        "notes": "文字较窄"
       }
     ]
   },
@@ -920,9 +920,9 @@
       {
         "variant": "权钞钱系列",
         "description": "与至正之宝性质相近的试铸品",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
+        "grade": "八级（较多） 极美品",
+        "priceRange": "5,000—20,000元",
+        "notes": "权钞型，存世较少"
       }
     ]
   },
@@ -1014,17 +1014,17 @@
       },
       {
         "variant": "权钞一钱五分",
-        "description": "面值一钱五分，直径约6.0厘米",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
+        "description": "面值一钱，直径约5.5厘米",
+        "grade": "八级（较多） 美品",
+        "priceRange": "1,000—3,000元",
+        "notes": "八级（较多）"
       },
       {
         "variant": "权钞五钱",
-        "description": "面值五钱，直径约8.0厘米，最为珍罕",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
+        "description": "面值五分，直径约5.0厘米",
+        "grade": "八级（较多） 美品",
+        "priceRange": "2,000—6,000元",
+        "notes": "八级（较多）"
       }
     ]
   },
@@ -1113,9 +1113,9 @@
       {
         "variant": "背纹版",
         "description": "背面有纹饰（据传）",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
+        "grade": "七级（较少） 美品",
+        "priceRange": "5,000—15,000元",
+        "notes": "背有纹饰，较少见"
       }
     ]
   },

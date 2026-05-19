@@ -33,6 +33,20 @@
         "notes": "齿纹清晰，锈色自然"
       },
       {
+        "variant": "小型铜贝",
+        "description": "体长1.5—1.7cm，重量2—3g，西周至春秋初期铸行",
+        "grade": "八级（较多） 普品",
+        "priceRange": "500—1,000元",
+        "notes": "西周至春秋初期，体型最小"
+      },
+      {
+        "variant": "小型铜贝",
+        "description": "体长1.5—1.7cm，重量2—3g，西周至春秋初期铸行",
+        "grade": "八级（较多） 美品",
+        "priceRange": "1,000—2,500元",
+        "notes": "齿纹可辨，锈色自然"
+      },
+      {
         "variant": "特厚型铜贝",
         "description": "厚度0.25—0.3cm，重量偏重，铸造较精整，存世较少",
         "grade": "八级（较多） 美品",
@@ -45,13 +59,6 @@
         "grade": "八级（较多） 美品",
         "priceRange": "2,000—4,000元",
         "notes": "保留原始铸造信息"
-      },
-      {
-        "variant": "小型铜贝",
-        "description": "体长1.5—1.7cm，重量2—3g，西周至春秋初期铸行",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
       }
     ]
   },
@@ -96,18 +103,25 @@
         "notes": "西周早期，工艺精湛"
       },
       {
+        "variant": "薄金箔型",
+        "description": "金箔极薄（0.01—0.02mm），部分区域金箔已脱落，多为西周晚期至春秋早期制品",
+        "grade": "八级（较多） 普品",
+        "priceRange": "3,000—8,000元",
+        "notes": "金箔脱落较多，西周晚期至春秋早期"
+      },
+      {
+        "variant": "薄金箔型",
+        "description": "金箔极薄（0.01—0.02mm），部分区域金箔已脱落，多为西周晚期至春秋早期制品",
+        "grade": "八级（较多） 美品",
+        "priceRange": "8,000—15,000元",
+        "notes": "金箔部分保留"
+      },
+      {
         "variant": "经考古发掘出土品（有明确出土地信息）",
         "description": "长度：1.5—2.0cm（略小于无文铜贝平均值），宽度：1.0—1.4cm，厚度：0.15—0.35cm（含金箔厚度），金箔厚度：约0.01—0.03mm，单枚重量：3—6g（含金箔）",
         "grade": "八级（较多） 美品以上",
         "priceRange": "30,000—60,000元",
         "notes": "有考古 provenance，学术价值极高"
-      },
-      {
-        "variant": "薄金箔型",
-        "description": "金箔极薄（0.01—0.02mm），部分区域金箔已脱落，多为西周晚期至春秋早期制品",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
       }
     ]
   },
@@ -131,6 +145,13 @@
         "notes": "较为常见"
       },
       {
+        "variant": "小字型",
+        "description": "面文字体较小，笔画纤细",
+        "grade": "八级（较多） 普品",
+        "priceRange": "3,000—8,000元",
+        "notes": "笔画纤细，面文较小"
+      },
+      {
         "variant": "纪数型",
         "description": "面文为数字，包括\"一\"\"二\"\"三\"\"五\"\"六\"\"七\"\"八\"\"九\"\"十\"",
         "grade": "八级（较多） 美品",
@@ -150,13 +171,6 @@
         "grade": "八级（较多） 极美品",
         "priceRange": "20,000—50,000元",
         "notes": "文字规整，铸工上佳"
-      },
-      {
-        "variant": "小字型",
-        "description": "面文字体较小，笔画纤细",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
       }
     ]
   },
@@ -203,9 +217,9 @@
       {
         "variant": "无文型",
         "description": "面身无文字",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
+        "grade": "八级（较多） 普品",
+        "priceRange": "2,000—5,000元",
+        "notes": "较常见"
       }
     ]
   },
@@ -229,6 +243,13 @@
         "notes": "较为常见"
       },
       {
+        "variant": "中型耸肩布",
+        "description": "通高12.0—13.0cm，较为常见",
+        "grade": "九级（多） 美品",
+        "priceRange": "8,000—20,000元",
+        "notes": "较为常见，铸工尚可"
+      },
+      {
         "variant": "带字型",
         "description": "面文可辨识，包括\"甘丹\"\"吕\"\"鬲\"\"木\"\"吉\"\"工\"\"上\"\"下\"\"日\"\"月\"\"五\"\"七\"\"八\"\"卜\"",
         "grade": "八级（较多） 美品",
@@ -248,13 +269,6 @@
         "grade": "四级（罕见） 极美品",
         "priceRange": "40,000—80,000元",
         "notes": "罕见，学术价值高"
-      },
-      {
-        "variant": "中型耸肩布",
-        "description": "通高12.0—13.0cm，较为常见",
-        "grade": "九级（多）",
-        "priceRange": "",
-        "notes": ""
       }
     ]
   },
@@ -341,25 +355,25 @@
         "notes": "较少见"
       },
       {
+        "variant": "\"梁充釿\"型",
+        "description": "面文\"梁充釿\"，较少见",
+        "grade": "七级（较少） 美品",
+        "priceRange": "3,000—10,000元",
+        "notes": "较少见"
+      },
+      {
+        "variant": "\"梁半尚二百当寻\"型",
+        "description": "面文\"梁半尚二百当寻\"，较少见",
+        "grade": "七级（较少） 美品",
+        "priceRange": "5,000—15,000元",
+        "notes": "较少见"
+      },
+      {
         "variant": "\"山阳\"型",
         "description": "面文含\"山阳\"二字，较少见",
         "grade": "四级（罕见） 极美品",
         "priceRange": "10,000—30,000元",
         "notes": "罕见"
-      },
-      {
-        "variant": "\"梁充釿\"型",
-        "description": "面文\"梁充釿\"，较少见",
-        "grade": "七级（较少）",
-        "priceRange": "",
-        "notes": ""
-      },
-      {
-        "variant": "\"梁半尚二百当寻\"型",
-        "description": "面文\"梁半尚二百当寻\"，较少见",
-        "grade": "七级（较少）",
-        "priceRange": "",
-        "notes": ""
       }
     ]
   },
@@ -383,6 +397,13 @@
         "notes": "较常见"
       },
       {
+        "variant": "小型锐角布",
+        "description": "通高5.0—5.5cm，较为常见",
+        "grade": "八级（较多） 普品",
+        "priceRange": "2,000—4,000元",
+        "notes": "较常见"
+      },
+      {
         "variant": "\"公\"字型（大型）",
         "description": "面文\"公\"字，最为常见",
         "grade": "十级（多泛） 美品",
@@ -390,8 +411,22 @@
         "notes": "铸工较好"
       },
       {
+        "variant": "大型锐角布",
+        "description": "通高6.0—6.5cm，铸工精整",
+        "grade": "八级（较多） 美品",
+        "priceRange": "5,000—12,000元",
+        "notes": "铸工精整"
+      },
+      {
         "variant": "\"鬲\"字型",
         "description": "面文\"鬲\"字，较少见",
+        "grade": "七级（较少） 美品",
+        "priceRange": "8,000—20,000元",
+        "notes": "较少见"
+      },
+      {
+        "variant": "\"卢氏\"型",
+        "description": "面文\"卢氏\"二字，较少见",
         "grade": "七级（较少） 美品",
         "priceRange": "8,000—20,000元",
         "notes": "较少见"
@@ -402,27 +437,6 @@
         "grade": "四级（罕见） 极美品",
         "priceRange": "15,000—35,000元",
         "notes": "罕见"
-      },
-      {
-        "variant": "\"卢氏\"型",
-        "description": "面文\"卢氏\"二字，较少见",
-        "grade": "七级（较少）",
-        "priceRange": "",
-        "notes": ""
-      },
-      {
-        "variant": "大型锐角布",
-        "description": "通高6.0—6.5cm，铸工精整",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
-      },
-      {
-        "variant": "小型锐角布",
-        "description": "通高5.0—5.5cm，较为常见",
-        "grade": "九级（多）",
-        "priceRange": "",
-        "notes": ""
       }
     ]
   },
@@ -453,6 +467,13 @@
         "notes": "较常见"
       },
       {
+        "variant": "小型尖足布",
+        "description": "通高5.0—6.5cm，面文同大型但体型缩小，铸量较多，通高5.0—6.5cm，重约5—8g",
+        "grade": "八级（较多） 普品",
+        "priceRange": "500—1,500元",
+        "notes": "较常见"
+      },
+      {
         "variant": "大型\"甘丹\"型",
         "description": "面文\"甘丹\"（邯郸），最为常见，通高7.0—8.5cm，重约10—15g",
         "grade": "十级（多泛） 美品",
@@ -460,10 +481,24 @@
         "notes": "大型铸工较精"
       },
       {
+        "variant": "大型尖足布",
+        "description": "通高7.0—8.5cm，面文以\"甘丹\"\"晋阳\"为代表，铸工较精，通高7.0—8.5cm，重约10—15g",
+        "grade": "八级（较多） 美品",
+        "priceRange": "3,000—10,000元",
+        "notes": "铸工较精"
+      },
+      {
         "variant": "\"大阴\"型",
         "description": "面文\"大阴\"，较少见，通高7.0—8.5cm，重约10—15g",
         "grade": "七级（较少） 美品",
         "priceRange": "5,000—12,000元",
+        "notes": "较少见"
+      },
+      {
+        "variant": "\"蔺\"型",
+        "description": "面文\"蔺\"，较少见",
+        "grade": "七级（较少） 美品",
+        "priceRange": "3,000—8,000元",
         "notes": "较少见"
       },
       {
@@ -556,27 +591,6 @@
         "grade": "四级（罕见） 极美品",
         "priceRange": "10,000—30,000元",
         "notes": "罕见"
-      },
-      {
-        "variant": "大型尖足布",
-        "description": "通高7.0—8.5cm，面文以\"甘丹\"\"晋阳\"为代表，铸工较精，通高7.0—8.5cm，重约10—15g",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
-      },
-      {
-        "variant": "小型尖足布",
-        "description": "通高5.0—6.5cm，面文同大型但体型缩小，铸量较多，通高5.0—6.5cm，重约5—8g",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
-      },
-      {
-        "variant": "\"蔺\"型",
-        "description": "面文\"蔺\"，较少见",
-        "grade": "七级（较少）",
-        "priceRange": "",
-        "notes": ""
       }
     ]
   },
@@ -684,6 +698,13 @@
         "notes": "较常见"
       },
       {
+        "variant": "\"宅阳\"型",
+        "description": "面文\"宅阳\"，较为常见",
+        "grade": "八级（较多） 美品",
+        "priceRange": "500—2,000元",
+        "notes": "较常见"
+      },
+      {
         "variant": "\"梁邑\"型",
         "description": "面文\"梁邑\"，较少见",
         "grade": "七级（较少） 美品",
@@ -698,8 +719,22 @@
         "notes": "较少见"
       },
       {
+        "variant": "\"屯留\"型",
+        "description": "面文\"屯留\"，较少见",
+        "grade": "七级（较少） 美品",
+        "priceRange": "1,000—5,000元",
+        "notes": "较少见"
+      },
+      {
         "variant": "\"涅\"型",
         "description": "面文\"涅\"，少见",
+        "grade": "六级（少） 极美品",
+        "priceRange": "3,000—10,000元",
+        "notes": "少见"
+      },
+      {
+        "variant": "\"铸\"型",
+        "description": "面文\"铸\"，少见",
         "grade": "六级（少） 极美品",
         "priceRange": "3,000—10,000元",
         "notes": "少见"
@@ -822,27 +857,6 @@
         "grade": "四级（罕见） 极美品",
         "priceRange": "5,000—20,000元",
         "notes": "学术价值高"
-      },
-      {
-        "variant": "\"宅阳\"型",
-        "description": "面文\"宅阳\"，较为常见",
-        "grade": "九级（多）",
-        "priceRange": "",
-        "notes": ""
-      },
-      {
-        "variant": "\"屯留\"型",
-        "description": "面文\"屯留\"，较少见",
-        "grade": "七级（较少）",
-        "priceRange": "",
-        "notes": ""
-      },
-      {
-        "variant": "\"铸\"型",
-        "description": "面文\"铸\"，少见",
-        "grade": "六级（少）",
-        "priceRange": "",
-        "notes": ""
       }
     ]
   },
@@ -922,6 +936,104 @@
         "notes": "品相完好者极为难得"
       },
       {
+        "variant": "\"宋子\"型",
+        "description": "面文\"宋子\"，较为知名的品种",
+        "grade": "八级（较多） 美品",
+        "priceRange": "400,000—800,000元",
+        "notes": "较知名品种"
+      },
+      {
+        "variant": "\"下博\"型",
+        "description": "面文\"下博\"",
+        "grade": "二级（极罕） 美品",
+        "priceRange": "500,000—1,000,000元",
+        "notes": "存世极罕"
+      },
+      {
+        "variant": "\"安阳\"型",
+        "description": "面文\"安阳\"",
+        "grade": "八级（较多） 美品",
+        "priceRange": "400,000—800,000元",
+        "notes": "较知名品种"
+      },
+      {
+        "variant": "\"南行唐\"型",
+        "description": "面文\"南行唐\"",
+        "grade": "二级（极罕） 美品",
+        "priceRange": "600,000—1,200,000元",
+        "notes": "存世极罕"
+      },
+      {
+        "variant": "\"上曲阳\"型",
+        "description": "面文\"上曲阳\"",
+        "grade": "二级（极罕） 美品",
+        "priceRange": "800,000—1,500,000元",
+        "notes": "极罕"
+      },
+      {
+        "variant": "\"无终\"型",
+        "description": "面文\"无终\"",
+        "grade": "二级（极罕） 美品",
+        "priceRange": "800,000—2,000,000元",
+        "notes": "极罕"
+      },
+      {
+        "variant": "\"武阳\"型",
+        "description": "面文\"武阳\"",
+        "grade": "一级（孤品） 美品",
+        "priceRange": "1,000,000—3,000,000元",
+        "notes": "仅见品，学术价值极高"
+      },
+      {
+        "variant": "\"文雁乡\"型",
+        "description": "面文\"文雁乡\"",
+        "grade": "二级（极罕） 美品",
+        "priceRange": "800,000—2,000,000元",
+        "notes": "极罕"
+      },
+      {
+        "variant": "\"牟\"型",
+        "description": "面文\"牟\"，存世相对较多（含大、小二型，已过10枚）",
+        "grade": "八级（较多） 美品",
+        "priceRange": "300,000—600,000元",
+        "notes": "存世相对较多"
+      },
+      {
+        "variant": "\"郜\"型",
+        "description": "面文\"郜\"",
+        "grade": "二级（极罕） 美品",
+        "priceRange": "600,000—1,500,000元",
+        "notes": "极罕"
+      },
+      {
+        "variant": "\"平台\"型",
+        "description": "面文\"平台\"",
+        "grade": "二级（极罕） 美品",
+        "priceRange": "600,000—1,500,000元",
+        "notes": "极罕"
+      },
+      {
+        "variant": "\"戏\"型",
+        "description": "面文\"戏\"",
+        "grade": "二级（极罕） 美品",
+        "priceRange": "800,000—2,000,000元",
+        "notes": "极罕"
+      },
+      {
+        "variant": "\"家阳\"型",
+        "description": "面文\"家阳\"",
+        "grade": "二级（极罕） 美品",
+        "priceRange": "600,000—1,500,000元",
+        "notes": "极罕"
+      },
+      {
+        "variant": "\"妬邑\"型",
+        "description": "面文\"妬邑\"",
+        "grade": "二级（极罕） 美品",
+        "priceRange": "800,000—2,000,000元",
+        "notes": "极罕"
+      },
+      {
         "variant": "\"武阳\"背\"两\"（仅见品）",
         "description": "面文\"武阳\"",
         "grade": "一级（孤品） 美品以上",
@@ -936,95 +1048,11 @@
         "notes": "2012年诚轩秋拍368万元成交"
       },
       {
-        "variant": "少见面文（\"无终\"\"上曲阳\"为代表）",
-        "description": "面文\"无终\"",
-        "grade": "二级（极罕） 美品",
-        "priceRange": "800,000—2,000,000元",
-        "notes": "极罕，学术界高度关注"
-      },
-      {
         "variant": "首次发现新品种",
         "description": "中国国家博物馆藏三孔布（大型）：通高7.25cm，足宽3.6cm，肩宽3cm，重13.8g",
         "grade": "八级（较多） 美品以上",
         "priceRange": "视具体情况而定",
         "notes": "具有极高的学术价值"
-      },
-      {
-        "variant": "\"下博\"型",
-        "description": "面文\"下博\"",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
-      },
-      {
-        "variant": "\"安阳\"型",
-        "description": "面文\"安阳\"",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
-      },
-      {
-        "variant": "\"南行唐\"型",
-        "description": "面文\"南行唐\"",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
-      },
-      {
-        "variant": "\"上曲阳\"型",
-        "description": "面文\"上曲阳\"",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
-      },
-      {
-        "variant": "\"文雁乡\"型",
-        "description": "面文\"文雁乡\"",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
-      },
-      {
-        "variant": "\"牟\"型",
-        "description": "面文\"牟\"，存世相对较多（含大、小二型，已过10枚）",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
-      },
-      {
-        "variant": "\"郜\"型",
-        "description": "面文\"郜\"",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
-      },
-      {
-        "variant": "\"平台\"型",
-        "description": "面文\"平台\"",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
-      },
-      {
-        "variant": "\"戏\"型",
-        "description": "面文\"戏\"",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
-      },
-      {
-        "variant": "\"家阳\"型",
-        "description": "面文\"家阳\"",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
-      },
-      {
-        "variant": "\"妬邑\"型",
-        "description": "面文\"妬邑\"",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
       }
     ]
   },
@@ -1048,6 +1076,13 @@
         "notes": "较常见"
       },
       {
+        "variant": "小型针首刀",
+        "description": "通长13.0—14.0cm，较为常见",
+        "grade": "八级（较多） 普品",
+        "priceRange": "3,000—6,000元",
+        "notes": "较常见"
+      },
+      {
         "variant": "带字型",
         "description": "面文可辨识的单字或符号",
         "grade": "八级（较多） 美品",
@@ -1060,13 +1095,6 @@
         "grade": "二级（极罕） 极美品",
         "priceRange": "20,000—50,000元",
         "notes": "极为罕见"
-      },
-      {
-        "variant": "小型针首刀",
-        "description": "通长13.0—14.0cm，较为常见",
-        "grade": "九级（多）",
-        "priceRange": "",
-        "notes": ""
       }
     ]
   },
@@ -1085,6 +1113,13 @@
       {
         "variant": "纪数型",
         "description": "面文为数字，包括\"一\"\"二\"\"三\"\"四\"\"五\"\"六\"\"七\"\"八\"\"九\"\"十\"",
+        "grade": "八级（较多） 普品",
+        "priceRange": "2,000—5,000元",
+        "notes": "较常见"
+      },
+      {
+        "variant": "小型尖首刀",
+        "description": "通长14.0—15.0cm，较为常见",
         "grade": "八级（较多） 普品",
         "priceRange": "2,000—5,000元",
         "notes": "较常见"
@@ -1109,13 +1144,6 @@
         "grade": "四级（罕见） 极美品",
         "priceRange": "15,000—30,000元",
         "notes": "罕见"
-      },
-      {
-        "variant": "小型尖首刀",
-        "description": "通长14.0—15.0cm，较为常见",
-        "grade": "九级（多）",
-        "priceRange": "",
-        "notes": ""
       }
     ]
   },
@@ -1199,6 +1227,20 @@
         "notes": "文字清晰，锈色佳"
       },
       {
+        "variant": "直刀型明刀",
+        "description": "刀身较直，介于弧背与磬折之间",
+        "grade": "八级（较多） 美品",
+        "priceRange": "500—2,000元",
+        "notes": "介于弧背与磬折之间"
+      },
+      {
+        "variant": "背文分类",
+        "description": "背文种类繁多，可分纪数类、纪地类、符号类",
+        "grade": "八级（较多） 美品",
+        "priceRange": "200—500元",
+        "notes": "背文多样"
+      },
+      {
         "variant": "特殊背文（少见纪地背文）",
         "description": "通长：13.0—14.0cm，刀身宽：1.5—2.0cm，单枚重量：12—19g（弧背明刀14—19g，磬折明刀12—18g，晚期减重至10g左右）",
         "grade": "六级（少） 美品",
@@ -1211,20 +1253,6 @@
         "grade": "六级（少） 极美品",
         "priceRange": "3,000—10,000元",
         "notes": "学术价值高"
-      },
-      {
-        "variant": "直刀型明刀",
-        "description": "刀身较直，介于弧背与磬折之间",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
-      },
-      {
-        "variant": "背文分类",
-        "description": "背文种类繁多，可分纪数类、纪地类、符号类",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
       }
     ]
   },
@@ -1297,25 +1325,32 @@
         "notes": "文字清晰，铸工精整"
       },
       {
-        "variant": "即墨刀五字",
-        "description": "通长：15.0—19.0cm（因品种不同差异较大），刀身宽：2.5—3.2cm，单枚重量：33—55g",
-        "grade": "七级（较少） 美品",
+        "variant": "五字刀（节墨之法化）",
+        "description": "面文五字，通长约18.5—18.9cm，重约40—50g，即墨地方铸造，制作精美",
+        "grade": "八级（较多） 美品",
         "priceRange": "20,000—60,000元",
-        "notes": "较少见"
+        "notes": "即墨地方铸造，制作精美"
       },
       {
-        "variant": "即墨刀四字",
-        "description": "通长：15.0—19.0cm（因品种不同差异较大），刀身宽：2.5—3.2cm，单枚重量：33—55g",
+        "variant": "四字刀（节墨法化）",
+        "description": "面文四字，通长约15—16cm，重约33—37g，体型较小",
         "grade": "七级（较少） 美品",
         "priceRange": "15,000—40,000元",
-        "notes": "较少见"
+        "notes": "体型较小，较少见"
       },
       {
-        "variant": "安阳刀",
-        "description": "通长：15.0—19.0cm（因品种不同差异较大），刀身宽：2.5—3.2cm，单枚重量：33—55g",
+        "variant": "五字刀（安阳之法化）",
+        "description": "面文五字，通长约18.5—18.9cm，重约40—50g，即墨地方铸造，制作精美",
         "grade": "七级（较少） 美品",
+        "priceRange": "5,000—15,000元",
+        "notes": "五字刀，较少见"
+      },
+      {
+        "variant": "五字刀（安阳之法化）",
+        "description": "面文五字，通长约18.5—18.9cm，重约40—50g，即墨地方铸造，制作精美",
+        "grade": "八级（较多） 美品",
         "priceRange": "15,000—50,000元",
-        "notes": "较少见"
+        "notes": "安阳地方铸造"
       },
       {
         "variant": "六字刀（齐建邦长法化）",
@@ -1330,27 +1365,6 @@
         "grade": "八级（较多） 极美品",
         "priceRange": "200,000—500,000元",
         "notes": "顶级珍品"
-      },
-      {
-        "variant": "五字刀（节墨之法化）",
-        "description": "面文五字，通长约18.5—18.9cm，重约40—50g，即墨地方铸造，制作精美",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
-      },
-      {
-        "variant": "四字刀（节墨法化）",
-        "description": "面文四字，通长约15—16cm，重约33—37g，体型较小",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
-      },
-      {
-        "variant": "五字刀（安阳之法化）",
-        "description": "面文五字，通长约17—18.5cm，重约40—50g，安阳地方铸造",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
       }
     ]
   },
@@ -1500,6 +1514,13 @@
         "notes": "文字清晰"
       },
       {
+        "variant": "\"四钱当釿\"连布",
+        "description": "面文\"四钱当釿\"，为同品种不同释读",
+        "grade": "八级（较多） 美品",
+        "priceRange": "12,000—25,000元",
+        "notes": "同品种不同释读"
+      },
+      {
         "variant": "\"四布\"连布",
         "description": "面文\"四布当釿\"，最为常见（据中国国家博物馆藏品数据，通长8cm，重约15g）",
         "grade": "七级（较少） 美品",
@@ -1512,13 +1533,6 @@
         "grade": "二级（极罕） 极美品",
         "priceRange": "25,000—50,000元",
         "notes": "极为罕见"
-      },
-      {
-        "variant": "\"四钱当釿\"连布",
-        "description": "面文\"四钱当釿\"，为同品种不同释读",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
       }
     ]
   },
@@ -1684,9 +1698,9 @@
       {
         "variant": "\"专爰\"金版",
         "description": "印文\"专爰\"，罕见",
-        "grade": "四级（罕见）",
-        "priceRange": "",
-        "notes": ""
+        "grade": "二级（极罕） 极美品",
+        "priceRange": "每克2,000—3,000元",
+        "notes": "极为罕见"
       }
     ]
   },
@@ -1717,6 +1731,20 @@
         "notes": "纹饰清晰"
       },
       {
+        "variant": "大型鱼币",
+        "description": "长约10.0—12.0cm，纹饰精细",
+        "grade": "四级（罕见） 美品",
+        "priceRange": "30,000—60,000元",
+        "notes": "纹饰精细，较为罕见"
+      },
+      {
+        "variant": "素面鱼币",
+        "description": "无鳞纹装饰，仅具鱼形轮廓",
+        "grade": "八级（较多） 美品",
+        "priceRange": "15,000—35,000元",
+        "notes": "无鳞纹装饰"
+      },
+      {
         "variant": "大型精饰鱼币",
         "description": "鳞纹、鱼鳍刻画精细",
         "grade": "二级（极罕） 极美品",
@@ -1729,20 +1757,6 @@
         "grade": "八级（较多） 美品以上",
         "priceRange": "80,000—200,000元",
         "notes": "学术价值极高"
-      },
-      {
-        "variant": "大型鱼币",
-        "description": "长约10.0—12.0cm，纹饰精细",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
-      },
-      {
-        "variant": "素面鱼币",
-        "description": "无鳞纹装饰，仅具鱼形轮廓",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
       }
     ]
   },
@@ -1766,11 +1780,25 @@
         "notes": "较常见"
       },
       {
+        "variant": "小型桥梁币",
+        "description": "长约8.0—10.0cm",
+        "grade": "八级（较多） 普品",
+        "priceRange": "5,000—8,000元",
+        "notes": "较常见"
+      },
+      {
         "variant": "中型纹饰型",
         "description": "铸有线条纹或几何纹",
         "grade": "八级（较多） 美品",
         "priceRange": "10,000—25,000元",
         "notes": "纹饰可辨"
+      },
+      {
+        "variant": "中型桥梁币",
+        "description": "长约10.0—12.0cm",
+        "grade": "八级（较多） 美品",
+        "priceRange": "8,000—20,000元",
+        "notes": "较常见"
       },
       {
         "variant": "大型桥梁币",
@@ -1785,20 +1813,6 @@
         "grade": "八级（较多） 美品以上",
         "priceRange": "20,000—50,000元",
         "notes": "学术价值高"
-      },
-      {
-        "variant": "中型桥梁币",
-        "description": "长约10.0—12.0cm",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
-      },
-      {
-        "variant": "小型桥梁币",
-        "description": "长约8.0—10.0cm",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
       }
     ]
   },
@@ -1833,6 +1847,13 @@
         "notes": "较常见"
       },
       {
+        "variant": "小型半两",
+        "description": "直径3.0—3.2cm，重5—6g",
+        "grade": "八级（较多） 普品",
+        "priceRange": "1,500—5,000元",
+        "notes": "较常见"
+      },
+      {
         "variant": "大型厚重半两",
         "description": "直径3.5—3.8cm，重8—10g以上，铸工较粗，为先秦早期铸行",
         "grade": "八级（较多） 美品",
@@ -1847,6 +1868,13 @@
         "notes": "文字古朴雄浑"
       },
       {
+        "variant": "小字半两",
+        "description": "面文字体较小",
+        "grade": "八级（较多） 普品",
+        "priceRange": "1,500—5,000元",
+        "notes": "文字较小"
+      },
+      {
         "variant": "有廓半两",
         "description": "部分后期铸品出现外廓，向规范化过渡",
         "grade": "四级（罕见） 极美品",
@@ -1859,20 +1887,6 @@
         "grade": "二级（极罕） 极美品",
         "priceRange": "40,000—100,000元",
         "notes": "极为罕见"
-      },
-      {
-        "variant": "小型半两",
-        "description": "直径3.0—3.2cm，重5—6g",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
-      },
-      {
-        "variant": "小字半两",
-        "description": "面文字体较小",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
       }
     ]
   }

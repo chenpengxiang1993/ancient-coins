@@ -20,7 +20,7 @@ export default memo(function CoinList({ coins, selectedCoinId, onSelect }: CoinL
     if (!selectedCoinId || !itemsRef.current) return;
     const el = itemsRef.current.querySelector(`[data-coin-id="${selectedCoinId}"]`);
     if (el) {
-      el.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
+      el.scrollIntoView({ block: 'center', behavior: 'smooth' });
     }
   }, [selectedCoinId]);
 

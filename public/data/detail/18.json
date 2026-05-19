@@ -35,9 +35,9 @@
       {
         "variant": "小平背星版",
         "description": "背面铸星纹，直径约2.5厘米，重约3—3.5克",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
+        "grade": "八级（较多） 美品",
+        "priceRange": "200—500元",
+        "notes": "背有星纹"
       }
     ]
   },
@@ -82,38 +82,38 @@
         "notes": ""
       },
       {
-        "variant": "折二",
-        "description": "较少见，直径：约2.8厘米，重约5—7g",
-        "grade": "七级（较少） 美品",
-        "priceRange": "500—1500元",
-        "notes": ""
-      },
-      {
         "variant": "小平凤阳版",
         "description": "铸于凤阳，直径：约2.5厘米，重约3—3.5克",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
+        "grade": "八级（较多） 美品",
+        "priceRange": "100—300元",
+        "notes": "凤阳铸行"
       },
       {
         "variant": "小平桂林版",
         "description": "铸于桂林，直径：约2.5厘米，重约3—3.5克",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
+        "grade": "八级（较多） 美品",
+        "priceRange": "100—300元",
+        "notes": "桂林铸行"
       },
       {
         "variant": "小平贵阳版",
         "description": "铸于贵阳，直径：约2.5厘米，重约3—3.5克",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
+        "grade": "八级（较多） 美品",
+        "priceRange": "100—300元",
+        "notes": "贵阳铸行"
       },
       {
         "variant": "小平背星版",
         "description": "背面铸星纹，直径：约2.5厘米，重约3—3.5克",
-        "grade": "八级（较多）",
-        "priceRange": "",
+        "grade": "八级（较多） 美品",
+        "priceRange": "100—300元",
+        "notes": "背有星纹"
+      },
+      {
+        "variant": "折二",
+        "description": "较少见，直径：约2.8厘米，重约5—7g",
+        "grade": "七级（较少） 美品",
+        "priceRange": "500—1500元",
         "notes": ""
       }
     ]
@@ -152,17 +152,17 @@
         "notes": ""
       },
       {
+        "variant": "小平大字版",
+        "description": "楷书直读，光背，直径：约2.5厘米，重约3—3.5克",
+        "grade": "八级（较多） 美品",
+        "priceRange": "200—600元",
+        "notes": "文字较大"
+      },
+      {
         "variant": "折二",
         "description": "较少见，直径：约2.9厘米，重约8.88克",
         "grade": "七级（较少） 美品",
         "priceRange": "1000—3000元",
-        "notes": ""
-      },
-      {
-        "variant": "小平大字版",
-        "description": "钱文字体较大，直径：约2.5厘米，重约3—3.5克",
-        "grade": "八级（较多）",
-        "priceRange": "",
         "notes": ""
       }
     ]
@@ -238,9 +238,9 @@
       {
         "variant": "兴朝通宝式版",
         "description": "与兴朝通宝风格相近的版别",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
+        "grade": "八级（较多） 美品",
+        "priceRange": "200—500元",
+        "notes": "仿兴朝通宝风格"
       }
     ]
   }

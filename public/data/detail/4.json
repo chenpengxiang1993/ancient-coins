@@ -123,16 +123,16 @@
       {
         "variant": "标准型",
         "description": "直径2.4—2.6cm，重3—5g",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
+        "grade": "十级（多泛） 普品",
+        "priceRange": "100—300元",
+        "notes": "最常见规格"
       },
       {
         "variant": "背阴纹版",
         "description": "背面铸有阴刻纹饰",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
+        "grade": "七级（较少） 美品",
+        "priceRange": "300—800元",
+        "notes": "背有阴刻纹饰，较少见"
       }
     ]
   },
@@ -405,9 +405,9 @@
       {
         "variant": "大字型",
         "description": "面文字体较大",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
+        "grade": "七级（较少） 美品",
+        "priceRange": "500—1,500元",
+        "notes": "文字较大，较少见"
       }
     ]
   },
@@ -465,9 +465,9 @@
       {
         "variant": "小型减重型",
         "description": "直径3.2cm以下，晚期铸行",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
+        "grade": "八级（较多） 普品",
+        "priceRange": "200—500元",
+        "notes": "晚期减重铸行"
       }
     ]
   },

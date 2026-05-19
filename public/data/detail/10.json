@@ -157,16 +157,16 @@
       {
         "variant": "大字版",
         "description": "面文字体较大",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
+        "grade": "八级（较多） 美品",
+        "priceRange": "200—500元",
+        "notes": "文字较大"
       },
       {
         "variant": "小字版",
         "description": "面文字体较小",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
+        "grade": "八级（较多） 普品",
+        "priceRange": "50—150元",
+        "notes": "文字较小"
       }
     ]
   },
@@ -217,9 +217,9 @@
       {
         "variant": "大字版",
         "description": "面文字体较大",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
+        "grade": "八级（较多） 美品",
+        "priceRange": "50—150元",
+        "notes": "文字较大"
       }
     ]
   },
@@ -296,23 +296,23 @@
       {
         "variant": "背月版",
         "description": "背面铸有月纹，分仰月、俯月",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
+        "grade": "八级（较多） 美品",
+        "priceRange": "100—300元",
+        "notes": "背有月纹"
       },
       {
         "variant": "背星月版",
-        "description": "背面同时铸有星纹与月纹",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
+        "description": "背面铸有星纹",
+        "grade": "七级（较少） 美品",
+        "priceRange": "500—1,500元",
+        "notes": "八级（较多），背有星月纹，较少见"
       },
       {
         "variant": "阔缘版",
         "description": "外廓较宽",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
+        "grade": "八级（较多） 美品",
+        "priceRange": "100—300元",
+        "notes": "边缘较宽"
       }
     ]
   },
@@ -552,16 +552,16 @@
       {
         "variant": "大字版",
         "description": "面文字体较大",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
+        "grade": "八级（较多） 美品",
+        "priceRange": "200—500元",
+        "notes": "文字较大"
       },
       {
         "variant": "小字版",
         "description": "面文字体较小",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
+        "grade": "八级（较多） 普品",
+        "priceRange": "100—300元",
+        "notes": "文字较小"
       }
     ]
   },
@@ -799,16 +799,9 @@
       {
         "variant": "鎏金铜品",
         "description": "青铜铸造，铸工精整，极罕见",
-        "grade": "一级（孤品） 美品以上",
-        "priceRange": "200000—500000元",
-        "notes": "仅见数枚"
-      },
-      {
-        "variant": "鎏金铜品",
-        "description": "铜品表面鎏金，极罕，为宫廷赏赐性质",
-        "grade": "二级（极罕）",
-        "priceRange": "",
-        "notes": ""
+        "grade": "二级（极罕） 极美品",
+        "priceRange": "50,000—150,000元",
+        "notes": "二级（极罕），鎏金铜质，极为罕见"
       }
     ]
   },
@@ -1157,16 +1150,16 @@
       {
         "variant": "小字版",
         "description": "面文字体较小",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
+        "grade": "八级（较多） 普品",
+        "priceRange": "50—150元",
+        "notes": "文字较小"
       },
       {
         "variant": "阔缘版",
         "description": "外廓较宽",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
+        "grade": "八级（较多） 美品",
+        "priceRange": "100—300元",
+        "notes": "边缘较宽"
       }
     ]
   },
@@ -1312,9 +1305,9 @@
       {
         "variant": "铁品",
         "description": "铁质，较少见",
-        "grade": "七级（较少）",
-        "priceRange": "",
-        "notes": ""
+        "grade": "七级（较少） 普品",
+        "priceRange": "50—200元",
+        "notes": "铁质铸行"
       }
     ]
   },

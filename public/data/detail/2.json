@@ -52,10 +52,17 @@
       },
       {
         "variant": "小型榆荚钱",
-        "description": "直径1.5—2.0cm，重量1—2g",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
+        "description": "直径1.0—1.5cm，重量0.5—1g，最为轻薄",
+        "grade": "八级（较多） 普品",
+        "priceRange": "50—150元",
+        "notes": "晚期减重"
+      },
+      {
+        "variant": "小型榆荚钱",
+        "description": "直径1.0—1.5cm，重量0.5—1g，最为轻薄",
+        "grade": "八级（较多） 普品",
+        "priceRange": "50—150元",
+        "notes": "体型最小，减重严重"
       }
     ]
   },
@@ -106,9 +113,9 @@
       {
         "variant": "小字型",
         "description": "面文字体较小",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
+        "grade": "八级（较多） 普品",
+        "priceRange": "500—1,500元",
+        "notes": "文字较小，较常见"
       }
     ]
   },
@@ -206,9 +213,9 @@
       {
         "variant": "小字型",
         "description": "面文字体较小",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
+        "grade": "八级（较多） 普品",
+        "priceRange": "100—300元",
+        "notes": "文字较小，较常见"
       }
     ]
   },
@@ -259,9 +266,9 @@
       {
         "variant": "有廓型",
         "description": "外廓清晰",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
+        "grade": "七级（较少） 美品",
+        "priceRange": "3,000—8,000元",
+        "notes": "较少见，过渡型"
       }
     ]
   },
@@ -347,9 +354,9 @@
       {
         "variant": "有廓型",
         "description": "外廓和好廓清晰",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
+        "grade": "七级（较少） 美品",
+        "priceRange": "200—500元",
+        "notes": "较少见"
       }
     ]
   },
@@ -431,9 +438,9 @@
       {
         "variant": "背横纹型",
         "description": "背面铸有横纹",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
+        "grade": "八级（较多） 美品",
+        "priceRange": "100—300元",
+        "notes": "背部有横纹，较常见"
       }
     ]
   },
@@ -526,9 +533,9 @@
       {
         "variant": "穿上横纹型",
         "description": "穿孔上方有一道横纹",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
+        "grade": "八级（较多） 美品",
+        "priceRange": "100—300元",
+        "notes": "穿上有横纹"
       }
     ]
   },
@@ -663,9 +670,9 @@
       {
         "variant": "剪凿型",
         "description": "被剪去边缘的五铢钱",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
+        "grade": "八级（较多） 普品",
+        "priceRange": "20—50元",
+        "notes": "剪边减重，较常见"
       }
     ]
   },
@@ -821,9 +828,9 @@
       {
         "variant": "极小型",
         "description": "直径1.5cm以下",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
+        "grade": "八级（较多） 普品",
+        "priceRange": "30—80元",
+        "notes": "减重最为严重"
       }
     ]
   }

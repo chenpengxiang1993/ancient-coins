@@ -375,11 +375,26 @@ function migrateDetail(detail) {
     });
   }
 
+  // Deduplicate: remove entries with empty priceRange if another entry with
+  // the same normalized variant name has a non-empty priceRange
+  const hasPrice = new Set();
+  for (const row of variantsTable) {
+    if (row.priceRange && row.priceRange.trim()) {
+      hasPrice.add(normalize(row.variant));
+    }
+  }
+  const deduped = variantsTable.filter(row => {
+    if (!row.priceRange || !row.priceRange.trim()) {
+      if (hasPrice.has(normalize(row.variant))) return false;
+    }
+    return true;
+  });
+
   const newDetail = { ...detail };
   delete newDetail.variants;
   delete newDetail.valueReference;
   delete newDetail.valueTable;
-  newDetail.variantsTable = variantsTable;
+  newDetail.variantsTable = deduped;
 
   return newDetail;
 }

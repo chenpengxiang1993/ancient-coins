@@ -126,9 +126,9 @@
       {
         "variant": "小平背文版",
         "description": "背面有文字，直径约2.4厘米，重约3克",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
+        "grade": "八级（较多） 美品",
+        "priceRange": "100—300元",
+        "notes": "背有文字"
       }
     ]
   },
@@ -252,9 +252,9 @@
       {
         "variant": "其他地方版",
         "description": "铸于新疆其他地区",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
+        "grade": "八级（较多） 美品",
+        "priceRange": "200—500元",
+        "notes": "地方铸行风格"
       }
     ]
   }

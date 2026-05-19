@@ -72,13 +72,6 @@
         "notes": ""
       },
       {
-        "variant": "中期与特色版别",
-        "description": "直径：2.4—2.5厘米，厚度：0.1—0.15厘米，单枚重量：3.5—4.0克（标准重量为一钱，约3.73克）",
-        "grade": "八级（较多） ",
-        "priceRange": "",
-        "notes": ""
-      },
-      {
         "variant": "大字",
         "description": "\"开\"字宽阔，\"元\"字较大",
         "grade": "八级（较多） 极美品",
@@ -125,13 +118,6 @@
         "description": "\"开\"字宽阔，\"元\"字较大",
         "grade": "八级（较多） 极美品",
         "priceRange": "约17,000元",
-        "notes": ""
-      },
-      {
-        "variant": "会昌开元",
-        "description": "唐武宗会昌五年（公元845年）毁佛铸钱，背面铸有州名或地名，共发现背字二十三种（昌、京、洛、益、蓝、襄、荆、越、宣、洪、潭、兖、润、鄂、平、兴、梁、广、梓、福、丹、桂、永）",
-        "grade": "八级（较多） ",
-        "priceRange": "",
         "notes": ""
       },
       {
@@ -188,13 +174,6 @@
         "description": "直径：2.4—2.5厘米，厚度：0.1—0.15厘米，单枚重量：3.5—4.0克（标准重量为一钱，约3.73克）",
         "grade": "八级（较多） 美品",
         "priceRange": "1,000—3,000元",
-        "notes": ""
-      },
-      {
-        "variant": "名誉品与高端珍品",
-        "description": "直径：2.4—2.5厘米，厚度：0.1—0.15厘米，单枚重量：3.5—4.0克（标准重量为一钱，约3.73克）",
-        "grade": "八级（较多） ",
-        "priceRange": "",
         "notes": ""
       },
       {
@@ -305,37 +284,58 @@
       {
         "variant": "容弱",
         "description": "字体柔弱、笔画纤细",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
+        "grade": "八级（较多） 普品",
+        "priceRange": "10—30元",
+        "notes": "文字柔弱，较常见"
       },
       {
         "variant": "短头元",
         "description": "\"元\"字第一笔短而平直",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
+        "grade": "八级（较多） 普品",
+        "priceRange": "10—30元",
+        "notes": "\"元\"字短头，较常见"
       },
       {
         "variant": "星月纹系列",
         "description": "背面铸有星、月纹饰，月纹按形态和位置分为仰月、附月、侧月、背双月、背上星、背下星、背三月、背四月多种",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
+        "grade": "八级（较多） 美品",
+        "priceRange": "50—200元",
+        "notes": "面背有星月纹饰"
       },
       {
         "variant": "特殊纹样",
         "description": "背祥云、背瑞雀、背同心结",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
+        "grade": "七级（较少） 美品",
+        "priceRange": "100—500元",
+        "notes": "面背有特殊纹饰，较少见"
       },
       {
         "variant": "特殊材质",
         "description": "鎏金钱、银钱、白铜钱",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
+        "grade": "八级（较多） 美品",
+        "priceRange": "200—1,000元",
+        "notes": "银、鎏金等特殊材质"
+      },
+      {
+        "variant": "中期与特色版别",
+        "description": "直径：2.4—2.5厘米，厚度：0.1—0.15厘米，单枚重量：3.5—4.0克（标准重量为一钱，约3.73克）",
+        "grade": "八级（较多） 美品",
+        "priceRange": "300—800元",
+        "notes": "八级（较多），中期铸行特色版别"
+      },
+      {
+        "variant": "会昌开元",
+        "description": "唐武宗会昌五年（公元845年）毁佛铸钱，背面铸有州名或地名，共发现背字二十三种（昌、京、洛、益、蓝、襄、荆、越、宣、洪、潭、兖、润、鄂、平、兴、梁、广、梓、福、丹、桂、永）",
+        "grade": "八级（较多） 美品",
+        "priceRange": "500—2,000元",
+        "notes": "八级（较多），晚期会昌年间铸行"
+      },
+      {
+        "variant": "名誉品与高端珍品",
+        "description": "直径：2.4—2.5厘米，厚度：0.1—0.15厘米，单枚重量：3.5—4.0克（标准重量为一钱，约3.73克）",
+        "grade": "五级（稀） 美品",
+        "priceRange": "3,000—20,000元",
+        "notes": "八级（较多），珍稀版别，学术价值高"
       }
     ]
   },
@@ -412,9 +412,9 @@
       {
         "variant": "狭穿版",
         "description": "穿孔较窄，文字布局紧凑",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
+        "grade": "七级（较少） 美品",
+        "priceRange": "1,000—3,000元",
+        "notes": "穿口较窄，较少见"
       }
     ]
   },
@@ -514,30 +514,30 @@
       {
         "variant": "折三",
         "description": "直径约3.0—3.3厘米，直径：3.0—3.3厘米，单枚重量：7.0—10.0克",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
+        "grade": "七级（较少） 美品",
+        "priceRange": "500—1,500元",
+        "notes": "折三型，较少见"
       },
       {
         "variant": "折五",
         "description": "直径约3.3—3.6厘米，直径：3.3—3.6厘米，单枚重量：9.0—12.0克",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
+        "grade": "七级（较少） 美品",
+        "priceRange": "500—2,000元",
+        "notes": "折五型，较少见"
       },
       {
         "variant": "小字版",
         "description": "面文字体较小",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
+        "grade": "八级（较多） 普品",
+        "priceRange": "30—80元",
+        "notes": "文字较小"
       },
       {
         "variant": "阔缘版",
         "description": "外廓较宽",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
+        "grade": "七级（较少） 美品",
+        "priceRange": "100—300元",
+        "notes": "边缘较宽，较少见"
       }
     ]
   },
@@ -605,9 +605,9 @@
       {
         "variant": "减重版",
         "description": "铸行后期重量减轻，轮廓模糊",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
+        "grade": "八级（较多） 普品",
+        "priceRange": "100—300元",
+        "notes": "晚期减重铸行"
       }
     ]
   },
@@ -679,16 +679,16 @@
       {
         "variant": "粗字版",
         "description": "笔画粗率，铸工较粗",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
+        "grade": "八级（较多） 普品",
+        "priceRange": "500—1,500元",
+        "notes": "文字粗壮"
       },
       {
         "variant": "细字版",
         "description": "笔画纤细，字体规整",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
+        "grade": "七级（较少） 美品",
+        "priceRange": "1,000—3,000元",
+        "notes": "文字纤细，较少见"
       }
     ]
   },
@@ -760,9 +760,9 @@
       {
         "variant": "狭穿版",
         "description": "穿孔较窄",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
+        "grade": "七级（较少） 美品",
+        "priceRange": "1,000—3,000元",
+        "notes": "穿口较窄，较少见"
       }
     ]
   },
@@ -851,23 +851,23 @@
       {
         "variant": "背字位置变异",
         "description": "背字倒置、背字偏移",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
+        "grade": "八级（较多） 美品",
+        "priceRange": "50—200元",
+        "notes": "背字位置不同"
       },
       {
         "variant": "面文版别",
         "description": "大字、小字、遒劲、容弱（与普通开元通宝面文版别对应）",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
+        "grade": "八级（较多） 美品",
+        "priceRange": "30—100元",
+        "notes": "面文风格不同"
       },
       {
         "variant": "特殊版",
         "description": "合背（两面均为背字）、面星月纹",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
+        "grade": "七级（较少） 极美品",
+        "priceRange": "200—1,000元",
+        "notes": "特殊版别，较少见"
       }
     ]
   },
@@ -937,9 +937,9 @@
       {
         "variant": "小字版",
         "description": "面文字体较小",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
+        "grade": "七级（较少） 美品",
+        "priceRange": "3,000—8,000元",
+        "notes": "文字较小，较少见"
       }
     ]
   },
@@ -1000,23 +1000,23 @@
       {
         "variant": "背上月",
         "description": "穿孔上方铸有月纹",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
+        "grade": "八级（较多） 美品",
+        "priceRange": "3,000—8,000元",
+        "notes": "背面上方有月纹"
       },
       {
         "variant": "背下月",
         "description": "穿孔下方铸有月纹",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
+        "grade": "八级（较多） 美品",
+        "priceRange": "3,000—8,000元",
+        "notes": "背面下方有月纹"
       },
       {
         "variant": "小字版",
         "description": "面文字体较小",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
+        "grade": "八级（较多） 美品",
+        "priceRange": "2,000—5,000元",
+        "notes": "文字较小"
       }
     ]
   },
@@ -1091,23 +1091,23 @@
       {
         "variant": "背上月",
         "description": "穿孔上方铸有月纹",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
+        "grade": "八级（较多） 美品",
+        "priceRange": "2,000—5,000元",
+        "notes": "背面上方有月纹"
       },
       {
         "variant": "背下月",
         "description": "穿孔下方铸有月纹",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
+        "grade": "八级（较多） 美品",
+        "priceRange": "2,000—5,000元",
+        "notes": "背面下方有月纹"
       },
       {
         "variant": "小字版",
         "description": "面文字体较小",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
+        "grade": "八级（较多） 美品",
+        "priceRange": "1,500—4,000元",
+        "notes": "文字较小"
       }
     ]
   },
@@ -1195,17 +1195,17 @@
       },
       {
         "variant": "仿开元通宝（粗铸版）",
-        "description": "面文简省变形，铸工粗率",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
+        "description": "面文较清晰，接近标准开元通宝风格，铸工尚可",
+        "grade": "八级（较多） 普品",
+        "priceRange": "200—500元",
+        "notes": "八级（较多），铸工较粗，西域地方铸行"
       },
       {
         "variant": "小字仿铸",
         "description": "面文字体较小，笔画纤细",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
+        "grade": "八级（较多） 普品",
+        "priceRange": "50—200元",
+        "notes": "文字较小，铸工粗率"
       }
     ]
   }

@@ -14,9 +14,9 @@
       {
         "variant": "小平钱",
         "description": "直径约2.5厘米，铸量最大，直径：约2.5厘米，重约3—4克",
-        "grade": "八级（较多） ",
-        "priceRange": "",
-        "notes": ""
+        "grade": "八级（较多） 普品",
+        "priceRange": "100—300元",
+        "notes": "八级（较多）"
       },
       {
         "variant": "宋体版",
@@ -56,9 +56,9 @@
       {
         "variant": "大面值",
         "description": "大面值版别",
-        "grade": "八级（较多） ",
-        "priceRange": "",
-        "notes": ""
+        "grade": "八级（较多） 美品",
+        "priceRange": "500—3,000元",
+        "notes": "八级（较多）"
       },
       {
         "variant": "折五版",
@@ -89,11 +89,144 @@
         "notes": "珍罕"
       },
       {
+        "variant": "折五十版",
+        "description": "直径约3.3厘米，较少见，重约10—15g",
+        "grade": "七级（较少） 美品",
+        "priceRange": "2,000—8,000元",
+        "notes": "八级（较多）"
+      },
+      {
         "variant": "特殊品类",
         "description": "特殊版别，存世较少",
-        "grade": "八级（较多） ",
-        "priceRange": "",
-        "notes": ""
+        "grade": "八级（较多） 美品",
+        "priceRange": "1,000—10,000元",
+        "notes": "八级（较多）"
+      },
+      {
+        "variant": "小平钱",
+        "description": "直径约2.5厘米，铸量最大，直径：约2.5厘米，重约3—4克",
+        "grade": "十级（多泛） 普品",
+        "priceRange": "100—300元",
+        "notes": "最常见面值"
+      },
+      {
+        "variant": "大面值",
+        "description": "大面值版别",
+        "grade": "七级（较少） 美品",
+        "priceRange": "500—3,000元",
+        "notes": "较大面值，较少见"
+      },
+      {
+        "variant": "折五十版",
+        "description": "直径约3.3厘米，较少见，重约10—15g",
+        "grade": "七级（较少） 美品",
+        "priceRange": "1,000—5,000元",
+        "notes": "折五十面值，较少见"
+      },
+      {
+        "variant": "按面值分",
+        "description": "按类别细分的版别",
+        "grade": "八级（较多） 美品",
+        "priceRange": "100—1,000元",
+        "notes": "按面值区分"
+      },
+      {
+        "variant": "按面文书体分",
+        "description": "按面文书体分",
+        "grade": "八级（较多） 美品",
+        "priceRange": "100—500元",
+        "notes": "按面文书体区分"
+      },
+      {
+        "variant": "按背文位置分",
+        "description": "按类别细分的版别",
+        "grade": "八级（较多） 美品",
+        "priceRange": "100—500元",
+        "notes": "按背文位置区分"
+      },
+      {
+        "variant": "背\"圣宝\"竖读版",
+        "description": "背面\"圣宝\"二字竖读（上下排列），为最常见的版式",
+        "grade": "十级（多泛） 美品",
+        "priceRange": "100—300元",
+        "notes": "背文竖读"
+      },
+      {
+        "variant": "背\"圣宝\"横读版",
+        "description": "背面\"圣宝\"二字横读（左右排列），较为少见",
+        "grade": "六级（少） 美品",
+        "priceRange": "100—300元",
+        "notes": "背文横读"
+      },
+      {
+        "variant": "天京版",
+        "description": "（南京）：铸工较精，铸量最大",
+        "grade": "八级（较多） 美品",
+        "priceRange": "200—800元",
+        "notes": "天京铸行"
+      },
+      {
+        "variant": "苏州版",
+        "description": "铸工尚可",
+        "grade": "八级（较多） 美品",
+        "priceRange": "200—800元",
+        "notes": "苏州铸行"
+      },
+      {
+        "variant": "杭州版",
+        "description": "铸工尚可",
+        "grade": "八级（较多） 美品",
+        "priceRange": "200—800元",
+        "notes": "杭州铸行"
+      },
+      {
+        "variant": "徽州版",
+        "description": "铸量较少",
+        "grade": "八级（较多） 美品",
+        "priceRange": "200—800元",
+        "notes": "徽州铸行"
+      },
+      {
+        "variant": "按铸地分",
+        "description": "据《中国钱币大辞典》记载，太平天国钱主要铸于以下地区",
+        "grade": "八级（较多） 美品",
+        "priceRange": "200—800元",
+        "notes": "按铸地区分"
+      },
+      {
+        "variant": "大字版",
+        "description": "面文字体较大",
+        "grade": "八级（较多） 美品",
+        "priceRange": "200—500元",
+        "notes": "文字较大"
+      },
+      {
+        "variant": "小字版",
+        "description": "面文字体较小",
+        "grade": "八级（较多） 普品",
+        "priceRange": "100—300元",
+        "notes": "文字较小"
+      },
+      {
+        "variant": "阔缘版",
+        "description": "外缘较宽",
+        "grade": "八级（较多） 美品",
+        "priceRange": "200—500元",
+        "notes": "边缘较宽"
+      },
+      {
+        "variant": "特殊版别",
+        "description": "特殊版别，存世较少",
+        "grade": "七级（较少） 极美品",
+        "priceRange": "500—3,000元",
+        "notes": "特殊版别，较少见"
+      },
+      {
+        "variant": "特殊品类",
+        "description": "特殊版别，存世较少",
+        "grade": "二级（极罕） 极美品",
+        "priceRange": "1,000—10,000元",
+        "notes": "特殊品类，极为珍贵"
       },
       {
         "variant": "母钱",
@@ -101,111 +234,6 @@
         "grade": "八级（较多） 美品以上",
         "priceRange": "5000—20000元",
         "notes": "存世极少"
-      },
-      {
-        "variant": "按面值分",
-        "description": "按类别细分的版别",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
-      },
-      {
-        "variant": "折五十版",
-        "description": "直径约4.8厘米，珍罕，重约10—15g",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
-      },
-      {
-        "variant": "按面文书体分",
-        "description": "按面文书体分",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
-      },
-      {
-        "variant": "按背文位置分",
-        "description": "按类别细分的版别",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
-      },
-      {
-        "variant": "背\"圣宝\"竖读版",
-        "description": "背面\"圣宝\"二字竖读（上下排列），为最常见的版式",
-        "grade": "十级（多泛）",
-        "priceRange": "",
-        "notes": ""
-      },
-      {
-        "variant": "背\"圣宝\"横读版",
-        "description": "背面\"圣宝\"二字横读（左右排列），较为少见",
-        "grade": "六级（少）",
-        "priceRange": "",
-        "notes": ""
-      },
-      {
-        "variant": "按铸地分",
-        "description": "据《中国钱币大辞典》记载，太平天国钱主要铸于以下地区",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
-      },
-      {
-        "variant": "天京版",
-        "description": "（南京）：铸工较精，铸量最大",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
-      },
-      {
-        "variant": "苏州版",
-        "description": "铸工尚可",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
-      },
-      {
-        "variant": "杭州版",
-        "description": "铸工尚可",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
-      },
-      {
-        "variant": "徽州版",
-        "description": "铸量较少",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
-      },
-      {
-        "variant": "特殊版别",
-        "description": "特殊版别，存世较少",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
-      },
-      {
-        "variant": "大字版",
-        "description": "面文字体较大",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
-      },
-      {
-        "variant": "小字版",
-        "description": "面文字体较小",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
-      },
-      {
-        "variant": "阔缘版",
-        "description": "外缘较宽",
-        "grade": "八级（较多）",
-        "priceRange": "",
-        "notes": ""
       }
     ]
   },
