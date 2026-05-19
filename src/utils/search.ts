@@ -39,5 +39,9 @@ export function searchCoins(allData: DynastyData[], keyword: string): SearchResu
 }
 
 export function warmupSearchIndex(allData: DynastyData[]): void {
-  requestIdleCallback(() => buildSearchIndex(allData));
+  if ('requestIdleCallback' in window) {
+    requestIdleCallback(() => buildSearchIndex(allData));
+  } else {
+    setTimeout(() => buildSearchIndex(allData), 1);
+  }
 }

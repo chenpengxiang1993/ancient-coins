@@ -15,6 +15,7 @@ export default defineConfig({
     hmr: true,
   },
   build: {
+    target: 'es2020',
     minify: 'terser',
     terserOptions: {
       compress: {

@@ -7,7 +7,6 @@
 .coinImageMain {
   position: relative;
   width: 100%;
-  aspect-ratio: 1 / 1;
   max-height: 360px;
   border-radius: 12px;
   overflow: hidden;
@@ -16,6 +15,20 @@
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+@supports (aspect-ratio: 1 / 1) {
+  .coinImageMain {
+    aspect-ratio: 1 / 1;
+  }
+}
+
+@supports not (aspect-ratio: 1 / 1) {
+  .coinImageMain::before {
+    content: '';
+    display: block;
+    padding-top: 100%;
+  }
 }
 
 .coinImageImg {
@@ -68,7 +81,10 @@
   gap: 8px;
   color: var(--text-muted);
   position: absolute;
-  inset: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
 }
 
 .coinImagePlaceholderIcon {
@@ -143,7 +159,10 @@
 
 .coinImageOverlay {
   position: fixed;
-  inset: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
   z-index: 2000;
   background: rgba(0, 0, 0, 0.85);
   display: flex;
