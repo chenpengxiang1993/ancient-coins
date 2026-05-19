@@ -12,17 +12,7 @@ function buildSearchIndex(allData: DynastyData[]): SearchIndexEntry[] {
   indexCache = allData.flatMap((dynasty) =>
     dynasty.coins.map((coin) => ({
       coin,
-      searchText: [
-        coin.name,
-        coin.dynasty,
-        coin.summary.historicalPeriod,
-        coin.summary.ruler,
-        coin.summary.coreFeatures,
-        coin.summary.estimatedValue,
-        coin.summary.rarity,
-      ]
-        .join(' ')
-        .toLowerCase(),
+      searchText: [coin.name, coin.summary.ruler].join(' ').toLowerCase(),
     }))
   );
   return indexCache;
@@ -40,8 +30,7 @@ export function searchCoins(allData: DynastyData[], keyword: string): SearchResu
 
     let matchField = '综合';
     if (entry.coin.name.toLowerCase().includes(kw)) matchField = '名称';
-    else if (entry.coin.dynasty.toLowerCase().includes(kw)) matchField = '朝代';
-    else if (entry.coin.summary.rarity.toLowerCase().includes(kw)) matchField = '稀有度';
+    else if (entry.coin.summary.ruler.toLowerCase().includes(kw)) matchField = '铸主';
 
     results.push({ coin: entry.coin, matchField });
   }

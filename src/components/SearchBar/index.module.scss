@@ -106,7 +106,10 @@
 }
 
 .searchBarResult {
-  display: block;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
   width: 100%;
   padding: 10px 14px;
   border: none;
@@ -124,18 +127,39 @@
 
 .searchBarResultName {
   font-family: $font-serif;
-  font-size: 14px;
+  font-size: 18px;
   font-weight: 600;
   color: var(--text-primary);
-  margin-bottom: 2px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 
-.searchBarResultMeta {
+.searchBarResultInfo {
+  flex-shrink: 0;
   display: flex;
-  align-items: center;
-  gap: 10px;
+  flex-direction: column;
+  gap: 2px;
   font-size: 11px;
   font-family: $font-sans;
+  text-align: right;
+}
+
+.searchBarResultInfoTop,
+.searchBarResultInfoBottom {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 18px;
+}
+
+.searchBarResultRarity {
+  color: var(--accent);
+  font-weight: 600;
+}
+
+.searchBarResultRuler {
+  color: var(--text-secondary);
 }
 
 .searchBarResultDynasty {
