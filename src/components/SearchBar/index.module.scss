@@ -87,7 +87,7 @@
   top: calc(100% + 6px);
   left: 0;
   right: 0;
-  max-height: 400px;
+  max-height: 428px;
   overflow-y: auto;
   background: var(--bg-card);
   border: 1px solid var(--border);
@@ -154,21 +154,48 @@
 }
 
 .searchBarResultRarity {
-  color: var(--accent);
-  font-weight: 600;
+  display: inline-block;
+  font-size: 11px;
+  padding: 1px 8px;
+  border-radius: 4px;
+  color: #fff;
+  font-weight: 500;
+
+  &[data-rarity="1"] { background: #8b0000; }
+  &[data-rarity="2"] { background: #a0522d; }
+  &[data-rarity="3"] { background: #b8860b; }
+  &[data-rarity="4"] { background: #9c7c38; }
+  &[data-rarity="5"] { background: #6b8e23; }
+  &[data-rarity="6"] { background: #5f9ea0; }
+  &[data-rarity="default"] { background: var(--text-muted); }
 }
 
 .searchBarResultRuler {
+  display: inline-block;
+  font-size: 11px;
+  padding: 1px 8px;
+  border-radius: 4px;
   color: var(--text-secondary);
+  background: rgba(128, 128, 128, 0.1);
 }
 
 .searchBarResultDynasty {
+  display: inline-block;
+  font-size: 11px;
+  padding: 1px 8px;
+  border-radius: 4px;
   color: var(--gold);
   font-weight: 500;
+  background: rgba(184, 134, 11, 0.1);
 }
 
 .searchBarResultField {
+  display: inline-block;
+  font-size: 11px;
+  padding: 1px 8px;
+  border-radius: 4px;
   color: var(--text-muted);
+  background: rgba(128, 128, 128, 0.08);
 }
 
 .searchBarEmpty {

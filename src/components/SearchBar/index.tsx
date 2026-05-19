@@ -1,6 +1,7 @@
 import { memo, useState, useRef, useEffect, useCallback } from "react";
 import type { DynastyData, SearchResult } from "../../types";
 import { searchCoins } from "../../utils/search";
+import { getRarityLevel } from "../../utils/rarity";
 import { useDebounce } from "../../hooks/useDebounce";
 import styles from "./index.module.scss";
 
@@ -150,7 +151,7 @@ export default memo(function SearchBar({
           aria-activedescendant={
             highlightIndex >= 0 ? `search-result-${highlightIndex}` : undefined
           }
-          placeholder="搜索钱币名称、铸主…"
+          placeholder="输入钱币名称、铸主进行搜索"
           value={keyword}
           onChange={(e) => handleInputChange(e.target.value)}
           onFocus={() => {
@@ -211,7 +212,7 @@ export default memo(function SearchBar({
                       </span>
                     </div>
                     <div className={styles.searchBarResultInfoBottom}>
-                      <span className={styles.searchBarResultRarity}>
+                      <span className={styles.searchBarResultRarity} data-rarity={getRarityLevel(result.coin.summary.rarity)}>
                         {result.coin.summary.rarity}
                       </span>
                       <span className={styles.searchBarResultField}>
