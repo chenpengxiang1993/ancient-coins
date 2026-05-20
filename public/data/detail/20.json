@@ -24,33 +24,48 @@
     "variantsTable": [
       {
         "variant": "汉文小平",
-        "description": "面文汉文楷书，光背，直径：约2.4厘米，重约3—4克",
-        "grade": "八级（较多） 美品",
-        "priceRange": "2000—5000元",
-        "notes": ""
+        "description": "面文\"天命通宝\"四字楷书，对读，铜质精良",
+        "grade": "六级（稀） 普品",
+        "priceRange": "200—500元",
+        "notes": "开国钱币，铸量有限"
       },
       {
         "variant": "汉文小平",
-        "description": "面文汉文楷书，光背，直径：约2.4厘米，重约3—4克",
-        "grade": "八级（较多） 极美品",
-        "priceRange": "5000—8000元",
-        "notes": ""
+        "description": "面文\"天命通宝\"四字楷书，对读，铜质精良",
+        "grade": "六级（稀） 美品",
+        "priceRange": "500—1,500元",
+        "notes": "品相上佳"
+      },
+      {
+        "variant": "汉文小平",
+        "description": "面文\"天命通宝\"四字楷书，对读",
+        "grade": "六级（稀） 极美品",
+        "priceRange": "1,500—3,000元",
+        "notes": "品相极佳"
       },
       {
         "variant": "满文小平",
-        "description": "面文老满文，光背，直径：约2.7厘米，重约5—6克",
-        "grade": "八级（较多） 美品",
-        "priceRange": "1000—2000元",
-        "notes": ""
+        "description": "面文满文\"天命汗钱\"，无汉文",
+        "grade": "七级（甚少） 美品",
+        "priceRange": "400—1,200元",
+        "notes": "满文版略多于汉文版"
       },
       {
         "variant": "满文小平",
-        "description": "面文老满文，光背，直径：约2.7厘米，重约5—6克",
-        "grade": "八级（较多） 极美品",
-        "priceRange": "2000—3000元",
-        "notes": ""
+        "description": "面文满文\"天命汗钱\"",
+        "grade": "七级（甚少） 极美品",
+        "priceRange": "1,200—2,500元",
+        "notes": "品相极佳"
+      },
+      {
+        "variant": "大字版",
+        "description": "汉文大字版，文字较大",
+        "grade": "五级（稀贵） 极美品",
+        "priceRange": "2,000—5,000元",
+        "notes": "大字版较少"
       }
-    ]
+    ],
+    "reverseFeatures": "- 背面：光素无文（光背）"
   },
   "20-1": {
     "castingTime": "后金太宗皇太极天聪年间（公元1627年—1636年）。",
@@ -66,19 +81,20 @@
     "variantsTable": [
       {
         "variant": "满文折十",
-        "description": "面文满文，折十型，直径约3.3厘米，重约8—10克",
-        "grade": "八级（较多） 美品",
-        "priceRange": "10000—20000元",
-        "notes": ""
+        "description": "面文满文\"天聪汗钱\"，折十型，铜质精良",
+        "grade": "五级（稀贵） 美品",
+        "priceRange": "3,000—8,000元",
+        "notes": "存世较少"
       },
       {
         "variant": "满文折十",
-        "description": "面文满文，折十型，直径约3.3厘米，重约8—10克",
-        "grade": "八级（较多） 极美品",
-        "priceRange": "20000—30000元",
-        "notes": ""
+        "description": "面文满文\"天聪汗钱\"，折十型",
+        "grade": "五级（稀贵） 极美品",
+        "priceRange": "8,000—20,000元",
+        "notes": "品相极佳"
       }
-    ]
+    ],
+    "reverseFeatures": "- 背面有满文纪值"
   },
   "20-2": {
     "castingTime": "清世祖福临顺治年间（公元1644年—1661年）。",
@@ -109,55 +125,126 @@
     },
     "variantsTable": [
       {
-        "variant": "光背式",
-        "description": "光背式",
-        "grade": "八级（较多） 美品",
-        "priceRange": "50—150元",
-        "notes": ""
-      },
-      {
-        "variant": "汉字纪局式",
-        "description": "背铸单一汉字纪局。铸行于顺治元年至十年（公元1644年—1653年），共发现十九个钱局三十一种背文：户、工、宣、临、延、云、同、蓟、原、阳、河、浙、东、荆、宁、昌、襄、福、新。其中背上工、背上新未正式发行，背右延较罕见",
-        "grade": "四级（罕见） 美品",
-        "priceRange": "100—300元",
-        "notes": ""
-      },
-      {
-        "variant": "一厘式",
-        "description": "背穿右铸局名、穿左铸\"一厘\"二字。铸行于顺治十年至十四年（公元1653年—1657年），\"一厘\"意为折银一厘。共发现十七种：户一厘、工一厘、宣一厘、同一厘、蓟一厘、原一厘、阳一厘、河一厘、浙一厘、东一厘、宁一厘、昌一厘、福一厘、陕一厘、江一厘、云一厘、临一厘",
-        "grade": "八级（较多） 美品",
-        "priceRange": "100—300元",
-        "notes": ""
-      },
-      {
-        "variant": "满文纪局式",
-        "description": "背铸满文纪局，仅有宝泉（户部）、宝源（工部）两局。铸行于顺治十四年（公元1657年），各省局一律停铸，专由户部宝泉局与工部宝源局铸行",
-        "grade": "八级（较多） 美品",
-        "priceRange": "50—200元",
-        "notes": ""
-      },
-      {
-        "variant": "满汉文纪局式",
-        "description": "背铸满汉两种文字纪局。铸行于顺治十七年至十八年（公元1660年—1661年），据《清朝通志》记载有十五个地方局，实际开铸约十三个局：同（山西大同）、宁（江南江宁）、东（山东）、昌（湖广武昌）、宣（直隶宣化）、原（山西太原）、蓟（直隶蓟州）、河（河南）、临（山东临清）、浙（浙江）、陕（陕西）、江（江西）、福（福建，仅见数枚样钱）",
-        "grade": "一级（孤品） 美品",
-        "priceRange": "80—300元",
-        "notes": ""
-      },
-      {
-        "variant": "满汉文纪局式",
-        "description": "背铸满汉两种文字纪局。铸行于顺治十七年至十八年（公元1660年—1661年），据《清朝通志》记载有十五个地方局，实际开铸约十三个局：同（山西大同）、宁（江南江宁）、东（山东）、昌（湖广武昌）、宣（直隶宣化）、原（山西太原）、蓟（直隶蓟州）、河（河南）、临（山东临清）、浙（浙江）、陕（陕西）、江（江西）、福（福建，仅见数枚样钱）",
-        "grade": "一级（孤品） 极美品",
-        "priceRange": "300—500元",
-        "notes": ""
-      },
-      {
-        "variant": "仿明式（第一式）",
-        "description": "光背为主，另有背星、背圈、背纪值多种。铸行于顺治元年至八年（公元1644年—1651年），仿明朝钱币风格，顺治十七年停止使用并回收",
+        "variant": "一式：仿明式（光背）",
+        "description": "顺治元年至七年铸行，光背或背星、圈纹，仿明朝制式",
         "grade": "八级（较多） 普品",
         "priceRange": "20—50元",
-        "notes": "仿明制铸行"
+        "notes": "最常见版式"
+      },
+      {
+        "variant": "一式：仿明式（光背）",
+        "description": "顺治元年至七年铸行，光背或背星、圈纹",
+        "grade": "八级（较多） 美品",
+        "priceRange": "50—150元",
+        "notes": "品相上佳"
+      },
+      {
+        "variant": "一式：背星/圈纹",
+        "description": "背面铸星纹或圈纹",
+        "grade": "七级（甚少） 美品",
+        "priceRange": "100—300元",
+        "notes": "有纹饰版较少"
+      },
+      {
+        "variant": "二式：汉字纪局式（常见局）",
+        "description": "背铸单一汉字纪局，常见：户、工、浙、东、河等",
+        "grade": "八级（较多） 美品",
+        "priceRange": "100—300元",
+        "notes": "汉字纪局"
+      },
+      {
+        "variant": "二式：汉字纪局式（少见局）",
+        "description": "较少局名：荆、阳、襄等",
+        "grade": "七级（甚少） 美品",
+        "priceRange": "300—800元",
+        "notes": "少见局名"
+      },
+      {
+        "variant": "二式：背\"延\"",
+        "description": "背右\"延\"字，极罕见",
+        "grade": "四级（罕） 美品",
+        "priceRange": "3,000—10,000元",
+        "notes": "延字版极罕"
+      },
+      {
+        "variant": "三式：一厘式（常见局）",
+        "description": "背穿右纪局、穿左\"一厘\"，常见局：户、工、浙、东、河、临等",
+        "grade": "八级（较多） 美品",
+        "priceRange": "50—150元",
+        "notes": "一厘纪值"
+      },
+      {
+        "variant": "三式：一厘式（较少局）",
+        "description": "较少局：宁、昌、福、陕、江、云等",
+        "grade": "七级（甚少） 美品",
+        "priceRange": "100—300元",
+        "notes": "较少局一厘"
+      },
+      {
+        "variant": "三式：一厘式（稀少局）",
+        "description": "稀少局：蓟、宣等",
+        "grade": "六级（稀） 美品",
+        "priceRange": "300—1,000元",
+        "notes": "稀少局一厘"
+      },
+      {
+        "variant": "四式：满文纪局式（宝泉局）",
+        "description": "背满文\"宝泉\"，顺治十四年始铸",
+        "grade": "八级（较多） 美品",
+        "priceRange": "30—80元",
+        "notes": "满文宝泉"
+      },
+      {
+        "variant": "四式：满文纪局式（宝源局）",
+        "description": "背满文\"宝源\"",
+        "grade": "八级（较多） 美品",
+        "priceRange": "30—80元",
+        "notes": "满文宝源"
+      },
+      {
+        "variant": "五式：满汉文纪局式（常见局）",
+        "description": "满汉文对照纪局，常见：东、河、浙、江",
+        "grade": "八级（较多） 美品",
+        "priceRange": "50—150元",
+        "notes": "满汉文常见局"
+      },
+      {
+        "variant": "五式：满汉文纪局式（较少局）",
+        "description": "较少：昌、原、蓟、临、陕",
+        "grade": "七级（甚少） 美品",
+        "priceRange": "150—500元",
+        "notes": "满汉文较少局"
+      },
+      {
+        "variant": "五式：满汉文纪局式（稀少局）",
+        "description": "稀少：同、宁、宣",
+        "grade": "五级（稀贵） 美品",
+        "priceRange": "2,000—5,000元",
+        "notes": "满汉文稀少局"
+      },
+      {
+        "variant": "五式：满汉文\"福\"",
+        "description": "福建局仅见数枚样钱，极罕",
+        "grade": "三级（罕贵） 美品",
+        "priceRange": "5,000—20,000元",
+        "notes": "福局极罕"
+      },
+      {
+        "variant": "雕母（祖钱）",
+        "description": "手工精雕母钱，铸工极精",
+        "grade": "一级（大珍） 美品以上",
+        "priceRange": "50,000—150,000元",
+        "notes": "祖钱极罕见"
+      },
+      {
+        "variant": "母钱",
+        "description": "翻铸母钱",
+        "grade": "五级（稀贵） 美品以上",
+        "priceRange": "5,000—20,000元",
+        "notes": "母钱稀少"
       }
-    ]
+    ],
+    "reverseFeatures": "- 背面分为五种版式（顺治五式）"
   },
   "20-3": {
     "castingTime": "清圣祖玄烨康熙年间（公元1662年—1722年）。",
@@ -183,328 +270,133 @@
     },
     "variantsTable": [
       {
-        "variant": "标准版",
-        "description": "面文规矩端庄，为最常见版式",
-        "grade": "十级（多泛） 普品",
-        "priceRange": "5—15元",
+        "variant": "宝泉局（满文）",
+        "description": "户部中央局，背面满文\"宝泉\"",
+        "grade": "九级（多） 普品",
+        "priceRange": "10—20元",
         "notes": "最常见"
       },
       {
-        "variant": "标准版",
-        "description": "面文规矩端庄，为最常见版式",
-        "grade": "十级（多泛） 美品",
-        "priceRange": "15—50元",
-        "notes": ""
+        "variant": "宝泉局（满文）",
+        "description": "户部中央局，背面满文\"宝泉\"",
+        "grade": "九级（多） 美品",
+        "priceRange": "30—60元",
+        "notes": "品相上佳"
       },
       {
-        "variant": "标准版",
-        "description": "面文规矩端庄，为最常见版式",
-        "grade": "十级（多泛） 极美品",
-        "priceRange": "50—100元",
-        "notes": ""
+        "variant": "宝泉局（满文）",
+        "description": "户部中央局",
+        "grade": "九级（多） 极美品",
+        "priceRange": "80—200元",
+        "notes": "品相极佳"
       },
       {
-        "variant": "大字版",
-        "description": "面文字体较大",
+        "variant": "宝源局（满文）",
+        "description": "工部中央局，背面满文\"宝源\"",
+        "grade": "九级（多） 普品",
+        "priceRange": "10—20元",
+        "notes": "工部铸"
+      },
+      {
+        "variant": "宝源局（满文）",
+        "description": "工部中央局",
+        "grade": "九级（多） 美品",
+        "priceRange": "30—60元",
+        "notes": "品相上佳"
+      },
+      {
+        "variant": "满汉文常见局（同、东、江、苏、广、浙）",
+        "description": "六局存世量较大",
+        "grade": "九级（多） 美品",
+        "priceRange": "50—200元",
+        "notes": "常见地方局"
+      },
+      {
+        "variant": "满汉文较少局（福、宁、宣、原、蓟、昌、南、河、临、陕）",
+        "description": "十局存世量中等",
         "grade": "八级（较多） 美品",
-        "priceRange": "20—60元",
-        "notes": ""
+        "priceRange": "100—400元",
+        "notes": "中等存世量"
+      },
+      {
+        "variant": "满汉文稀少局（桂、云）",
+        "description": "两局较稀少",
+        "grade": "七级（甚少） 美品",
+        "priceRange": "300—1,500元",
+        "notes": "稀少局"
+      },
+      {
+        "variant": "满汉文极稀少局（台、漳）",
+        "description": "台湾局铸期短存世极罕；漳州局亦稀少",
+        "grade": "五级（稀贵） 美品",
+        "priceRange": "2,000—8,000元",
+        "notes": "台、漳极罕"
+      },
+      {
+        "variant": "罗汉钱（普通版）",
+        "description": "\"熙\"字少一撇，\"通\"为单点通，铜质精良",
+        "grade": "七级（甚少） 美品",
+        "priceRange": "200—500元",
+        "notes": "罗汉钱名品"
+      },
+      {
+        "variant": "罗汉钱（普通版）",
+        "description": "\"熙\"字少一撇，\"通\"为单点通",
+        "grade": "七级（甚少） 极美品",
+        "priceRange": "500—1,500元",
+        "notes": "品相极佳"
+      },
+      {
+        "variant": "罗汉钱 大字版",
+        "description": "罗汉钱中的大字版",
+        "grade": "六级（稀） 美品",
+        "priceRange": "500—1,500元",
+        "notes": "大字罗汉"
+      },
+      {
+        "variant": "罗汉大样（宫钱类）",
+        "description": "大样罗汉，类宫钱",
+        "grade": "四级（罕） 美品",
+        "priceRange": "3,000—10,000元",
+        "notes": "宫钱类罗汉"
       },
       {
         "variant": "背星月",
-        "description": "背面铸有星纹或月纹，较为少见",
-        "grade": "七级（较少） 美品",
+        "description": "背面铸星纹或月纹",
+        "grade": "七级（甚少） 美品",
         "priceRange": "50—150元",
-        "notes": "较少见"
+        "notes": "星月纹"
       },
       {
-        "variant": "标准版",
-        "description": "面文规矩端庄，为最常见版式",
-        "grade": "十级（多泛） 普品",
-        "priceRange": "5—15元",
-        "notes": ""
-      },
-      {
-        "variant": "标准版",
-        "description": "面文规矩端庄，为最常见版式",
-        "grade": "十级（多泛） 美品",
-        "priceRange": "15—50元",
-        "notes": ""
-      },
-      {
-        "variant": "常见局（同、东、江、宣、原、蓟、昌、河、浙、陕、云）",
-        "description": "常见局（同、东、江、宣、原、蓟、昌、河、浙、陕、云），铸量不等",
-        "grade": "九级（多） 美品",
-        "priceRange": "10—50元",
-        "notes": ""
-      },
-      {
-        "variant": "少见局（福、临、宁、广、桂）",
-        "description": "少见局（福、临、宁、广、桂），铸量不等",
-        "grade": "六级（少） 美品",
-        "priceRange": "50—200元",
-        "notes": ""
-      },
-      {
-        "variant": "稀少局（台、巩、南、漳）",
-        "description": "稀少局（台、巩、南、漳），铸量不等",
+        "variant": "大字版",
+        "description": "面文大字版",
         "grade": "八级（较多） 美品",
-        "priceRange": "200—1000元",
-        "notes": "铸量极少"
-      },
-      {
-        "variant": "稀少局（台、巩、南、漳）",
-        "description": "稀少局（台、巩、南、漳），铸量不等",
-        "grade": "八级（较多） 极美品",
-        "priceRange": "1000—3000元",
-        "notes": ""
-      },
-      {
-        "variant": "普通罗汉",
-        "description": "据《中国钱币大辞典》记载，罗汉钱为康熙通宝中的特殊版别，具有以下特征",
-        "grade": "八级（较多） 普品",
-        "priceRange": "50—100元",
-        "notes": "名誉品"
-      },
-      {
-        "variant": "普通罗汉",
-        "description": "据《中国钱币大辞典》记载，罗汉钱为康熙通宝中的特殊版别，具有以下特征",
-        "grade": "八级（较多） 美品",
-        "priceRange": "100—300元",
-        "notes": ""
-      },
-      {
-        "variant": "普通罗汉",
-        "description": "据《中国钱币大辞典》记载，罗汉钱为康熙通宝中的特殊版别，具有以下特征",
-        "grade": "八级（较多） 极美品",
-        "priceRange": "300—600元",
-        "notes": ""
-      },
-      {
-        "variant": "大字罗汉",
-        "description": "面文字体较大",
-        "grade": "七级（较少） 美品",
-        "priceRange": "200—500元",
-        "notes": "较少见"
-      },
-      {
-        "variant": "罗汉大样",
-        "description": "据《中国钱币大辞典》记载，罗汉钱为康熙通宝中的特殊版别，具有以下特征",
-        "grade": "七级（较少） 美品",
-        "priceRange": "300—800元",
-        "notes": "较少见"
-      },
-      {
-        "variant": "母钱",
-        "description": "铸工精整，字口深峻，用于翻铸流通钱",
-        "grade": "八级（较多） 美品以上",
-        "priceRange": "3000—10000元",
-        "notes": "存世极少"
-      },
-      {
-        "variant": "雕母（祖钱）",
-        "description": "铸工精整，字口深峻，用于翻铸流通钱",
-        "grade": "一级（孤品） 美品以上",
-        "priceRange": "50000—150000元",
-        "notes": "仅见数枚"
-      },
-      {
-        "variant": "宫钱",
-        "description": "大型厚重，铸工极精，用于宫廷赏赐",
-        "grade": "八级（较多） 美品",
-        "priceRange": "500—3000元",
-        "notes": ""
-      },
-      {
-        "variant": "宝泉局",
-        "description": "背满文\"宝泉\"（户部），铸量最大。按面文风格细分有",
-        "grade": "八级（较多） 普品",
-        "priceRange": "10—30元",
-        "notes": "户部宝泉局铸行"
-      },
-      {
-        "variant": "宝源局",
-        "description": "背满文\"宝源\"（工部），铸量仅次于宝泉局。亦有标准版、大字版、小字版多种细分",
-        "grade": "八级（较多） 普品",
-        "priceRange": "10—30元",
-        "notes": "工部宝源局铸行"
-      },
-      {
-        "variant": "满汉文纪局",
-        "description": "背满汉文纪局，诗文二十品（同福临东江，宣原苏蓟昌，南河宁广浙，台桂陕云漳）另加巩局，共计二十一种满汉文纪局。各局对应铸地如下：同（山西大同）、福（福建福州）、临（山东临清）、东（山东济南）、江（江苏江宁）、宣（直隶宣化）、原（山西太原）、苏（江苏苏州）、蓟（直隶蓟州）、昌（湖广武昌）、南（湖南长沙）、河（河南开封）、宁（甘肃宁夏）、广（广东广州）、浙（浙江杭州）、台（福建台湾）、桂（广西桂林）、陕（陕西西安）、云（云南昆明）、漳（福建漳州）、巩（甘肃巩昌）。据《中国钱币大辞典》记载，各局铸量差异极大，其中台、巩、南、漳铸量极少",
-        "grade": "八级（较多） 美品",
-        "priceRange": "20—50元",
-        "notes": "背满汉文纪局"
-      },
-      {
-        "variant": "罗汉钱",
-        "description": "据《中国钱币大辞典》记载，罗汉钱为康熙通宝中的特殊版别，具有以下特征",
-        "grade": "八级（较多） 美品",
-        "priceRange": "100—300元",
-        "notes": "特殊版别，民间喜爱"
-      },
-      {
-        "variant": "小字版",
-        "description": "面文字体较小",
-        "grade": "八级（较多） 普品",
-        "priceRange": "10—20元",
-        "notes": "文字较小"
+        "priceRange": "30—80元",
+        "notes": "大字版"
       },
       {
         "variant": "阔缘版",
-        "description": "外缘较宽",
+        "description": "钱缘较宽",
         "grade": "八级（较多） 美品",
         "priceRange": "30—80元",
-        "notes": "边缘较宽"
+        "notes": "阔缘"
       },
       {
-        "variant": "单点通",
-        "description": "\"通\"字走之底上部为单点",
-        "grade": "八级（较多） 普品",
-        "priceRange": "10—30元",
-        "notes": "\"通\"字单点"
-      },
-      {
-        "variant": "双点通",
-        "description": "\"通\"字走之底上部为双点",
-        "grade": "八级（较多） 普品",
-        "priceRange": "10—30元",
-        "notes": "\"通\"字双点"
-      },
-      {
-        "variant": "大字罗汉",
-        "description": "面文字体较大",
-        "grade": "八级（较多） 美品",
-        "priceRange": "150—400元",
-        "notes": "大字罗汉版"
-      },
-      {
-        "variant": "小字罗汉",
-        "description": "面文字体较小",
-        "grade": "八级（较多） 美品",
-        "priceRange": "100—300元",
-        "notes": "小字罗汉版"
-      },
-      {
-        "variant": "长熙罗汉",
-        "description": "据《中国钱币大辞典》记载，罗汉钱为康熙通宝中的特殊版别，具有以下特征",
-        "grade": "八级（较多） 美品",
-        "priceRange": "150—400元",
-        "notes": "\"熙\"字较长"
-      },
-      {
-        "variant": "短熙罗汉",
-        "description": "据《中国钱币大辞典》记载，罗汉钱为康熙通宝中的特殊版别，具有以下特征",
-        "grade": "八级（较多） 美品",
-        "priceRange": "100—300元",
-        "notes": "\"熙\"字较短"
+        "variant": "母钱",
+        "description": "翻铸母钱",
+        "grade": "六级（稀） 美品以上",
+        "priceRange": "3,000—10,000元",
+        "notes": "母钱稀少"
       },
       {
         "variant": "雕母（祖钱）",
-        "description": "铸工精整，字口深峻，用于翻铸流通钱",
-        "grade": "二级（极罕） 极美品",
-        "priceRange": "5,000—20,000元",
-        "notes": "雕刻母钱，极为珍贵"
-      },
-      {
-        "variant": "罗汉大样",
-        "description": "据《中国钱币大辞典》记载，罗汉钱为康熙通宝中的特殊版别，具有以下特征",
-        "grade": "八级（较多） 美品",
-        "priceRange": "200—500元",
-        "notes": "罗汉钱大样"
-      },
-      {
-        "variant": "西城版",
-        "description": "面文风格特殊，据考为新疆地区所铸",
-        "grade": "八级（较多） 美品",
-        "priceRange": "50—150元",
-        "notes": "西域铸行风格"
-      },
-      {
-        "variant": "宝泉局",
-        "description": "背满文\"宝泉\"（户部），铸量最大。按面文风格细分有",
-        "grade": "八级（较多） 普品",
-        "priceRange": "10—30元",
-        "notes": "八级（较多）"
-      },
-      {
-        "variant": "宝源局",
-        "description": "背满文\"宝源\"（工部），铸量仅次于宝泉局。亦有标准版、大字版、小字版多种细分",
-        "grade": "八级（较多） 普品",
-        "priceRange": "10—30元",
-        "notes": "八级（较多）"
-      },
-      {
-        "variant": "满汉文纪局",
-        "description": "背满汉文纪局，诗文二十品（同福临东江，宣原苏蓟昌，南河宁广浙，台桂陕云漳）另加巩局，共计二十一种满汉文纪局。各局对应铸地如下：同（山西大同）、福（福建福州）、临（山东临清）、东（山东济南）、江（江苏江宁）、宣（直隶宣化）、原（山西太原）、苏（江苏苏州）、蓟（直隶蓟州）、昌（湖广武昌）、南（湖南长沙）、河（河南开封）、宁（甘肃宁夏）、广（广东广州）、浙（浙江杭州）、台（福建台湾）、桂（广西桂林）、陕（陕西西安）、云（云南昆明）、漳（福建漳州）、巩（甘肃巩昌）。据《中国钱币大辞典》记载，各局铸量差异极大，其中台、巩、南、漳铸量极少",
-        "grade": "八级（较多） 普品",
-        "priceRange": "10—30元",
-        "notes": "八级（较多）"
-      },
-      {
-        "variant": "罗汉钱",
-        "description": "据《中国钱币大辞典》记载，罗汉钱为康熙通宝中的特殊版别，具有以下特征",
-        "grade": "八级（较多） 美品",
-        "priceRange": "50—200元",
-        "notes": "八级（较多）"
-      },
-      {
-        "variant": "特殊品类",
-        "description": "特殊版别，存世较少",
-        "grade": "八级（较多） 美品",
-        "priceRange": "500—3,000元",
-        "notes": "八级（较多）"
-      },
-      {
-        "variant": "大字罗汉",
-        "description": "面文字体较大",
-        "grade": "八级（较多） 美品",
-        "priceRange": "100—500元",
-        "notes": "八级（较多）"
-      },
-      {
-        "variant": "小字罗汉",
-        "description": "面文字体较小",
-        "grade": "八级（较多） 美品",
-        "priceRange": "100—500元",
-        "notes": "八级（较多）"
-      },
-      {
-        "variant": "长熙罗汉",
-        "description": "据《中国钱币大辞典》记载，罗汉钱为康熙通宝中的特殊版别，具有以下特征",
-        "grade": "八级（较多） 美品",
-        "priceRange": "100—500元",
-        "notes": "八级（较多）"
-      },
-      {
-        "variant": "短熙罗汉",
-        "description": "据《中国钱币大辞典》记载，罗汉钱为康熙通宝中的特殊版别，具有以下特征",
-        "grade": "八级（较多） 美品",
-        "priceRange": "100—500元",
-        "notes": "八级（较多）"
-      },
-      {
-        "variant": "雕母（祖钱）",
-        "description": "铸工精整，字口深峻，用于翻铸流通钱",
-        "grade": "二级（极罕） 极美品",
-        "priceRange": "50,000—200,000元",
-        "notes": "二级（极罕）"
-      },
-      {
-        "variant": "罗汉大样",
-        "description": "据《中国钱币大辞典》记载，罗汉钱为康熙通宝中的特殊版别，具有以下特征",
-        "grade": "八级（较多） 美品",
-        "priceRange": "1,000—5,000元",
-        "notes": "六级（少）"
-      },
-      {
-        "variant": "特殊品类",
-        "description": "特殊版别，存世较少",
-        "grade": "七级（较少） 极美品",
-        "priceRange": "500—3,000元",
-        "notes": "特殊品类，较少见"
+        "description": "手工精雕母钱",
+        "grade": "一级（大珍） 美品以上",
+        "priceRange": "50,000—150,000元",
+        "notes": "祖钱极罕"
       }
-    ]
+    ],
+    "reverseFeatures": "- 背面满文纪局（宝泉、宝源）或满汉文纪局"
   },
   "20-4": {
     "castingTime": "清世宗胤禛雍正年间（公元1723年—1735年）。",
@@ -530,272 +422,161 @@
     },
     "variantsTable": [
       {
-        "variant": "标准版",
-        "description": "面文规矩端庄，为最常见版式",
-        "grade": "十级（多泛） 美品",
-        "priceRange": "50—150元",
-        "notes": "最常见"
+        "variant": "宝泉局",
+        "description": "户部中央局，背面满文\"宝泉\"",
+        "grade": "八级（较多） 普品",
+        "priceRange": "30—80元",
+        "notes": "较常见"
       },
       {
-        "variant": "标准版",
-        "description": "面文规矩端庄，为最常见版式",
-        "grade": "十级（多泛） 极美品",
-        "priceRange": "150—300元",
-        "notes": ""
-      },
-      {
-        "variant": "五笔乡",
-        "description": "\"通\"字\"甬\"部末笔为五笔写法，\"乡\"部笔画连贯流畅，为雍正通宝中最受追捧的版别之一，据《中国钱币大辞典》记载属宝泉局名誉品",
+        "variant": "宝泉局",
+        "description": "户部中央局",
         "grade": "八级（较多） 美品",
-        "priceRange": "500—1500元",
-        "notes": "名誉品"
+        "priceRange": "80—200元",
+        "notes": "品相上佳"
       },
       {
-        "variant": "五笔乡",
-        "description": "\"通\"字\"甬\"部末笔为五笔写法，\"乡\"部笔画连贯流畅，为雍正通宝中最受追捧的版别之一，据《中国钱币大辞典》记载属宝泉局名誉品",
-        "grade": "八级（较多） 极美品",
-        "priceRange": "1500—3000元",
-        "notes": ""
+        "variant": "宝源局",
+        "description": "工部中央局，背面满文\"宝源\"",
+        "grade": "八级（较多） 普品",
+        "priceRange": "30—80元",
+        "notes": "工部铸"
       },
       {
-        "variant": "关爷版",
-        "description": "面文笔画粗犷有力，字体雄浑，因风格威武而得名，较为少见",
-        "grade": "七级（较少） 美品",
-        "priceRange": "500—1500元",
-        "notes": "较少见"
-      },
-      {
-        "variant": "关爷版",
-        "description": "面文笔画粗犷有力，字体雄浑，因风格威武而得名，较为少见",
-        "grade": "六级（少） 极美品",
-        "priceRange": "1500—3000元",
-        "notes": ""
-      },
-      {
-        "variant": "罗汉面",
-        "description": "面文风格与康熙罗汉钱相似，\"熙\"字写法接近罗汉钱风格，较为少见",
-        "grade": "七级（较少） 美品",
-        "priceRange": "500—1500元",
-        "notes": "较少见"
-      },
-      {
-        "variant": "罗汉面",
-        "description": "面文风格与康熙罗汉钱相似，\"熙\"字写法接近罗汉钱风格，较为少见",
-        "grade": "六级（少） 极美品",
-        "priceRange": "1500—3000元",
-        "notes": ""
-      },
-      {
-        "variant": "大字版",
-        "description": "面文字体较大",
+        "variant": "宝源局",
+        "description": "工部中央局",
         "grade": "八级（较多） 美品",
-        "priceRange": "200—500元",
-        "notes": ""
-      },
-      {
-        "variant": "小字版",
-        "description": "面文字体较小",
-        "grade": "八级（较多） 美品",
-        "priceRange": "100—300元",
-        "notes": ""
-      },
-      {
-        "variant": "阔缘版",
-        "description": "外缘较宽",
-        "grade": "八级（较多） 美品",
-        "priceRange": "200—500元",
-        "notes": ""
-      },
-      {
-        "variant": "标准版",
-        "description": "面文规矩端庄，为最常见版式",
-        "grade": "十级（多泛） 美品",
-        "priceRange": "50—150元",
-        "notes": ""
-      },
-      {
-        "variant": "标准版",
-        "description": "面文规矩端庄，为最常见版式",
-        "grade": "十级（多泛） 极美品",
-        "priceRange": "150—300元",
-        "notes": ""
-      },
-      {
-        "variant": "大字版",
-        "description": "面文字体较大",
-        "grade": "八级（较多） 美品",
-        "priceRange": "200—500元",
-        "notes": ""
-      },
-      {
-        "variant": "宝云局",
-        "description": "铸量在地方局中最大，版别有大小字之分",
-        "grade": "八级（较多） 美品",
-        "priceRange": "100—300元",
-        "notes": "地方局中铸量最大"
-      },
-      {
-        "variant": "宝浙局",
-        "description": "铸量较多",
-        "grade": "八级（较多） 美品",
-        "priceRange": "100—300元",
-        "notes": ""
-      },
-      {
-        "variant": "宝武局",
-        "description": "铸量中等",
-        "grade": "八级（较多） 美品",
-        "priceRange": "100—300元",
-        "notes": ""
-      },
-      {
-        "variant": "宝河局",
-        "description": "铸量中等",
-        "grade": "八级（较多） 美品",
-        "priceRange": "100—300元",
-        "notes": ""
+        "priceRange": "80—200元",
+        "notes": "品相上佳"
       },
       {
         "variant": "宝苏局",
-        "description": "铸量较少",
+        "description": "苏州铸局",
         "grade": "八级（较多） 美品",
-        "priceRange": "200—500元",
-        "notes": "铸量较少"
+        "priceRange": "100—300元",
+        "notes": "江苏铸"
+      },
+      {
+        "variant": "宝浙局",
+        "description": "浙江铸局",
+        "grade": "八级（较多） 美品",
+        "priceRange": "100—300元",
+        "notes": "浙江铸"
+      },
+      {
+        "variant": "宝云局",
+        "description": "云南铸局",
+        "grade": "八级（较多） 美品",
+        "priceRange": "80—200元",
+        "notes": "云南铸"
       },
       {
         "variant": "宝昌局",
-        "description": "铸量较少",
-        "grade": "八级（较多） 美品",
+        "description": "南昌铸局",
+        "grade": "七级（甚少） 美品",
         "priceRange": "200—500元",
-        "notes": ""
+        "notes": "江西铸"
       },
       {
-        "variant": "宝南局",
-        "description": "铸量较少",
-        "grade": "八级（较多） 美品",
-        "priceRange": "200—500元",
-        "notes": ""
-      },
-      {
-        "variant": "宝济局",
-        "description": "铸量较少",
-        "grade": "八级（较多） 美品",
-        "priceRange": "200—500元",
-        "notes": ""
-      },
-      {
-        "variant": "宝巩局",
-        "description": "铸量较少",
-        "grade": "八级（较多） 美品",
+        "variant": "宝河局",
+        "description": "河南铸局",
+        "grade": "七级（甚少） 美品",
         "priceRange": "300—800元",
-        "notes": "铸量少"
+        "notes": "河南铸"
       },
       {
         "variant": "宝晋局",
-        "description": "铸量较少",
-        "grade": "八级（较多） 美品",
-        "priceRange": "300—800元",
-        "notes": ""
+        "description": "太原铸局",
+        "grade": "七级（甚少） 美品",
+        "priceRange": "500—1,500元",
+        "notes": "山西铸"
+      },
+      {
+        "variant": "宝巩局",
+        "description": "甘肃铸局",
+        "grade": "六级（稀） 美品",
+        "priceRange": "1,000—5,000元",
+        "notes": "甘肃铸，较少"
+      },
+      {
+        "variant": "宝济局",
+        "description": "济南铸局",
+        "grade": "六级（稀） 美品",
+        "priceRange": "1,000—5,000元",
+        "notes": "山东铸，稀少"
       },
       {
         "variant": "宝黔局",
-        "description": "铸量极少，为雍正通宝地方局中的珍稀品种",
-        "grade": "五级（稀） 美品",
-        "priceRange": "1000—3000元",
-        "notes": "极少见"
-      },
-      {
-        "variant": "宝黔局",
-        "description": "铸量极少，为雍正通宝地方局中的珍稀品种",
-        "grade": "五级（稀） 极美品",
-        "priceRange": "3000—5000元",
-        "notes": ""
+        "description": "贵州铸局",
+        "grade": "五级（稀贵） 美品",
+        "priceRange": "3,000—10,000元",
+        "notes": "贵州铸，名品"
       },
       {
         "variant": "宝广局",
-        "description": "铸量极少，据《中国钱币大辞典》记载属雍正通宝珍稀局",
-        "grade": "五级（稀） 美品",
-        "priceRange": "1000—3000元",
-        "notes": "极少见"
+        "description": "广东铸局",
+        "grade": "五级（稀贵） 美品",
+        "priceRange": "2,000—5,000元",
+        "notes": "广东铸"
       },
       {
-        "variant": "宝广局",
-        "description": "铸量极少，据《中国钱币大辞典》记载属雍正通宝珍稀局",
-        "grade": "五级（稀） 极美品",
-        "priceRange": "3000—5000元",
-        "notes": ""
+        "variant": "宝武局",
+        "description": "武昌铸局",
+        "grade": "五级（稀贵） 美品",
+        "priceRange": "3,000—10,000元",
+        "notes": "湖北铸，雍正宝武局极罕"
       },
       {
-        "variant": "宝桂局",
-        "description": "铸量极少",
-        "grade": "六级（少） 美品",
-        "priceRange": "1000—3000元",
-        "notes": "极少见"
+        "variant": "宝南局",
+        "description": "长沙铸局",
+        "grade": "四级（罕） 美品",
+        "priceRange": "5,000—20,000元",
+        "notes": "湖南铸，雍正宝南局极罕，名品"
       },
       {
-        "variant": "宝泉局",
-        "description": "背满文\"宝泉\"（户部），铸量最大。按面文风格细分有",
-        "grade": "八级（较多） 普品",
-        "priceRange": "30—80元",
-        "notes": "户部宝泉局铸行"
+        "variant": "宝川局",
+        "description": "成都铸局",
+        "grade": "五级（稀贵） 美品",
+        "priceRange": "5,000—15,000元",
+        "notes": "四川铸"
       },
       {
-        "variant": "宝源局",
-        "description": "背满文\"宝源\"（工部），铸量仅次于宝泉局。亦有标准版、大字版、小字版、阔缘版多种细分",
-        "grade": "八级（较多） 普品",
-        "priceRange": "30—80元",
-        "notes": "工部宝源局铸行"
+        "variant": "五笔乡",
+        "description": "\"通\"字走之旁五笔写法",
+        "grade": "七级（甚少） 美品",
+        "priceRange": "500—1,500元",
+        "notes": "五笔乡版"
       },
       {
-        "variant": "地方局",
-        "description": "各地方局铸量普遍较少，部分局极少见",
-        "grade": "六级（少） 美品",
-        "priceRange": "50—200元",
-        "notes": "各地方局铸行"
-      },
-      {
-        "variant": "按铸局分",
-        "description": "雍正通宝铸局约十五个，中央有宝泉局（户部）、宝源局（工部），地方主要有宝云（云南）、宝浙（浙江）、宝武（湖北）、宝河（河南）、宝济（山东）、宝昌（江西）、宝苏（江苏）、宝南（湖南）、宝巩（甘肃）、宝晋（山西）、宝黔（贵州）、宝广（广东）、宝桂（广西）。据《中国钱币大辞典》记载，各局铸量差异悬殊",
+        "variant": "大字版",
+        "description": "面文大字版",
         "grade": "八级（较多） 美品",
-        "priceRange": "50—200元",
-        "notes": "按铸局区分"
+        "priceRange": "200—500元",
+        "notes": "大字版"
       },
       {
-        "variant": "单点通",
-        "description": "\"通\"字走之底上部为单点",
+        "variant": "阔缘版",
+        "description": "钱缘较宽",
         "grade": "八级（较多） 美品",
-        "priceRange": "50—100元",
-        "notes": "\"通\"字单点"
+        "priceRange": "200—500元",
+        "notes": "阔缘"
       },
       {
-        "variant": "双点通",
-        "description": "\"通\"字走之底上部为双点",
-        "grade": "八级（较多） 美品",
-        "priceRange": "50—100元",
-        "notes": "\"通\"字双点"
+        "variant": "母钱",
+        "description": "翻铸母钱",
+        "grade": "五级（稀贵） 美品以上",
+        "priceRange": "5,000—20,000元",
+        "notes": "母钱稀少"
       },
       {
-        "variant": "宝泉局",
-        "description": "背满文\"宝泉\"（户部），铸量最大。按面文风格细分有",
-        "grade": "八级（较多） 普品",
-        "priceRange": "30—80元",
-        "notes": "八级（较多）"
-      },
-      {
-        "variant": "宝源局",
-        "description": "背满文\"宝源\"（工部），铸量仅次于宝泉局。亦有标准版、大字版、小字版、阔缘版多种细分",
-        "grade": "八级（较多） 普品",
-        "priceRange": "30—80元",
-        "notes": "八级（较多）"
-      },
-      {
-        "variant": "地方局",
-        "description": "各地方局铸量普遍较少，部分局极少见",
-        "grade": "六级（少） 美品",
-        "priceRange": "200—1,000元",
-        "notes": "六级（少）"
+        "variant": "雕母（祖钱）",
+        "description": "手工精雕母钱",
+        "grade": "一级（大珍） 美品以上",
+        "priceRange": "50,000—150,000元",
+        "notes": "祖钱极罕"
       }
-    ]
+    ],
+    "reverseFeatures": "- 背面满文纪局"
   },
   "20-5": {
     "castingTime": "清高宗弘历乾隆年间（公元1736年—1795年）。",
@@ -810,384 +591,182 @@
     },
     "variantsTable": [
       {
-        "variant": "标准版",
-        "description": "面文规矩端庄，为最常见版式",
+        "variant": "宝泉局",
+        "description": "户部中央局，背面满文\"宝泉\"",
         "grade": "十级（多泛） 普品",
         "priceRange": "3—10元",
         "notes": "最常见"
       },
       {
-        "variant": "标准版",
-        "description": "面文规矩端庄，为最常见版式",
+        "variant": "宝泉局",
+        "description": "户部中央局",
         "grade": "十级（多泛） 美品",
         "priceRange": "10—30元",
-        "notes": ""
+        "notes": "品相上佳"
       },
       {
-        "variant": "标准版",
-        "description": "面文规矩端庄，为最常见版式",
+        "variant": "宝泉局",
+        "description": "户部中央局",
         "grade": "十级（多泛） 极美品",
         "priceRange": "30—80元",
-        "notes": ""
+        "notes": "品相极佳"
       },
       {
-        "variant": "大字版",
-        "description": "面文字体较大，笔画粗壮",
-        "grade": "八级（较多） 美品",
-        "priceRange": "20—50元",
-        "notes": ""
-      },
-      {
-        "variant": "小字版",
-        "description": "面文字体较小，笔画纤细",
-        "grade": "八级（较多） 美品",
-        "priceRange": "10—30元",
-        "notes": ""
-      },
-      {
-        "variant": "阔缘版",
-        "description": "外缘较宽",
-        "grade": "八级（较多） 美品",
-        "priceRange": "20—60元",
-        "notes": ""
-      },
-      {
-        "variant": "标准版",
-        "description": "面文规矩端庄，为最常见版式",
+        "variant": "宝源局",
+        "description": "工部中央局，背面满文\"宝源\"",
         "grade": "十级（多泛） 普品",
-        "priceRange": "3—10元",
-        "notes": ""
+        "priceRange": "5—15元",
+        "notes": "工部铸"
       },
       {
-        "variant": "标准版",
-        "description": "面文规矩端庄，为最常见版式",
+        "variant": "宝源局",
+        "description": "工部中央局",
         "grade": "十级（多泛） 美品",
         "priceRange": "10—30元",
-        "notes": ""
+        "notes": "品相上佳"
       },
       {
         "variant": "山底隆",
-        "description": "\"隆\"字底部为\"山\"字形写法（\"阝\"旁下方为\"山\"），据《中国钱币大辞典》记载为乾隆通宝中的名誉品，主要见于宝泉局、宝源局，较为少见",
-        "grade": "六级（少） 美品",
-        "priceRange": "300—800元",
-        "notes": "名誉品"
+        "description": "\"隆\"字底部似\"山\"字形，名誉版",
+        "grade": "七级（甚少） 美品",
+        "priceRange": "50—200元",
+        "notes": "山底隆名版"
       },
       {
         "variant": "山底隆",
-        "description": "\"隆\"字底部为\"山\"字形写法（\"阝\"旁下方为\"山\"），据《中国钱币大辞典》记载为乾隆通宝中的名誉品，主要见于宝泉局、宝源局，较为少见",
-        "grade": "六级（少） 极美品",
-        "priceRange": "800—2000元",
-        "notes": ""
-      },
-      {
-        "variant": "正字隆",
-        "description": "\"隆\"字写法端正，笔画规整，为标准版式",
-        "grade": "八级（较多） 美品",
-        "priceRange": "30—80元",
-        "notes": "标准版式"
+        "description": "\"隆\"字底部似\"山\"字形",
+        "grade": "六级（稀） 极美品",
+        "priceRange": "300—1,000元",
+        "notes": "极美品"
       },
       {
         "variant": "缶隆",
-        "description": "\"隆\"字右下部\"缶\"旁写法特殊，笔画连贯，较为少见",
-        "grade": "七级（较少） 美品",
-        "priceRange": "200—500元",
-        "notes": "较少见"
+        "description": "\"隆\"字右下似\"缶\"字，名誉版",
+        "grade": "七级（甚少） 美品",
+        "priceRange": "100—500元",
+        "notes": "缶隆名版"
       },
       {
         "variant": "缶隆",
-        "description": "\"隆\"字右下部\"缶\"旁写法特殊，笔画连贯，较为少见",
-        "grade": "六级（少） 极美品",
-        "priceRange": "500—1000元",
-        "notes": ""
+        "description": "\"隆\"字右下似\"缶\"字",
+        "grade": "六级（稀） 极美品",
+        "priceRange": "500—2,000元",
+        "notes": "极美品"
       },
       {
         "variant": "生隆",
-        "description": "\"隆\"字左上部为\"生\"字写法，较为少见",
-        "grade": "七级（较少） 美品",
-        "priceRange": "200—500元",
-        "notes": "较少见"
-      },
-      {
-        "variant": "生隆",
-        "description": "\"隆\"字左上部为\"生\"字写法，较为少见",
-        "grade": "六级（少） 极美品",
-        "priceRange": "500—1000元",
-        "notes": ""
+        "description": "\"隆\"字带\"生\"字形态",
+        "grade": "七级（甚少） 美品",
+        "priceRange": "50—300元",
+        "notes": "生隆版"
       },
       {
         "variant": "宝苏局",
-        "description": "铸工较精，有阔缘大字、窄缘小字多种版别",
+        "description": "苏州铸局",
         "grade": "八级（较多） 美品",
         "priceRange": "10—50元",
-        "notes": ""
+        "notes": "江苏铸"
       },
       {
         "variant": "宝浙局",
-        "description": "铸量较大，有大小字之分",
+        "description": "浙江铸局",
         "grade": "八级（较多） 美品",
         "priceRange": "10—40元",
-        "notes": ""
+        "notes": "浙江铸"
       },
       {
         "variant": "宝福局",
-        "description": "铸量较少",
+        "description": "福州铸局",
         "grade": "八级（较多） 美品",
         "priceRange": "20—80元",
-        "notes": ""
+        "notes": "福建铸"
       },
       {
         "variant": "宝川局",
-        "description": "铸量较大",
+        "description": "成都铸局",
         "grade": "八级（较多） 美品",
         "priceRange": "10—40元",
-        "notes": ""
+        "notes": "四川铸"
       },
       {
         "variant": "宝云局",
-        "description": "铸量极大，版别繁多",
+        "description": "云南铸局",
         "grade": "八级（较多） 美品",
         "priceRange": "5—30元",
-        "notes": "铸量极大"
+        "notes": "云南铸"
       },
       {
         "variant": "宝黔局",
-        "description": "铸量较少",
+        "description": "贵州铸局",
         "grade": "八级（较多） 美品",
         "priceRange": "30—100元",
-        "notes": ""
+        "notes": "贵州铸"
       },
       {
         "variant": "宝广局",
-        "description": "铸量较少",
+        "description": "广东铸局",
         "grade": "八级（较多） 美品",
         "priceRange": "30—100元",
-        "notes": ""
+        "notes": "广东铸"
       },
       {
         "variant": "阿克苏局",
-        "description": "阿克苏局铸行",
+        "description": "新疆铸局，红铜材质",
         "grade": "八级（较多） 美品",
         "priceRange": "50—200元",
-        "notes": "红铜特色"
+        "notes": "新疆红铜"
       },
       {
         "variant": "宝伊局",
-        "description": "宝伊局铸行",
+        "description": "伊犁铸局",
         "grade": "八级（较多） 美品",
         "priceRange": "50—200元",
-        "notes": "红铜特色"
-      },
-      {
-        "variant": "乌什局",
-        "description": "乌什局铸行",
-        "grade": "七级（较少） 美品",
-        "priceRange": "100—300元",
-        "notes": "较少见"
+        "notes": "新疆局"
       },
       {
         "variant": "库车局",
-        "description": "库车局铸行",
+        "description": "新疆铸局，红铜材质",
         "grade": "八级（较多） 美品",
         "priceRange": "50—200元",
-        "notes": ""
+        "notes": "新疆红铜"
       },
       {
-        "variant": "喀什噶尔局",
-        "description": "喀什噶尔局铸行",
-        "grade": "七级（较少） 美品",
-        "priceRange": "100—300元",
-        "notes": "较少见"
+        "variant": "阔缘版",
+        "description": "钱缘较宽",
+        "grade": "八级（较多） 美品",
+        "priceRange": "20—60元",
+        "notes": "阔缘"
       },
       {
-        "variant": "叶尔羌局",
-        "description": "叶尔羌局铸行",
-        "grade": "七级（较少） 美品",
-        "priceRange": "100—300元",
-        "notes": "较少见"
+        "variant": "大字版",
+        "description": "面文大字版",
+        "grade": "八级（较多） 美品",
+        "priceRange": "20—50元",
+        "notes": "大字版"
       },
       {
         "variant": "母钱",
-        "description": "铸工精整，字口深峻，用于翻铸流通钱",
-        "grade": "八级（较多） 美品以上",
-        "priceRange": "3000—10000元",
-        "notes": "存世极少"
+        "description": "翻铸母钱",
+        "grade": "六级（稀） 美品以上",
+        "priceRange": "3,000—10,000元",
+        "notes": "母钱稀少"
       },
       {
         "variant": "雕母（祖钱）",
-        "description": "铸工精整，字口深峻，用于翻铸流通钱",
-        "grade": "一级（孤品） 美品以上",
-        "priceRange": "50000—150000元",
-        "notes": "仅见数枚"
+        "description": "手工精雕母钱",
+        "grade": "一级（大珍） 美品以上",
+        "priceRange": "50,000—150,000元",
+        "notes": "祖钱极罕"
       },
       {
         "variant": "宫钱",
-        "description": "大型厚重，铸工极精，用于宫廷赏赐",
-        "grade": "八级（较多） 美品",
-        "priceRange": "500—2000元",
-        "notes": ""
-      },
-      {
-        "variant": "鎏金钱",
-        "description": "表面鎏金，宫廷赏赐性质",
-        "grade": "八级（较多） 美品以上",
-        "priceRange": "5000—20000元",
-        "notes": "宫廷赏赐"
-      },
-      {
-        "variant": "宝泉局",
-        "description": "背满文\"宝泉\"（户部），铸量最大。按面文风格细分有",
-        "grade": "八级（较多） 普品",
-        "priceRange": "5—15元",
-        "notes": "户部宝泉局铸行"
-      },
-      {
-        "variant": "宝源局",
-        "description": "背满文\"宝源\"（工部），铸量仅次于宝泉局",
-        "grade": "八级（较多） 普品",
-        "priceRange": "5—15元",
-        "notes": "工部宝源局铸行"
-      },
-      {
-        "variant": "地方局",
-        "description": "各地方局版别众多，主要区分按面文风格和铜质",
-        "grade": "八级（较多） 美品",
-        "priceRange": "10—50元",
-        "notes": "各地方局铸行"
-      },
-      {
-        "variant": "新疆红铜版",
-        "description": "新疆各局以红铜铸造，铜色发红，独具特色。据《中国钱币大辞典》记载，新疆红铜版乾隆通宝深受藏家喜爱。新疆局另铸有维吾尔文（老蒙文）版别，为乾隆通宝中的特色品种",
-        "grade": "八级（较多） 美品",
-        "priceRange": "20—80元",
-        "notes": "新疆红铜铸行"
-      },
-      {
-        "variant": "窄缘版",
-        "description": "外缘较窄",
-        "grade": "八级（较多） 美品",
-        "priceRange": "10—30元",
-        "notes": "边缘较窄"
-      },
-      {
-        "variant": "单点通",
-        "description": "\"通\"字走之底上部为单点",
-        "grade": "八级（较多） 普品",
-        "priceRange": "5—15元",
-        "notes": "\"通\"字单点"
-      },
-      {
-        "variant": "双点通",
-        "description": "\"通\"字走之底上部为双点",
-        "grade": "八级（较多） 普品",
-        "priceRange": "5—15元",
-        "notes": "\"通\"字双点"
-      },
-      {
-        "variant": "角头通",
-        "description": "\"通\"字上方为\"角\"字形写法",
-        "grade": "八级（较多） 美品",
-        "priceRange": "10—30元",
-        "notes": "\"通\"字角头"
-      },
-      {
-        "variant": "方头通",
-        "description": "\"通\"字上方为方形写法",
-        "grade": "八级（较多） 美品",
-        "priceRange": "10—30元",
-        "notes": "\"通\"字方头"
-      },
-      {
-        "variant": "工头通",
-        "description": "\"通\"字上方为\"工\"字形写法",
-        "grade": "八级（较多） 美品",
-        "priceRange": "10—30元",
-        "notes": "\"通\"字工头"
-      },
-      {
-        "variant": "特殊面文版别",
-        "description": "特殊版别，存世较少",
-        "grade": "八级（较多） 美品",
-        "priceRange": "20—80元",
-        "notes": "特殊面文风格"
-      },
-      {
-        "variant": "按铸局分",
-        "description": "乾隆通宝铸局众多，据《中国钱币大辞典》记载，主要铸局有宝泉（户部）、宝源（工部）、宝直（直隶）、宝蓟（蓟州）、宝济（济南）、宝河（开封）、宝晋（太原）、宝陕（西安）、宝巩（巩昌）、宝苏（苏州）、宝浙（杭州）、宝福（福州）、宝武（武昌）、宝昌（南昌）、宝桂（桂林）、宝川（成都）、宝云（云南）、宝东（云南东川）、宝黔（贵阳）、宝广（广州）、宝伊（伊犁），新疆地区另设有阿克苏局、乌什局、叶尔羌局、喀什噶尔局、库车局",
-        "grade": "八级（较多） 美品",
-        "priceRange": "10—50元",
-        "notes": "按铸局区分"
-      },
-      {
-        "variant": "特殊版别（按面文风格分）",
-        "description": "特殊版别，存世较少",
-        "grade": "八级（较多） 美品",
-        "priceRange": "20—80元",
-        "notes": "按面文风格区分"
-      },
-      {
-        "variant": "雕母（祖钱）",
-        "description": "铸工精整，字口深峻，用于翻铸流通钱",
-        "grade": "二级（极罕） 极美品",
-        "priceRange": "3,000—10,000元",
-        "notes": "雕刻母钱，极为珍贵"
-      },
-      {
-        "variant": "宝泉局",
-        "description": "背满文\"宝泉\"（户部），铸量最大。按面文风格细分有",
-        "grade": "八级（较多） 普品",
-        "priceRange": "5—15元",
-        "notes": "八级（较多）"
-      },
-      {
-        "variant": "宝源局",
-        "description": "背满文\"宝源\"（工部），铸量仅次于宝泉局",
-        "grade": "八级（较多） 普品",
-        "priceRange": "5—15元",
-        "notes": "八级（较多）"
-      },
-      {
-        "variant": "特殊面文版别",
-        "description": "特殊版别，存世较少",
-        "grade": "八级（较多） 美品",
-        "priceRange": "50—300元",
-        "notes": "八级（较多）"
-      },
-      {
-        "variant": "地方局",
-        "description": "各地方局版别众多，主要区分按面文风格和铜质",
-        "grade": "八级（较多） 普品",
-        "priceRange": "5—20元",
-        "notes": "八级（较多）"
-      },
-      {
-        "variant": "新疆红铜版",
-        "description": "新疆各局以红铜铸造，铜色发红，独具特色。据《中国钱币大辞典》记载，新疆红铜版乾隆通宝深受藏家喜爱。新疆局另铸有维吾尔文（老蒙文）版别，为乾隆通宝中的特色品种",
-        "grade": "八级（较多） 美品",
-        "priceRange": "30—100元",
-        "notes": "八级（较多）"
-      },
-      {
-        "variant": "特殊品类",
-        "description": "特殊版别，存世较少",
-        "grade": "八级（较多） 美品",
-        "priceRange": "300—2,000元",
-        "notes": "八级（较多）"
-      },
-      {
-        "variant": "雕母（祖钱）",
-        "description": "铸工精整，字口深峻，用于翻铸流通钱",
-        "grade": "二级（极罕） 极美品",
-        "priceRange": "30,000—100,000元",
-        "notes": "二级（极罕）"
-      },
-      {
-        "variant": "特殊品类",
-        "description": "特殊版别，存世较少",
-        "grade": "七级（较少） 极美品",
-        "priceRange": "500—3,000元",
-        "notes": "特殊品类，较少见"
+        "description": "吉语宫钱类",
+        "grade": "七级（甚少） 美品",
+        "priceRange": "500—2,000元",
+        "notes": "宫钱"
       }
-    ]
+    ],
+    "reverseFeatures": "- 背面满文纪局"
   },
   "20-6": {
     "castingTime": "清仁宗颙琰嘉庆年间（公元1796年—1820年）。",
@@ -1213,279 +792,84 @@
     },
     "variantsTable": [
       {
-        "variant": "标准版",
-        "description": "面文规矩端庄，为最常见版式",
+        "variant": "宝泉局",
+        "description": "户部中央局，背面满文\"宝泉\"",
         "grade": "十级（多泛） 普品",
         "priceRange": "3—10元",
         "notes": "最常见"
       },
       {
-        "variant": "标准版",
-        "description": "面文规矩端庄，为最常见版式",
+        "variant": "宝泉局",
+        "description": "户部中央局",
         "grade": "十级（多泛） 美品",
         "priceRange": "10—30元",
-        "notes": ""
+        "notes": "品相上佳"
       },
       {
-        "variant": "标准版",
-        "description": "面文规矩端庄，为最常见版式",
-        "grade": "十级（多泛） 极美品",
-        "priceRange": "30—60元",
-        "notes": ""
-      },
-      {
-        "variant": "大样版",
-        "description": "直径较大（约2.6厘米），铜质厚重",
-        "grade": "七级（较少） 美品",
-        "priceRange": "20—60元",
-        "notes": "较少见"
-      },
-      {
-        "variant": "标准版",
-        "description": "面文规矩端庄，为最常见版式",
+        "variant": "宝源局",
+        "description": "工部中央局",
         "grade": "十级（多泛） 普品",
-        "priceRange": "3—10元",
-        "notes": ""
+        "priceRange": "5—15元",
+        "notes": "工部铸"
       },
       {
-        "variant": "标准版",
-        "description": "面文规矩端庄，为最常见版式",
+        "variant": "宝源局",
+        "description": "工部中央局",
         "grade": "十级（多泛） 美品",
         "priceRange": "10—30元",
-        "notes": ""
+        "notes": "品相上佳"
       },
       {
-        "variant": "攵庆版",
-        "description": "\"庆\"字底部少一横，写作\"攵\"而非\"大\"，据《中国钱币大辞典》记载为嘉庆通宝中的名誉品，较为少见",
-        "grade": "六级（少） 美品",
-        "priceRange": "200—500元",
-        "notes": "名誉品"
+        "variant": "文庆版",
+        "description": "\"庆\"字为\"攵\"旁，名誉版",
+        "grade": "七级（甚少） 美品",
+        "priceRange": "100—500元",
+        "notes": "文庆名版"
       },
       {
-        "variant": "攵庆版",
-        "description": "\"庆\"字底部少一横，写作\"攵\"而非\"大\"，据《中国钱币大辞典》记载为嘉庆通宝中的名誉品，较为少见",
-        "grade": "六级（少） 极美品",
-        "priceRange": "500—1000元",
-        "notes": ""
+        "variant": "寿寿版",
+        "description": "背面铸\"寿\"字，祝寿宫钱类",
+        "grade": "六级（稀） 美品",
+        "priceRange": "500—2,000元",
+        "notes": "宫钱类"
       },
       {
         "variant": "宝苏局",
-        "description": "铸工较精，有阔缘大字、窄缘小字多种版别",
+        "description": "苏州铸局",
         "grade": "八级（较多） 美品",
-        "priceRange": "10—40元",
-        "notes": ""
+        "priceRange": "10—50元",
+        "notes": "江苏铸"
       },
       {
         "variant": "宝浙局",
-        "description": "铸量较大",
+        "description": "浙江铸局",
         "grade": "八级（较多） 美品",
-        "priceRange": "10—30元",
-        "notes": ""
+        "priceRange": "10—40元",
+        "notes": "浙江铸"
       },
       {
         "variant": "宝川局",
-        "description": "铸量较大",
+        "description": "成都铸局",
         "grade": "八级（较多） 美品",
-        "priceRange": "10—30元",
-        "notes": ""
-      },
-      {
-        "variant": "宝云局",
-        "description": "铸量极大",
-        "grade": "八级（较多） 美品",
-        "priceRange": "5—20元",
-        "notes": ""
-      },
-      {
-        "variant": "宝福局",
-        "description": "铸量较少",
-        "grade": "八级（较多） 美品",
-        "priceRange": "15—50元",
-        "notes": ""
-      },
-      {
-        "variant": "宝广局",
-        "description": "铸量较少",
-        "grade": "八级（较多） 美品",
-        "priceRange": "15—50元",
-        "notes": ""
-      },
-      {
-        "variant": "阿克苏局",
-        "description": "阿克苏局铸行",
-        "grade": "八级（较多） 美品",
-        "priceRange": "30—100元",
-        "notes": "红铜特色"
-      },
-      {
-        "variant": "天子万年",
-        "description": "面文\"天子万年\"，宫钱类",
-        "grade": "八级（较多） 美品",
-        "priceRange": "500—2000元",
-        "notes": ""
-      },
-      {
-        "variant": "天下太平",
-        "description": "面文\"天下太平\"，宫钱类",
-        "grade": "八级（较多） 美品",
-        "priceRange": "500—2000元",
-        "notes": ""
+        "priceRange": "10—40元",
+        "notes": "四川铸"
       },
       {
         "variant": "母钱",
-        "description": "铸工精整，字口深峻",
-        "grade": "八级（较多） 美品以上",
-        "priceRange": "2000—8000元",
-        "notes": "存世极少"
-      },
-      {
-        "variant": "雕母（祖钱）",
-        "description": "铸工精整，字口深峻",
-        "grade": "一级（孤品） 美品以上",
-        "priceRange": "30000—100000元",
-        "notes": "仅见数枚"
-      },
-      {
-        "variant": "宝泉局",
-        "description": "背满文\"宝泉\"（户部），铸量最大。按面文风格细分有",
-        "grade": "八级（较多） 普品",
-        "priceRange": "5—15元",
-        "notes": "户部宝泉局铸行"
-      },
-      {
-        "variant": "宝源局",
-        "description": "背满文\"宝源\"（工部），铸量仅次于宝泉局",
-        "grade": "八级（较多） 普品",
-        "priceRange": "5—15元",
-        "notes": "工部宝源局铸行"
-      },
-      {
-        "variant": "地方局",
-        "description": "各地方局版别众多",
-        "grade": "八级（较多） 美品",
-        "priceRange": "10—50元",
-        "notes": "各地方局铸行"
-      },
-      {
-        "variant": "吉语宫钱",
-        "description": "部分嘉庆通宝背面铸有吉语文字，已发现的有\"天子万年\"\"天下太平\"\"五世同堂\"\"国泰民安\"\"福寿康宁\"数种，为宫廷赏赐性质，铸工精美",
-        "grade": "八级（较多） 美品",
-        "priceRange": "100—500元",
-        "notes": "宫廷吉语钱"
-      },
-      {
-        "variant": "小样版",
-        "description": "直径偏小（约2.3厘米）",
-        "grade": "八级（较多） 普品",
-        "priceRange": "5—10元",
-        "notes": "体型较小"
-      },
-      {
-        "variant": "宽缘版",
-        "description": "外缘较宽",
-        "grade": "八级（较多） 美品",
-        "priceRange": "10—30元",
-        "notes": "边缘较宽"
-      },
-      {
-        "variant": "窄缘版",
-        "description": "外缘较窄",
-        "grade": "八级（较多） 美品",
-        "priceRange": "10—30元",
-        "notes": "边缘较窄"
-      },
-      {
-        "variant": "单点通",
-        "description": "\"通\"字走之底上部为单点",
-        "grade": "八级（较多） 普品",
-        "priceRange": "5—15元",
-        "notes": "\"通\"字单点"
-      },
-      {
-        "variant": "双点通",
-        "description": "\"通\"字走之底上部为双点",
-        "grade": "八级（较多） 普品",
-        "priceRange": "5—15元",
-        "notes": "\"通\"字双点"
-      },
-      {
-        "variant": "按铸局分",
-        "description": "据《中国钱币大辞典》记载，嘉庆通宝铸局主要有宝泉（户部）、宝源（工部）、宝直（直隶）、宝晋（太原）、宝苏（苏州）、宝昌（南昌）、宝福（福州）、宝浙（杭州）、宝武（武昌）、宝南（长沙）、宝陕（西安）、宝川（成都）、宝广（广州）、宝桂（桂林）、宝云（云南）、宝黔（贵阳）、宝东（云南东川）、宝伊（伊犁）、阿克苏局，共计十九局",
-        "grade": "八级（较多） 美品",
-        "priceRange": "10—50元",
-        "notes": "按铸局区分"
-      },
-      {
-        "variant": "雕母（祖钱）",
-        "description": "铸工精整，字口深峻",
-        "grade": "二级（极罕） 极美品",
+        "description": "翻铸母钱",
+        "grade": "六级（稀） 美品以上",
         "priceRange": "3,000—10,000元",
-        "notes": "雕刻母钱，极为珍贵"
-      },
-      {
-        "variant": "特殊版别",
-        "description": "特殊版别，存世较少",
-        "grade": "七级（较少） 极美品",
-        "priceRange": "200—1,000元",
-        "notes": "特殊版别，较少见"
-      },
-      {
-        "variant": "宝泉局",
-        "description": "背满文\"宝泉\"（户部），铸量最大。按面文风格细分有",
-        "grade": "八级（较多） 普品",
-        "priceRange": "5—15元",
-        "notes": "八级（较多）"
-      },
-      {
-        "variant": "宝源局",
-        "description": "背满文\"宝源\"（工部），铸量仅次于宝泉局",
-        "grade": "八级（较多） 普品",
-        "priceRange": "5—15元",
-        "notes": "八级（较多）"
-      },
-      {
-        "variant": "特殊版别",
-        "description": "特殊版别，存世较少",
-        "grade": "八级（较多） 美品",
-        "priceRange": "50—300元",
-        "notes": "八级（较多）"
-      },
-      {
-        "variant": "地方局",
-        "description": "各地方局版别众多",
-        "grade": "八级（较多） 普品",
-        "priceRange": "5—20元",
-        "notes": "八级（较多）"
-      },
-      {
-        "variant": "吉语宫钱",
-        "description": "部分嘉庆通宝背面铸有吉语文字，已发现的有\"天子万年\"\"天下太平\"\"五世同堂\"\"国泰民安\"\"福寿康宁\"数种，为宫廷赏赐性质，铸工精美",
-        "grade": "八级（较多） 美品",
-        "priceRange": "200—1,000元",
-        "notes": "八级（较多）"
-      },
-      {
-        "variant": "特殊品类",
-        "description": "特殊版别，存世较少",
-        "grade": "八级（较多） 美品",
-        "priceRange": "300—2,000元",
-        "notes": "八级（较多）"
+        "notes": "母钱稀少"
       },
       {
         "variant": "雕母（祖钱）",
-        "description": "铸工精整，字口深峻",
-        "grade": "二级（极罕） 极美品",
-        "priceRange": "30,000—100,000元",
-        "notes": "二级（极罕）"
-      },
-      {
-        "variant": "特殊品类",
-        "description": "特殊版别，存世较少",
-        "grade": "七级（较少） 极美品",
-        "priceRange": "500—3,000元",
-        "notes": "特殊品类，较少见"
+        "description": "手工精雕母钱",
+        "grade": "一级（大珍） 美品以上",
+        "priceRange": "50,000—150,000元",
+        "notes": "祖钱极罕"
       }
-    ]
+    ],
+    "reverseFeatures": "- 背面满文纪局"
   },
   "20-7": {
     "castingTime": "清宣宗旻宁道光年间（公元1821年—1850年）。",
@@ -1511,237 +895,70 @@
     },
     "variantsTable": [
       {
-        "variant": "标准版",
-        "description": "面文规矩端庄，为最常见版式",
+        "variant": "宝泉局",
+        "description": "户部中央局，背面满文\"宝泉\"",
         "grade": "十级（多泛） 普品",
-        "priceRange": "3—8元",
+        "priceRange": "3—10元",
         "notes": "最常见"
       },
       {
-        "variant": "标准版",
-        "description": "面文规矩端庄，为最常见版式",
+        "variant": "宝泉局",
+        "description": "户部中央局",
         "grade": "十级（多泛） 美品",
-        "priceRange": "8—20元",
-        "notes": ""
+        "priceRange": "10—30元",
+        "notes": "品相上佳"
       },
       {
-        "variant": "标准版",
-        "description": "面文规矩端庄，为最常见版式",
-        "grade": "十级（多泛） 极美品",
-        "priceRange": "20—50元",
-        "notes": ""
-      },
-      {
-        "variant": "大样版",
-        "description": "直径较大（约2.6厘米）",
-        "grade": "七级（较少） 美品",
-        "priceRange": "15—50元",
-        "notes": "较少见"
-      },
-      {
-        "variant": "标准版",
-        "description": "面文规矩端庄，为最常见版式",
+        "variant": "宝源局",
+        "description": "工部中央局",
         "grade": "十级（多泛） 普品",
-        "priceRange": "3—8元",
-        "notes": ""
+        "priceRange": "5—15元",
+        "notes": "工部铸"
       },
       {
-        "variant": "标准版",
-        "description": "面文规矩端庄，为最常见版式",
+        "variant": "宝源局",
+        "description": "工部中央局",
         "grade": "十级（多泛） 美品",
-        "priceRange": "8—20元",
-        "notes": ""
+        "priceRange": "10—30元",
+        "notes": "品相上佳"
       },
       {
         "variant": "宝苏局",
-        "description": "宝苏局铸行",
+        "description": "苏州铸局",
         "grade": "八级（较多） 美品",
-        "priceRange": "8—30元",
-        "notes": ""
+        "priceRange": "10—50元",
+        "notes": "江苏铸"
       },
       {
         "variant": "宝浙局",
-        "description": "宝浙局铸行",
+        "description": "浙江铸局",
         "grade": "八级（较多） 美品",
-        "priceRange": "8—25元",
-        "notes": ""
+        "priceRange": "10—40元",
+        "notes": "浙江铸"
       },
       {
         "variant": "宝川局",
-        "description": "宝川局铸行",
+        "description": "成都铸局",
         "grade": "八级（较多） 美品",
-        "priceRange": "8—25元",
-        "notes": ""
-      },
-      {
-        "variant": "宝云局",
-        "description": "宝云局铸行",
-        "grade": "八级（较多） 美品",
-        "priceRange": "5—15元",
-        "notes": ""
-      },
-      {
-        "variant": "阿克苏折五",
-        "description": "直径约3.3—3.5cm，重约10—15g",
-        "grade": "七级（较少） 美品",
-        "priceRange": "100—300元",
-        "notes": "较少见"
-      },
-      {
-        "variant": "阿克苏折十",
-        "description": "直径约3.8—4.5cm，重约15—25g",
-        "grade": "七级（较少） 美品",
-        "priceRange": "200—500元",
-        "notes": "较少见"
-      },
-      {
-        "variant": "库车折五",
-        "description": "直径约3.3—3.5cm，重约10—15g",
-        "grade": "七级（较少） 美品",
-        "priceRange": "100—300元",
-        "notes": "较少见"
+        "priceRange": "10—40元",
+        "notes": "四川铸"
       },
       {
         "variant": "母钱",
-        "description": "铸工精整，字口深峻",
-        "grade": "八级（较多） 美品以上",
-        "priceRange": "2000—8000元",
-        "notes": "存世极少"
+        "description": "翻铸母钱",
+        "grade": "六级（稀） 美品以上",
+        "priceRange": "3,000—10,000元",
+        "notes": "母钱稀少"
       },
       {
         "variant": "雕母（祖钱）",
-        "description": "铸工精整，字口深峻",
-        "grade": "一级（孤品） 美品以上",
-        "priceRange": "30000—100000元",
-        "notes": "仅见数枚"
-      },
-      {
-        "variant": "宫钱",
-        "description": "大型厚重，铸工极精",
-        "grade": "八级（较多） 美品",
-        "priceRange": "500—2000元",
-        "notes": ""
-      },
-      {
-        "variant": "宝泉局",
-        "description": "背满文\"宝泉\"（户部），铸量最大。按面文风格细分有",
-        "grade": "八级（较多） 普品",
-        "priceRange": "5—10元",
-        "notes": "户部宝泉局铸行"
-      },
-      {
-        "variant": "宝源局",
-        "description": "背满文\"宝源\"（工部），铸量仅次于宝泉局",
-        "grade": "八级（较多） 普品",
-        "priceRange": "5—10元",
-        "notes": "工部宝源局铸行"
-      },
-      {
-        "variant": "地方局",
-        "description": "各地方局版别众多，与嘉庆通宝铸局基本一致",
-        "grade": "八级（较多） 美品",
-        "priceRange": "10—30元",
-        "notes": "各地方局铸行"
-      },
-      {
-        "variant": "新疆大钱",
-        "description": "据《中国钱币大辞典》记载，新疆阿克苏局、库车局因缺少黄铜而铸行折五、折十大钱，为清代虚值大钱的滥觞。道光通宝新疆大钱是研究清代边疆货币制度的重要实物",
-        "grade": "八级（较多） 美品",
-        "priceRange": "30—100元",
-        "notes": "新疆铸大钱"
-      },
-      {
-        "variant": "小样版",
-        "description": "直径偏小（约2.2厘米）",
-        "grade": "八级（较多） 普品",
-        "priceRange": "3—8元",
-        "notes": "体型较小"
-      },
-      {
-        "variant": "单点三角通",
-        "description": "\"通\"字走之底上部为单点，走之底呈三角形",
-        "grade": "八级（较多） 美品",
-        "priceRange": "10—30元",
-        "notes": "\"通\"字单点三角头"
-      },
-      {
-        "variant": "双点三角通",
-        "description": "\"通\"字走之底上部为双点，走之底呈三角形",
-        "grade": "八级（较多） 美品",
-        "priceRange": "10—30元",
-        "notes": "\"通\"字双点三角头"
-      },
-      {
-        "variant": "双点方头通",
-        "description": "\"通\"字走之底上部为双点，走之底呈方形",
-        "grade": "八级（较多） 美品",
-        "priceRange": "10—30元",
-        "notes": "\"通\"字双点方头"
-      },
-      {
-        "variant": "按铸局分",
-        "description": "据《中国钱币大辞典》记载，道光通宝铸局主要有宝泉（户部）、宝源（工部）、宝直（直隶）、宝晋（太原）、宝苏（苏州）、宝昌（南昌）、宝福（福州）、宝浙（杭州）、宝武（武昌）、宝南（长沙）、宝陕（西安）、宝川（成都）、宝广（广州）、宝桂（桂林）、宝云（云南）、宝黔（贵阳）、宝东（云南东川）、宝伊（伊犁）、阿克苏局",
-        "grade": "八级（较多） 美品",
-        "priceRange": "10—30元",
-        "notes": "按铸局区分"
-      },
-      {
-        "variant": "雕母（祖钱）",
-        "description": "铸工精整，字口深峻",
-        "grade": "二级（极罕） 极美品",
-        "priceRange": "2,000—8,000元",
-        "notes": "雕刻母钱，极为珍贵"
-      },
-      {
-        "variant": "宝泉局",
-        "description": "背满文\"宝泉\"（户部），铸量最大。按面文风格细分有",
-        "grade": "八级（较多） 普品",
-        "priceRange": "5—15元",
-        "notes": "八级（较多）"
-      },
-      {
-        "variant": "宝源局",
-        "description": "背满文\"宝源\"（工部），铸量仅次于宝泉局",
-        "grade": "八级（较多） 普品",
-        "priceRange": "5—15元",
-        "notes": "八级（较多）"
-      },
-      {
-        "variant": "地方局",
-        "description": "各地方局版别众多，与嘉庆通宝铸局基本一致",
-        "grade": "八级（较多） 普品",
-        "priceRange": "5—20元",
-        "notes": "八级（较多）"
-      },
-      {
-        "variant": "新疆大钱",
-        "description": "据《中国钱币大辞典》记载，新疆阿克苏局、库车局因缺少黄铜而铸行折五、折十大钱，为清代虚值大钱的滥觞。道光通宝新疆大钱是研究清代边疆货币制度的重要实物",
-        "grade": "八级（较多） 美品",
-        "priceRange": "50—200元",
-        "notes": "八级（较多）"
-      },
-      {
-        "variant": "特殊品类",
-        "description": "特殊版别，存世较少",
-        "grade": "八级（较多） 美品",
-        "priceRange": "300—2,000元",
-        "notes": "八级（较多）"
-      },
-      {
-        "variant": "雕母（祖钱）",
-        "description": "铸工精整，字口深峻",
-        "grade": "二级（极罕） 极美品",
-        "priceRange": "30,000—100,000元",
-        "notes": "二级（极罕）"
-      },
-      {
-        "variant": "特殊品类",
-        "description": "特殊版别，存世较少",
-        "grade": "七级（较少） 极美品",
-        "priceRange": "200—1,000元",
-        "notes": "特殊品类，较少见"
+        "description": "手工精雕母钱",
+        "grade": "一级（大珍） 美品以上",
+        "priceRange": "50,000—150,000元",
+        "notes": "祖钱极罕"
       }
-    ]
+    ],
+    "reverseFeatures": "- 背面满文纪局"
   },
   "20-8": {
     "castingTime": "清文宗奕詝咸丰年间（公元1851年—1861年）。",
@@ -1767,251 +984,77 @@
     },
     "variantsTable": [
       {
-        "variant": "标准版",
-        "description": "面文规矩端庄",
+        "variant": "宝泉局 小平",
+        "description": "户部中央局，背面满文\"宝泉\"",
         "grade": "八级（较多） 普品",
         "priceRange": "10—30元",
-        "notes": ""
+        "notes": "最常见"
       },
       {
-        "variant": "标准版",
-        "description": "面文规矩端庄",
+        "variant": "宝泉局 小平",
+        "description": "户部中央局",
         "grade": "八级（较多） 美品",
         "priceRange": "30—100元",
-        "notes": ""
+        "notes": "品相上佳"
       },
       {
-        "variant": "标准版",
-        "description": "面文规矩端庄",
-        "grade": "八级（较多） 极美品",
-        "priceRange": "100—300元",
-        "notes": ""
+        "variant": "宝源局 小平",
+        "description": "工部中央局",
+        "grade": "八级（较多） 普品",
+        "priceRange": "10—30元",
+        "notes": "工部铸"
       },
       {
-        "variant": "大字版",
-        "description": "面文字体较大",
-        "grade": "八级（较多） 美品",
-        "priceRange": "50—150元",
-        "notes": ""
-      },
-      {
-        "variant": "标准版",
-        "description": "面文规矩端庄",
+        "variant": "宝源局 小平",
+        "description": "工部中央局",
         "grade": "八级（较多） 美品",
         "priceRange": "30—100元",
-        "notes": ""
+        "notes": "品相上佳"
       },
       {
-        "variant": "宝苏局",
-        "description": "铸工较精，版别丰富",
+        "variant": "宝苏局 小平",
+        "description": "苏州铸局",
         "grade": "八级（较多） 美品",
         "priceRange": "30—100元",
-        "notes": ""
+        "notes": "江苏铸"
       },
       {
-        "variant": "宝浙局",
-        "description": "铸量较大",
-        "grade": "八级（较多） 美品",
-        "priceRange": "20—80元",
-        "notes": ""
-      },
-      {
-        "variant": "宝福局",
-        "description": "有狭穿、阔缘多种版别",
-        "grade": "八级（较多） 美品",
-        "priceRange": "30—100元",
-        "notes": ""
-      },
-      {
-        "variant": "宝川局",
-        "description": "铸量较大",
-        "grade": "八级（较多） 美品",
-        "priceRange": "20—80元",
-        "notes": ""
-      },
-      {
-        "variant": "宝云局",
-        "description": "铸量极大",
-        "grade": "八级（较多） 美品",
-        "priceRange": "10—50元",
-        "notes": ""
-      },
-      {
-        "variant": "宝巩局",
-        "description": "铸量较少",
+        "variant": "宝福局 小平",
+        "description": "福州铸局",
         "grade": "八级（较多） 美品",
         "priceRange": "50—200元",
-        "notes": "铸量较少"
-      },
-      {
-        "variant": "宝晋局",
-        "description": "铸量较少",
-        "grade": "八级（较多） 美品",
-        "priceRange": "50—200元",
-        "notes": ""
-      },
-      {
-        "variant": "宝黔局",
-        "description": "铸量极少",
-        "grade": "八级（较多） 美品",
-        "priceRange": "100—500元",
-        "notes": "铸量极少"
+        "notes": "福建铸"
       },
       {
         "variant": "铁钱（常见局）",
-        "description": "据《中国钱币大辞典》记载，咸丰年间因铜材匮乏，宝泉局、宝源局及部分地方局铸行铁钱，以宝河局、宝陕局、宝晋局铁钱较多见",
+        "description": "铁质铸币",
         "grade": "九级（多） 美品",
         "priceRange": "30—100元",
-        "notes": ""
-      },
-      {
-        "variant": "铁钱（少见局）",
-        "description": "据《中国钱币大辞典》记载，咸丰年间因铜材匮乏，宝泉局、宝源局及部分地方局铸行铁钱，以宝河局、宝陕局、宝晋局铁钱较多见",
-        "grade": "六级（少） 美品",
-        "priceRange": "100—300元",
-        "notes": ""
-      },
-      {
-        "variant": "铅钱",
-        "description": "部分地区铸行铅钱，质量粗劣",
-        "grade": "八级（较多） 美品",
-        "priceRange": "20—80元",
-        "notes": ""
-      },
-      {
-        "variant": "母钱",
-        "description": "铁钱的母钱，铜质精良，较为少见",
-        "grade": "六级（少） 美品以上",
-        "priceRange": "3000—15000元",
-        "notes": "存世极少"
-      },
-      {
-        "variant": "雕母（祖钱）",
-        "description": "铸工精整，字口深峻",
-        "grade": "一级（孤品） 美品以上",
-        "priceRange": "50000—150000元",
-        "notes": "仅见数枚"
-      },
-      {
-        "variant": "宝泉局",
-        "description": "背满文\"宝泉\"（户部），铸量最大。按面文风格细分有",
-        "grade": "八级（较多） 普品",
-        "priceRange": "10—30元",
-        "notes": "户部宝泉局铸行"
-      },
-      {
-        "variant": "宝源局",
-        "description": "背满文\"宝源\"（工部），铸量仅次于宝泉局",
-        "grade": "八级（较多） 普品",
-        "priceRange": "10—30元",
-        "notes": "工部宝源局铸行"
-      },
-      {
-        "variant": "地方局",
-        "description": "各地方局版别繁多，部分局铸量极少",
-        "grade": "八级（较多） 美品",
-        "priceRange": "20—80元",
-        "notes": "各地方局铸行"
-      },
-      {
-        "variant": "铁钱、铅钱",
-        "description": "据《中国钱币大辞典》记载，咸丰年间因铜材匮乏，宝泉局、宝源局及部分地方局铸行铁钱，以宝河局、宝陕局、宝晋局铁钱较多见",
-        "grade": "八级（较多） 普品",
-        "priceRange": "5—20元",
-        "notes": "铁质或铅质铸行"
-      },
-      {
-        "variant": "小字版",
-        "description": "面文字体较小",
-        "grade": "八级（较多） 普品",
-        "priceRange": "10—30元",
-        "notes": "文字较小"
-      },
-      {
-        "variant": "阔缘版",
-        "description": "外缘较宽",
-        "grade": "八级（较多） 美品",
-        "priceRange": "20—80元",
-        "notes": "边缘较宽"
-      },
-      {
-        "variant": "减重版",
-        "description": "咸丰后期减重严重的轻薄钱，部分仅重1—2克，直径缩至2.0厘米以下",
-        "grade": "八级（较多） 普品",
-        "priceRange": "10—20元",
-        "notes": "晚期减重铸行"
-      },
-      {
-        "variant": "按铸局分",
-        "description": "据《中国钱币大辞典》记载，咸丰通宝铸局众多，中央有宝泉局（户部）、宝源局（工部），地方主要有宝直（直隶）、宝蓟（蓟州）、宝济（济南）、宝河（开封）、宝晋（太原）、宝陕（西安）、宝巩（巩昌）、宝苏（苏州）、宝浙（杭州）、宝福（福州）、宝武（武昌）、宝昌（南昌）、宝桂（桂林）、宝川（成都）、宝云（云南）、宝东（云南东川）、宝黔（贵阳）、宝广（广州）、宝伊（伊犁）、阿克苏局、叶尔羌局、库车局、喀什噶尔局",
-        "grade": "八级（较多） 美品",
-        "priceRange": "20—80元",
-        "notes": "按铸局区分"
+        "notes": "铁钱"
       },
       {
         "variant": "克勤郡王铸钱",
-        "description": "据记载咸丰年间克勤郡王庆惠曾请铸大钱，存世极罕",
-        "grade": "二级（极罕） 美品",
-        "priceRange": "200—800元",
-        "notes": "克勤郡王铸行，较少见"
+        "description": "克勤郡王自行铸币，文字风格独特",
+        "grade": "四级（罕） 美品",
+        "priceRange": "1,000—5,000元",
+        "notes": "克勤郡王铸"
+      },
+      {
+        "variant": "母钱",
+        "description": "翻铸母钱",
+        "grade": "五级（稀贵） 美品以上",
+        "priceRange": "5,000—15,000元",
+        "notes": "母钱稀少"
       },
       {
         "variant": "雕母（祖钱）",
-        "description": "铸工精整，字口深峻",
-        "grade": "二级（极罕） 极美品",
-        "priceRange": "3,000—15,000元",
-        "notes": "雕刻母钱，极为珍贵"
-      },
-      {
-        "variant": "宝泉局",
-        "description": "背满文\"宝泉\"（户部），铸量最大。按面文风格细分有",
-        "grade": "八级（较多） 普品",
-        "priceRange": "5—20元",
-        "notes": "八级（较多）"
-      },
-      {
-        "variant": "宝源局",
-        "description": "背满文\"宝源\"（工部），铸量仅次于宝泉局",
-        "grade": "八级（较多） 普品",
-        "priceRange": "5—20元",
-        "notes": "八级（较多）"
-      },
-      {
-        "variant": "地方局",
-        "description": "各地方局版别繁多，部分局铸量极少",
-        "grade": "八级（较多） 普品",
-        "priceRange": "5—30元",
-        "notes": "八级（较多）"
-      },
-      {
-        "variant": "铁钱、铅钱",
-        "description": "据《中国钱币大辞典》记载，咸丰年间因铜材匮乏，宝泉局、宝源局及部分地方局铸行铁钱，以宝河局、宝陕局、宝晋局铁钱较多见",
-        "grade": "八级（较多） 普品",
-        "priceRange": "10—50元",
-        "notes": "八级（较多）"
-      },
-      {
-        "variant": "特殊品类",
-        "description": "特殊版别，存世较少",
-        "grade": "八级（较多） 美品",
-        "priceRange": "500—5,000元",
-        "notes": "八级（较多）"
-      },
-      {
-        "variant": "雕母（祖钱）",
-        "description": "铸工精整，字口深峻",
-        "grade": "二级（极罕） 极美品",
-        "priceRange": "50,000—200,000元",
-        "notes": "二级（极罕）"
-      },
-      {
-        "variant": "特殊品类",
-        "description": "特殊版别，存世较少",
-        "grade": "七级（较少） 极美品",
-        "priceRange": "500—3,000元",
-        "notes": "特殊品类，较少见"
+        "description": "手工精雕母钱",
+        "grade": "一级（大珍） 美品以上",
+        "priceRange": "50,000—150,000元",
+        "notes": "祖钱极罕"
       }
-    ]
+    ],
+    "reverseFeatures": "- 背面满文纪局"
   },
   "20-9": {
     "castingTime": "清文宗奕詝咸丰年间（公元1853年—1861年）。",
@@ -2037,370 +1080,133 @@
     },
     "variantsTable": [
       {
-        "variant": "宝泉局当五",
-        "description": "面值当五，直径约2.8厘米，重约10—15g",
+        "variant": "宝泉局 当五",
+        "description": "户部铸，面文\"咸丰重宝\"，背\"当五\"纪值",
         "grade": "八级（较多） 美品",
         "priceRange": "200—500元",
-        "notes": ""
+        "notes": "当五纪值"
       },
       {
-        "variant": "宝源局当五",
-        "description": "面值当五，直径约2.8厘米，重约10—15g",
+        "variant": "宝源局 当五",
+        "description": "工部铸",
         "grade": "八级（较多） 美品",
         "priceRange": "200—500元",
-        "notes": ""
+        "notes": "工部当五"
       },
       {
-        "variant": "宝泉局当十",
-        "description": "面值当十，铸量最大，直径约3.5厘米，重约15—25g",
+        "variant": "宝泉局 当十",
+        "description": "户部铸，背\"当十\"",
         "grade": "八级（较多） 美品",
-        "priceRange": "100—300元",
-        "notes": "铸量最大"
-      },
-      {
-        "variant": "宝泉局当十",
-        "description": "面值当十，铸量最大，直径约3.5厘米，重约15—25g",
-        "grade": "八级（较多） 极美品",
-        "priceRange": "300—800元",
-        "notes": ""
-      },
-      {
-        "variant": "宝源局当十",
-        "description": "面值当十，铸量最大，直径约3.5厘米，重约15—25g",
-        "grade": "八级（较多） 美品",
-        "priceRange": "100—300元",
-        "notes": ""
-      },
-      {
-        "variant": "地方局当十（常见）",
-        "description": "面值当十，铸量最大，直径约3.5厘米，重约15—25g",
-        "grade": "九级（多） 美品",
         "priceRange": "100—500元",
-        "notes": ""
+        "notes": "当十最常见"
       },
       {
-        "variant": "地方局当十（少见）",
-        "description": "面值当十，铸量最大，直径约3.5厘米，重约15—25g",
-        "grade": "六级（少） 美品",
-        "priceRange": "500—2000元",
-        "notes": ""
+        "variant": "宝泉局 当十",
+        "description": "户部铸",
+        "grade": "七级（甚少） 极美品",
+        "priceRange": "300—1,000元",
+        "notes": "极美品"
       },
       {
-        "variant": "常见局当二十",
-        "description": "较少见，直径约4.5—5.0cm，重约20—35g",
-        "grade": "七级（较少） 美品",
-        "priceRange": "500—2000元",
-        "notes": ""
-      },
-      {
-        "variant": "少见局当二十",
-        "description": "较少见，直径约4.5—5.0cm，重约20—35g",
-        "grade": "七级（较少） 美品",
-        "priceRange": "2000—5000元",
-        "notes": ""
-      },
-      {
-        "variant": "常见局当三十",
-        "description": "较少见",
-        "grade": "七级（较少） 美品",
-        "priceRange": "1000—3000元",
-        "notes": "较少见"
-      },
-      {
-        "variant": "少见局当三十",
-        "description": "较少见",
-        "grade": "七级（较少） 美品",
-        "priceRange": "3000—8000元",
-        "notes": ""
-      },
-      {
-        "variant": "常见局当四十",
-        "description": "较少见",
-        "grade": "七级（较少） 美品",
-        "priceRange": "1000—3000元",
-        "notes": "较少见"
-      },
-      {
-        "variant": "宝泉局当五十",
-        "description": "面值当五，直径约2.8厘米，重约30—50g",
+        "variant": "宝源局 当十",
+        "description": "工部铸",
         "grade": "八级（较多） 美品",
-        "priceRange": "2000—5000元",
-        "notes": ""
+        "priceRange": "100—500元",
+        "notes": "工部当十"
       },
       {
-        "variant": "宝源局当五十",
-        "description": "面值当五，直径约2.8厘米，重约30—50g",
+        "variant": "宝苏局 当十",
+        "description": "苏州铸局",
         "grade": "八级（较多） 美品",
-        "priceRange": "2000—5000元",
-        "notes": ""
+        "priceRange": "150—600元",
+        "notes": "江苏铸"
       },
       {
-        "variant": "宝苏局当五十",
-        "description": "面值当五，直径约2.8厘米，重约30—50g",
-        "grade": "七级（较少） 美品",
-        "priceRange": "3000—8000元",
-        "notes": "较少见"
+        "variant": "宝福局 当十",
+        "description": "福州铸局，铸工精良",
+        "grade": "七级（甚少） 美品",
+        "priceRange": "500—2,000元",
+        "notes": "福建铸，名品"
       },
       {
-        "variant": "宝川局当五十",
-        "description": "面值当五，直径约2.8厘米，重约30—50g",
+        "variant": "宝福局 当十 计重",
+        "description": "内计重版，背面铸有重量",
+        "grade": "五级（稀贵） 美品",
+        "priceRange": "3,000—10,000元",
+        "notes": "计重版名品"
+      },
+      {
+        "variant": "宝河局 当十",
+        "description": "河南铸局",
         "grade": "八级（较多） 美品",
-        "priceRange": "3000—8000元",
-        "notes": ""
+        "priceRange": "80—300元",
+        "notes": "河南铸"
       },
       {
-        "variant": "宝巩局当五十",
-        "description": "面值当五，直径约2.8厘米，重约30—50g",
-        "grade": "八级（较多） 美品",
-        "priceRange": "5000—15000元",
-        "notes": "铸量极少"
+        "variant": "常见局 当二十",
+        "description": "各地铸局当二十型",
+        "grade": "七级（甚少） 美品",
+        "priceRange": "500—2,000元",
+        "notes": "当二十"
+      },
+      {
+        "variant": "宝福局 当二十 计重",
+        "description": "内计重版",
+        "grade": "五级（稀贵） 美品",
+        "priceRange": "3,000—10,000元",
+        "notes": "计重版"
+      },
+      {
+        "variant": "宝泉局 当五十",
+        "description": "户部铸当五十型",
+        "grade": "七级（甚少） 美品",
+        "priceRange": "2,000—5,000元",
+        "notes": "当五十"
+      },
+      {
+        "variant": "宝源局 当五十",
+        "description": "工部铸当五十型",
+        "grade": "七级（甚少） 美品",
+        "priceRange": "2,000—5,000元",
+        "notes": "当五十"
+      },
+      {
+        "variant": "宝苏局 当五十",
+        "description": "苏州铸局",
+        "grade": "六级（稀） 美品",
+        "priceRange": "3,000—8,000元",
+        "notes": "江苏铸"
+      },
+      {
+        "variant": "宝福局 当五十 计重",
+        "description": "内计重版",
+        "grade": "五级（稀贵） 美品",
+        "priceRange": "5,000—20,000元",
+        "notes": "计重版名品"
+      },
+      {
+        "variant": "克勤郡王 当五十",
+        "description": "克勤郡王铸",
+        "grade": "四级（罕） 美品",
+        "priceRange": "10,000—50,000元",
+        "notes": "克勤郡王铸"
       },
       {
         "variant": "母钱",
-        "description": "铸工极精，字口深峻",
-        "grade": "八级（较多） 美品以上",
-        "priceRange": "5000—30000元",
-        "notes": "存世极少"
+        "description": "翻铸母钱",
+        "grade": "五级（稀贵） 美品以上",
+        "priceRange": "5,000—30,000元",
+        "notes": "母钱稀少"
       },
       {
         "variant": "雕母（祖钱）",
-        "description": "手工雕刻，存世极罕",
-        "grade": "一级（孤品） 美品以上",
-        "priceRange": "80000—200000元",
-        "notes": "仅见数枚"
-      },
-      {
-        "variant": "铁钱",
-        "description": "宝河局、宝陕局、宝晋局铸行铁质重宝",
-        "grade": "八级（较多） 美品",
-        "priceRange": "50—300元",
-        "notes": ""
-      },
-      {
-        "variant": "当五",
-        "description": "面值当五，直径约2.8厘米，重约10—15g",
-        "grade": "八级（较多） 美品",
-        "priceRange": "50—200元",
-        "notes": "当五面值"
-      },
-      {
-        "variant": "当十",
-        "description": "面值当十，铸量最大，直径约3.5厘米，重约15—25g",
-        "grade": "八级（较多） 美品",
-        "priceRange": "50—200元",
-        "notes": "当十面值，较常见"
-      },
-      {
-        "variant": "当二十",
-        "description": "较少见，直径约4.5—5.0cm，重约20—35g",
-        "grade": "七级（较少） 美品",
-        "priceRange": "100—300元",
-        "notes": "当二十面值"
-      },
-      {
-        "variant": "当三十",
-        "description": "较少见",
-        "grade": "七级（较少） 美品",
-        "priceRange": "100—500元",
-        "notes": "当三十面值，较少见"
-      },
-      {
-        "variant": "当四十",
-        "description": "较少见",
-        "grade": "七级（较少） 美品",
-        "priceRange": "100—500元",
-        "notes": "当四十面值，较少见"
-      },
-      {
-        "variant": "当五十",
-        "description": "面值当五，直径约2.8厘米，重约30—50g",
-        "grade": "八级（较多） 美品",
-        "priceRange": "100—500元",
-        "notes": "当五十面值"
-      },
-      {
-        "variant": "当五十版",
-        "description": "面值当五，直径约2.8厘米，重约30—50g",
-        "grade": "八级（较多） 美品",
-        "priceRange": "100—500元",
-        "notes": "当五十各版别"
-      },
-      {
-        "variant": "按面值分",
-        "description": "咸丰重宝面值从当五到当五十，据《中国钱币大辞典》记载，主要面值有",
-        "grade": "八级（较多） 美品",
-        "priceRange": "50—200元",
-        "notes": "按面值区分"
-      },
-      {
-        "variant": "按铸局分",
-        "description": "咸丰重宝铸局众多，据《中国钱币大辞典》记载，中央有宝泉局（户部）、宝源局（工部），地方主要有宝直（直隶）、宝蓟（蓟州）、宝济（济南）、宝河（开封）、宝晋（太原）、宝陕（西安）、宝巩（巩昌）、宝苏（苏州）、宝浙（杭州）、宝福（福州）、宝武（武昌）、宝昌（南昌）、宝桂（桂林）、宝川（成都）、宝云（云南）、宝东（云南东川）、宝黔（贵阳）、宝广（广州）、宝伊（伊犁）、阿克苏局、叶尔羌局、库车局、喀什噶尔局",
-        "grade": "八级（较多） 美品",
-        "priceRange": "50—300元",
-        "notes": "按铸局区分"
-      },
-      {
-        "variant": "按材质分",
-        "description": "按类别细分的版别",
-        "grade": "八级（较多） 美品",
-        "priceRange": "50—200元",
-        "notes": "按铜铁材质区分"
-      },
-      {
-        "variant": "铜质",
-        "description": "青铜为主，部分为黄铜",
-        "grade": "八级（较多） 普品",
-        "priceRange": "50—200元",
-        "notes": "铜质铸行"
-      },
-      {
-        "variant": "铅质",
-        "description": "极少见",
-        "grade": "六级（少） 普品",
-        "priceRange": "20—80元",
-        "notes": "铅质铸行"
-      },
-      {
-        "variant": "宝苏局当五十",
-        "description": "面值当五，直径约2.8厘米，重约30—50g",
-        "grade": "八级（较多） 美品",
-        "priceRange": "200—800元",
-        "notes": "宝苏局铸当五十"
-      },
-      {
-        "variant": "宝福局当五十",
-        "description": "面值当五，直径约2.8厘米，重约30—50g",
-        "grade": "八级（较多） 美品",
-        "priceRange": "200—800元",
-        "notes": "宝福局铸当五十"
-      },
-      {
-        "variant": "宝川局当五十",
-        "description": "面值当五，直径约2.8厘米，重约30—50g",
-        "grade": "八级（较多） 美品",
-        "priceRange": "200—800元",
-        "notes": "宝川局铸当五十"
-      },
-      {
-        "variant": "宝巩局当五十",
-        "description": "面值当五，直径约2.8厘米，重约30—50g",
-        "grade": "八级（较多） 美品",
-        "priceRange": "200—800元",
-        "notes": "宝巩局铸当五十"
-      },
-      {
-        "variant": "克勤郡王当五十",
-        "description": "面值当五，直径约2.8厘米，重约30—50g",
-        "grade": "八级（较多） 美品",
-        "priceRange": "300—1,000元",
-        "notes": "克勤郡王铸当五十"
-      },
-      {
-        "variant": "特殊版别",
-        "description": "特殊版别，存世较少",
-        "grade": "七级（较少） 极美品",
-        "priceRange": "500—3,000元",
-        "notes": "特殊版别，较少见"
-      },
-      {
-        "variant": "当五",
-        "description": "面值当五，直径约2.8厘米，重约10—15g",
-        "grade": "八级（较多） 美品",
-        "priceRange": "200—800元",
-        "notes": "八级（较多）"
-      },
-      {
-        "variant": "当十",
-        "description": "面值当十，铸量最大，直径约3.5厘米，重约15—25g",
-        "grade": "八级（较多） 普品",
-        "priceRange": "20—80元",
-        "notes": "八级（较多）"
-      },
-      {
-        "variant": "当二十",
-        "description": "较少见，直径约4.5—5.0cm，重约20—35g",
-        "grade": "七级（较少） 美品",
-        "priceRange": "200—800元",
-        "notes": "七级（较少）"
-      },
-      {
-        "variant": "当三十",
-        "description": "较少见",
-        "grade": "七级（较少） 美品",
-        "priceRange": "500—2,000元",
-        "notes": "七级（较少）"
-      },
-      {
-        "variant": "当四十",
-        "description": "较少见",
-        "grade": "七级（较少） 美品",
-        "priceRange": "500—2,000元",
-        "notes": "七级（较少）"
-      },
-      {
-        "variant": "当五十",
-        "description": "面值当五，直径约2.8厘米，重约30—50g",
-        "grade": "八级（较多） 普品",
-        "priceRange": "50—200元",
-        "notes": "八级（较多）"
-      },
-      {
-        "variant": "特殊品类",
-        "description": "特殊版别，存世较少",
-        "grade": "八级（较多） 美品",
-        "priceRange": "1,000—10,000元",
-        "notes": "八级（较多）"
-      },
-      {
-        "variant": "当五十版",
-        "description": "面值当五，直径约2.8厘米，重约30—50g",
-        "grade": "八级（较多） 美品",
-        "priceRange": "100—500元",
-        "notes": "八级（较多）"
-      },
-      {
-        "variant": "宝苏局当五十",
-        "description": "面值当五，直径约2.8厘米，重约30—50g",
-        "grade": "八级（较多） 美品",
-        "priceRange": "1,000—5,000元",
-        "notes": "六级（少）"
-      },
-      {
-        "variant": "宝福局当五十",
-        "description": "面值当五，直径约2.8厘米，重约30—50g",
-        "grade": "八级（较多） 美品",
-        "priceRange": "200—800元",
-        "notes": "八级（较多）"
-      },
-      {
-        "variant": "宝川局当五十",
-        "description": "面值当五，直径约2.8厘米，重约30—50g",
-        "grade": "八级（较多） 美品",
-        "priceRange": "200—800元",
-        "notes": "八级（较多）"
-      },
-      {
-        "variant": "宝巩局当五十",
-        "description": "面值当五，直径约2.8厘米，重约30—50g",
-        "grade": "八级（较多） 美品",
-        "priceRange": "300—1,000元",
-        "notes": "八级（较多）"
-      },
-      {
-        "variant": "克勤郡王当五十",
-        "description": "面值当五，直径约2.8厘米，重约30—50g",
-        "grade": "二级（极罕） 极美品",
-        "priceRange": "50,000—200,000元",
-        "notes": "二级（极罕）"
-      },
-      {
-        "variant": "特殊品类",
-        "description": "特殊版别，存世较少",
-        "grade": "七级（较少） 极美品",
-        "priceRange": "1,000—5,000元",
-        "notes": "特殊品类，较少见"
+        "description": "手工精雕母钱",
+        "grade": "一级（大珍） 美品以上",
+        "priceRange": "80,000—200,000元",
+        "notes": "祖钱极罕"
       }
-    ]
+    ],
+    "reverseFeatures": "- 背面铸纪值（如\"当五\"\"当十\"\"当五十\"）及满文纪局"
   },
   "20-10": {
     "castingTime": "清文宗奕詝咸丰年间（公元1853年—1861年）。",
@@ -2426,370 +1232,119 @@
     },
     "variantsTable": [
       {
-        "variant": "宝泉局当百",
-        "description": "面值当百，直径约5.0厘米，重约50—80克",
-        "grade": "八级（较多） 美品",
-        "priceRange": "500—2000元",
-        "notes": ""
+        "variant": "宝泉局 当百",
+        "description": "户部铸，面文\"咸丰元宝\"，背\"当百\"",
+        "grade": "七级（甚少） 美品",
+        "priceRange": "1,000—5,000元",
+        "notes": "当百"
       },
       {
-        "variant": "宝泉局当百",
-        "description": "面值当百，直径约5.0厘米，重约50—80克",
-        "grade": "八级（较多） 极美品",
-        "priceRange": "2000—5000元",
-        "notes": ""
+        "variant": "宝泉局 当百",
+        "description": "户部铸",
+        "grade": "六级（稀） 极美品",
+        "priceRange": "5,000—20,000元",
+        "notes": "极美品"
       },
       {
-        "variant": "宝源局当百",
-        "description": "面值当百，直径约5.0厘米，重约50—80克",
-        "grade": "八级（较多） 美品",
-        "priceRange": "500—2000元",
-        "notes": ""
+        "variant": "宝源局 当百",
+        "description": "工部铸",
+        "grade": "七级（甚少） 美品",
+        "priceRange": "1,000—5,000元",
+        "notes": "工部当百"
       },
       {
-        "variant": "地方局当百（常见）",
-        "description": "面值当百，直径约5.0厘米，重约50—80克",
-        "grade": "九级（多） 美品",
-        "priceRange": "1000—5000元",
-        "notes": ""
+        "variant": "宝苏局 当百",
+        "description": "苏州铸局",
+        "grade": "六级（稀） 美品",
+        "priceRange": "3,000—10,000元",
+        "notes": "江苏铸"
       },
       {
-        "variant": "地方局当百（少见）",
-        "description": "面值当百，直径约5.0厘米，重约50—80克",
-        "grade": "六级（少） 美品",
-        "priceRange": "5000—15000元",
-        "notes": ""
+        "variant": "宝福局 当百 计重",
+        "description": "内计重版",
+        "grade": "四级（罕） 美品",
+        "priceRange": "10,000—50,000元",
+        "notes": "计重版"
       },
       {
-        "variant": "宝泉局当二百",
-        "description": "较少见，直径约5.5厘米",
-        "grade": "七级（较少） 美品",
-        "priceRange": "3000—8000元",
-        "notes": "较少见"
+        "variant": "宝巩局 当百",
+        "description": "甘肃铸局",
+        "grade": "六级（稀） 美品",
+        "priceRange": "5,000—20,000元",
+        "notes": "甘肃铸"
       },
       {
-        "variant": "宝泉局当三百",
-        "description": "较少见，直径约6.0厘米",
-        "grade": "七级（较少） 美品",
-        "priceRange": "5000—15000元",
-        "notes": "较少见"
+        "variant": "克勤郡王 当百",
+        "description": "克勤郡王铸",
+        "grade": "三级（罕贵） 美品",
+        "priceRange": "50,000—200,000元",
+        "notes": "克勤郡王铸"
       },
       {
-        "variant": "宝泉局当五百",
-        "description": "珍罕，直径约6.5厘米，重约45—90g",
-        "grade": "八级（较多） 美品",
-        "priceRange": "10000—30000元",
-        "notes": "珍罕"
+        "variant": "宝泉局 当五百",
+        "description": "户部铸当五百型",
+        "grade": "五级（稀贵） 美品",
+        "priceRange": "30,000—80,000元",
+        "notes": "大面值"
       },
       {
-        "variant": "宝泉局当五百",
-        "description": "珍罕，直径约6.5厘米，重约45—90g",
-        "grade": "八级（较多） 极美品",
-        "priceRange": "30000—50000元",
-        "notes": ""
+        "variant": "宝源局 当五百",
+        "description": "工部铸当五百型",
+        "grade": "五级（稀贵） 美品",
+        "priceRange": "25,000—70,000元",
+        "notes": "大面值"
       },
       {
-        "variant": "宝源局当五百",
-        "description": "珍罕，直径约6.5厘米，重约45—90g",
-        "grade": "八级（较多） 美品",
-        "priceRange": "10000—30000元",
-        "notes": ""
+        "variant": "宝巩局 当五百",
+        "description": "甘肃铸局",
+        "grade": "四级（罕） 美品",
+        "priceRange": "80,000—250,000元",
+        "notes": "宝巩当五百名品"
       },
       {
-        "variant": "宝泉局当千",
-        "description": "面值当千，直径约7.0厘米，为历代方孔铜钱中最大者，最为珍罕，重约50—100g",
-        "grade": "八级（较多） 美品",
-        "priceRange": "20000—50000元",
-        "notes": "历代方孔铜钱之冠"
+        "variant": "宝泉局 当千",
+        "description": "户部铸当千型，清代最大面值",
+        "grade": "四级（罕） 美品",
+        "priceRange": "50,000—150,000元",
+        "notes": "最大面值"
       },
       {
-        "variant": "宝泉局当千",
-        "description": "面值当千，直径约7.0厘米，为历代方孔铜钱中最大者，最为珍罕，重约50—100g",
-        "grade": "八级（较多） 极美品",
-        "priceRange": "50000—80000元",
-        "notes": ""
+        "variant": "宝泉局 当千",
+        "description": "户部铸",
+        "grade": "三级（罕贵） 极美品",
+        "priceRange": "150,000—500,000元",
+        "notes": "极美品"
       },
       {
-        "variant": "宝源局当千",
-        "description": "面值当千，直径约7.0厘米，为历代方孔铜钱中最大者，最为珍罕，重约50—100g",
-        "grade": "八级（较多） 美品",
-        "priceRange": "20000—50000元",
-        "notes": ""
+        "variant": "宝源局 当千",
+        "description": "工部铸当千型",
+        "grade": "四级（罕） 美品",
+        "priceRange": "50,000—120,000元",
+        "notes": "工部当千"
       },
       {
-        "variant": "宝巩局当千",
-        "description": "面值当千，直径约7.0厘米，为历代方孔铜钱中最大者，最为珍罕，重约50—100g",
-        "grade": "八级（较多） 美品",
-        "priceRange": "30000—80000元",
-        "notes": "铸量极少"
-      },
-      {
-        "variant": "宝福局当千",
-        "description": "面值当千，直径约7.0厘米，为历代方孔铜钱中最大者，最为珍罕，重约50—100g",
-        "grade": "八级（较多） 美品",
-        "priceRange": "30000—80000元",
-        "notes": "铸量极少"
-      },
-      {
-        "variant": "宝川局当千",
-        "description": "面值当千，直径约7.0厘米，为历代方孔铜钱中最大者，最为珍罕，重约50—100g",
-        "grade": "八级（较多） 美品",
-        "priceRange": "30000—80000元",
-        "notes": "铸量极少"
+        "variant": "宝巩局 当千",
+        "description": "甘肃铸局",
+        "grade": "三级（罕贵） 美品",
+        "priceRange": "150,000—400,000元",
+        "notes": "宝巩当千名品"
       },
       {
         "variant": "母钱",
-        "description": "当二百直径：约5.5厘米，当三百直径：约6.0厘米",
-        "grade": "二级（极罕） 美品以上",
-        "priceRange": "50000—150000元",
-        "notes": "存世极罕"
+        "description": "翻铸母钱",
+        "grade": "二级（珍） 美品以上",
+        "priceRange": "50,000—150,000元",
+        "notes": "母钱极罕"
       },
       {
         "variant": "雕母（祖钱）",
-        "description": "当二百直径：约5.5厘米，当三百直径：约6.0厘米",
-        "grade": "一级（孤品） 美品以上",
-        "priceRange": "200000—500000元",
-        "notes": "仅见数枚"
-      },
-      {
-        "variant": "当百",
-        "description": "面值当百，直径约5.0厘米，重约50—80克",
-        "grade": "八级（较多） 美品",
-        "priceRange": "200—800元",
-        "notes": "当百面值"
-      },
-      {
-        "variant": "当二百",
-        "description": "较少见，直径约5.5厘米",
-        "grade": "七级（较少） 美品",
-        "priceRange": "300—1,000元",
-        "notes": "当二百面值，较少见"
-      },
-      {
-        "variant": "当三百",
-        "description": "较少见，直径约6.0厘米",
-        "grade": "七级（较少） 美品",
-        "priceRange": "500—2,000元",
-        "notes": "当三百面值，较少见"
-      },
-      {
-        "variant": "当五百",
-        "description": "珍罕，直径约6.5厘米，重约45—90g",
-        "grade": "八级（较多） 美品",
-        "priceRange": "1,000—5,000元",
-        "notes": "当五百面值"
-      },
-      {
-        "variant": "当千",
-        "description": "面值当千，直径约7.0厘米，为历代方孔铜钱中最大者，最为珍罕，重约50—100g",
-        "grade": "八级（较多） 美品",
-        "priceRange": "2,000—10,000元",
-        "notes": "当千面值，名誉品"
-      },
-      {
-        "variant": "按面值分",
-        "description": "咸丰元宝面值从当百到当千，据《中国钱币大辞典》记载，主要面值有",
-        "grade": "八级（较多） 美品",
-        "priceRange": "200—1,000元",
-        "notes": "按面值区分"
-      },
-      {
-        "variant": "按铸局分",
-        "description": "咸丰元宝铸局众多，据《中国钱币大辞典》记载，中央有宝泉局（户部）、宝源局（工部），地方主要有宝巩（巩昌）、宝河（开封）、宝晋（太原）、宝陕（西安）、宝苏（苏州）、宝浙（杭州）、宝福（福州）、宝武（武昌）、宝昌（南昌）、宝川（成都）、宝云（云南）、宝黔（贵阳）、宝伊（伊犁）、阿克苏局、库车局、喀什噶尔局。其中宝泉局、宝源局、宝巩局、宝福局、宝川局铸行当千大钱",
-        "grade": "八级（较多） 美品",
-        "priceRange": "200—1,000元",
-        "notes": "按铸局区分"
-      },
-      {
-        "variant": "按材质分",
-        "description": "当二百直径：约5.5厘米，当三百直径：约6.0厘米",
-        "grade": "八级（较多） 美品",
-        "priceRange": "200—800元",
-        "notes": "按铜铁材质区分"
-      },
-      {
-        "variant": "铜质",
-        "description": "青铜为主，部分为黄铜",
-        "grade": "八级（较多） 美品",
-        "priceRange": "200—800元",
-        "notes": "铜质铸行"
-      },
-      {
-        "variant": "铁质",
-        "description": "较少见",
-        "grade": "七级（较少） 普品",
-        "priceRange": "50—200元",
-        "notes": "铁质铸行"
-      },
-      {
-        "variant": "宝泉局当千",
-        "description": "面值当千，直径约7.0厘米，为历代方孔铜钱中最大者，最为珍罕，重约50—100g",
-        "grade": "八级（较多） 美品",
-        "priceRange": "3,000—15,000元",
-        "notes": "宝泉局铸当千"
-      },
-      {
-        "variant": "宝源局当千",
-        "description": "面值当千，直径约7.0厘米，为历代方孔铜钱中最大者，最为珍罕，重约50—100g",
-        "grade": "八级（较多） 美品",
-        "priceRange": "3,000—15,000元",
-        "notes": "宝源局铸当千"
-      },
-      {
-        "variant": "宝巩局当千",
-        "description": "面值当千，直径约7.0厘米，为历代方孔铜钱中最大者，最为珍罕，重约50—100g",
-        "grade": "七级（较少） 美品",
-        "priceRange": "5,000—20,000元",
-        "notes": "宝巩局铸当千，较少见"
-      },
-      {
-        "variant": "宝福局当千",
-        "description": "面值当千，直径约7.0厘米，为历代方孔铜钱中最大者，最为珍罕，重约50—100g",
-        "grade": "七级（较少） 美品",
-        "priceRange": "5,000—20,000元",
-        "notes": "宝福局铸当千，较少见"
-      },
-      {
-        "variant": "宝川局当千",
-        "description": "面值当千，直径约7.0厘米，为历代方孔铜钱中最大者，最为珍罕，重约50—100g",
-        "grade": "七级（较少） 美品",
-        "priceRange": "5,000—20,000元",
-        "notes": "宝川局铸当千，较少见"
-      },
-      {
-        "variant": "宝泉局当五百",
-        "description": "珍罕，直径约6.5厘米，重约45—90g",
-        "grade": "八级（较多） 美品",
-        "priceRange": "2,000—10,000元",
-        "notes": "宝泉局铸当五百"
-      },
-      {
-        "variant": "宝源局当五百",
-        "description": "珍罕，直径约6.5厘米，重约45—90g",
-        "grade": "八级（较多） 美品",
-        "priceRange": "2,000—10,000元",
-        "notes": "宝源局铸当五百"
-      },
-      {
-        "variant": "克勤郡王当百",
-        "description": "面值当百，直径约5.0厘米，重约50—80克",
-        "grade": "八级（较多） 美品",
-        "priceRange": "500—2,000元",
-        "notes": "克勤郡王铸当百"
-      },
-      {
-        "variant": "特殊版别",
-        "description": "当二百直径：约5.5厘米，当三百直径：约6.0厘米",
-        "grade": "七级（较少） 极美品",
-        "priceRange": "1,000—5,000元",
-        "notes": "特殊版别，较少见"
-      },
-      {
-        "variant": "当百",
-        "description": "面值当百，直径约5.0厘米，重约50—80克",
-        "grade": "八级（较多） 美品",
-        "priceRange": "200—1,000元",
-        "notes": "八级（较多）"
-      },
-      {
-        "variant": "当二百",
-        "description": "较少见，直径约5.5厘米",
-        "grade": "七级（较少） 美品",
-        "priceRange": "500—3,000元",
-        "notes": "七级（较少）"
-      },
-      {
-        "variant": "当三百",
-        "description": "较少见，直径约6.0厘米",
-        "grade": "七级（较少） 美品",
-        "priceRange": "500—3,000元",
-        "notes": "七级（较少）"
-      },
-      {
-        "variant": "当五百",
-        "description": "珍罕，直径约6.5厘米，重约45—90g",
-        "grade": "八级（较多） 美品",
-        "priceRange": "300—1,500元",
-        "notes": "八级（较多）"
-      },
-      {
-        "variant": "当千",
-        "description": "面值当千，直径约7.0厘米，为历代方孔铜钱中最大者，最为珍罕，重约50—100g",
-        "grade": "八级（较多） 美品",
-        "priceRange": "500—3,000元",
-        "notes": "八级（较多）"
-      },
-      {
-        "variant": "特殊品类",
-        "description": "当二百直径：约5.5厘米，当三百直径：约6.0厘米",
-        "grade": "八级（较多） 美品",
-        "priceRange": "2,000—20,000元",
-        "notes": "八级（较多）"
-      },
-      {
-        "variant": "宝泉局当千",
-        "description": "面值当千，直径约7.0厘米，为历代方孔铜钱中最大者，最为珍罕，重约50—100g",
-        "grade": "八级（较多） 美品",
-        "priceRange": "1,000—5,000元",
-        "notes": "八级（较多）"
-      },
-      {
-        "variant": "宝源局当千",
-        "description": "面值当千，直径约7.0厘米，为历代方孔铜钱中最大者，最为珍罕，重约50—100g",
-        "grade": "八级（较多） 美品",
-        "priceRange": "1,000—5,000元",
-        "notes": "八级（较多）"
-      },
-      {
-        "variant": "宝巩局当千",
-        "description": "面值当千，直径约7.0厘米，为历代方孔铜钱中最大者，最为珍罕，重约50—100g",
-        "grade": "八级（较多） 美品",
-        "priceRange": "2,000—8,000元",
-        "notes": "八级（较多）"
-      },
-      {
-        "variant": "宝福局当千",
-        "description": "面值当千，直径约7.0厘米，为历代方孔铜钱中最大者，最为珍罕，重约50—100g",
-        "grade": "八级（较多） 美品",
-        "priceRange": "1,500—5,000元",
-        "notes": "八级（较多）"
-      },
-      {
-        "variant": "宝川局当千",
-        "description": "面值当千，直径约7.0厘米，为历代方孔铜钱中最大者，最为珍罕，重约50—100g",
-        "grade": "八级（较多） 美品",
-        "priceRange": "1,500—5,000元",
-        "notes": "八级（较多）"
-      },
-      {
-        "variant": "宝泉局当五百",
-        "description": "珍罕，直径约6.5厘米，重约45—90g",
-        "grade": "八级（较多） 美品",
-        "priceRange": "800—3,000元",
-        "notes": "八级（较多）"
-      },
-      {
-        "variant": "宝源局当五百",
-        "description": "珍罕，直径约6.5厘米，重约45—90g",
-        "grade": "八级（较多） 美品",
-        "priceRange": "800—3,000元",
-        "notes": "八级（较多）"
-      },
-      {
-        "variant": "克勤郡王当百",
-        "description": "面值当百，直径约5.0厘米，重约50—80克",
-        "grade": "二级（极罕） 极美品",
-        "priceRange": "100,000—500,000元",
-        "notes": "二级（极罕）"
-      },
-      {
-        "variant": "特殊品类",
-        "description": "当二百直径：约5.5厘米，当三百直径：约6.0厘米",
-        "grade": "二级（极罕） 极美品",
-        "priceRange": "3,000—20,000元",
-        "notes": "特殊品类，极为珍贵"
+        "description": "手工精雕母钱",
+        "grade": "一级（大珍） 美品以上",
+        "priceRange": "200,000—500,000元",
+        "notes": "祖钱极罕"
       }
-    ]
+    ],
+    "reverseFeatures": "- 背面铸纪值（如\"当百\"\"当五百\"\"当千\"）及满文纪局"
   },
   "20-11": {
     "castingTime": "清穆宗载淳祺祥年号（公元1861年），年号仅存69天。",
@@ -2827,11 +1382,12 @@
       {
         "variant": "地方局",
         "description": "背满文纪局（极少见）",
-        "grade": "六级（少） 美品",
+        "grade": "六级（稀） 美品",
         "priceRange": "80000—150000元",
         "notes": "极少见"
       }
-    ]
+    ],
+    "reverseFeatures": "- 背面满文纪局"
   },
   "20-12": {
     "castingTime": "清穆宗载淳祺祥年号（公元1861年），年号仅存69天。",
@@ -2848,7 +1404,7 @@
       {
         "variant": "宝泉局",
         "description": "背\"当十\"及满文\"宝泉\"",
-        "grade": "二级（极罕） 美品",
+        "grade": "二级（珍） 美品",
         "priceRange": "100000—200000元",
         "notes": "存世极罕"
       },
@@ -2866,7 +1422,8 @@
         "priceRange": "5,000—15,000元",
         "notes": "宝源局铸行"
       }
-    ]
+    ],
+    "reverseFeatures": "- 背面铸\"当十\"及满文纪局"
   },
   "20-13": {
     "castingTime": "清穆宗载淳同治年间（公元1862年—1874年）。",
@@ -2893,40 +1450,69 @@
     "variantsTable": [
       {
         "variant": "宝泉局",
-        "description": "背满文\"宝泉\"",
-        "grade": "八级（较多） 普品",
-        "priceRange": "10—30元",
-        "notes": ""
+        "description": "户部中央局，背面满文\"宝泉\"",
+        "grade": "九级（多） 普品",
+        "priceRange": "5—15元",
+        "notes": "较常见"
       },
       {
         "variant": "宝泉局",
-        "description": "背满文\"宝泉\"",
-        "grade": "八级（较多） 美品",
-        "priceRange": "30—80元",
-        "notes": ""
+        "description": "户部中央局",
+        "grade": "九级（多） 美品",
+        "priceRange": "15—50元",
+        "notes": "品相上佳"
       },
       {
         "variant": "宝源局",
-        "description": "背满文\"宝源\"",
-        "grade": "八级（较多） 美品",
-        "priceRange": "30—80元",
-        "notes": ""
+        "description": "工部中央局",
+        "grade": "九级（多） 普品",
+        "priceRange": "5—15元",
+        "notes": "工部铸"
       },
       {
-        "variant": "地方局（常见）",
-        "description": "背满文纪局",
+        "variant": "宝源局",
+        "description": "工部中央局",
         "grade": "九级（多） 美品",
-        "priceRange": "30—100元",
-        "notes": ""
+        "priceRange": "15—50元",
+        "notes": "品相上佳"
       },
       {
-        "variant": "地方局（少见）",
-        "description": "背满文纪局",
-        "grade": "六级（少） 美品",
-        "priceRange": "100—200元",
-        "notes": ""
+        "variant": "宝苏局",
+        "description": "苏州铸局",
+        "grade": "八级（较多） 美品",
+        "priceRange": "20—80元",
+        "notes": "江苏铸"
+      },
+      {
+        "variant": "宝浙局",
+        "description": "浙江铸局",
+        "grade": "八级（较多） 美品",
+        "priceRange": "20—60元",
+        "notes": "浙江铸"
+      },
+      {
+        "variant": "宝云局",
+        "description": "云南铸局",
+        "grade": "八级（较多） 美品",
+        "priceRange": "15—50元",
+        "notes": "云南铸"
+      },
+      {
+        "variant": "母钱",
+        "description": "翻铸母钱",
+        "grade": "六级（稀） 美品以上",
+        "priceRange": "3,000—10,000元",
+        "notes": "母钱稀少"
+      },
+      {
+        "variant": "雕母（祖钱）",
+        "description": "手工精雕母钱",
+        "grade": "一级（大珍） 美品以上",
+        "priceRange": "50,000—150,000元",
+        "notes": "祖钱极罕"
       }
-    ]
+    ],
+    "reverseFeatures": "- 背面满文纪局"
   },
   "20-14": {
     "castingTime": "清穆宗载淳同治年间（公元1862年—1874年）。",
@@ -2964,11 +1550,12 @@
       {
         "variant": "地方局",
         "description": "较少见",
-        "grade": "七级（较少） 美品",
+        "grade": "七级（甚少） 美品",
         "priceRange": "500—3000元",
         "notes": ""
       }
-    ]
+    ],
+    "reverseFeatures": "- 背面铸\"当十\"及满文纪局"
   },
   "20-15": {
     "castingTime": "清德宗载湉光绪年间（公元1875年—1908年）。",
@@ -2995,40 +1582,76 @@
     "variantsTable": [
       {
         "variant": "宝泉局",
-        "description": "背满文\"宝泉\"（翻砂铸造）",
-        "grade": "八级（较多） 普品",
-        "priceRange": "5—15元",
-        "notes": ""
+        "description": "户部中央局，背面满文\"宝泉\"",
+        "grade": "九级（多） 普品",
+        "priceRange": "3—10元",
+        "notes": "较常见"
       },
       {
         "variant": "宝泉局",
-        "description": "背满文\"宝泉\"（翻砂铸造）",
-        "grade": "八级（较多） 美品",
-        "priceRange": "15—50元",
-        "notes": ""
-      },
-      {
-        "variant": "机制版",
-        "description": "机器铸造，工艺精整",
-        "grade": "八级（较多） 美品",
-        "priceRange": "30—100元",
-        "notes": "工艺精整"
-      },
-      {
-        "variant": "宝源局版",
-        "description": "背满文\"宝源\"（翻砂铸造）",
-        "grade": "八级（较多） 普品",
+        "description": "户部中央局",
+        "grade": "九级（多） 美品",
         "priceRange": "10—30元",
-        "notes": "宝源局铸行"
+        "notes": "品相上佳"
       },
       {
-        "variant": "地方局版",
-        "description": "背满文纪局",
+        "variant": "宝源局",
+        "description": "工部中央局",
+        "grade": "九级（多） 普品",
+        "priceRange": "5—15元",
+        "notes": "工部铸"
+      },
+      {
+        "variant": "宝源局",
+        "description": "工部中央局",
+        "grade": "九级（多） 美品",
+        "priceRange": "10—30元",
+        "notes": "品相上佳"
+      },
+      {
+        "variant": "宝苏局",
+        "description": "苏州铸局",
         "grade": "八级（较多） 美品",
-        "priceRange": "20—80元",
-        "notes": "地方局铸行"
+        "priceRange": "10—50元",
+        "notes": "江苏铸"
+      },
+      {
+        "variant": "宝浙局",
+        "description": "浙江铸局",
+        "grade": "八级（较多） 美品",
+        "priceRange": "10—40元",
+        "notes": "浙江铸"
+      },
+      {
+        "variant": "宝广局（机制币）",
+        "description": "广东铸局机制币",
+        "grade": "七级（甚少） 美品",
+        "priceRange": "50—200元",
+        "notes": "机制币版"
+      },
+      {
+        "variant": "机制铜元版",
+        "description": "光绪后期机制铜元",
+        "grade": "八级（较多） 美品",
+        "priceRange": "10—50元",
+        "notes": "机制铜元"
+      },
+      {
+        "variant": "母钱",
+        "description": "翻铸母钱",
+        "grade": "六级（稀） 美品以上",
+        "priceRange": "3,000—10,000元",
+        "notes": "母钱稀少"
+      },
+      {
+        "variant": "雕母（祖钱）",
+        "description": "手工精雕母钱",
+        "grade": "一级（大珍） 美品以上",
+        "priceRange": "50,000—150,000元",
+        "notes": "祖钱极罕"
       }
-    ]
+    ],
+    "reverseFeatures": "- 背面满文纪局"
   },
   "20-16": {
     "castingTime": "清德宗载湉光绪年间（公元1875年—1908年）。",
@@ -3059,11 +1682,12 @@
       {
         "variant": "当十（少见局）",
         "description": "背\"当十\"及满文纪局，直径：约3.3厘米，重约15—25g",
-        "grade": "六级（少） 美品",
+        "grade": "六级（稀） 美品",
         "priceRange": "500—3000元",
         "notes": ""
       }
-    ]
+    ],
+    "reverseFeatures": "- 背面铸\"当五\"或\"当十\"及满文纪局"
   },
   "20-17": {
     "castingTime": "清末帝溥仪宣统年间（公元1909年—1911年）。",
@@ -3095,33 +1719,41 @@
     "variantsTable": [
       {
         "variant": "宝泉局",
-        "description": "背满文\"宝泉\"",
-        "grade": "八级（较多） 普品",
+        "description": "户部中央局，背面满文\"宝泉\"",
+        "grade": "九级（多） 普品",
         "priceRange": "10—30元",
-        "notes": ""
+        "notes": "末代钱币"
       },
       {
         "variant": "宝泉局",
-        "description": "背满文\"宝泉\"",
-        "grade": "八级（较多） 美品",
-        "priceRange": "30—60元",
-        "notes": ""
+        "description": "户部中央局",
+        "grade": "九级（多） 美品",
+        "priceRange": "30—80元",
+        "notes": "品相上佳"
       },
       {
-        "variant": "机制版",
-        "description": "机器铸造",
-        "grade": "八级（较多） 美品",
-        "priceRange": "30—100元",
-        "notes": ""
+        "variant": "宝源局",
+        "description": "工部中央局",
+        "grade": "九级（多） 美品",
+        "priceRange": "30—80元",
+        "notes": "工部铸"
       },
       {
-        "variant": "宝源局版",
-        "description": "背满文\"宝源\"",
-        "grade": "八级（较多） 美品",
-        "priceRange": "30—100元",
-        "notes": "宝源局铸行"
+        "variant": "宝广局（机制币）",
+        "description": "广东铸局机制币",
+        "grade": "七级（甚少） 美品",
+        "priceRange": "100—300元",
+        "notes": "机制币版"
+      },
+      {
+        "variant": "母钱",
+        "description": "翻铸母钱",
+        "grade": "六级（稀） 美品以上",
+        "priceRange": "5,000—15,000元",
+        "notes": "母钱稀少"
       }
-    ]
+    ],
+    "reverseFeatures": "- 背面满文纪局"
   },
   "20-18": {
     "castingTime": "清末帝溥仪宣统年间（公元1909年—1911年）。",
@@ -3170,7 +1802,8 @@
         "priceRange": "2000—5000元",
         "notes": ""
       }
-    ]
+    ],
+    "reverseFeatures": "- 背面铸蟠龙图案及英文"
   },
   "20-19": {
     "castingTime": "清末宣统三年（公元1911年）。",
@@ -3226,11 +1859,12 @@
       {
         "variant": "反龙",
         "description": "背面蟠龙朝向相反",
-        "grade": "七级（较少） 美品",
+        "grade": "七级（甚少） 美品",
         "priceRange": "5000—15000元",
         "notes": "较少见"
       }
-    ]
+    ],
+    "reverseFeatures": "- 背面铸蟠龙图案及英文\"TAI-CHING-TI-KUO SILVER COIN\""
   },
   "20-20": {
     "castingTime": "清德宗载湉光绪二十六年（公元1900年）始铸。",
@@ -3284,7 +1918,7 @@
       {
         "variant": "少见省份当十",
         "description": "铜元直径：约2.8厘米，重约7克",
-        "grade": "六级（少） 美品",
+        "grade": "六级（稀） 美品",
         "priceRange": "50—500元",
         "notes": ""
       },
@@ -3295,6 +1929,7 @@
         "priceRange": "20—200元",
         "notes": ""
       }
-    ]
+    ],
+    "reverseFeatures": "- 背面铸蟠龙图案"
   }
 }

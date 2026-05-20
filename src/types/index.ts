@@ -34,6 +34,7 @@ export interface CoinDetail {
   material: string;
   dimensions: string;
   obverseFeatures: string;
+  reverseFeatures: string;
   castingCraft: string;
   coreBackground: string;
   variantsTable: VariantTableRow[];
@@ -52,6 +53,9 @@ export interface Coin {
 export interface DynastyData {
   dynasty: string;
   dynastyIndex: number;
+  dynastyPeriod: string;
+  dynastyStartYear: number | null;
+  dynastyEndYear: number | null;
   coins: Coin[];
 }
 
