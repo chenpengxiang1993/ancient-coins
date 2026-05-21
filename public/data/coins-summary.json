@@ -2,9 +2,6 @@
   {
     "dynasty": "先秦钱币",
     "dynastyIndex": 0,
-    "dynastyPeriod": "约前1600年—前221年",
-    "dynastyStartYear": -1600,
-    "dynastyEndYear": -221,
     "coins": [
       {
         "id": "0-0",
@@ -17,7 +14,7 @@
           "ruler": "商王、周王",
           "coreFeatures": "中国最早金属铸币；仿天然海贝形态；青铜质地；正面凸起有齿槽纹；背面平夷；无文字",
           "estimatedValue": "800—3,000元",
-          "rarity": "七级（甚少）",
+          "rarity": "七级 甚少",
           "thumbnail": "/images/coins/a-先秦钱币/无文铜贝/main.jpg"
         }
       },
@@ -32,7 +29,7 @@
           "ruler": "周王",
           "coreFeatures": "铜贝外包裹金箔；高等级大额支付用币；金箔覆盖完整；纹路清晰；出土于贵族墓葬",
           "estimatedValue": "5,000—20,000元",
-          "rarity": "二级（珍）",
+          "rarity": "二级 珍",
           "thumbnail": "/images/coins/a-先秦钱币/包金铜贝/main.jpg"
         }
       },
@@ -47,7 +44,7 @@
           "ruler": "周王、晋侯",
           "coreFeatures": "仿农具铲形；銎部（中空柄腔）中空；平肩弧足；面文多为单字；出土于河南洛阳",
           "estimatedValue": "3,000—30,000元",
-          "rarity": "六级（稀）",
+          "rarity": "六级 稀",
           "thumbnail": "/images/coins/a-先秦钱币/平肩空首布/main.jpg"
         }
       },
@@ -62,7 +59,7 @@
           "ruler": "周王、晋侯",
           "coreFeatures": "仿农具铲形；銎部中空；斜肩弧足；面文有\"武\"\"卢氏\"\"三川\"；出土于周王室故地",
           "estimatedValue": "3,000—20,000元",
-          "rarity": "六级（稀）",
+          "rarity": "六级 稀",
           "thumbnail": "/images/coins/a-先秦钱币/斜肩空首布/main.jpg"
         }
       },
@@ -77,7 +74,7 @@
           "ruler": "晋侯",
           "coreFeatures": "仿农具铲形；銎部中空；耸肩尖足；体型较大；多出土于山西南部晋国故地",
           "estimatedValue": "5,000—40,000元",
-          "rarity": "五级（稀贵）",
+          "rarity": "五级 稀贵",
           "thumbnail": "/images/coins/a-先秦钱币/耸肩空首布/main.jpg"
         }
       },
@@ -92,7 +89,7 @@
           "ruler": "周王",
           "coreFeatures": "布币原始形态；体大厚重；銎部中空但较浅；由实用农具向铸币过渡的中间形态",
           "estimatedValue": "5,000—50,000元",
-          "rarity": "四级（罕）",
+          "rarity": "四级 罕",
           "thumbnail": "/images/coins/a-先秦钱币/原始布/main.jpg"
         }
       },
@@ -107,7 +104,7 @@
           "ruler": "魏文侯",
           "coreFeatures": "双足弧形连接呈桥洞状；面文常含\"釿\"字纪重，如\"梁正尚百当寻釿\"\"安邑二釿\"；魏国主要铸币",
           "estimatedValue": "500—20,000元",
-          "rarity": "七级（甚少）",
+          "rarity": "七级 甚少",
           "thumbnail": "/images/coins/a-先秦钱币/桥足布钱/main.jpg"
         }
       },
@@ -122,7 +119,7 @@
           "ruler": "韩哀侯",
           "coreFeatures": "首部两角突出尖锐；面文有\"公\"\"鬲\"\"涅金\"\"卢氏\"；韩国特有布币",
           "estimatedValue": "2,000—30,000元",
-          "rarity": "六级（稀）",
+          "rarity": "六级 稀",
           "thumbnail": "/images/coins/a-先秦钱币/锐角布钱/main.jpg"
         }
       },
@@ -137,7 +134,7 @@
           "ruler": "赵烈侯",
           "coreFeatures": "首部有銎形凸起；双足尖锐；面文多铸地名称，如\"甘丹\"\"晋阳\"\"大阴\"；赵国主要铸币",
           "estimatedValue": "500—15,000元",
-          "rarity": "七级（甚少）",
+          "rarity": "七级 甚少",
           "thumbnail": "/images/coins/a-先秦钱币/尖足布钱/main.jpg"
         }
       },
@@ -152,7 +149,7 @@
           "ruler": "赵国",
           "coreFeatures": "介于尖足布与方足布之间的过渡型制；足部近方但略尖；面文为铸地名称",
           "estimatedValue": "1,000—10,000元",
-          "rarity": "六级（稀）",
+          "rarity": "六级 稀",
           "thumbnail": ""
         }
       },
@@ -167,7 +164,7 @@
           "ruler": "赵国",
           "coreFeatures": "介于尖足布与圆足布之间的过渡型制；足部近圆；面文为铸地名称",
           "estimatedValue": "1,000—10,000元",
-          "rarity": "六级（稀）",
+          "rarity": "六级 稀",
           "thumbnail": ""
         }
       },
@@ -182,7 +179,7 @@
           "ruler": "韩、赵、魏、燕",
           "coreFeatures": "首部平直；双足方正；流通范围最广的平首布；面文为铸地名称，如\"安阳\"\"平阳\"\"宅阳\"\"梁邑\"",
           "estimatedValue": "200—8,000元",
-          "rarity": "八级（较多）",
+          "rarity": "八级 少",
           "thumbnail": "/images/coins/a-先秦钱币/方足布钱/main.jpg"
         }
       },
@@ -197,7 +194,7 @@
           "ruler": "赵王、韩侯",
           "coreFeatures": "双足圆弧；面文有\"离石\"\"晋阳\"\"蔺\"\"大阴\"；体形规整；首部有孔",
           "estimatedValue": "2,000—30,000元",
-          "rarity": "六级（稀）",
+          "rarity": "六级 稀",
           "thumbnail": "/images/coins/a-先秦钱币/圆足布钱/main.jpg"
         }
       },
@@ -212,7 +209,7 @@
           "ruler": "赵王",
           "coreFeatures": "首部及双足各有一圆孔；面文为铸地名称；背文纪重\"两\"或\"十二朱\"；古泉大珍之一",
           "estimatedValue": "200,000—1,000,000元",
-          "rarity": "一级（大珍）",
+          "rarity": "一级 大珍（特珍）",
           "thumbnail": "/images/coins/a-先秦钱币/三孔布钱/main.jpg"
         }
       },
@@ -227,7 +224,7 @@
           "ruler": "燕侯",
           "coreFeatures": "刀首极窄如针尖；体型纤细；面文多为单字或符号；燕国早期刀币",
           "estimatedValue": "3,000—30,000元",
-          "rarity": "六级（稀）",
+          "rarity": "六级 稀",
           "thumbnail": ""
         }
       },
@@ -242,7 +239,7 @@
           "ruler": "燕侯",
           "coreFeatures": "刀首尖锐但较宽；面文多为数字或符号；体型较针首刀大；燕国早期刀币",
           "estimatedValue": "2,000—20,000元",
-          "rarity": "七级（甚少）",
+          "rarity": "七级 甚少",
           "thumbnail": "/images/coins/a-先秦钱币/尖首刀钱/main.jpg"
         }
       },
@@ -257,7 +254,7 @@
           "ruler": "燕王",
           "coreFeatures": "刀首被截去一段；由尖首刀截首改制而成；面文残缺；燕国特殊刀币",
           "estimatedValue": "3,000—20,000元",
-          "rarity": "六级（稀）",
+          "rarity": "六级 稀",
           "thumbnail": ""
         }
       },
@@ -272,7 +269,7 @@
           "ruler": "燕王",
           "coreFeatures": "燕国主要流通货币；面文\"明\"字（或释为\"匽\"\"易\"字）；刀身弧或微弧；出土数量较多",
           "estimatedValue": "200—3,000元",
-          "rarity": "九级（多）",
+          "rarity": "九级 较多",
           "thumbnail": "/images/coins/a-先秦钱币/明刀钱/main.jpg"
         }
       },
@@ -287,7 +284,7 @@
           "ruler": "赵王",
           "coreFeatures": "赵国铸行；刀身较直；体型较小；面文有\"甘丹\"\"白人\"\"城白\"",
           "estimatedValue": "2,000—20,000元",
-          "rarity": "六级（稀）",
+          "rarity": "六级 稀",
           "thumbnail": "/images/coins/a-先秦钱币/直刀钱/main.jpg"
         }
       },
@@ -302,7 +299,7 @@
           "ruler": "齐侯、齐王",
           "coreFeatures": "仿刀削工具形态；体型较大；面文多含\"法化\"二字，如\"齐建邦长法化\"\"齐法化\"\"即墨法化\"；铸造精整",
           "estimatedValue": "5,000—50,000元",
-          "rarity": "五级（稀贵）",
+          "rarity": "五级 稀贵",
           "thumbnail": "/images/coins/a-先秦钱币/齐刀钱/main.jpg"
         }
       },
@@ -317,7 +314,7 @@
           "ruler": "周王、魏侯、秦王",
           "coreFeatures": "圆形圆孔或方孔；体形较小；铸行于周、魏、秦、赵四国；为秦半两前身",
           "estimatedValue": "2,000—40,000元",
-          "rarity": "六级（稀）",
+          "rarity": "六级 稀",
           "thumbnail": "/images/coins/a-先秦钱币/圜钱/main.jpg"
         }
       },
@@ -332,7 +329,7 @@
           "ruler": "楚王",
           "coreFeatures": "楚国独立货币体系概览；涵盖铜贝（蚁鼻钱）、黄金称量货币（郢爰金版）、布币（殊布当釿、连布）三大类型",
           "estimatedValue": "100—20,000元",
-          "rarity": "七级（甚少）",
+          "rarity": "七级 甚少",
           "thumbnail": "/images/coins/a-先秦钱币/楚国铸币/main.jpg"
         }
       },
@@ -347,7 +344,7 @@
           "ruler": "楚王",
           "coreFeatures": "两枚布币首尾相连一体铸造；楚国特有形制；面文与殊布当釿相同",
           "estimatedValue": "5,000—30,000元",
-          "rarity": "六级（稀）",
+          "rarity": "六级 稀",
           "thumbnail": "/images/coins/a-先秦钱币/连布/main.jpg"
         }
       },
@@ -362,7 +359,7 @@
           "ruler": "楚王",
           "coreFeatures": "俗称\"楚大布\"\"燕尾布\"；面文\"殊布当釿\"；长足宽肩；楚国大额铸币",
           "estimatedValue": "5,000—50,000元",
-          "rarity": "六级（稀）",
+          "rarity": "六级 稀",
           "thumbnail": ""
         }
       },
@@ -377,7 +374,7 @@
           "ruler": "楚王",
           "coreFeatures": "楚国铜贝；形似海贝缩小版；面文有\"紊\"字（俗称\"鬼脸钱\"）、\"全\"字、\"行\"字、\"贝\"字",
           "estimatedValue": "100—2,000元",
-          "rarity": "九级（多）",
+          "rarity": "九级 较多",
           "thumbnail": "/images/coins/a-先秦钱币/蚁鼻钱/main.jpg"
         }
       },
@@ -392,7 +389,7 @@
           "ruler": "楚王",
           "coreFeatures": "楚国黄金称量货币；金版上打印\"郢爰\"方印；可切割使用；中国最早金币之一",
           "estimatedValue": "按克计价，每克约800—1,500元",
-          "rarity": "四级（罕）",
+          "rarity": "四级 罕",
           "thumbnail": "/images/coins/a-先秦钱币/郢爰金版/main.jpg"
         }
       },
@@ -407,7 +404,7 @@
           "ruler": "商王、周王",
           "coreFeatures": "仿鱼形态；青铜质地；鱼身有鳞纹；背部有穿孔；极为罕见；出土于四川、云南地区",
           "estimatedValue": "10,000—80,000元",
-          "rarity": "三级（罕贵）",
+          "rarity": "三级 罕贵",
           "thumbnail": ""
         }
       },
@@ -422,7 +419,7 @@
           "ruler": "巴国",
           "coreFeatures": "桥形仿桥梁形态；弧形条状；两端有孔；巴国地方铸币；出土于巴蜀地区",
           "estimatedValue": "5,000—30,000元",
-          "rarity": "五级（稀贵）",
+          "rarity": "五级 稀贵",
           "thumbnail": ""
         }
       },
@@ -437,7 +434,7 @@
           "ruler": "秦王",
           "coreFeatures": "圆形方孔；面文\"半两\"二字为小篆；重十二铢（约8克）；秦始皇统一全国货币的原型",
           "estimatedValue": "2,000—50,000元",
-          "rarity": "六级（稀）",
+          "rarity": "六级 稀",
           "thumbnail": "/images/coins/a-先秦钱币/半两钱/main.jpg"
         }
       }
@@ -446,9 +443,6 @@
   {
     "dynasty": "秦钱币",
     "dynastyIndex": 1,
-    "dynastyPeriod": "前221年—前207年",
-    "dynastyStartYear": -221,
-    "dynastyEndYear": -207,
     "coins": [
       {
         "id": "1-0",
@@ -460,8 +454,8 @@
           "historicalPeriod": "秦朝（前221年—前206年）",
           "ruler": "秦始皇嬴政",
           "coreFeatures": "统一全国货币；圆形方孔；重十二铢（约8g）；面文\"半两\"为小篆；秦始皇统一货币标志",
-          "estimatedValue": "300-20,000元",
-          "rarity": "八级（较多）",
+          "estimatedValue": "300—5,000元",
+          "rarity": "七级 甚少",
           "thumbnail": "/images/coins/b-秦钱币/秦半两钱/main.jpg"
         }
       },
@@ -475,8 +469,8 @@
           "historicalPeriod": "战国晚期—秦朝",
           "ruler": "秦王",
           "coreFeatures": "圆形方孔；面文\"两甾\"；秦制重量单位；铸行时间短；存世较少",
-          "estimatedValue": "50,000-300,000元",
-          "rarity": "三级（罕）",
+          "estimatedValue": "15,000—80,000元",
+          "rarity": "四级 罕",
           "thumbnail": ""
         }
       },
@@ -490,8 +484,8 @@
           "historicalPeriod": "战国晚期（秦）",
           "ruler": "秦相吕不韦",
           "coreFeatures": "圆形方孔；面文\"文信\"；吕不韦封文信侯时所铸；存世稀少",
-          "estimatedValue": "300,000-1,000,000元",
-          "rarity": "二级（珍）",
+          "estimatedValue": "30,000—80,000元",
+          "rarity": "四级 罕",
           "thumbnail": "/images/coins/b-秦钱币/文信钱/main.jpg"
         }
       },
@@ -505,8 +499,8 @@
           "historicalPeriod": "战国晚期（秦）",
           "ruler": "秦王",
           "coreFeatures": "圆形方孔；面文\"长安\"；秦国圜钱体系；存世稀少",
-          "estimatedValue": "200,000-800,000元",
-          "rarity": "二级（珍）",
+          "estimatedValue": "20,000—60,000元",
+          "rarity": "四级 罕",
           "thumbnail": ""
         }
       }
@@ -515,9 +509,6 @@
   {
     "dynasty": "汉代钱币",
     "dynastyIndex": 2,
-    "dynastyPeriod": "前202年—220年",
-    "dynastyStartYear": -202,
-    "dynastyEndYear": 220,
     "coins": [
       {
         "id": "2-0",
@@ -530,7 +521,7 @@
           "ruler": "汉高祖刘邦",
           "coreFeatures": "汉初因秦钱重难用而铸；极轻薄如榆荚；重约0.5—2g；民间私铸严重",
           "estimatedValue": "50—300元",
-          "rarity": "九级（多）",
+          "rarity": "九级 较多",
           "thumbnail": "/images/coins/c-汉代钱币/榆荚半两/main.jpg"
         }
       },
@@ -545,7 +536,7 @@
           "ruler": "吕后",
           "coreFeatures": "吕后二年铸；重八铢（约5.2g）；较榆荚半两加重",
           "estimatedValue": "200—1,500元",
-          "rarity": "八级（较多）",
+          "rarity": "八级 少",
           "thumbnail": "/images/coins/c-汉代钱币/八铢半两/main.jpg"
         }
       },
@@ -560,7 +551,7 @@
           "ruler": "吕后",
           "coreFeatures": "吕后六年铸；重五分（约2.3g）；面文仍为\"半两\"",
           "estimatedValue": "200—1,000元",
-          "rarity": "八级（较多）",
+          "rarity": "八级 少",
           "thumbnail": "/images/coins/c-汉代钱币/五分钱/main.jpg"
         }
       },
@@ -575,7 +566,7 @@
           "ruler": "汉文帝刘恒",
           "coreFeatures": "文帝五年铸；重四铢（约2.6g）；面文\"半两\"；允许民间铸币",
           "estimatedValue": "100—800元",
-          "rarity": "八级（较多）",
+          "rarity": "八级 少",
           "thumbnail": "/images/coins/c-汉代钱币/四铢半两/main.jpg"
         }
       },
@@ -589,8 +580,8 @@
           "historicalPeriod": "西汉（前140年）",
           "ruler": "汉武帝刘彻",
           "coreFeatures": "武帝建元元年铸；重三铢；面文\"三铢\"；行用时间极短",
-          "estimatedValue": "1,000-10,000元",
-          "rarity": "六级（稀）",
+          "estimatedValue": "1,000—8,000元",
+          "rarity": "五级 稀贵",
           "thumbnail": "/images/coins/c-汉代钱币/三铢钱/main.jpg"
         }
       },
@@ -604,8 +595,8 @@
           "historicalPeriod": "西汉（前119年）",
           "ruler": "汉武帝刘彻",
           "coreFeatures": "武帝元狩四年铸；银锡合金；龙币、马币、龟币三等；虚值大钱",
-          "estimatedValue": "300,000-2,000,000元",
-          "rarity": "二级（珍）",
+          "estimatedValue": "5,000—50,000元",
+          "rarity": "四级 罕",
           "thumbnail": ""
         }
       },
@@ -620,7 +611,7 @@
           "ruler": "汉武帝刘彻",
           "coreFeatures": "武帝元狩五年铸；令郡国铸五铢钱；重五铢（约3.5g）；面文\"五铢\"",
           "estimatedValue": "20—200元",
-          "rarity": "十级（多泛）",
+          "rarity": "十级 多泛",
           "thumbnail": "/images/coins/c-汉代钱币/郡国五铢/main.jpg"
         }
       },
@@ -635,7 +626,7 @@
           "ruler": "汉武帝刘彻",
           "coreFeatures": "武帝元鼎二年铸；以赤铜为廓；铸工精整；一当郡国五铢五枚",
           "estimatedValue": "500—3,000元",
-          "rarity": "七级（甚少）",
+          "rarity": "七级 甚少",
           "thumbnail": "/images/coins/c-汉代钱币/赤仄五铢/main.jpg"
         }
       },
@@ -650,7 +641,7 @@
           "ruler": "汉武帝刘彻",
           "coreFeatures": "武帝元鼎四年铸；由上林三官统一铸造；铸工精整规范；终结民间铸币",
           "estimatedValue": "15—150元",
-          "rarity": "十级（多泛）",
+          "rarity": "十级 多泛",
           "thumbnail": "/images/coins/c-汉代钱币/上林三官五铢/main.jpg"
         }
       },
@@ -665,7 +656,7 @@
           "ruler": "汉昭帝刘弗陵",
           "coreFeatures": "昭帝时期铸行五铢钱；铸工尚可；与武帝五铢风格接近",
           "estimatedValue": "10—100元",
-          "rarity": "十级（多泛）",
+          "rarity": "十级 多泛",
           "thumbnail": "/images/coins/c-汉代钱币/昭帝五铢/main.jpg"
         }
       },
@@ -680,7 +671,7 @@
           "ruler": "汉宣帝刘询",
           "coreFeatures": "宣帝时期铸行；铸工最精；\"五\"字交笔弯曲较大",
           "estimatedValue": "10—100元",
-          "rarity": "十级（多泛）",
+          "rarity": "十级 多泛",
           "thumbnail": "/images/coins/c-汉代钱币/宣帝五铢/main.jpg"
         }
       },
@@ -695,7 +686,7 @@
           "ruler": "西汉晚期帝",
           "coreFeatures": "体形极小；直径约1.1—1.3cm；可能为冥币或辅币",
           "estimatedValue": "200—2,000元",
-          "rarity": "八级（较多）",
+          "rarity": "七级 甚少",
           "thumbnail": "/images/coins/c-汉代钱币/小五铢/main.jpg"
         }
       },
@@ -710,7 +701,7 @@
           "ruler": "光武帝刘秀",
           "coreFeatures": "光武帝建武十六年铸；面文\"五铢\"；重约3.5g；恢复五铢制度",
           "estimatedValue": "15—150元",
-          "rarity": "十级（多泛）",
+          "rarity": "十级 多泛",
           "thumbnail": "/images/coins/c-汉代钱币/建武五铢/main.jpg"
         }
       },
@@ -725,7 +716,7 @@
           "ruler": "东汉诸帝",
           "coreFeatures": "东汉中后期铸行；质量参差；后期减重严重",
           "estimatedValue": "10—100元",
-          "rarity": "十级（多泛）",
+          "rarity": "十级 多泛",
           "thumbnail": "/images/coins/c-汉代钱币/东汉五铢/main.jpg"
         }
       },
@@ -740,7 +731,7 @@
           "ruler": "汉灵帝刘宏",
           "coreFeatures": "灵帝中平三年铸；背面穿孔四角各有一道凸线延伸至外廓",
           "estimatedValue": "20—200元",
-          "rarity": "九级（多）",
+          "rarity": "九级 较多",
           "thumbnail": "/images/coins/c-汉代钱币/中平四出五铢/main.jpg"
         }
       },
@@ -755,7 +746,7 @@
           "ruler": "民间私剪",
           "coreFeatures": "将五铢钱边缘剪下一圈以私铸；钱体变小变轻",
           "estimatedValue": "10—100元",
-          "rarity": "十级（多泛）",
+          "rarity": "十级 多泛",
           "thumbnail": "/images/coins/c-汉代钱币/剪边五铢/main.jpg"
         }
       },
@@ -770,7 +761,7 @@
           "ruler": "民间私剪",
           "coreFeatures": "仅保留五铢钱外缘一圈；内芯另铸小钱；严重破坏币制",
           "estimatedValue": "30—300元",
-          "rarity": "九级（多）",
+          "rarity": "九级 较多",
           "thumbnail": "/images/coins/c-汉代钱币/綖环五铢/main.jpg"
         }
       },
@@ -785,7 +776,7 @@
           "ruler": "董卓",
           "coreFeatures": "董卓铸行；极轻薄粗糙；破坏了五铢钱制度",
           "estimatedValue": "50—500元",
-          "rarity": "九级（多）",
+          "rarity": "九级 较多",
           "thumbnail": ""
         }
       }
@@ -794,9 +785,6 @@
   {
     "dynasty": "新莽钱币",
     "dynastyIndex": 3,
-    "dynastyPeriod": "9年—23年",
-    "dynastyStartYear": 9,
-    "dynastyEndYear": 23,
     "coins": [
       {
         "id": "3-0",
@@ -809,7 +797,7 @@
           "ruler": "王莽",
           "coreFeatures": "面文\"大泉五十\"；悬针篆；重十二铢；当五十枚五铢；虚值大钱",
           "estimatedValue": "30—500元",
-          "rarity": "九级（多）",
+          "rarity": "九级 较多",
           "thumbnail": "/images/coins/d-新莽钱币/大泉五十/main.jpg"
         }
       },
@@ -824,7 +812,7 @@
           "ruler": "王莽",
           "coreFeatures": "刀环方孔圆钱形；面文\"契刀五百\"；当五百枚五铢",
           "estimatedValue": "2,000—15,000元",
-          "rarity": "六级（稀）",
+          "rarity": "六级 稀",
           "thumbnail": "/images/coins/d-新莽钱币/契刀五百/main.jpg"
         }
       },
@@ -838,8 +826,8 @@
           "historicalPeriod": "新莽居摄二年（7年）",
           "ruler": "王莽",
           "coreFeatures": "刀形；\"一刀\"二字嵌金（错金）；当五千枚五铢；中国古泉名珍",
-          "estimatedValue": "50,000—500,000元",
-          "rarity": "二级（珍）",
+          "estimatedValue": "30,000—200,000元",
+          "rarity": "二级 珍",
           "thumbnail": "/images/coins/d-新莽钱币/一刀平五千/main.jpg"
         }
       },
@@ -854,7 +842,7 @@
           "ruler": "王莽",
           "coreFeatures": "面文\"小泉直一\"；重一铢；\"泉货六品\"最小者",
           "estimatedValue": "50—500元",
-          "rarity": "九级（多）",
+          "rarity": "九级 较多",
           "thumbnail": "/images/coins/d-新莽钱币/小泉直一/main.jpg"
         }
       },
@@ -869,7 +857,7 @@
           "ruler": "王莽",
           "coreFeatures": "面文\"幺泉一十\"；重三铢；泉货六品之一",
           "estimatedValue": "3,000—20,000元",
-          "rarity": "五级（稀贵）",
+          "rarity": "五级 稀贵",
           "thumbnail": "/images/coins/d-新莽钱币/幺泉一十/main.jpg"
         }
       },
@@ -884,7 +872,7 @@
           "ruler": "王莽",
           "coreFeatures": "面文\"幼泉二十\"；重五铢；泉货六品之一",
           "estimatedValue": "3,000—20,000元",
-          "rarity": "五级（稀贵）",
+          "rarity": "五级 稀贵",
           "thumbnail": "/images/coins/d-新莽钱币/幼泉二十/main.jpg"
         }
       },
@@ -899,7 +887,7 @@
           "ruler": "王莽",
           "coreFeatures": "面文\"中泉三十\"；重七铢；泉货六品之一",
           "estimatedValue": "5,000—30,000元",
-          "rarity": "五级（稀贵）",
+          "rarity": "五级 稀贵",
           "thumbnail": "/images/coins/d-新莽钱币/中泉三十/main.jpg"
         }
       },
@@ -913,8 +901,8 @@
           "historicalPeriod": "新莽始建国元年（9年）",
           "ruler": "王莽",
           "coreFeatures": "面文\"壮泉四十\"；重九铢；泉货六品中最珍稀者",
-          "estimatedValue": "100,000—2,000,000元",
-          "rarity": "一级（大珍）",
+          "estimatedValue": "15,000—80,000元",
+          "rarity": "一级 大珍",
           "thumbnail": "/images/coins/d-新莽钱币/壮泉四十/main.jpg"
         }
       },
@@ -929,7 +917,7 @@
           "ruler": "王莽",
           "coreFeatures": "布币形制；面文\"小布一百\"；布货十品之一",
           "estimatedValue": "2,000—10,000元",
-          "rarity": "六级（稀）",
+          "rarity": "六级 稀",
           "thumbnail": "/images/coins/d-新莽钱币/小布一百/main.jpg"
         }
       },
@@ -944,7 +932,7 @@
           "ruler": "王莽",
           "coreFeatures": "布币形制；面文\"幺布二百\"；布货十品之一",
           "estimatedValue": "2,000—10,000元",
-          "rarity": "六级（稀）",
+          "rarity": "六级 稀",
           "thumbnail": "/images/coins/d-新莽钱币/幺布二百/main.jpg"
         }
       },
@@ -959,7 +947,7 @@
           "ruler": "王莽",
           "coreFeatures": "布币形制；面文\"幼布三百\"；布货十品之一",
           "estimatedValue": "2,000—10,000元",
-          "rarity": "六级（稀）",
+          "rarity": "六级 稀",
           "thumbnail": "/images/coins/d-新莽钱币/幼布三百/main.jpg"
         }
       },
@@ -974,7 +962,7 @@
           "ruler": "王莽",
           "coreFeatures": "布币形制；面文\"序布四百\"；布货十品之一",
           "estimatedValue": "3,000—15,000元",
-          "rarity": "五级（稀贵）",
+          "rarity": "五级 稀贵",
           "thumbnail": "/images/coins/d-新莽钱币/序布四百/main.jpg"
         }
       },
@@ -989,7 +977,7 @@
           "ruler": "王莽",
           "coreFeatures": "布币形制；面文\"差布五百\"；布货十品之一",
           "estimatedValue": "3,000—15,000元",
-          "rarity": "五级（稀贵）",
+          "rarity": "五级 稀贵",
           "thumbnail": "/images/coins/d-新莽钱币/差布五百/main.jpg"
         }
       },
@@ -1004,7 +992,7 @@
           "ruler": "王莽",
           "coreFeatures": "布币形制；面文\"中布六百\"；布货十品之一",
           "estimatedValue": "3,000—15,000元",
-          "rarity": "五级（稀贵）",
+          "rarity": "五级 稀贵",
           "thumbnail": "/images/coins/d-新莽钱币/中布六百/main.jpg"
         }
       },
@@ -1019,7 +1007,7 @@
           "ruler": "王莽",
           "coreFeatures": "布币形制；面文\"壮布七百\"；布货十品之一",
           "estimatedValue": "3,000—15,000元",
-          "rarity": "五级（稀贵）",
+          "rarity": "五级 稀贵",
           "thumbnail": "/images/coins/d-新莽钱币/壮布七百/main.jpg"
         }
       },
@@ -1034,7 +1022,7 @@
           "ruler": "王莽",
           "coreFeatures": "布币形制；面文\"第布八百\"；布货十品之一",
           "estimatedValue": "3,000—15,000元",
-          "rarity": "五级（稀贵）",
+          "rarity": "五级 稀贵",
           "thumbnail": "/images/coins/d-新莽钱币/第布八百/main.jpg"
         }
       },
@@ -1049,7 +1037,7 @@
           "ruler": "王莽",
           "coreFeatures": "布币形制；面文\"次布九百\"；布货十品之一",
           "estimatedValue": "3,000—15,000元",
-          "rarity": "五级（稀贵）",
+          "rarity": "五级 稀贵",
           "thumbnail": "/images/coins/d-新莽钱币/次布九百/main.jpg"
         }
       },
@@ -1064,7 +1052,7 @@
           "ruler": "王莽",
           "coreFeatures": "布币形制；面文\"大布黄千\"；当一千枚五铢",
           "estimatedValue": "300—3,000元",
-          "rarity": "七级（甚少）",
+          "rarity": "七级 甚少",
           "thumbnail": "/images/coins/d-新莽钱币/大布黄千/main.jpg"
         }
       },
@@ -1079,7 +1067,7 @@
           "ruler": "王莽",
           "coreFeatures": "布币形制；面文\"货布\"；悬针篆；铸工极精",
           "estimatedValue": "200—2,000元",
-          "rarity": "八级（较多）",
+          "rarity": "八级 少",
           "thumbnail": "/images/coins/d-新莽钱币/货布钱/main.jpg"
         }
       },
@@ -1094,7 +1082,7 @@
           "ruler": "王莽",
           "coreFeatures": "圆形方孔；面文\"货泉\"；重五铢；新莽晚期主要流通货币",
           "estimatedValue": "10—200元",
-          "rarity": "九级（多）",
+          "rarity": "九级 较多",
           "thumbnail": "/images/coins/d-新莽钱币/货泉钱/main.jpg"
         }
       },
@@ -1109,7 +1097,7 @@
           "ruler": "王莽",
           "coreFeatures": "圆形方孔；面文\"布泉\"；悬针篆；铸工极精",
           "estimatedValue": "200—2,000元",
-          "rarity": "八级（较多）",
+          "rarity": "八级 少",
           "thumbnail": "/images/coins/d-新莽钱币/布泉-新莽/main.jpg"
         }
       },
@@ -1124,7 +1112,7 @@
           "ruler": "王莽",
           "coreFeatures": "面文\"国宝金匮直万\"；上部方孔圆钱，下部方形；存世极罕",
           "estimatedValue": "500,000—2,000,000元",
-          "rarity": "一级（大珍）",
+          "rarity": "一级 大珍",
           "thumbnail": "/images/coins/d-新莽钱币/国宝金匮直万/main.jpg"
         }
       }
@@ -1133,9 +1121,6 @@
   {
     "dynasty": "三国钱币",
     "dynastyIndex": 4,
-    "dynastyPeriod": "220年—280年",
-    "dynastyStartYear": 220,
-    "dynastyEndYear": 280,
     "coins": [
       {
         "id": "4-0",
@@ -1148,7 +1133,7 @@
           "ruler": "魏文帝曹丕",
           "coreFeatures": "沿用汉代五铢钱制；铸工较粗；\"五\"字交笔弯曲",
           "estimatedValue": "20—300元",
-          "rarity": "九级（多）",
+          "rarity": "九级 较多",
           "thumbnail": "/images/coins/e-三国钱币/魏五铢/main.jpg"
         }
       },
@@ -1163,7 +1148,7 @@
           "ruler": "昭烈帝刘备",
           "coreFeatures": "面文\"五铢\"；体形较小；\"五\"字交笔较直；蜀汉政权铸行",
           "estimatedValue": "30—500元",
-          "rarity": "九级（多）",
+          "rarity": "九级 较多",
           "thumbnail": "/images/coins/e-三国钱币/蜀五铢/main.jpg"
         }
       },
@@ -1178,7 +1163,7 @@
           "ruler": "昭烈帝刘备",
           "coreFeatures": "面文\"直百五铢\"；一当百枚五铢；虚值大钱；背有\"为\"字者为犍为郡铸",
           "estimatedValue": "100—3,000元",
-          "rarity": "八级（较多）",
+          "rarity": "八级 少",
           "thumbnail": "/images/coins/e-三国钱币/直百五铢/main.jpg"
         }
       },
@@ -1193,7 +1178,7 @@
           "ruler": "蜀汉",
           "coreFeatures": "面文\"太平百钱\"；一当百枚五铢；铸行时间较长",
           "estimatedValue": "50—500元",
-          "rarity": "八级（较多）",
+          "rarity": "八级 少",
           "thumbnail": "/images/coins/e-三国钱币/太平百钱/main.jpg"
         }
       },
@@ -1208,7 +1193,7 @@
           "ruler": "蜀汉",
           "coreFeatures": "面文\"世平百钱\"；一当百枚五铢；存世较少",
           "estimatedValue": "500—5,000元",
-          "rarity": "六级（稀）",
+          "rarity": "六级 稀",
           "thumbnail": ""
         }
       },
@@ -1223,7 +1208,7 @@
           "ruler": "蜀汉",
           "coreFeatures": "面文\"直一\"；小型辅币；铸工较粗",
           "estimatedValue": "30—300元",
-          "rarity": "九级（多）",
+          "rarity": "九级 较多",
           "thumbnail": "/images/coins/e-三国钱币/直一钱/main.jpg"
         }
       },
@@ -1238,7 +1223,7 @@
           "ruler": "蜀汉",
           "coreFeatures": "面文\"直百\"；一当百枚五铢；小型虚值钱",
           "estimatedValue": "50—500元",
-          "rarity": "八级（较多）",
+          "rarity": "八级 少",
           "thumbnail": "/images/coins/e-三国钱币/直百钱/main.jpg"
         }
       },
@@ -1253,7 +1238,7 @@
           "ruler": "蜀汉",
           "coreFeatures": "面文\"定平一百\"；一当百枚五铢；存世较少",
           "estimatedValue": "200—2,000元",
-          "rarity": "七级（甚少）",
+          "rarity": "七级 甚少",
           "thumbnail": "/images/coins/e-三国钱币/定平一百/main.jpg"
         }
       },
@@ -1268,7 +1253,7 @@
           "ruler": "大帝孙权",
           "coreFeatures": "面文\"大泉五百\"；一当五百枚五铢；虚值大钱",
           "estimatedValue": "300—3,000元",
-          "rarity": "七级（甚少）",
+          "rarity": "七级 甚少",
           "thumbnail": "/images/coins/e-三国钱币/大泉五百/main.jpg"
         }
       },
@@ -1283,7 +1268,7 @@
           "ruler": "大帝孙权",
           "coreFeatures": "面文\"大泉当千\"；一当千枚五铢；虚值大钱；铸工较精",
           "estimatedValue": "300—8,000元",
-          "rarity": "七级（甚少）",
+          "rarity": "七级 甚少",
           "thumbnail": "/images/coins/e-三国钱币/大泉当千/main.jpg"
         }
       },
@@ -1298,7 +1283,7 @@
           "ruler": "大帝孙权",
           "coreFeatures": "面文\"大泉二千\"；一当二千枚五铢；存世稀少",
           "estimatedValue": "3,000—30,000元",
-          "rarity": "五级（稀贵）",
+          "rarity": "五级 稀贵",
           "thumbnail": "/images/coins/e-三国钱币/大泉二千/main.jpg"
         }
       },
@@ -1313,7 +1298,7 @@
           "ruler": "大帝孙权",
           "coreFeatures": "面文\"大泉五千\"；一当五千枚五铢；存世极罕；古泉名珍",
           "estimatedValue": "30,000—200,000元",
-          "rarity": "二级（珍）",
+          "rarity": "二级 珍",
           "thumbnail": "/images/coins/e-三国钱币/大泉五千/main.jpg"
         }
       }
@@ -1322,9 +1307,6 @@
   {
     "dynasty": "两晋十六国钱币",
     "dynastyIndex": 5,
-    "dynastyPeriod": "265年—439年",
-    "dynastyStartYear": 265,
-    "dynastyEndYear": 439,
     "coins": [
       {
         "id": "5-0",
@@ -1337,7 +1319,7 @@
           "ruler": "沈充（民间铸行）",
           "coreFeatures": "沿用五铢钱制；传为沈充所铸；体形较小；\"五\"字交笔较直",
           "estimatedValue": "100—1,500元",
-          "rarity": "七级（甚少）",
+          "rarity": "七级 甚少",
           "thumbnail": "/images/coins/f-两晋十六国钱币/沈郎五铢/main.jpg"
         }
       },
@@ -1352,7 +1334,7 @@
           "ruler": "张轨",
           "coreFeatures": "面文\"凉造新泉\"；前凉政权铸行；圆形方孔；存世较少",
           "estimatedValue": "3,000—30,000元",
-          "rarity": "五级（稀贵）",
+          "rarity": "五级 稀贵",
           "thumbnail": "/images/coins/f-两晋十六国钱币/凉造新泉/main.jpg"
         }
       },
@@ -1367,7 +1349,7 @@
           "ruler": "李寿",
           "coreFeatures": "面文\"汉兴\"；中国最早的年号钱；直读或横读",
           "estimatedValue": "500—5,000元",
-          "rarity": "六级（稀）",
+          "rarity": "六级 稀",
           "thumbnail": "/images/coins/f-两晋十六国钱币/汉兴钱/main.jpg"
         }
       },
@@ -1382,7 +1364,7 @@
           "ruler": "石勒",
           "coreFeatures": "面文\"丰货\"；后赵政权铸行；有篆书、隶书两种",
           "estimatedValue": "500—5,000元",
-          "rarity": "六级（稀）",
+          "rarity": "六级 稀",
           "thumbnail": "/images/coins/f-两晋十六国钱币/丰货钱/main.jpg"
         }
       },
@@ -1397,175 +1379,28 @@
           "ruler": "赫连勃勃",
           "coreFeatures": "面文\"太夏真兴\"；大夏政权铸行；国号兼年号钱；存世极罕",
           "estimatedValue": "30,000—200,000元",
-          "rarity": "二级（珍）",
+          "rarity": "二级 珍",
           "thumbnail": "/images/coins/f-两晋十六国钱币/太夏真兴/main.jpg"
         }
       }
     ]
   },
   {
-    "dynasty": "北朝钱币",
-    "dynastyIndex": 6,
-    "dynastyPeriod": "386年—581年",
-    "dynastyStartYear": 386,
-    "dynastyEndYear": 581,
-    "coins": [
-      {
-        "id": "7-0",
-        "name": "太和五铢",
-        "dynasty": "北朝钱币",
-        "dynastyIndex": 6,
-        "summary": {
-          "name": "太和五铢",
-          "historicalPeriod": "北魏太和十九年（495年）",
-          "ruler": "孝文帝拓跋宏",
-          "coreFeatures": "面文\"太和五铢\"；北魏首次铸币；篆书；铸工较粗",
-          "estimatedValue": "200—3,000元",
-          "rarity": "七级（甚少）",
-          "thumbnail": "/images/coins/h-北朝钱币/太和五铢/main.jpg"
-        }
-      },
-      {
-        "id": "7-1",
-        "name": "永平五铢",
-        "dynasty": "北朝钱币",
-        "dynastyIndex": 6,
-        "summary": {
-          "name": "永平五铢",
-          "historicalPeriod": "北魏永平三年（510年）",
-          "ruler": "宣武帝元恪",
-          "coreFeatures": "面文\"五铢\"；永平年间铸行；铸工较太和五铢精",
-          "estimatedValue": "50—500元",
-          "rarity": "八级（较多）",
-          "thumbnail": "/images/coins/h-北朝钱币/永平五铢/main.jpg"
-        }
-      },
-      {
-        "id": "7-2",
-        "name": "永安五铢",
-        "dynasty": "北朝钱币",
-        "dynastyIndex": 6,
-        "summary": {
-          "name": "永安五铢",
-          "historicalPeriod": "北魏永安二年（529年）",
-          "ruler": "孝庄帝元子攸",
-          "coreFeatures": "面文\"永安五铢\"；以年号入面文；铸工较精",
-          "estimatedValue": "50—500元",
-          "rarity": "八级（较多）",
-          "thumbnail": "/images/coins/h-北朝钱币/永安五铢/main.jpg"
-        }
-      },
-      {
-        "id": "7-3",
-        "name": "东魏五铢",
-        "dynasty": "北朝钱币",
-        "dynastyIndex": 6,
-        "summary": {
-          "name": "东魏五铢",
-          "historicalPeriod": "东魏（534年—550年）",
-          "ruler": "东魏诸帝",
-          "coreFeatures": "面文\"五铢\"；沿北魏五铢制度；铸工尚可",
-          "estimatedValue": "30—300元",
-          "rarity": "九级（多）",
-          "thumbnail": "/images/coins/h-北朝钱币/东魏五铢/main.jpg"
-        }
-      },
-      {
-        "id": "7-4",
-        "name": "大统五铢",
-        "dynasty": "北朝钱币",
-        "dynastyIndex": 6,
-        "summary": {
-          "name": "大统五铢",
-          "historicalPeriod": "西魏大统六年（540年）",
-          "ruler": "西魏文帝元宝炬",
-          "coreFeatures": "面文\"五铢\"；西魏铸行；铸工较精",
-          "estimatedValue": "50—500元",
-          "rarity": "八级（较多）",
-          "thumbnail": "/images/coins/h-北朝钱币/大统五铢/main.jpg"
-        }
-      },
-      {
-        "id": "7-5",
-        "name": "常平五铢",
-        "dynasty": "北朝钱币",
-        "dynastyIndex": 6,
-        "summary": {
-          "name": "常平五铢",
-          "historicalPeriod": "北齐天保四年（553年）",
-          "ruler": "文宣帝高洋",
-          "coreFeatures": "面文\"常平五铢\"；铸工极精；北齐标准货币",
-          "estimatedValue": "50—800元",
-          "rarity": "八级（较多）",
-          "thumbnail": "/images/coins/h-北朝钱币/常平五铢/main.jpg"
-        }
-      },
-      {
-        "id": "7-6",
-        "name": "布泉-北周",
-        "dynasty": "北朝钱币",
-        "dynastyIndex": 6,
-        "summary": {
-          "name": "布泉-北周",
-          "historicalPeriod": "北周保定元年（561年）",
-          "ruler": "周明帝宇文毓",
-          "coreFeatures": "面文\"布泉\"；玉箸篆；铸工极精；与五行大布、永通万国并称\"北周三品\"",
-          "estimatedValue": "200—2,000元",
-          "rarity": "八级（较多）",
-          "thumbnail": "/images/coins/h-北朝钱币/布泉-北周/main.jpg"
-        }
-      },
-      {
-        "id": "7-7",
-        "name": "五行大布",
-        "dynasty": "北朝钱币",
-        "dynastyIndex": 6,
-        "summary": {
-          "name": "五行大布",
-          "historicalPeriod": "北周建德三年（574年）",
-          "ruler": "周武帝宇文邕",
-          "coreFeatures": "面文\"五行大布\"；玉箸篆；以一当十枚布泉；北周三品之一",
-          "estimatedValue": "50—500元",
-          "rarity": "八级（较多）",
-          "thumbnail": "/images/coins/h-北朝钱币/五行大布/main.jpg"
-        }
-      },
-      {
-        "id": "7-8",
-        "name": "永通万国",
-        "dynasty": "北朝钱币",
-        "dynastyIndex": 6,
-        "summary": {
-          "name": "永通万国",
-          "historicalPeriod": "北周大象元年（579年）",
-          "ruler": "周宣帝宇文赟",
-          "coreFeatures": "面文\"永通万国\"；玉箸篆；铸工极精；北周三品之冠",
-          "estimatedValue": "200—3,000元",
-          "rarity": "七级（甚少）",
-          "thumbnail": "/images/coins/h-北朝钱币/永通万国/main.jpg"
-        }
-      }
-    ]
-  },
-  {
     "dynasty": "南朝钱币",
-    "dynastyIndex": 7,
-    "dynastyPeriod": "420年—589年",
-    "dynastyStartYear": 420,
-    "dynastyEndYear": 589,
+    "dynastyIndex": 6,
     "coins": [
       {
         "id": "6-0",
         "name": "元嘉四铢",
         "dynasty": "南朝钱币",
-        "dynastyIndex": 7,
+        "dynastyIndex": 6,
         "summary": {
           "name": "元嘉四铢",
           "historicalPeriod": "南朝宋（447年）",
           "ruler": "宋文帝刘义隆",
           "coreFeatures": "面文\"四铢\"；南朝宋恢复铸币之始；重四铢",
           "estimatedValue": "100—1,000元",
-          "rarity": "八级（较多）",
+          "rarity": "八级 少",
           "thumbnail": "/images/coins/g-南朝钱币/元嘉四铢/main.jpg"
         }
       },
@@ -1573,14 +1408,14 @@
         "id": "6-1",
         "name": "四铢钱",
         "dynasty": "南朝钱币",
-        "dynastyIndex": 7,
+        "dynastyIndex": 6,
         "summary": {
           "name": "四铢钱",
           "historicalPeriod": "南朝宋（454年前后）",
           "ruler": "宋孝武帝刘骏",
           "coreFeatures": "面文\"四铢\"；沿元嘉四铢制度；铸工较精",
           "estimatedValue": "50—500元",
-          "rarity": "八级（较多）",
+          "rarity": "八级 少",
           "thumbnail": "/images/coins/g-南朝钱币/四铢钱/main.jpg"
         }
       },
@@ -1588,14 +1423,14 @@
         "id": "6-2",
         "name": "孝建四铢",
         "dynasty": "南朝钱币",
-        "dynastyIndex": 7,
+        "dynastyIndex": 6,
         "summary": {
           "name": "孝建四铢",
           "historicalPeriod": "南朝宋（454年）",
           "ruler": "宋孝武帝刘骏",
           "coreFeatures": "面文\"孝建\"；以年号为面文；重四铢；南朝名品",
           "estimatedValue": "50—800元",
-          "rarity": "八级（较多）",
+          "rarity": "八级 少",
           "thumbnail": "/images/coins/g-南朝钱币/孝建四铢/main.jpg"
         }
       },
@@ -1603,14 +1438,14 @@
         "id": "6-3",
         "name": "大明四铢",
         "dynasty": "南朝钱币",
-        "dynastyIndex": 7,
+        "dynastyIndex": 6,
         "summary": {
           "name": "大明四铢",
           "historicalPeriod": "南朝宋（457年—464年）",
           "ruler": "宋孝武帝刘骏",
           "coreFeatures": "面文\"大明\"；以年号为面文；存世较少",
           "estimatedValue": "200—2,000元",
-          "rarity": "七级（甚少）",
+          "rarity": "七级 甚少",
           "thumbnail": "/images/coins/g-南朝钱币/大明四铢/main.jpg"
         }
       },
@@ -1618,14 +1453,14 @@
         "id": "6-4",
         "name": "两铢钱",
         "dynasty": "南朝钱币",
-        "dynastyIndex": 7,
+        "dynastyIndex": 6,
         "summary": {
           "name": "两铢钱",
           "historicalPeriod": "南朝宋（465年）",
           "ruler": "宋前废帝刘子业",
           "coreFeatures": "面文\"两铢\"；重仅二铢；极轻薄",
           "estimatedValue": "200—2,000元",
-          "rarity": "七级（甚少）",
+          "rarity": "七级 甚少",
           "thumbnail": "/images/coins/g-南朝钱币/两铢钱/main.jpg"
         }
       },
@@ -1633,14 +1468,14 @@
         "id": "6-5",
         "name": "永光钱",
         "dynasty": "南朝钱币",
-        "dynastyIndex": 7,
+        "dynastyIndex": 6,
         "summary": {
           "name": "永光钱",
           "historicalPeriod": "南朝宋（465年）",
           "ruler": "宋前废帝刘子业",
           "coreFeatures": "面文\"永光\"；以年号为面文；铸行仅数月；存世稀少",
           "estimatedValue": "3,000—30,000元",
-          "rarity": "五级（稀贵）",
+          "rarity": "五级 稀贵",
           "thumbnail": "/images/coins/g-南朝钱币/永光钱/main.jpg"
         }
       },
@@ -1648,14 +1483,14 @@
         "id": "6-6",
         "name": "景和钱",
         "dynasty": "南朝钱币",
-        "dynastyIndex": 7,
+        "dynastyIndex": 6,
         "summary": {
           "name": "景和钱",
           "historicalPeriod": "南朝宋（465年）",
           "ruler": "宋前废帝刘子业",
           "coreFeatures": "面文\"景和\"；以年号为面文；铸行仅数月；存世稀少",
           "estimatedValue": "3,000—30,000元",
-          "rarity": "五级（稀贵）",
+          "rarity": "五级 稀贵",
           "thumbnail": "/images/coins/g-南朝钱币/景和钱/main.jpg"
         }
       },
@@ -1663,14 +1498,14 @@
         "id": "6-7",
         "name": "天监五铢",
         "dynasty": "南朝钱币",
-        "dynastyIndex": 7,
+        "dynastyIndex": 6,
         "summary": {
           "name": "天监五铢",
           "historicalPeriod": "南朝梁（502年）",
           "ruler": "梁武帝萧衍",
           "coreFeatures": "面文\"五铢\"；天监年间恢复铸币；铸工较精",
           "estimatedValue": "30—300元",
-          "rarity": "九级（多）",
+          "rarity": "九级 较多",
           "thumbnail": "/images/coins/g-南朝钱币/天监五铢/main.jpg"
         }
       },
@@ -1678,14 +1513,14 @@
         "id": "6-8",
         "name": "梁五铢",
         "dynasty": "南朝钱币",
-        "dynastyIndex": 7,
+        "dynastyIndex": 6,
         "summary": {
           "name": "梁五铢",
           "historicalPeriod": "南朝梁（约502年—549年）",
           "ruler": "梁武帝萧衍",
           "coreFeatures": "面文\"五铢\"；南朝梁主要流通货币",
           "estimatedValue": "20—200元",
-          "rarity": "九级（多）",
+          "rarity": "九级 较多",
           "thumbnail": "/images/coins/g-南朝钱币/梁五铢/main.jpg"
         }
       },
@@ -1693,14 +1528,14 @@
         "id": "6-9",
         "name": "铁五铢-梁",
         "dynasty": "南朝钱币",
-        "dynastyIndex": 7,
+        "dynastyIndex": 6,
         "summary": {
           "name": "铁五铢-梁",
           "historicalPeriod": "南朝梁（约523年）",
           "ruler": "梁武帝萧衍",
           "coreFeatures": "铁质；面文\"五铢\"；以铁代铜；导致严重通胀",
           "estimatedValue": "20—200元",
-          "rarity": "九级（多）",
+          "rarity": "九级 较多",
           "thumbnail": "/images/coins/g-南朝钱币/铁五铢-梁/main.jpg"
         }
       },
@@ -1708,14 +1543,14 @@
         "id": "6-10",
         "name": "公式女钱",
         "dynasty": "南朝钱币",
-        "dynastyIndex": 7,
+        "dynastyIndex": 6,
         "summary": {
           "name": "公式女钱",
           "historicalPeriod": "南朝梁（约502年—549年）",
           "ruler": "梁武帝萧衍",
           "coreFeatures": "面文\"五铢\"；无外廓；官方规定标准的小型五铢",
           "estimatedValue": "30—300元",
-          "rarity": "八级（较多）",
+          "rarity": "八级 少",
           "thumbnail": "/images/coins/g-南朝钱币/公式女钱/main.jpg"
         }
       },
@@ -1723,14 +1558,14 @@
         "id": "6-11",
         "name": "太清丰乐",
         "dynasty": "南朝钱币",
-        "dynastyIndex": 7,
+        "dynastyIndex": 6,
         "summary": {
           "name": "太清丰乐",
           "historicalPeriod": "南朝梁（约547年—549年）",
           "ruler": "梁武帝萧衍",
           "coreFeatures": "面文\"太清丰乐\"；吉语钱；存世较少",
           "estimatedValue": "1,000—10,000元",
-          "rarity": "六级（稀）",
+          "rarity": "六级 稀",
           "thumbnail": "/images/coins/g-南朝钱币/太清丰乐/main.jpg"
         }
       },
@@ -1738,14 +1573,14 @@
         "id": "6-12",
         "name": "两柱五铢",
         "dynasty": "南朝钱币",
-        "dynastyIndex": 7,
+        "dynastyIndex": 6,
         "summary": {
           "name": "两柱五铢",
           "historicalPeriod": "南朝梁（约550年前后）",
           "ruler": "梁元帝萧绎",
           "coreFeatures": "面文\"五铢\"；正面穿上下各一道横纹（两柱）",
           "estimatedValue": "50—500元",
-          "rarity": "八级（较多）",
+          "rarity": "八级 少",
           "thumbnail": "/images/coins/g-南朝钱币/两柱五铢/main.jpg"
         }
       },
@@ -1753,14 +1588,14 @@
         "id": "6-13",
         "name": "四柱五铢",
         "dynasty": "南朝钱币",
-        "dynastyIndex": 7,
+        "dynastyIndex": 6,
         "summary": {
           "name": "四柱五铢",
           "historicalPeriod": "南朝梁（约550年前后）",
           "ruler": "梁元帝萧绎",
           "coreFeatures": "面文\"五铢\"；面背穿上下各一道横纹（共四柱）",
           "estimatedValue": "100—1,000元",
-          "rarity": "七级（甚少）",
+          "rarity": "七级 甚少",
           "thumbnail": "/images/coins/g-南朝钱币/四柱五铢/main.jpg"
         }
       },
@@ -1768,14 +1603,14 @@
         "id": "6-14",
         "name": "天嘉五铢",
         "dynasty": "南朝钱币",
-        "dynastyIndex": 7,
+        "dynastyIndex": 6,
         "summary": {
           "name": "天嘉五铢",
           "historicalPeriod": "南朝陈（560年）",
           "ruler": "陈文帝陈蒨",
           "coreFeatures": "面文\"五铢\"；天嘉年间铸行；铸工较精",
           "estimatedValue": "30—300元",
-          "rarity": "八级（较多）",
+          "rarity": "八级 少",
           "thumbnail": "/images/coins/g-南朝钱币/天嘉五铢/main.jpg"
         }
       },
@@ -1783,14 +1618,14 @@
         "id": "6-15",
         "name": "太货六铢",
         "dynasty": "南朝钱币",
-        "dynastyIndex": 7,
+        "dynastyIndex": 6,
         "summary": {
           "name": "太货六铢",
           "historicalPeriod": "南朝陈（579年）",
           "ruler": "陈宣帝陈顼",
           "coreFeatures": "面文\"太货六铢\"；玉箸篆；铸工极精；南朝名品",
           "estimatedValue": "200—5,000元",
-          "rarity": "七级（甚少）",
+          "rarity": "七级 甚少",
           "thumbnail": "/images/coins/g-南朝钱币/太货六铢/main.jpg"
         }
       },
@@ -1798,15 +1633,156 @@
         "id": "6-16",
         "name": "鹅眼钱",
         "dynasty": "南朝钱币",
-        "dynastyIndex": 7,
+        "dynastyIndex": 6,
         "summary": {
           "name": "鹅眼钱",
           "historicalPeriod": "南朝晚期",
           "ruler": "民间私铸",
           "coreFeatures": "体形极小如鹅眼；极轻薄；民间私铸",
           "estimatedValue": "20—200元",
-          "rarity": "九级（多）",
+          "rarity": "九级 较多",
           "thumbnail": "/images/coins/g-南朝钱币/鹅眼钱/main.jpg"
+        }
+      }
+    ]
+  },
+  {
+    "dynasty": "北朝钱币",
+    "dynastyIndex": 7,
+    "coins": [
+      {
+        "id": "7-0",
+        "name": "太和五铢",
+        "dynasty": "北朝钱币",
+        "dynastyIndex": 7,
+        "summary": {
+          "name": "太和五铢",
+          "historicalPeriod": "北魏太和十九年（495年）",
+          "ruler": "孝文帝拓跋宏",
+          "coreFeatures": "面文\"太和五铢\"；北魏首次铸币；篆书；铸工较粗",
+          "estimatedValue": "200—3,000元",
+          "rarity": "七级 甚少",
+          "thumbnail": "/images/coins/h-北朝钱币/太和五铢/main.jpg"
+        }
+      },
+      {
+        "id": "7-1",
+        "name": "永平五铢",
+        "dynasty": "北朝钱币",
+        "dynastyIndex": 7,
+        "summary": {
+          "name": "永平五铢",
+          "historicalPeriod": "北魏永平三年（510年）",
+          "ruler": "宣武帝元恪",
+          "coreFeatures": "面文\"五铢\"；永平年间铸行；铸工较太和五铢精",
+          "estimatedValue": "50—500元",
+          "rarity": "八级 少",
+          "thumbnail": "/images/coins/h-北朝钱币/永平五铢/main.jpg"
+        }
+      },
+      {
+        "id": "7-2",
+        "name": "永安五铢",
+        "dynasty": "北朝钱币",
+        "dynastyIndex": 7,
+        "summary": {
+          "name": "永安五铢",
+          "historicalPeriod": "北魏永安二年（529年）",
+          "ruler": "孝庄帝元子攸",
+          "coreFeatures": "面文\"永安五铢\"；以年号入面文；铸工较精",
+          "estimatedValue": "50—500元",
+          "rarity": "八级 少",
+          "thumbnail": "/images/coins/h-北朝钱币/永安五铢/main.jpg"
+        }
+      },
+      {
+        "id": "7-3",
+        "name": "东魏五铢",
+        "dynasty": "北朝钱币",
+        "dynastyIndex": 7,
+        "summary": {
+          "name": "东魏五铢",
+          "historicalPeriod": "东魏（534年—550年）",
+          "ruler": "东魏诸帝",
+          "coreFeatures": "面文\"五铢\"；沿北魏五铢制度；铸工尚可",
+          "estimatedValue": "30—300元",
+          "rarity": "九级 较多",
+          "thumbnail": "/images/coins/h-北朝钱币/东魏五铢/main.jpg"
+        }
+      },
+      {
+        "id": "7-4",
+        "name": "大统五铢",
+        "dynasty": "北朝钱币",
+        "dynastyIndex": 7,
+        "summary": {
+          "name": "大统五铢",
+          "historicalPeriod": "西魏大统六年（540年）",
+          "ruler": "西魏文帝元宝炬",
+          "coreFeatures": "面文\"五铢\"；西魏铸行；铸工较精",
+          "estimatedValue": "50—500元",
+          "rarity": "八级 少",
+          "thumbnail": "/images/coins/h-北朝钱币/大统五铢/main.jpg"
+        }
+      },
+      {
+        "id": "7-5",
+        "name": "常平五铢",
+        "dynasty": "北朝钱币",
+        "dynastyIndex": 7,
+        "summary": {
+          "name": "常平五铢",
+          "historicalPeriod": "北齐天保四年（553年）",
+          "ruler": "文宣帝高洋",
+          "coreFeatures": "面文\"常平五铢\"；铸工极精；北齐标准货币",
+          "estimatedValue": "50—800元",
+          "rarity": "八级 少",
+          "thumbnail": "/images/coins/h-北朝钱币/常平五铢/main.jpg"
+        }
+      },
+      {
+        "id": "7-6",
+        "name": "布泉-北周",
+        "dynasty": "北朝钱币",
+        "dynastyIndex": 7,
+        "summary": {
+          "name": "布泉-北周",
+          "historicalPeriod": "北周保定元年（561年）",
+          "ruler": "周明帝宇文毓",
+          "coreFeatures": "面文\"布泉\"；玉箸篆；铸工极精；与五行大布、永通万国并称\"北周三品\"",
+          "estimatedValue": "200—2,000元",
+          "rarity": "八级 少",
+          "thumbnail": "/images/coins/h-北朝钱币/布泉-北周/main.jpg"
+        }
+      },
+      {
+        "id": "7-7",
+        "name": "五行大布",
+        "dynasty": "北朝钱币",
+        "dynastyIndex": 7,
+        "summary": {
+          "name": "五行大布",
+          "historicalPeriod": "北周建德三年（574年）",
+          "ruler": "周武帝宇文邕",
+          "coreFeatures": "面文\"五行大布\"；玉箸篆；以一当十枚布泉；北周三品之一",
+          "estimatedValue": "50—500元",
+          "rarity": "八级 少",
+          "thumbnail": "/images/coins/h-北朝钱币/五行大布/main.jpg"
+        }
+      },
+      {
+        "id": "7-8",
+        "name": "永通万国",
+        "dynasty": "北朝钱币",
+        "dynastyIndex": 7,
+        "summary": {
+          "name": "永通万国",
+          "historicalPeriod": "北周大象元年（579年）",
+          "ruler": "周宣帝宇文赟",
+          "coreFeatures": "面文\"永通万国\"；玉箸篆；铸工极精；北周三品之冠",
+          "estimatedValue": "200—3,000元",
+          "rarity": "七级 甚少",
+          "thumbnail": "/images/coins/h-北朝钱币/永通万国/main.jpg"
         }
       }
     ]
@@ -1814,9 +1790,6 @@
   {
     "dynasty": "隋朝钱币",
     "dynastyIndex": 8,
-    "dynastyPeriod": "581年—618年",
-    "dynastyStartYear": 581,
-    "dynastyEndYear": 618,
     "coins": [
       {
         "id": "8-0",
@@ -1829,7 +1802,7 @@
           "ruler": "隋文帝杨坚",
           "coreFeatures": "面文\"五铢\"；\"五\"字交笔较直；统一南北货币；终结五铢钱制前最后一种五铢",
           "estimatedValue": "15—200元",
-          "rarity": "九级（多）",
+          "rarity": "九级 较多",
           "thumbnail": "/images/coins/i-隋朝钱币/隋五铢/main.jpg"
         }
       },
@@ -1844,7 +1817,7 @@
           "ruler": "隋炀帝杨广",
           "coreFeatures": "面文\"五铢\"；白铜质地；铜色泛白；隋末减重铸行",
           "estimatedValue": "30—300元",
-          "rarity": "八级（较多）",
+          "rarity": "八级 少",
           "thumbnail": "/images/coins/i-隋朝钱币/白钱-隋末/main.jpg"
         }
       }
@@ -1853,9 +1826,6 @@
   {
     "dynasty": "唐朝钱币",
     "dynastyIndex": 9,
-    "dynastyPeriod": "618年—907年",
-    "dynastyStartYear": 618,
-    "dynastyEndYear": 907,
     "coins": [
       {
         "id": "9-0",
@@ -1868,7 +1838,7 @@
           "ruler": "唐高祖李渊至唐哀帝李柷",
           "coreFeatures": "面文\"开元通宝\"，欧阳询书写楷书含隶意；终结五铢体制；开创通宝钱制；版别极多",
           "estimatedValue": "10—200元",
-          "rarity": "十级（多泛）",
+          "rarity": "十级 多泛",
           "thumbnail": "/images/coins/j-唐朝钱币/开元通宝/main.jpg"
         }
       },
@@ -1882,8 +1852,8 @@
           "historicalPeriod": "唐高宗乾封元年（公元666年）",
           "ruler": "唐高宗李治",
           "coreFeatures": "面文\"乾封泉宝\"；当十枚开元通宝；铸行仅一年即废；唐代最早年号钱",
-          "estimatedValue": "3,000—80,000元",
-          "rarity": "四级（罕）",
+          "estimatedValue": "2,000—15,000元",
+          "rarity": "四级 罕",
           "thumbnail": "/images/coins/j-唐朝钱币/乾封泉宝/main.jpg"
         }
       },
@@ -1898,7 +1868,7 @@
           "ruler": "唐肃宗李亨",
           "coreFeatures": "面文\"乾元重宝\"；当十枚开元通宝；安史之乱期间为筹军费而铸；有小平、折二、折三、折五、折十多种",
           "estimatedValue": "20—500元",
-          "rarity": "八级（较多）",
+          "rarity": "八级 少",
           "thumbnail": "/images/coins/j-唐朝钱币/乾元重宝/main.jpg"
         }
       },
@@ -1913,7 +1883,7 @@
           "ruler": "唐肃宗李亨",
           "coreFeatures": "背面重轮（双廓）；当五十枚开元通宝；虚币大钱；通货膨胀产物",
           "estimatedValue": "100—1,500元",
-          "rarity": "七级（甚少）",
+          "rarity": "七级 甚少",
           "thumbnail": "/images/coins/j-唐朝钱币/重轮乾元重宝/main.jpg"
         }
       },
@@ -1927,8 +1897,8 @@
           "historicalPeriod": "唐代宗大历年间（公元766—779年）",
           "ruler": "唐代宗李豫",
           "coreFeatures": "面文\"大历元宝\"；铸量较少；多出土于新疆地区；西域驻军铸行",
-          "estimatedValue": "500—20,000元",
-          "rarity": "六级（稀）",
+          "estimatedValue": "300—3,000元",
+          "rarity": "六级 稀",
           "thumbnail": "/images/coins/j-唐朝钱币/大历元宝/main.jpg"
         }
       },
@@ -1942,8 +1912,8 @@
           "historicalPeriod": "唐德宗建中年间（公元780—783年）",
           "ruler": "唐德宗李适",
           "coreFeatures": "面文\"建中通宝\"；铸行于西域地区；存世较少；唐代地方铸币",
-          "estimatedValue": "1,000—30,000元",
-          "rarity": "六级（稀）",
+          "estimatedValue": "500—5,000元",
+          "rarity": "六级 稀",
           "thumbnail": "/images/coins/j-唐朝钱币/建中通宝/main.jpg"
         }
       },
@@ -1958,7 +1928,7 @@
           "ruler": "唐武宗李炎",
           "coreFeatures": "背铸州名地名，共发现二十三种背字（昌、京、洛、益、蓝、襄、荆、越、宣、洪、潭、兖、润、鄂、平、兴、梁、广、梓、福、丹、桂、永）；毁佛铸钱",
           "estimatedValue": "20—500元",
-          "rarity": "九级（多）",
+          "rarity": "九级 较多",
           "thumbnail": "/images/coins/j-唐朝钱币/会昌开元/main.jpg"
         }
       },
@@ -1972,8 +1942,8 @@
           "historicalPeriod": "唐懿宗咸通十一年（公元870年）",
           "ruler": "唐懿宗李漼",
           "coreFeatures": "面文\"咸通玄宝\"；铸量极少；试铸性质；唐代稀有钱",
-          "estimatedValue": "50,000—500,000元",
-          "rarity": "一级（大珍）",
+          "estimatedValue": "5,000—30,000元",
+          "rarity": "一级 大珍（特珍）",
           "thumbnail": "/images/coins/j-唐朝钱币/咸通玄宝/main.jpg"
         }
       },
@@ -1988,7 +1958,7 @@
           "ruler": "史思明（安史之乱叛将）",
           "coreFeatures": "面文\"得壹元宝\"；史思明叛军铸行；铸行时间极短；以一当开元通宝百枚",
           "estimatedValue": "3,000—30,000元",
-          "rarity": "三级（罕贵）",
+          "rarity": "三级 罕贵",
           "thumbnail": ""
         }
       },
@@ -2003,7 +1973,7 @@
           "ruler": "史思明（安史之乱叛将）",
           "coreFeatures": "面文\"顺天元宝\"；史思明称帝后改铸；以一当开元通宝百枚；版别较得壹元宝多",
           "estimatedValue": "2,000—20,000元",
-          "rarity": "三级（罕贵）",
+          "rarity": "三级 罕贵",
           "thumbnail": ""
         }
       },
@@ -2018,7 +1988,7 @@
           "ruler": "唐代西域地方政权",
           "coreFeatures": "西域地区仿铸开元通宝及地方铸币；铸工粗率；面文简省或变异；多出土于新疆地区",
           "estimatedValue": "100—5,000元",
-          "rarity": "七级（甚少）",
+          "rarity": "七级 甚少",
           "thumbnail": "/images/coins/j-唐朝钱币/西域铸币/main.jpg"
         }
       }
@@ -2027,9 +1997,6 @@
   {
     "dynasty": "五代十国钱币",
     "dynastyIndex": 10,
-    "dynastyPeriod": "907年—979年",
-    "dynastyStartYear": 907,
-    "dynastyEndYear": 979,
     "coins": [
       {
         "id": "10-0",
@@ -2102,7 +2069,7 @@
           "ruler": "隐帝刘承祐",
           "coreFeatures": "面文\"汉元通宝\"，仿开元通宝风格",
           "estimatedValue": "100—1000元",
-          "rarity": "八级（较多）",
+          "rarity": "八级（少）",
           "thumbnail": "/images/coins/k-五代十国钱币/汉元通宝/main.jpg"
         }
       },
@@ -2117,7 +2084,7 @@
           "ruler": "世宗柴荣",
           "coreFeatures": "面文\"周元通宝\"，毁佛铸钱，铸工精整",
           "estimatedValue": "30—500元",
-          "rarity": "八级（较多）",
+          "rarity": "八级（少）",
           "thumbnail": "/images/coins/k-五代十国钱币/周元通宝/main.jpg"
         }
       },
@@ -2162,7 +2129,7 @@
           "ruler": "高祖王建",
           "coreFeatures": "面文\"天汉元宝\"，较少见",
           "estimatedValue": "200—2000元",
-          "rarity": "八级（较多）",
+          "rarity": "八级（少）",
           "thumbnail": "/images/coins/k-五代十国钱币/天汉元宝/main.jpg"
         }
       },
@@ -2177,7 +2144,7 @@
           "ruler": "高祖王建",
           "coreFeatures": "面文\"光天元宝\"，较少见",
           "estimatedValue": "200—2000元",
-          "rarity": "八级（较多）",
+          "rarity": "八级（少）",
           "thumbnail": "/images/coins/k-五代十国钱币/光天元宝/main.jpg"
         }
       },
@@ -2192,7 +2159,7 @@
           "ruler": "后主王衍",
           "coreFeatures": "面文\"乾德元宝\"，铸量稍多",
           "estimatedValue": "100—1000元",
-          "rarity": "八级（较多）",
+          "rarity": "八级（少）",
           "thumbnail": "/images/coins/k-五代十国钱币/乾德元宝/main.jpg"
         }
       },
@@ -2207,7 +2174,7 @@
           "ruler": "后主王衍",
           "coreFeatures": "面文\"咸康元宝\"，铸量稍多",
           "estimatedValue": "100—1000元",
-          "rarity": "八级（较多）",
+          "rarity": "八级（少）",
           "thumbnail": "/images/coins/k-五代十国钱币/咸康元宝/main.jpg"
         }
       },
@@ -2372,7 +2339,7 @@
           "ruler": "李璟",
           "coreFeatures": "面文\"唐国通宝\"，篆楷隶三体对钱",
           "estimatedValue": "20—300元",
-          "rarity": "八级（较多）",
+          "rarity": "八级（少）",
           "thumbnail": "/images/coins/k-五代十国钱币/唐国通宝/main.jpg"
         }
       },
@@ -2469,1760 +2436,14 @@
     ]
   },
   {
-    "dynasty": "北宋钱币",
-    "dynastyIndex": 11,
-    "dynastyPeriod": "960年—1127年",
-    "dynastyStartYear": 960,
-    "dynastyEndYear": 1127,
-    "coins": [
-      {
-        "id": "12-0",
-        "name": "宋元通宝",
-        "dynasty": "北宋钱币",
-        "dynastyIndex": 11,
-        "summary": {
-          "name": "宋元通宝",
-          "historicalPeriod": "北宋（960年）",
-          "ruler": "太祖赵匡胤",
-          "coreFeatures": "北宋开国钱，仿周元通宝风格",
-          "estimatedValue": "10—100元",
-          "rarity": "十级（多泛）",
-          "thumbnail": "/images/coins/m-北宋钱币/宋元通宝/main.jpg"
-        }
-      },
-      {
-        "id": "12-1",
-        "name": "太平通宝",
-        "dynasty": "北宋钱币",
-        "dynastyIndex": 11,
-        "summary": {
-          "name": "太平通宝",
-          "historicalPeriod": "北宋（976年）",
-          "ruler": "太宗赵光义",
-          "coreFeatures": "中国第一种年号钱",
-          "estimatedValue": "10—80元",
-          "rarity": "十级（多泛）",
-          "thumbnail": "/images/coins/m-北宋钱币/太平通宝/main.jpg"
-        }
-      },
-      {
-        "id": "12-2",
-        "name": "淳化元宝",
-        "dynasty": "北宋钱币",
-        "dynastyIndex": 11,
-        "summary": {
-          "name": "淳化元宝",
-          "historicalPeriod": "北宋（990年）",
-          "ruler": "太宗赵光义",
-          "coreFeatures": "中国最早御书钱，真行草三体",
-          "estimatedValue": "20—300元",
-          "rarity": "九级（多）",
-          "thumbnail": "/images/coins/m-北宋钱币/淳化元宝/main.jpg"
-        }
-      },
-      {
-        "id": "12-3",
-        "name": "至道元宝",
-        "dynasty": "北宋钱币",
-        "dynastyIndex": 11,
-        "summary": {
-          "name": "至道元宝",
-          "historicalPeriod": "北宋（995年）",
-          "ruler": "太宗赵光义",
-          "coreFeatures": "御书三体（真、行、草）",
-          "estimatedValue": "10—100元",
-          "rarity": "十级（多泛）",
-          "thumbnail": "/images/coins/m-北宋钱币/至道元宝/main.jpg"
-        }
-      },
-      {
-        "id": "12-4",
-        "name": "咸平元宝",
-        "dynasty": "北宋钱币",
-        "dynastyIndex": 11,
-        "summary": {
-          "name": "咸平元宝",
-          "historicalPeriod": "北宋（998年）",
-          "ruler": "真宗赵恒",
-          "coreFeatures": "楷书，铸量大",
-          "estimatedValue": "5—50元",
-          "rarity": "十级（多泛）",
-          "thumbnail": "/images/coins/m-北宋钱币/咸平元宝/main.jpg"
-        }
-      },
-      {
-        "id": "12-5",
-        "name": "景德元宝",
-        "dynasty": "北宋钱币",
-        "dynastyIndex": 11,
-        "summary": {
-          "name": "景德元宝",
-          "historicalPeriod": "北宋（1004年）",
-          "ruler": "真宗赵恒",
-          "coreFeatures": "楷书，铸量大",
-          "estimatedValue": "5—50元",
-          "rarity": "十级（多泛）",
-          "thumbnail": "/images/coins/m-北宋钱币/景德元宝/main.jpg"
-        }
-      },
-      {
-        "id": "12-6",
-        "name": "祥符通宝",
-        "dynasty": "北宋钱币",
-        "dynastyIndex": 11,
-        "summary": {
-          "name": "祥符通宝",
-          "historicalPeriod": "北宋（1008年）",
-          "ruler": "真宗赵恒",
-          "coreFeatures": "楷书，铸量大",
-          "estimatedValue": "5—50元",
-          "rarity": "十级（多泛）",
-          "thumbnail": "/images/coins/m-北宋钱币/祥符通宝/main.jpg"
-        }
-      },
-      {
-        "id": "12-7",
-        "name": "祥符元宝",
-        "dynasty": "北宋钱币",
-        "dynastyIndex": 11,
-        "summary": {
-          "name": "祥符元宝",
-          "historicalPeriod": "北宋（1008年）",
-          "ruler": "真宗赵恒",
-          "coreFeatures": "楷书，铸量大",
-          "estimatedValue": "5—50元",
-          "rarity": "十级（多泛）",
-          "thumbnail": "/images/coins/m-北宋钱币/祥符元宝/main.jpg"
-        }
-      },
-      {
-        "id": "12-8",
-        "name": "天禧通宝",
-        "dynasty": "北宋钱币",
-        "dynastyIndex": 11,
-        "summary": {
-          "name": "天禧通宝",
-          "historicalPeriod": "北宋（1017年）",
-          "ruler": "真宗赵恒",
-          "coreFeatures": "楷书，铸量大",
-          "estimatedValue": "5—50元",
-          "rarity": "十级（多泛）",
-          "thumbnail": "/images/coins/m-北宋钱币/天禧通宝/main.jpg"
-        }
-      },
-      {
-        "id": "12-9",
-        "name": "天圣元宝",
-        "dynasty": "北宋钱币",
-        "dynastyIndex": 11,
-        "summary": {
-          "name": "天圣元宝",
-          "historicalPeriod": "北宋（1023年）",
-          "ruler": "仁宗赵祯",
-          "coreFeatures": "篆楷对钱",
-          "estimatedValue": "5—50元",
-          "rarity": "十级（多泛）",
-          "thumbnail": "/images/coins/m-北宋钱币/天圣元宝/main.jpg"
-        }
-      },
-      {
-        "id": "12-10",
-        "name": "明道元宝",
-        "dynasty": "北宋钱币",
-        "dynastyIndex": 11,
-        "summary": {
-          "name": "明道元宝",
-          "historicalPeriod": "北宋（1032年）",
-          "ruler": "仁宗赵祯",
-          "coreFeatures": "篆楷对钱",
-          "estimatedValue": "5—50元",
-          "rarity": "十级（多泛）",
-          "thumbnail": "/images/coins/m-北宋钱币/明道元宝/main.jpg"
-        }
-      },
-      {
-        "id": "12-11",
-        "name": "景祐元宝",
-        "dynasty": "北宋钱币",
-        "dynastyIndex": 11,
-        "summary": {
-          "name": "景祐元宝",
-          "historicalPeriod": "北宋（1034年）",
-          "ruler": "仁宗赵祯",
-          "coreFeatures": "篆楷对钱",
-          "estimatedValue": "5—50元",
-          "rarity": "十级（多泛）",
-          "thumbnail": "/images/coins/m-北宋钱币/景祐元宝/main.jpg"
-        }
-      },
-      {
-        "id": "12-12",
-        "name": "皇宋通宝",
-        "dynasty": "北宋钱币",
-        "dynastyIndex": 11,
-        "summary": {
-          "name": "皇宋通宝",
-          "historicalPeriod": "北宋（1039年）",
-          "ruler": "仁宗赵祯",
-          "coreFeatures": "非年号钱，九叠篆为极品珍品",
-          "estimatedValue": "普品：3—30元；九叠篆：50000—200000元",
-          "rarity": "十级（多泛）",
-          "thumbnail": "/images/coins/m-北宋钱币/皇宋通宝/main.jpg"
-        }
-      },
-      {
-        "id": "12-13",
-        "name": "康定元宝",
-        "dynasty": "北宋钱币",
-        "dynastyIndex": 11,
-        "summary": {
-          "name": "康定元宝",
-          "historicalPeriod": "北宋（1040年）",
-          "ruler": "仁宗赵祯",
-          "coreFeatures": "铁钱为主，存世较少",
-          "estimatedValue": "铁：500—3000元",
-          "rarity": "六级（稀）",
-          "thumbnail": ""
-        }
-      },
-      {
-        "id": "12-14",
-        "name": "庆历重宝",
-        "dynasty": "北宋钱币",
-        "dynastyIndex": 11,
-        "summary": {
-          "name": "庆历重宝",
-          "historicalPeriod": "北宋（1041年）",
-          "ruler": "仁宗赵祯",
-          "coreFeatures": "当十钱，铜铁并行",
-          "estimatedValue": "20—300元",
-          "rarity": "八级（较多）",
-          "thumbnail": "/images/coins/m-北宋钱币/庆历重宝/main.jpg"
-        }
-      },
-      {
-        "id": "12-15",
-        "name": "至和元宝",
-        "dynasty": "北宋钱币",
-        "dynastyIndex": 11,
-        "summary": {
-          "name": "至和元宝",
-          "historicalPeriod": "北宋（1054年）",
-          "ruler": "仁宗赵祯",
-          "coreFeatures": "篆楷对钱",
-          "estimatedValue": "5—50元",
-          "rarity": "十级（多泛）",
-          "thumbnail": "/images/coins/m-北宋钱币/至和元宝/main.jpg"
-        }
-      },
-      {
-        "id": "12-16",
-        "name": "至和通宝",
-        "dynasty": "北宋钱币",
-        "dynastyIndex": 11,
-        "summary": {
-          "name": "至和通宝",
-          "historicalPeriod": "北宋（1054年）",
-          "ruler": "仁宗赵祯",
-          "coreFeatures": "篆楷对钱",
-          "estimatedValue": "5—50元",
-          "rarity": "十级（多泛）",
-          "thumbnail": "/images/coins/m-北宋钱币/至和通宝/main.jpg"
-        }
-      },
-      {
-        "id": "12-17",
-        "name": "至和重宝",
-        "dynasty": "北宋钱币",
-        "dynastyIndex": 11,
-        "summary": {
-          "name": "至和重宝",
-          "historicalPeriod": "北宋（1054年）",
-          "ruler": "仁宗赵祯",
-          "coreFeatures": "折二折三，铁钱多见",
-          "estimatedValue": "铜：200—2000元",
-          "rarity": "八级（较多）",
-          "thumbnail": "/images/coins/m-北宋钱币/至和重宝/main.jpg"
-        }
-      },
-      {
-        "id": "12-18",
-        "name": "嘉祐元宝",
-        "dynasty": "北宋钱币",
-        "dynastyIndex": 11,
-        "summary": {
-          "name": "嘉祐元宝",
-          "historicalPeriod": "北宋（1056年）",
-          "ruler": "仁宗赵祯",
-          "coreFeatures": "篆楷对钱",
-          "estimatedValue": "5—50元",
-          "rarity": "十级（多泛）",
-          "thumbnail": "/images/coins/m-北宋钱币/嘉祐元宝/main.jpg"
-        }
-      },
-      {
-        "id": "12-19",
-        "name": "嘉祐通宝",
-        "dynasty": "北宋钱币",
-        "dynastyIndex": 11,
-        "summary": {
-          "name": "嘉祐通宝",
-          "historicalPeriod": "北宋（1056年）",
-          "ruler": "仁宗赵祯",
-          "coreFeatures": "篆楷对钱",
-          "estimatedValue": "5—50元",
-          "rarity": "十级（多泛）",
-          "thumbnail": "/images/coins/m-北宋钱币/嘉祐通宝/main.jpg"
-        }
-      },
-      {
-        "id": "12-20",
-        "name": "嘉祐重宝",
-        "dynasty": "北宋钱币",
-        "dynastyIndex": 11,
-        "summary": {
-          "name": "嘉祐重宝",
-          "historicalPeriod": "北宋（1056年）",
-          "ruler": "仁宗赵祯",
-          "coreFeatures": "铁钱，存世较少",
-          "estimatedValue": "铁：200—2000元",
-          "rarity": "七级（甚少）",
-          "thumbnail": ""
-        }
-      },
-      {
-        "id": "12-21",
-        "name": "治平元宝",
-        "dynasty": "北宋钱币",
-        "dynastyIndex": 11,
-        "summary": {
-          "name": "治平元宝",
-          "historicalPeriod": "北宋（1064年）",
-          "ruler": "英宗赵曙",
-          "coreFeatures": "篆楷对钱",
-          "estimatedValue": "5—50元",
-          "rarity": "十级（多泛）",
-          "thumbnail": "/images/coins/m-北宋钱币/治平元宝/main.jpg"
-        }
-      },
-      {
-        "id": "12-22",
-        "name": "治平通宝",
-        "dynasty": "北宋钱币",
-        "dynastyIndex": 11,
-        "summary": {
-          "name": "治平通宝",
-          "historicalPeriod": "北宋（1064年）",
-          "ruler": "英宗赵曙",
-          "coreFeatures": "篆楷对钱",
-          "estimatedValue": "5—50元",
-          "rarity": "十级（多泛）",
-          "thumbnail": "/images/coins/m-北宋钱币/治平通宝/main.jpg"
-        }
-      },
-      {
-        "id": "12-23",
-        "name": "熙宁元宝",
-        "dynasty": "北宋钱币",
-        "dynastyIndex": 11,
-        "summary": {
-          "name": "熙宁元宝",
-          "historicalPeriod": "北宋（1068年）",
-          "ruler": "神宗赵顼",
-          "coreFeatures": "篆楷对钱，版别繁多",
-          "estimatedValue": "5—100元",
-          "rarity": "十级（多泛）",
-          "thumbnail": "/images/coins/m-北宋钱币/熙宁元宝/main.jpg"
-        }
-      },
-      {
-        "id": "12-24",
-        "name": "熙宁通宝",
-        "dynasty": "北宋钱币",
-        "dynastyIndex": 11,
-        "summary": {
-          "name": "熙宁通宝",
-          "historicalPeriod": "北宋（1068年）",
-          "ruler": "神宗赵顼",
-          "coreFeatures": "铁钱，折二型",
-          "estimatedValue": "铁：100—1000元",
-          "rarity": "八级（较多）",
-          "thumbnail": "/images/coins/m-北宋钱币/熙宁通宝/main.jpg"
-        }
-      },
-      {
-        "id": "12-25",
-        "name": "熙宁重宝",
-        "dynasty": "北宋钱币",
-        "dynastyIndex": 11,
-        "summary": {
-          "name": "熙宁重宝",
-          "historicalPeriod": "北宋（1068年）",
-          "ruler": "神宗赵顼",
-          "coreFeatures": "折二型，铸量大",
-          "estimatedValue": "5—50元",
-          "rarity": "九级（多）",
-          "thumbnail": "/images/coins/m-北宋钱币/熙宁重宝/main.jpg"
-        }
-      },
-      {
-        "id": "12-26",
-        "name": "元丰通宝",
-        "dynasty": "北宋钱币",
-        "dynastyIndex": 11,
-        "summary": {
-          "name": "元丰通宝",
-          "historicalPeriod": "北宋（1078年）",
-          "ruler": "神宗赵顼",
-          "coreFeatures": "篆行隶三体，版别极多，铸量巨大",
-          "estimatedValue": "5—100元",
-          "rarity": "十级（多泛）",
-          "thumbnail": "/images/coins/m-北宋钱币/元丰通宝/main.jpg"
-        }
-      },
-      {
-        "id": "12-27",
-        "name": "元丰重宝",
-        "dynasty": "北宋钱币",
-        "dynastyIndex": 11,
-        "summary": {
-          "name": "元丰重宝",
-          "historicalPeriod": "北宋（1078年）",
-          "ruler": "神宗赵顼",
-          "coreFeatures": "铁钱，存世较少",
-          "estimatedValue": "铁：500—3000元",
-          "rarity": "七级（甚少）",
-          "thumbnail": ""
-        }
-      },
-      {
-        "id": "12-28",
-        "name": "元祐通宝",
-        "dynasty": "北宋钱币",
-        "dynastyIndex": 11,
-        "summary": {
-          "name": "元祐通宝",
-          "historicalPeriod": "北宋（1086年）",
-          "ruler": "哲宗赵煦",
-          "coreFeatures": "篆行对钱，传为司马光、苏轼手书",
-          "estimatedValue": "10—200元",
-          "rarity": "九级（多）",
-          "thumbnail": "/images/coins/m-北宋钱币/元祐通宝/main.jpg"
-        }
-      },
-      {
-        "id": "12-29",
-        "name": "绍圣元宝",
-        "dynasty": "北宋钱币",
-        "dynastyIndex": 11,
-        "summary": {
-          "name": "绍圣元宝",
-          "historicalPeriod": "北宋（1094年）",
-          "ruler": "哲宗赵煦",
-          "coreFeatures": "篆行对钱，铜铁并行",
-          "estimatedValue": "5—100元",
-          "rarity": "九级（多）",
-          "thumbnail": "/images/coins/m-北宋钱币/绍圣元宝/main.jpg"
-        }
-      },
-      {
-        "id": "12-30",
-        "name": "绍圣通宝",
-        "dynasty": "北宋钱币",
-        "dynastyIndex": 11,
-        "summary": {
-          "name": "绍圣通宝",
-          "historicalPeriod": "北宋（1094年）",
-          "ruler": "哲宗赵煦",
-          "coreFeatures": "铜品较少",
-          "estimatedValue": "100—2000元",
-          "rarity": "七级（甚少）",
-          "thumbnail": "/images/coins/m-北宋钱币/绍圣通宝/main.jpg"
-        }
-      },
-      {
-        "id": "12-31",
-        "name": "绍圣重宝",
-        "dynasty": "北宋钱币",
-        "dynastyIndex": 11,
-        "summary": {
-          "name": "绍圣重宝",
-          "historicalPeriod": "北宋（1094年）",
-          "ruler": "哲宗赵煦",
-          "coreFeatures": "铁钱，存世较少",
-          "estimatedValue": "铁：500—3000元",
-          "rarity": "七级（甚少）",
-          "thumbnail": "/images/coins/m-北宋钱币/绍圣重宝/main.jpg"
-        }
-      },
-      {
-        "id": "12-32",
-        "name": "元符通宝",
-        "dynasty": "北宋钱币",
-        "dynastyIndex": 11,
-        "summary": {
-          "name": "元符通宝",
-          "historicalPeriod": "北宋（1098年）",
-          "ruler": "哲宗赵煦",
-          "coreFeatures": "篆行对钱",
-          "estimatedValue": "5—100元",
-          "rarity": "九级（多）",
-          "thumbnail": "/images/coins/m-北宋钱币/元符通宝/main.jpg"
-        }
-      },
-      {
-        "id": "12-33",
-        "name": "元符重宝",
-        "dynasty": "北宋钱币",
-        "dynastyIndex": 11,
-        "summary": {
-          "name": "元符重宝",
-          "historicalPeriod": "北宋（1098年）",
-          "ruler": "哲宗赵煦",
-          "coreFeatures": "铁钱，存世较少",
-          "estimatedValue": "铁：500—3000元",
-          "rarity": "七级（甚少）",
-          "thumbnail": "/images/coins/m-北宋钱币/元符重宝/main.jpg"
-        }
-      },
-      {
-        "id": "12-34",
-        "name": "圣宋元宝",
-        "dynasty": "北宋钱币",
-        "dynastyIndex": 11,
-        "summary": {
-          "name": "圣宋元宝",
-          "historicalPeriod": "北宋（1101年）",
-          "ruler": "徽宗赵佶",
-          "coreFeatures": "非年号钱，篆行对钱，铸工精美",
-          "estimatedValue": "10—200元",
-          "rarity": "九级（多）",
-          "thumbnail": "/images/coins/m-北宋钱币/圣宋元宝/main.jpg"
-        }
-      },
-      {
-        "id": "12-35",
-        "name": "圣宋通宝",
-        "dynasty": "北宋钱币",
-        "dynastyIndex": 11,
-        "summary": {
-          "name": "圣宋通宝",
-          "historicalPeriod": "北宋（1101年）",
-          "ruler": "徽宗赵佶",
-          "coreFeatures": "存世较少",
-          "estimatedValue": "200—3000元",
-          "rarity": "七级（甚少）",
-          "thumbnail": "/images/coins/m-北宋钱币/圣宋通宝/main.jpg"
-        }
-      },
-      {
-        "id": "12-36",
-        "name": "建国通宝",
-        "dynasty": "北宋钱币",
-        "dynastyIndex": 11,
-        "summary": {
-          "name": "建国通宝",
-          "historicalPeriod": "北宋（1101年）",
-          "ruler": "徽宗赵佶",
-          "coreFeatures": "存世极罕，试铸性质",
-          "estimatedValue": "50000—200000元",
-          "rarity": "一级（大珍）",
-          "thumbnail": ""
-        }
-      },
-      {
-        "id": "12-37",
-        "name": "崇宁通宝",
-        "dynasty": "北宋钱币",
-        "dynastyIndex": 11,
-        "summary": {
-          "name": "崇宁通宝",
-          "historicalPeriod": "北宋（1102年）",
-          "ruler": "徽宗赵佶",
-          "coreFeatures": "御书瘦金体，铸工极精，当十钱",
-          "estimatedValue": "30—500元",
-          "rarity": "八级（较多）",
-          "thumbnail": "/images/coins/m-北宋钱币/崇宁通宝/main.jpg"
-        }
-      },
-      {
-        "id": "12-38",
-        "name": "崇宁元宝",
-        "dynasty": "北宋钱币",
-        "dynastyIndex": 11,
-        "summary": {
-          "name": "崇宁元宝",
-          "historicalPeriod": "北宋（1102年）",
-          "ruler": "徽宗赵佶",
-          "coreFeatures": "存世较少",
-          "estimatedValue": "100—3000元",
-          "rarity": "七级（甚少）",
-          "thumbnail": "/images/coins/m-北宋钱币/崇宁元宝/main.jpg"
-        }
-      },
-      {
-        "id": "12-39",
-        "name": "崇宁重宝",
-        "dynasty": "北宋钱币",
-        "dynastyIndex": 11,
-        "summary": {
-          "name": "崇宁重宝",
-          "historicalPeriod": "北宋（1102年）",
-          "ruler": "徽宗赵佶",
-          "coreFeatures": "当十钱，铸量大",
-          "estimatedValue": "10—200元",
-          "rarity": "九级（多）",
-          "thumbnail": "/images/coins/m-北宋钱币/崇宁重宝/main.jpg"
-        }
-      },
-      {
-        "id": "12-40",
-        "name": "大观通宝",
-        "dynasty": "北宋钱币",
-        "dynastyIndex": 11,
-        "summary": {
-          "name": "大观通宝",
-          "historicalPeriod": "北宋（1107年）",
-          "ruler": "徽宗赵佶",
-          "coreFeatures": "御书瘦金体，折十最精",
-          "estimatedValue": "小平：20—300元；折十：50—800元",
-          "rarity": "八级（较多）",
-          "thumbnail": "/images/coins/m-北宋钱币/大观通宝/main.jpg"
-        }
-      },
-      {
-        "id": "12-41",
-        "name": "政和通宝",
-        "dynasty": "北宋钱币",
-        "dynastyIndex": 11,
-        "summary": {
-          "name": "政和通宝",
-          "historicalPeriod": "北宋（1111年）",
-          "ruler": "徽宗赵佶",
-          "coreFeatures": "篆隶对钱",
-          "estimatedValue": "5—100元",
-          "rarity": "九级（多）",
-          "thumbnail": "/images/coins/m-北宋钱币/政和通宝/main.jpg"
-        }
-      },
-      {
-        "id": "12-42",
-        "name": "政和重宝",
-        "dynasty": "北宋钱币",
-        "dynastyIndex": 11,
-        "summary": {
-          "name": "政和重宝",
-          "historicalPeriod": "北宋（1111年）",
-          "ruler": "徽宗赵佶",
-          "coreFeatures": "铁钱为主",
-          "estimatedValue": "铁：50—500元",
-          "rarity": "八级（较多）",
-          "thumbnail": ""
-        }
-      },
-      {
-        "id": "12-43",
-        "name": "重和通宝",
-        "dynasty": "北宋钱币",
-        "dynastyIndex": 11,
-        "summary": {
-          "name": "重和通宝",
-          "historicalPeriod": "北宋（1118年）",
-          "ruler": "徽宗赵佶",
-          "coreFeatures": "铸行仅一年，存世较少",
-          "estimatedValue": "1000—8000元",
-          "rarity": "四级（罕）",
-          "thumbnail": "/images/coins/m-北宋钱币/重和通宝/main.jpg"
-        }
-      },
-      {
-        "id": "12-44",
-        "name": "宣和通宝",
-        "dynasty": "北宋钱币",
-        "dynastyIndex": 11,
-        "summary": {
-          "name": "宣和通宝",
-          "historicalPeriod": "北宋（1119年）",
-          "ruler": "徽宗赵佶",
-          "coreFeatures": "版别众多，篆隶对钱",
-          "estimatedValue": "10—300元",
-          "rarity": "九级（多）",
-          "thumbnail": "/images/coins/m-北宋钱币/宣和通宝/main.jpg"
-        }
-      },
-      {
-        "id": "12-45",
-        "name": "宣和元宝",
-        "dynasty": "北宋钱币",
-        "dynastyIndex": 11,
-        "summary": {
-          "name": "宣和元宝",
-          "historicalPeriod": "北宋（1119年）",
-          "ruler": "徽宗赵佶",
-          "coreFeatures": "存世较少",
-          "estimatedValue": "50—500元",
-          "rarity": "八级（较多）",
-          "thumbnail": "/images/coins/m-北宋钱币/宣和元宝/main.jpg"
-        }
-      },
-      {
-        "id": "12-46",
-        "name": "靖康通宝",
-        "dynasty": "北宋钱币",
-        "dynastyIndex": 11,
-        "summary": {
-          "name": "靖康通宝",
-          "historicalPeriod": "北宋（1126年）",
-          "ruler": "钦宗赵桓",
-          "coreFeatures": "北宋最后铸币，存世极罕",
-          "estimatedValue": "50000—500000元",
-          "rarity": "一级（大珍）",
-          "thumbnail": "/images/coins/m-北宋钱币/靖康通宝/main.jpg"
-        }
-      },
-      {
-        "id": "12-47",
-        "name": "靖康元宝",
-        "dynasty": "北宋钱币",
-        "dynastyIndex": 11,
-        "summary": {
-          "name": "靖康元宝",
-          "historicalPeriod": "北宋（1126年）",
-          "ruler": "钦宗赵桓",
-          "coreFeatures": "北宋最后铸币，存世极罕",
-          "estimatedValue": "50000—500000元",
-          "rarity": "一级（大珍）",
-          "thumbnail": "/images/coins/m-北宋钱币/靖康元宝/main.jpg"
-        }
-      },
-      {
-        "id": "12-48",
-        "name": "皇祐元宝",
-        "dynasty": "北宋钱币",
-        "dynastyIndex": 11,
-        "summary": {
-          "name": "皇祐元宝",
-          "historicalPeriod": "北宋（1049年）",
-          "ruler": "仁宗赵祯",
-          "coreFeatures": "存世极罕",
-          "estimatedValue": "30000—150000元",
-          "rarity": "三级（罕贵）",
-          "thumbnail": ""
-        }
-      },
-      {
-        "id": "12-49",
-        "name": "庆历直十",
-        "dynasty": "北宋钱币",
-        "dynastyIndex": 11,
-        "summary": {
-          "name": "庆历直十",
-          "historicalPeriod": "北宋（1041年）",
-          "ruler": "仁宗赵祯",
-          "coreFeatures": "铁钱，当十",
-          "estimatedValue": "铁：500—3000元",
-          "rarity": "七级（甚少）",
-          "thumbnail": "/images/coins/m-北宋钱币/庆历直十/main.jpg"
-        }
-      },
-      {
-        "id": "12-50",
-        "name": "应运元宝",
-        "dynasty": "北宋钱币",
-        "dynastyIndex": 11,
-        "summary": {
-          "name": "应运元宝",
-          "historicalPeriod": "北宋（994年）",
-          "ruler": "李顺（农民起义）",
-          "coreFeatures": "四川农民起义军铸币，存世极罕",
-          "estimatedValue": "100000—500000元",
-          "rarity": "一级（大珍）",
-          "thumbnail": "/images/coins/m-北宋钱币/应运元宝/main.jpg"
-        }
-      },
-      {
-        "id": "12-51",
-        "name": "应运钱",
-        "dynasty": "北宋钱币",
-        "dynastyIndex": 11,
-        "summary": {
-          "name": "应运钱",
-          "historicalPeriod": "北宋（994年）",
-          "ruler": "李顺（农民起义）",
-          "coreFeatures": "四川农民起义军铸币",
-          "estimatedValue": "50000—200000元",
-          "rarity": "二级（珍）",
-          "thumbnail": "/images/coins/m-北宋钱币/应运钱/main.jpg"
-        }
-      },
-      {
-        "id": "12-52",
-        "name": "应感通宝",
-        "dynasty": "北宋钱币",
-        "dynastyIndex": 11,
-        "summary": {
-          "name": "应感通宝",
-          "historicalPeriod": "北宋（994年）",
-          "ruler": "李顺（农民起义）",
-          "coreFeatures": "四川农民起义军铸币，存世极罕",
-          "estimatedValue": "30000—150000元",
-          "rarity": "三级（罕贵）",
-          "thumbnail": "/images/coins/m-北宋钱币/应感通宝/main.jpg"
-        }
-      },
-      {
-        "id": "12-53",
-        "name": "应感钱",
-        "dynasty": "北宋钱币",
-        "dynastyIndex": 11,
-        "summary": {
-          "name": "应感钱",
-          "historicalPeriod": "北宋（994年）",
-          "ruler": "李顺（农民起义）",
-          "coreFeatures": "四川农民起义军铸币",
-          "estimatedValue": "50000—200000元",
-          "rarity": "二级（珍）",
-          "thumbnail": "/images/coins/m-北宋钱币/应感钱/main.jpg"
-        }
-      }
-    ]
-  },
-  {
-    "dynasty": "南宋钱币",
-    "dynastyIndex": 12,
-    "dynastyPeriod": "1127年—1279年",
-    "dynastyStartYear": 1127,
-    "dynastyEndYear": 1279,
-    "coins": [
-      {
-        "id": "15-0",
-        "name": "建炎通宝",
-        "dynasty": "南宋钱币",
-        "dynastyIndex": 12,
-        "summary": {
-          "name": "建炎通宝",
-          "historicalPeriod": "南宋（1127年）",
-          "ruler": "高宗赵构",
-          "coreFeatures": "南宋开国钱，铜铁并行",
-          "estimatedValue": "小平：10—200元",
-          "rarity": "九级（多）",
-          "thumbnail": "/images/coins/p-南宋钱币/建炎通宝/main.jpg"
-        }
-      },
-      {
-        "id": "15-1",
-        "name": "建炎元宝",
-        "dynasty": "南宋钱币",
-        "dynastyIndex": 12,
-        "summary": {
-          "name": "建炎元宝",
-          "historicalPeriod": "南宋（1127年）",
-          "ruler": "高宗赵构",
-          "coreFeatures": "存世稀少",
-          "estimatedValue": "3000—30000元",
-          "rarity": "五级（稀贵）",
-          "thumbnail": "/images/coins/p-南宋钱币/建炎元宝/main.jpg"
-        }
-      },
-      {
-        "id": "15-2",
-        "name": "建炎重宝",
-        "dynasty": "南宋钱币",
-        "dynastyIndex": 12,
-        "summary": {
-          "name": "建炎重宝",
-          "historicalPeriod": "南宋（1127年）",
-          "ruler": "高宗赵构",
-          "coreFeatures": "折三型，铜铁并行",
-          "estimatedValue": "铜：500—5000元",
-          "rarity": "七级（甚少）",
-          "thumbnail": "/images/coins/p-南宋钱币/建炎重宝/main.jpg"
-        }
-      },
-      {
-        "id": "15-3",
-        "name": "绍兴通宝",
-        "dynasty": "南宋钱币",
-        "dynastyIndex": 12,
-        "summary": {
-          "name": "绍兴通宝",
-          "historicalPeriod": "南宋（1131年）",
-          "ruler": "高宗赵构",
-          "coreFeatures": "存世较少",
-          "estimatedValue": "200—3000元",
-          "rarity": "七级（甚少）",
-          "thumbnail": "/images/coins/p-南宋钱币/绍兴通宝/main.jpg"
-        }
-      },
-      {
-        "id": "15-4",
-        "name": "绍兴元宝",
-        "dynasty": "南宋钱币",
-        "dynastyIndex": 12,
-        "summary": {
-          "name": "绍兴元宝",
-          "historicalPeriod": "南宋（1131年）",
-          "ruler": "高宗赵构",
-          "coreFeatures": "篆楷对钱，铜铁并行",
-          "estimatedValue": "小平：5—100元",
-          "rarity": "九级（多）",
-          "thumbnail": "/images/coins/p-南宋钱币/绍兴元宝/main.jpg"
-        }
-      },
-      {
-        "id": "15-5",
-        "name": "隆兴元宝",
-        "dynasty": "南宋钱币",
-        "dynastyIndex": 12,
-        "summary": {
-          "name": "隆兴元宝",
-          "historicalPeriod": "南宋（1163年）",
-          "ruler": "孝宗赵昚",
-          "coreFeatures": "篆楷对钱",
-          "estimatedValue": "20—300元",
-          "rarity": "八级（较多）",
-          "thumbnail": "/images/coins/p-南宋钱币/隆兴元宝/main.jpg"
-        }
-      },
-      {
-        "id": "15-6",
-        "name": "隆兴通宝",
-        "dynasty": "南宋钱币",
-        "dynastyIndex": 12,
-        "summary": {
-          "name": "隆兴通宝",
-          "historicalPeriod": "南宋（1163年）",
-          "ruler": "孝宗赵昚",
-          "coreFeatures": "篆楷对钱，铁钱",
-          "estimatedValue": "铁：50—500元",
-          "rarity": "八级（较多）",
-          "thumbnail": "/images/coins/p-南宋钱币/隆兴通宝/main.jpg"
-        }
-      },
-      {
-        "id": "15-7",
-        "name": "隆兴重宝",
-        "dynasty": "南宋钱币",
-        "dynastyIndex": 12,
-        "summary": {
-          "name": "隆兴重宝",
-          "historicalPeriod": "南宋（1163年）",
-          "ruler": "孝宗赵昚",
-          "coreFeatures": "铁钱",
-          "estimatedValue": "铁：200—2000元",
-          "rarity": "七级（甚少）",
-          "thumbnail": ""
-        }
-      },
-      {
-        "id": "15-8",
-        "name": "乾道元宝",
-        "dynasty": "南宋钱币",
-        "dynastyIndex": 12,
-        "summary": {
-          "name": "乾道元宝",
-          "historicalPeriod": "南宋（1165年）",
-          "ruler": "孝宗赵昚",
-          "coreFeatures": "篆楷对钱，铜铁并行",
-          "estimatedValue": "10—200元",
-          "rarity": "八级（较多）",
-          "thumbnail": "/images/coins/p-南宋钱币/乾道元宝/main.jpg"
-        }
-      },
-      {
-        "id": "15-9",
-        "name": "乾道通宝",
-        "dynasty": "南宋钱币",
-        "dynastyIndex": 12,
-        "summary": {
-          "name": "乾道通宝",
-          "historicalPeriod": "南宋（1165年）",
-          "ruler": "孝宗赵昚",
-          "coreFeatures": "铁钱为主",
-          "estimatedValue": "铁：100—1000元",
-          "rarity": "八级（较多）",
-          "thumbnail": ""
-        }
-      },
-      {
-        "id": "15-10",
-        "name": "乾道重宝",
-        "dynasty": "南宋钱币",
-        "dynastyIndex": 12,
-        "summary": {
-          "name": "乾道重宝",
-          "historicalPeriod": "南宋（1165年）",
-          "ruler": "孝宗赵昚",
-          "coreFeatures": "铁钱",
-          "estimatedValue": "铁：200—2000元",
-          "rarity": "七级（甚少）",
-          "thumbnail": ""
-        }
-      },
-      {
-        "id": "15-11",
-        "name": "纯熙元宝",
-        "dynasty": "南宋钱币",
-        "dynastyIndex": 12,
-        "summary": {
-          "name": "纯熙元宝",
-          "historicalPeriod": "南宋（1174年）",
-          "ruler": "孝宗赵昚",
-          "coreFeatures": "铁钱，年号仅六月",
-          "estimatedValue": "铁：500—5000元",
-          "rarity": "六级（稀）",
-          "thumbnail": ""
-        }
-      },
-      {
-        "id": "15-12",
-        "name": "淳熙元宝",
-        "dynasty": "南宋钱币",
-        "dynastyIndex": 12,
-        "summary": {
-          "name": "淳熙元宝",
-          "historicalPeriod": "南宋（1174年）",
-          "ruler": "孝宗赵昚",
-          "coreFeatures": "篆楷对钱，铜铁并行",
-          "estimatedValue": "5—100元",
-          "rarity": "九级（多）",
-          "thumbnail": "/images/coins/p-南宋钱币/淳熙元宝/main.jpg"
-        }
-      },
-      {
-        "id": "15-13",
-        "name": "淳熙通宝",
-        "dynasty": "南宋钱币",
-        "dynastyIndex": 12,
-        "summary": {
-          "name": "淳熙通宝",
-          "historicalPeriod": "南宋（1174年）",
-          "ruler": "孝宗赵昚",
-          "coreFeatures": "铁钱为主",
-          "estimatedValue": "铁：50—500元",
-          "rarity": "八级（较多）",
-          "thumbnail": "/images/coins/p-南宋钱币/淳熙通宝/main.jpg"
-        }
-      },
-      {
-        "id": "15-14",
-        "name": "绍熙元宝",
-        "dynasty": "南宋钱币",
-        "dynastyIndex": 12,
-        "summary": {
-          "name": "绍熙元宝",
-          "historicalPeriod": "南宋（1190年）",
-          "ruler": "光宗赵惇",
-          "coreFeatures": "篆楷对钱",
-          "estimatedValue": "5—100元",
-          "rarity": "八级（较多）",
-          "thumbnail": "/images/coins/p-南宋钱币/绍熙元宝/main.jpg"
-        }
-      },
-      {
-        "id": "15-15",
-        "name": "绍熙通宝",
-        "dynasty": "南宋钱币",
-        "dynastyIndex": 12,
-        "summary": {
-          "name": "绍熙通宝",
-          "historicalPeriod": "南宋（1190年）",
-          "ruler": "光宗赵惇",
-          "coreFeatures": "篆楷对钱",
-          "estimatedValue": "5—100元",
-          "rarity": "八级（较多）",
-          "thumbnail": "/images/coins/p-南宋钱币/绍熙通宝/main.jpg"
-        }
-      },
-      {
-        "id": "15-16",
-        "name": "庆元通宝",
-        "dynasty": "南宋钱币",
-        "dynastyIndex": 12,
-        "summary": {
-          "name": "庆元通宝",
-          "historicalPeriod": "南宋（1195年）",
-          "ruler": "宁宗赵扩",
-          "coreFeatures": "篆楷对钱",
-          "estimatedValue": "5—50元",
-          "rarity": "九级（多）",
-          "thumbnail": "/images/coins/p-南宋钱币/庆元通宝/main.jpg"
-        }
-      },
-      {
-        "id": "15-17",
-        "name": "庆元元宝",
-        "dynasty": "南宋钱币",
-        "dynastyIndex": 12,
-        "summary": {
-          "name": "庆元元宝",
-          "historicalPeriod": "南宋（1195年）",
-          "ruler": "宁宗赵扩",
-          "coreFeatures": "铁钱",
-          "estimatedValue": "铁：50—500元",
-          "rarity": "八级（较多）",
-          "thumbnail": "/images/coins/p-南宋钱币/庆元元宝/main.jpg"
-        }
-      },
-      {
-        "id": "15-18",
-        "name": "嘉泰通宝",
-        "dynasty": "南宋钱币",
-        "dynastyIndex": 12,
-        "summary": {
-          "name": "嘉泰通宝",
-          "historicalPeriod": "南宋（1201年）",
-          "ruler": "宁宗赵扩",
-          "coreFeatures": "篆楷对钱",
-          "estimatedValue": "10—200元",
-          "rarity": "八级（较多）",
-          "thumbnail": "/images/coins/p-南宋钱币/嘉泰通宝/main.jpg"
-        }
-      },
-      {
-        "id": "15-19",
-        "name": "嘉泰元宝",
-        "dynasty": "南宋钱币",
-        "dynastyIndex": 12,
-        "summary": {
-          "name": "嘉泰元宝",
-          "historicalPeriod": "南宋（1201年）",
-          "ruler": "宁宗赵扩",
-          "coreFeatures": "铁钱",
-          "estimatedValue": "铁：100—1000元",
-          "rarity": "八级（较多）",
-          "thumbnail": "/images/coins/p-南宋钱币/嘉泰元宝/main.jpg"
-        }
-      },
-      {
-        "id": "15-20",
-        "name": "开禧通宝",
-        "dynasty": "南宋钱币",
-        "dynastyIndex": 12,
-        "summary": {
-          "name": "开禧通宝",
-          "historicalPeriod": "南宋（1205年）",
-          "ruler": "宁宗赵扩",
-          "coreFeatures": "篆楷对钱",
-          "estimatedValue": "10—200元",
-          "rarity": "八级（较多）",
-          "thumbnail": "/images/coins/p-南宋钱币/开禧通宝/main.jpg"
-        }
-      },
-      {
-        "id": "15-21",
-        "name": "开禧元宝",
-        "dynasty": "南宋钱币",
-        "dynastyIndex": 12,
-        "summary": {
-          "name": "开禧元宝",
-          "historicalPeriod": "南宋（1205年）",
-          "ruler": "宁宗赵扩",
-          "coreFeatures": "铁钱",
-          "estimatedValue": "铁：100—1000元",
-          "rarity": "八级（较多）",
-          "thumbnail": "/images/coins/p-南宋钱币/开禧元宝/main.jpg"
-        }
-      },
-      {
-        "id": "15-22",
-        "name": "圣宋重宝",
-        "dynasty": "南宋钱币",
-        "dynastyIndex": 12,
-        "summary": {
-          "name": "圣宋重宝",
-          "historicalPeriod": "南宋（1208年）",
-          "ruler": "宁宗赵扩",
-          "coreFeatures": "铁钱当五",
-          "estimatedValue": "铁：200—2000元",
-          "rarity": "七级（甚少）",
-          "thumbnail": ""
-        }
-      },
-      {
-        "id": "15-23",
-        "name": "嘉定通宝",
-        "dynasty": "南宋钱币",
-        "dynastyIndex": 12,
-        "summary": {
-          "name": "嘉定通宝",
-          "historicalPeriod": "南宋（1208年）",
-          "ruler": "宁宗赵扩",
-          "coreFeatures": "篆楷对钱",
-          "estimatedValue": "5—50元",
-          "rarity": "九级（多）",
-          "thumbnail": "/images/coins/p-南宋钱币/嘉定通宝/main.jpg"
-        }
-      },
-      {
-        "id": "15-24",
-        "name": "嘉定元宝",
-        "dynasty": "南宋钱币",
-        "dynastyIndex": 12,
-        "summary": {
-          "name": "嘉定元宝",
-          "historicalPeriod": "南宋（1208年）",
-          "ruler": "宁宗赵扩",
-          "coreFeatures": "篆楷对钱",
-          "estimatedValue": "10—100元",
-          "rarity": "九级（多）",
-          "thumbnail": "/images/coins/p-南宋钱币/嘉定元宝/main.jpg"
-        }
-      },
-      {
-        "id": "15-25",
-        "name": "嘉定重宝",
-        "dynasty": "南宋钱币",
-        "dynastyIndex": 12,
-        "summary": {
-          "name": "嘉定重宝",
-          "historicalPeriod": "南宋（1208年）",
-          "ruler": "宁宗赵扩",
-          "coreFeatures": "折五型",
-          "estimatedValue": "50—500元",
-          "rarity": "八级（较多）",
-          "thumbnail": "/images/coins/p-南宋钱币/嘉定重宝/main.jpg"
-        }
-      },
-      {
-        "id": "15-26",
-        "name": "嘉定崇宝",
-        "dynasty": "南宋钱币",
-        "dynastyIndex": 12,
-        "summary": {
-          "name": "嘉定崇宝",
-          "historicalPeriod": "南宋（1208年）",
-          "ruler": "宁宗赵扩",
-          "coreFeatures": "铁钱",
-          "estimatedValue": "铁：100—1000元",
-          "rarity": "八级（较多）",
-          "thumbnail": "/images/coins/p-南宋钱币/嘉定崇宝/main.jpg"
-        }
-      },
-      {
-        "id": "15-27",
-        "name": "嘉定正宝",
-        "dynasty": "南宋钱币",
-        "dynastyIndex": 12,
-        "summary": {
-          "name": "嘉定正宝",
-          "historicalPeriod": "南宋（1208年）",
-          "ruler": "宁宗赵扩",
-          "coreFeatures": "铁钱",
-          "estimatedValue": "铁：100—1000元",
-          "rarity": "八级（较多）",
-          "thumbnail": "/images/coins/p-南宋钱币/嘉定正宝/main.jpg"
-        }
-      },
-      {
-        "id": "15-28",
-        "name": "嘉定全宝",
-        "dynasty": "南宋钱币",
-        "dynastyIndex": 12,
-        "summary": {
-          "name": "嘉定全宝",
-          "historicalPeriod": "南宋（1208年）",
-          "ruler": "宁宗赵扩",
-          "coreFeatures": "铁钱",
-          "estimatedValue": "铁：100—1000元",
-          "rarity": "八级（较多）",
-          "thumbnail": "/images/coins/p-南宋钱币/嘉定全宝/main.jpg"
-        }
-      },
-      {
-        "id": "15-29",
-        "name": "嘉定永宝",
-        "dynasty": "南宋钱币",
-        "dynastyIndex": 12,
-        "summary": {
-          "name": "嘉定永宝",
-          "historicalPeriod": "南宋（1208年）",
-          "ruler": "宁宗赵扩",
-          "coreFeatures": "铁钱",
-          "estimatedValue": "铁：100—1000元",
-          "rarity": "八级（较多）",
-          "thumbnail": "/images/coins/p-南宋钱币/嘉定永宝/main.jpg"
-        }
-      },
-      {
-        "id": "15-30",
-        "name": "嘉定安宝",
-        "dynasty": "南宋钱币",
-        "dynastyIndex": 12,
-        "summary": {
-          "name": "嘉定安宝",
-          "historicalPeriod": "南宋（1208年）",
-          "ruler": "宁宗赵扩",
-          "coreFeatures": "铁钱",
-          "estimatedValue": "铁：100—1000元",
-          "rarity": "八级（较多）",
-          "thumbnail": "/images/coins/p-南宋钱币/嘉定安宝/main.jpg"
-        }
-      },
-      {
-        "id": "15-31",
-        "name": "嘉定真宝",
-        "dynasty": "南宋钱币",
-        "dynastyIndex": 12,
-        "summary": {
-          "name": "嘉定真宝",
-          "historicalPeriod": "南宋（1208年）",
-          "ruler": "宁宗赵扩",
-          "coreFeatures": "铁钱",
-          "estimatedValue": "铁：100—1000元",
-          "rarity": "八级（较多）",
-          "thumbnail": "/images/coins/p-南宋钱币/嘉定真宝/main.jpg"
-        }
-      },
-      {
-        "id": "15-32",
-        "name": "嘉定之宝",
-        "dynasty": "南宋钱币",
-        "dynastyIndex": 12,
-        "summary": {
-          "name": "嘉定之宝",
-          "historicalPeriod": "南宋（1208年）",
-          "ruler": "宁宗赵扩",
-          "coreFeatures": "铁钱",
-          "estimatedValue": "铁：100—1000元",
-          "rarity": "八级（较多）",
-          "thumbnail": "/images/coins/p-南宋钱币/嘉定之宝/main.jpg"
-        }
-      },
-      {
-        "id": "15-33",
-        "name": "嘉定万宝",
-        "dynasty": "南宋钱币",
-        "dynastyIndex": 12,
-        "summary": {
-          "name": "嘉定万宝",
-          "historicalPeriod": "南宋（1208年）",
-          "ruler": "宁宗赵扩",
-          "coreFeatures": "铁钱",
-          "estimatedValue": "铁：100—1000元",
-          "rarity": "八级（较多）",
-          "thumbnail": "/images/coins/p-南宋钱币/嘉定万宝/main.jpg"
-        }
-      },
-      {
-        "id": "15-34",
-        "name": "嘉定隆宝",
-        "dynasty": "南宋钱币",
-        "dynastyIndex": 12,
-        "summary": {
-          "name": "嘉定隆宝",
-          "historicalPeriod": "南宋（1208年）",
-          "ruler": "宁宗赵扩",
-          "coreFeatures": "铁钱",
-          "estimatedValue": "铁：100—1000元",
-          "rarity": "八级（较多）",
-          "thumbnail": "/images/coins/p-南宋钱币/嘉定隆宝/main.jpg"
-        }
-      },
-      {
-        "id": "15-35",
-        "name": "嘉定洪宝",
-        "dynasty": "南宋钱币",
-        "dynastyIndex": 12,
-        "summary": {
-          "name": "嘉定洪宝",
-          "historicalPeriod": "南宋（1208年）",
-          "ruler": "宁宗赵扩",
-          "coreFeatures": "铁钱",
-          "estimatedValue": "铁：100—1000元",
-          "rarity": "八级（较多）",
-          "thumbnail": "/images/coins/p-南宋钱币/嘉定洪宝/main.jpg"
-        }
-      },
-      {
-        "id": "15-36",
-        "name": "嘉定新宝",
-        "dynasty": "南宋钱币",
-        "dynastyIndex": 12,
-        "summary": {
-          "name": "嘉定新宝",
-          "historicalPeriod": "南宋（1208年）",
-          "ruler": "宁宗赵扩",
-          "coreFeatures": "铁钱",
-          "estimatedValue": "铁：100—1000元",
-          "rarity": "八级（较多）",
-          "thumbnail": "/images/coins/p-南宋钱币/嘉定新宝/main.jpg"
-        }
-      },
-      {
-        "id": "15-37",
-        "name": "嘉定泉宝",
-        "dynasty": "南宋钱币",
-        "dynastyIndex": 12,
-        "summary": {
-          "name": "嘉定泉宝",
-          "historicalPeriod": "南宋（1208年）",
-          "ruler": "宁宗赵扩",
-          "coreFeatures": "铁钱",
-          "estimatedValue": "铁：100—1000元",
-          "rarity": "八级（较多）",
-          "thumbnail": "/images/coins/p-南宋钱币/嘉定泉宝/main.jpg"
-        }
-      },
-      {
-        "id": "15-38",
-        "name": "嘉定大宝",
-        "dynasty": "南宋钱币",
-        "dynastyIndex": 12,
-        "summary": {
-          "name": "嘉定大宝",
-          "historicalPeriod": "南宋（1208年）",
-          "ruler": "宁宗赵扩",
-          "coreFeatures": "铁钱",
-          "estimatedValue": "铁：100—1000元",
-          "rarity": "八级（较多）",
-          "thumbnail": "/images/coins/p-南宋钱币/嘉定大宝/main.jpg"
-        }
-      },
-      {
-        "id": "15-39",
-        "name": "嘉定珍宝",
-        "dynasty": "南宋钱币",
-        "dynastyIndex": 12,
-        "summary": {
-          "name": "嘉定珍宝",
-          "historicalPeriod": "南宋（1208年）",
-          "ruler": "宁宗赵扩",
-          "coreFeatures": "铁钱",
-          "estimatedValue": "铁：100—1000元",
-          "rarity": "八级（较多）",
-          "thumbnail": "/images/coins/p-南宋钱币/嘉定珍宝/main.jpg"
-        }
-      },
-      {
-        "id": "15-40",
-        "name": "嘉定至宝",
-        "dynasty": "南宋钱币",
-        "dynastyIndex": 12,
-        "summary": {
-          "name": "嘉定至宝",
-          "historicalPeriod": "南宋（1208年）",
-          "ruler": "宁宗赵扩",
-          "coreFeatures": "铁钱",
-          "estimatedValue": "铁：100—1000元",
-          "rarity": "八级（较多）",
-          "thumbnail": "/images/coins/p-南宋钱币/嘉定至宝/main.jpg"
-        }
-      },
-      {
-        "id": "15-41",
-        "name": "嘉定兴宝",
-        "dynasty": "南宋钱币",
-        "dynastyIndex": 12,
-        "summary": {
-          "name": "嘉定兴宝",
-          "historicalPeriod": "南宋（1208年）",
-          "ruler": "宁宗赵扩",
-          "coreFeatures": "铁钱",
-          "estimatedValue": "铁：100—1000元",
-          "rarity": "八级（较多）",
-          "thumbnail": "/images/coins/p-南宋钱币/嘉定兴宝/main.jpg"
-        }
-      },
-      {
-        "id": "15-42",
-        "name": "嘉定封宝",
-        "dynasty": "南宋钱币",
-        "dynastyIndex": 12,
-        "summary": {
-          "name": "嘉定封宝",
-          "historicalPeriod": "南宋（1208年）",
-          "ruler": "宁宗赵扩",
-          "coreFeatures": "铁钱",
-          "estimatedValue": "铁：100—1000元",
-          "rarity": "八级（较多）",
-          "thumbnail": "/images/coins/p-南宋钱币/嘉定封宝/main.jpg"
-        }
-      },
-      {
-        "id": "15-43",
-        "name": "大宋通宝",
-        "dynasty": "南宋钱币",
-        "dynastyIndex": 12,
-        "summary": {
-          "name": "大宋通宝",
-          "historicalPeriod": "南宋（1225年）",
-          "ruler": "理宗赵昀",
-          "coreFeatures": "当十大钱，存世极罕",
-          "estimatedValue": "100000—500000元",
-          "rarity": "一级（大珍）",
-          "thumbnail": "/images/coins/p-南宋钱币/大宋通宝/main.jpg"
-        }
-      },
-      {
-        "id": "15-44",
-        "name": "大宋元宝",
-        "dynasty": "南宋钱币",
-        "dynastyIndex": 12,
-        "summary": {
-          "name": "大宋元宝",
-          "historicalPeriod": "南宋（1225年）",
-          "ruler": "理宗赵昀",
-          "coreFeatures": "篆楷对钱",
-          "estimatedValue": "10—200元",
-          "rarity": "八级（较多）",
-          "thumbnail": "/images/coins/p-南宋钱币/大宋元宝/main.jpg"
-        }
-      },
-      {
-        "id": "15-45",
-        "name": "宝庆元宝",
-        "dynasty": "南宋钱币",
-        "dynastyIndex": 12,
-        "summary": {
-          "name": "宝庆元宝",
-          "historicalPeriod": "南宋（1225年）",
-          "ruler": "理宗赵昀",
-          "coreFeatures": "铁钱为主",
-          "estimatedValue": "铁：100—1000元",
-          "rarity": "八级（较多）",
-          "thumbnail": "/images/coins/p-南宋钱币/宝庆元宝/main.jpg"
-        }
-      },
-      {
-        "id": "15-46",
-        "name": "绍定通宝",
-        "dynasty": "南宋钱币",
-        "dynastyIndex": 12,
-        "summary": {
-          "name": "绍定通宝",
-          "historicalPeriod": "南宋（1228年）",
-          "ruler": "理宗赵昀",
-          "coreFeatures": "篆楷对钱",
-          "estimatedValue": "10—200元",
-          "rarity": "八级（较多）",
-          "thumbnail": "/images/coins/p-南宋钱币/绍定通宝/main.jpg"
-        }
-      },
-      {
-        "id": "15-47",
-        "name": "绍定元宝",
-        "dynasty": "南宋钱币",
-        "dynastyIndex": 12,
-        "summary": {
-          "name": "绍定元宝",
-          "historicalPeriod": "南宋（1228年）",
-          "ruler": "理宗赵昀",
-          "coreFeatures": "铁钱",
-          "estimatedValue": "铁：100—1000元",
-          "rarity": "八级（较多）",
-          "thumbnail": "/images/coins/p-南宋钱币/绍定元宝/main.jpg"
-        }
-      },
-      {
-        "id": "15-48",
-        "name": "端平通宝",
-        "dynasty": "南宋钱币",
-        "dynastyIndex": 12,
-        "summary": {
-          "name": "端平通宝",
-          "historicalPeriod": "南宋（1234年）",
-          "ruler": "理宗赵昀",
-          "coreFeatures": "折五型",
-          "estimatedValue": "50—500元",
-          "rarity": "八级（较多）",
-          "thumbnail": "/images/coins/p-南宋钱币/端平通宝/main.jpg"
-        }
-      },
-      {
-        "id": "15-49",
-        "name": "端平元宝",
-        "dynasty": "南宋钱币",
-        "dynastyIndex": 12,
-        "summary": {
-          "name": "端平元宝",
-          "historicalPeriod": "南宋（1234年）",
-          "ruler": "理宗赵昀",
-          "coreFeatures": "篆楷对钱",
-          "estimatedValue": "10—200元",
-          "rarity": "八级（较多）",
-          "thumbnail": "/images/coins/p-南宋钱币/端平元宝/main.jpg"
-        }
-      },
-      {
-        "id": "15-50",
-        "name": "端平重宝",
-        "dynasty": "南宋钱币",
-        "dynastyIndex": 12,
-        "summary": {
-          "name": "端平重宝",
-          "historicalPeriod": "南宋（1234年）",
-          "ruler": "理宗赵昀",
-          "coreFeatures": "铁钱",
-          "estimatedValue": "铁：200—2000元",
-          "rarity": "七级（甚少）",
-          "thumbnail": "/images/coins/p-南宋钱币/端平重宝/main.jpg"
-        }
-      },
-      {
-        "id": "15-51",
-        "name": "嘉熙通宝",
-        "dynasty": "南宋钱币",
-        "dynastyIndex": 12,
-        "summary": {
-          "name": "嘉熙通宝",
-          "historicalPeriod": "南宋（1237年）",
-          "ruler": "理宗赵昀",
-          "coreFeatures": "篆楷对钱",
-          "estimatedValue": "10—200元",
-          "rarity": "八级（较多）",
-          "thumbnail": "/images/coins/p-南宋钱币/嘉熙通宝/main.jpg"
-        }
-      },
-      {
-        "id": "15-52",
-        "name": "嘉熙重宝",
-        "dynasty": "南宋钱币",
-        "dynastyIndex": 12,
-        "summary": {
-          "name": "嘉熙重宝",
-          "historicalPeriod": "南宋（1237年）",
-          "ruler": "理宗赵昀",
-          "coreFeatures": "铁钱当五",
-          "estimatedValue": "铁：200—2000元",
-          "rarity": "七级（甚少）",
-          "thumbnail": "/images/coins/p-南宋钱币/嘉熙重宝/main.jpg"
-        }
-      },
-      {
-        "id": "15-53",
-        "name": "淳佑通宝",
-        "dynasty": "南宋钱币",
-        "dynastyIndex": 12,
-        "summary": {
-          "name": "淳佑通宝",
-          "historicalPeriod": "南宋（1241年）",
-          "ruler": "理宗赵昀",
-          "coreFeatures": "铜铁并行",
-          "estimatedValue": "20—300元",
-          "rarity": "八级（较多）",
-          "thumbnail": "/images/coins/p-南宋钱币/淳佑通宝/main.jpg"
-        }
-      },
-      {
-        "id": "15-54",
-        "name": "淳祐元宝",
-        "dynasty": "南宋钱币",
-        "dynastyIndex": 12,
-        "summary": {
-          "name": "淳祐元宝",
-          "historicalPeriod": "南宋（1241年）",
-          "ruler": "理宗赵昀",
-          "coreFeatures": "篆楷对钱",
-          "estimatedValue": "10—200元",
-          "rarity": "八级（较多）",
-          "thumbnail": "/images/coins/p-南宋钱币/淳祐元宝/main.jpg"
-        }
-      },
-      {
-        "id": "15-55",
-        "name": "淳祐通宝",
-        "dynasty": "南宋钱币",
-        "dynastyIndex": 12,
-        "summary": {
-          "name": "淳祐通宝",
-          "historicalPeriod": "南宋（1241年）",
-          "ruler": "理宗赵昀",
-          "coreFeatures": "篆楷对钱",
-          "estimatedValue": "10—200元",
-          "rarity": "八级（较多）",
-          "thumbnail": "/images/coins/p-南宋钱币/淳祐通宝/main.jpg"
-        }
-      },
-      {
-        "id": "15-56",
-        "name": "皇宋元宝",
-        "dynasty": "南宋钱币",
-        "dynastyIndex": 12,
-        "summary": {
-          "name": "皇宋元宝",
-          "historicalPeriod": "南宋（1253年）",
-          "ruler": "理宗赵昀",
-          "coreFeatures": "篆楷对钱",
-          "estimatedValue": "10—200元",
-          "rarity": "八级（较多）",
-          "thumbnail": "/images/coins/p-南宋钱币/皇宋元宝/main.jpg"
-        }
-      },
-      {
-        "id": "15-57",
-        "name": "开庆通宝",
-        "dynasty": "南宋钱币",
-        "dynastyIndex": 12,
-        "summary": {
-          "name": "开庆通宝",
-          "historicalPeriod": "南宋（1259年）",
-          "ruler": "理宗赵昀",
-          "coreFeatures": "篆楷对钱，铸行仅一年",
-          "estimatedValue": "100—2000元",
-          "rarity": "六级（稀）",
-          "thumbnail": "/images/coins/p-南宋钱币/开庆通宝/main.jpg"
-        }
-      },
-      {
-        "id": "15-58",
-        "name": "景定元宝",
-        "dynasty": "南宋钱币",
-        "dynastyIndex": 12,
-        "summary": {
-          "name": "景定元宝",
-          "historicalPeriod": "南宋（1260年）",
-          "ruler": "理宗赵昀",
-          "coreFeatures": "篆楷对钱",
-          "estimatedValue": "10—200元",
-          "rarity": "八级（较多）",
-          "thumbnail": "/images/coins/p-南宋钱币/景定元宝/main.jpg"
-        }
-      },
-      {
-        "id": "15-59",
-        "name": "咸淳元宝",
-        "dynasty": "南宋钱币",
-        "dynastyIndex": 12,
-        "summary": {
-          "name": "咸淳元宝",
-          "historicalPeriod": "南宋（1265年）",
-          "ruler": "度宗赵禥",
-          "coreFeatures": "南宋最后大规模铸币",
-          "estimatedValue": "10—200元",
-          "rarity": "七级（甚少）",
-          "thumbnail": "/images/coins/p-南宋钱币/咸淳元宝/main.jpg"
-        }
-      },
-      {
-        "id": "15-60",
-        "name": "临安府钱牌",
-        "dynasty": "南宋钱币",
-        "dynastyIndex": 12,
-        "summary": {
-          "name": "临安府钱牌",
-          "historicalPeriod": "南宋（约1200年）",
-          "ruler": "不详",
-          "coreFeatures": "铅铜钱牌，代用货币",
-          "estimatedValue": "5000—50000元",
-          "rarity": "五级（稀贵）",
-          "thumbnail": "/images/coins/p-南宋钱币/临安府钱牌/main.jpg"
-        }
-      }
-    ]
-  },
-  {
     "dynasty": "辽朝钱币",
-    "dynastyIndex": 13,
-    "dynastyPeriod": "916年—1125年",
-    "dynastyStartYear": 916,
-    "dynastyEndYear": 1125,
+    "dynastyIndex": 11,
     "coins": [
       {
         "id": "11-0",
         "name": "通行泉货",
         "dynasty": "辽朝钱币",
-        "dynastyIndex": 13,
+        "dynastyIndex": 11,
         "summary": {
           "name": "通行泉货",
           "historicalPeriod": "辽早期（约907年）",
@@ -4237,7 +2458,7 @@
         "id": "11-1",
         "name": "神册通宝",
         "dynasty": "辽朝钱币",
-        "dynastyIndex": 13,
+        "dynastyIndex": 11,
         "summary": {
           "name": "神册通宝",
           "historicalPeriod": "辽（916年）",
@@ -4252,7 +2473,7 @@
         "id": "11-2",
         "name": "天赞通宝",
         "dynasty": "辽朝钱币",
-        "dynastyIndex": 13,
+        "dynastyIndex": 11,
         "summary": {
           "name": "天赞通宝",
           "historicalPeriod": "辽（922年）",
@@ -4267,7 +2488,7 @@
         "id": "11-3",
         "name": "天显通宝",
         "dynasty": "辽朝钱币",
-        "dynastyIndex": 13,
+        "dynastyIndex": 11,
         "summary": {
           "name": "天显通宝",
           "historicalPeriod": "辽（926年）",
@@ -4282,7 +2503,7 @@
         "id": "11-4",
         "name": "会同通宝",
         "dynasty": "辽朝钱币",
-        "dynastyIndex": 13,
+        "dynastyIndex": 11,
         "summary": {
           "name": "会同通宝",
           "historicalPeriod": "辽（938年）",
@@ -4297,7 +2518,7 @@
         "id": "11-5",
         "name": "天禄通宝",
         "dynasty": "辽朝钱币",
-        "dynastyIndex": 13,
+        "dynastyIndex": 11,
         "summary": {
           "name": "天禄通宝",
           "historicalPeriod": "辽（947年）",
@@ -4312,7 +2533,7 @@
         "id": "11-6",
         "name": "应历通宝",
         "dynasty": "辽朝钱币",
-        "dynastyIndex": 13,
+        "dynastyIndex": 11,
         "summary": {
           "name": "应历通宝",
           "historicalPeriod": "辽（951年）",
@@ -4327,7 +2548,7 @@
         "id": "11-7",
         "name": "保宁通宝",
         "dynasty": "辽朝钱币",
-        "dynastyIndex": 13,
+        "dynastyIndex": 11,
         "summary": {
           "name": "保宁通宝",
           "historicalPeriod": "辽（969年）",
@@ -4342,7 +2563,7 @@
         "id": "11-8",
         "name": "乾亨通宝-辽",
         "dynasty": "辽朝钱币",
-        "dynastyIndex": 13,
+        "dynastyIndex": 11,
         "summary": {
           "name": "乾亨通宝-辽",
           "historicalPeriod": "辽（979年）",
@@ -4357,7 +2578,7 @@
         "id": "11-9",
         "name": "统和元宝",
         "dynasty": "辽朝钱币",
-        "dynastyIndex": 13,
+        "dynastyIndex": 11,
         "summary": {
           "name": "统和元宝",
           "historicalPeriod": "辽（983年）",
@@ -4372,7 +2593,7 @@
         "id": "11-10",
         "name": "开泰元宝",
         "dynasty": "辽朝钱币",
-        "dynastyIndex": 13,
+        "dynastyIndex": 11,
         "summary": {
           "name": "开泰元宝",
           "historicalPeriod": "辽（1012年）",
@@ -4387,7 +2608,7 @@
         "id": "11-11",
         "name": "太平元宝",
         "dynasty": "辽朝钱币",
-        "dynastyIndex": 13,
+        "dynastyIndex": 11,
         "summary": {
           "name": "太平元宝",
           "historicalPeriod": "辽（1021年）",
@@ -4402,7 +2623,7 @@
         "id": "11-12",
         "name": "景福通宝",
         "dynasty": "辽朝钱币",
-        "dynastyIndex": 13,
+        "dynastyIndex": 11,
         "summary": {
           "name": "景福通宝",
           "historicalPeriod": "辽（1031年）",
@@ -4417,7 +2638,7 @@
         "id": "11-13",
         "name": "重熙通宝",
         "dynasty": "辽朝钱币",
-        "dynastyIndex": 13,
+        "dynastyIndex": 11,
         "summary": {
           "name": "重熙通宝",
           "historicalPeriod": "辽（1032年）",
@@ -4432,7 +2653,7 @@
         "id": "11-14",
         "name": "清宁通宝",
         "dynasty": "辽朝钱币",
-        "dynastyIndex": 13,
+        "dynastyIndex": 11,
         "summary": {
           "name": "清宁通宝",
           "historicalPeriod": "辽（1055年）",
@@ -4447,7 +2668,7 @@
         "id": "11-15",
         "name": "清宁元宝",
         "dynasty": "辽朝钱币",
-        "dynastyIndex": 13,
+        "dynastyIndex": 11,
         "summary": {
           "name": "清宁元宝",
           "historicalPeriod": "辽（1055年）",
@@ -4462,7 +2683,7 @@
         "id": "11-16",
         "name": "咸雍通宝",
         "dynasty": "辽朝钱币",
-        "dynastyIndex": 13,
+        "dynastyIndex": 11,
         "summary": {
           "name": "咸雍通宝",
           "historicalPeriod": "辽（1065年）",
@@ -4477,7 +2698,7 @@
         "id": "11-17",
         "name": "大康通宝",
         "dynasty": "辽朝钱币",
-        "dynastyIndex": 13,
+        "dynastyIndex": 11,
         "summary": {
           "name": "大康通宝",
           "historicalPeriod": "辽（1075年）",
@@ -4492,7 +2713,7 @@
         "id": "11-18",
         "name": "大康元宝",
         "dynasty": "辽朝钱币",
-        "dynastyIndex": 13,
+        "dynastyIndex": 11,
         "summary": {
           "name": "大康元宝",
           "historicalPeriod": "辽（1075年）",
@@ -4507,7 +2728,7 @@
         "id": "11-19",
         "name": "大安元宝",
         "dynasty": "辽朝钱币",
-        "dynastyIndex": 13,
+        "dynastyIndex": 11,
         "summary": {
           "name": "大安元宝",
           "historicalPeriod": "辽（1085年）",
@@ -4522,7 +2743,7 @@
         "id": "11-20",
         "name": "寿昌元宝",
         "dynasty": "辽朝钱币",
-        "dynastyIndex": 13,
+        "dynastyIndex": 11,
         "summary": {
           "name": "寿昌元宝",
           "historicalPeriod": "辽（1095年）",
@@ -4537,7 +2758,7 @@
         "id": "11-21",
         "name": "乾统元宝",
         "dynasty": "辽朝钱币",
-        "dynastyIndex": 13,
+        "dynastyIndex": 11,
         "summary": {
           "name": "乾统元宝",
           "historicalPeriod": "辽（1101年）",
@@ -4552,7 +2773,7 @@
         "id": "11-22",
         "name": "天庆元宝-辽",
         "dynasty": "辽朝钱币",
-        "dynastyIndex": 13,
+        "dynastyIndex": 11,
         "summary": {
           "name": "天庆元宝-辽",
           "historicalPeriod": "辽（1111年）",
@@ -4567,7 +2788,7 @@
         "id": "11-23",
         "name": "天朝万顺",
         "dynasty": "辽朝钱币",
-        "dynastyIndex": 13,
+        "dynastyIndex": 11,
         "summary": {
           "name": "天朝万顺",
           "historicalPeriod": "辽（年代不详）",
@@ -4582,7 +2803,7 @@
         "id": "11-24",
         "name": "助国元宝",
         "dynasty": "辽朝钱币",
-        "dynastyIndex": 13,
+        "dynastyIndex": 11,
         "summary": {
           "name": "助国元宝",
           "historicalPeriod": "辽（年代不详）",
@@ -4597,7 +2818,7 @@
         "id": "11-25",
         "name": "壮国元宝",
         "dynasty": "辽朝钱币",
-        "dynastyIndex": 13,
+        "dynastyIndex": 11,
         "summary": {
           "name": "壮国元宝",
           "historicalPeriod": "辽（年代不详）",
@@ -4612,7 +2833,7 @@
         "id": "11-26",
         "name": "千秋万岁",
         "dynasty": "辽朝钱币",
-        "dynastyIndex": 13,
+        "dynastyIndex": 11,
         "summary": {
           "name": "千秋万岁",
           "historicalPeriod": "辽（年代不详）",
@@ -4627,7 +2848,7 @@
         "id": "11-27",
         "name": "大辽天庆",
         "dynasty": "辽朝钱币",
-        "dynastyIndex": 13,
+        "dynastyIndex": 11,
         "summary": {
           "name": "大辽天庆",
           "historicalPeriod": "辽（1111年）",
@@ -4641,17 +2862,830 @@
     ]
   },
   {
+    "dynasty": "北宋钱币",
+    "dynastyIndex": 12,
+    "coins": [
+      {
+        "id": "12-0",
+        "name": "宋元通宝",
+        "dynasty": "北宋钱币",
+        "dynastyIndex": 12,
+        "summary": {
+          "name": "宋元通宝",
+          "historicalPeriod": "北宋（960年）",
+          "ruler": "太祖赵匡胤",
+          "coreFeatures": "北宋开国钱，仿周元通宝风格",
+          "estimatedValue": "10—100元",
+          "rarity": "十级（多泛）",
+          "thumbnail": "/images/coins/m-北宋钱币/宋元通宝/main.jpg"
+        }
+      },
+      {
+        "id": "12-1",
+        "name": "太平通宝",
+        "dynasty": "北宋钱币",
+        "dynastyIndex": 12,
+        "summary": {
+          "name": "太平通宝",
+          "historicalPeriod": "北宋（976年）",
+          "ruler": "太宗赵光义",
+          "coreFeatures": "中国第一种年号钱",
+          "estimatedValue": "10—80元",
+          "rarity": "十级（多泛）",
+          "thumbnail": "/images/coins/m-北宋钱币/太平通宝/main.jpg"
+        }
+      },
+      {
+        "id": "12-2",
+        "name": "淳化元宝",
+        "dynasty": "北宋钱币",
+        "dynastyIndex": 12,
+        "summary": {
+          "name": "淳化元宝",
+          "historicalPeriod": "北宋（990年）",
+          "ruler": "太宗赵光义",
+          "coreFeatures": "中国最早御书钱，真行草三体",
+          "estimatedValue": "20—300元",
+          "rarity": "九级（较多）",
+          "thumbnail": "/images/coins/m-北宋钱币/淳化元宝/main.jpg"
+        }
+      },
+      {
+        "id": "12-3",
+        "name": "至道元宝",
+        "dynasty": "北宋钱币",
+        "dynastyIndex": 12,
+        "summary": {
+          "name": "至道元宝",
+          "historicalPeriod": "北宋（995年）",
+          "ruler": "太宗赵光义",
+          "coreFeatures": "御书三体（真、行、草）",
+          "estimatedValue": "10—100元",
+          "rarity": "十级（多泛）",
+          "thumbnail": "/images/coins/m-北宋钱币/至道元宝/main.jpg"
+        }
+      },
+      {
+        "id": "12-4",
+        "name": "咸平元宝",
+        "dynasty": "北宋钱币",
+        "dynastyIndex": 12,
+        "summary": {
+          "name": "咸平元宝",
+          "historicalPeriod": "北宋（998年）",
+          "ruler": "真宗赵恒",
+          "coreFeatures": "楷书，铸量大",
+          "estimatedValue": "5—50元",
+          "rarity": "十级（多泛）",
+          "thumbnail": "/images/coins/m-北宋钱币/咸平元宝/main.jpg"
+        }
+      },
+      {
+        "id": "12-5",
+        "name": "景德元宝",
+        "dynasty": "北宋钱币",
+        "dynastyIndex": 12,
+        "summary": {
+          "name": "景德元宝",
+          "historicalPeriod": "北宋（1004年）",
+          "ruler": "真宗赵恒",
+          "coreFeatures": "楷书，铸量大",
+          "estimatedValue": "5—50元",
+          "rarity": "十级（多泛）",
+          "thumbnail": "/images/coins/m-北宋钱币/景德元宝/main.jpg"
+        }
+      },
+      {
+        "id": "12-6",
+        "name": "祥符通宝",
+        "dynasty": "北宋钱币",
+        "dynastyIndex": 12,
+        "summary": {
+          "name": "祥符通宝",
+          "historicalPeriod": "北宋（1008年）",
+          "ruler": "真宗赵恒",
+          "coreFeatures": "楷书，铸量大",
+          "estimatedValue": "5—50元",
+          "rarity": "十级（多泛）",
+          "thumbnail": "/images/coins/m-北宋钱币/祥符通宝/main.jpg"
+        }
+      },
+      {
+        "id": "12-7",
+        "name": "祥符元宝",
+        "dynasty": "北宋钱币",
+        "dynastyIndex": 12,
+        "summary": {
+          "name": "祥符元宝",
+          "historicalPeriod": "北宋（1008年）",
+          "ruler": "真宗赵恒",
+          "coreFeatures": "楷书，铸量大",
+          "estimatedValue": "5—50元",
+          "rarity": "十级（多泛）",
+          "thumbnail": "/images/coins/m-北宋钱币/祥符元宝/main.jpg"
+        }
+      },
+      {
+        "id": "12-8",
+        "name": "天禧通宝",
+        "dynasty": "北宋钱币",
+        "dynastyIndex": 12,
+        "summary": {
+          "name": "天禧通宝",
+          "historicalPeriod": "北宋（1017年）",
+          "ruler": "真宗赵恒",
+          "coreFeatures": "楷书，铸量大",
+          "estimatedValue": "5—50元",
+          "rarity": "十级（多泛）",
+          "thumbnail": "/images/coins/m-北宋钱币/天禧通宝/main.jpg"
+        }
+      },
+      {
+        "id": "12-9",
+        "name": "天圣元宝",
+        "dynasty": "北宋钱币",
+        "dynastyIndex": 12,
+        "summary": {
+          "name": "天圣元宝",
+          "historicalPeriod": "北宋（1023年）",
+          "ruler": "仁宗赵祯",
+          "coreFeatures": "篆楷对钱",
+          "estimatedValue": "5—50元",
+          "rarity": "十级（多泛）",
+          "thumbnail": "/images/coins/m-北宋钱币/天圣元宝/main.jpg"
+        }
+      },
+      {
+        "id": "12-10",
+        "name": "明道元宝",
+        "dynasty": "北宋钱币",
+        "dynastyIndex": 12,
+        "summary": {
+          "name": "明道元宝",
+          "historicalPeriod": "北宋（1032年）",
+          "ruler": "仁宗赵祯",
+          "coreFeatures": "篆楷对钱",
+          "estimatedValue": "5—50元",
+          "rarity": "十级（多泛）",
+          "thumbnail": "/images/coins/m-北宋钱币/明道元宝/main.jpg"
+        }
+      },
+      {
+        "id": "12-11",
+        "name": "景祐元宝",
+        "dynasty": "北宋钱币",
+        "dynastyIndex": 12,
+        "summary": {
+          "name": "景祐元宝",
+          "historicalPeriod": "北宋（1034年）",
+          "ruler": "仁宗赵祯",
+          "coreFeatures": "篆楷对钱",
+          "estimatedValue": "5—50元",
+          "rarity": "十级（多泛）",
+          "thumbnail": "/images/coins/m-北宋钱币/景祐元宝/main.jpg"
+        }
+      },
+      {
+        "id": "12-12",
+        "name": "皇宋通宝",
+        "dynasty": "北宋钱币",
+        "dynastyIndex": 12,
+        "summary": {
+          "name": "皇宋通宝",
+          "historicalPeriod": "北宋（1039年）",
+          "ruler": "仁宗赵祯",
+          "coreFeatures": "非年号钱，九叠篆为极品珍品",
+          "estimatedValue": "普品：3—30元；九叠篆：50000—200000元",
+          "rarity": "十级（多泛）/一级（大珍）",
+          "thumbnail": "/images/coins/m-北宋钱币/皇宋通宝/main.jpg"
+        }
+      },
+      {
+        "id": "12-13",
+        "name": "康定元宝",
+        "dynasty": "北宋钱币",
+        "dynastyIndex": 12,
+        "summary": {
+          "name": "康定元宝",
+          "historicalPeriod": "北宋（1040年）",
+          "ruler": "仁宗赵祯",
+          "coreFeatures": "铁钱为主，存世较少",
+          "estimatedValue": "铁：500—3000元",
+          "rarity": "六级（稀）",
+          "thumbnail": ""
+        }
+      },
+      {
+        "id": "12-14",
+        "name": "庆历重宝",
+        "dynasty": "北宋钱币",
+        "dynastyIndex": 12,
+        "summary": {
+          "name": "庆历重宝",
+          "historicalPeriod": "北宋（1041年）",
+          "ruler": "仁宗赵祯",
+          "coreFeatures": "当十钱，铜铁并行",
+          "estimatedValue": "20—300元",
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/m-北宋钱币/庆历重宝/main.jpg"
+        }
+      },
+      {
+        "id": "12-15",
+        "name": "至和元宝",
+        "dynasty": "北宋钱币",
+        "dynastyIndex": 12,
+        "summary": {
+          "name": "至和元宝",
+          "historicalPeriod": "北宋（1054年）",
+          "ruler": "仁宗赵祯",
+          "coreFeatures": "篆楷对钱",
+          "estimatedValue": "5—50元",
+          "rarity": "十级（多泛）",
+          "thumbnail": "/images/coins/m-北宋钱币/至和元宝/main.jpg"
+        }
+      },
+      {
+        "id": "12-16",
+        "name": "至和通宝",
+        "dynasty": "北宋钱币",
+        "dynastyIndex": 12,
+        "summary": {
+          "name": "至和通宝",
+          "historicalPeriod": "北宋（1054年）",
+          "ruler": "仁宗赵祯",
+          "coreFeatures": "篆楷对钱",
+          "estimatedValue": "5—50元",
+          "rarity": "十级（多泛）",
+          "thumbnail": "/images/coins/m-北宋钱币/至和通宝/main.jpg"
+        }
+      },
+      {
+        "id": "12-17",
+        "name": "至和重宝",
+        "dynasty": "北宋钱币",
+        "dynastyIndex": 12,
+        "summary": {
+          "name": "至和重宝",
+          "historicalPeriod": "北宋（1054年）",
+          "ruler": "仁宗赵祯",
+          "coreFeatures": "折二折三，铁钱多见",
+          "estimatedValue": "铜：200—2000元",
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/m-北宋钱币/至和重宝/main.jpg"
+        }
+      },
+      {
+        "id": "12-18",
+        "name": "嘉祐元宝",
+        "dynasty": "北宋钱币",
+        "dynastyIndex": 12,
+        "summary": {
+          "name": "嘉祐元宝",
+          "historicalPeriod": "北宋（1056年）",
+          "ruler": "仁宗赵祯",
+          "coreFeatures": "篆楷对钱",
+          "estimatedValue": "5—50元",
+          "rarity": "十级（多泛）",
+          "thumbnail": "/images/coins/m-北宋钱币/嘉祐元宝/main.jpg"
+        }
+      },
+      {
+        "id": "12-19",
+        "name": "嘉祐通宝",
+        "dynasty": "北宋钱币",
+        "dynastyIndex": 12,
+        "summary": {
+          "name": "嘉祐通宝",
+          "historicalPeriod": "北宋（1056年）",
+          "ruler": "仁宗赵祯",
+          "coreFeatures": "篆楷对钱",
+          "estimatedValue": "5—50元",
+          "rarity": "十级（多泛）",
+          "thumbnail": "/images/coins/m-北宋钱币/嘉祐通宝/main.jpg"
+        }
+      },
+      {
+        "id": "12-20",
+        "name": "嘉祐重宝",
+        "dynasty": "北宋钱币",
+        "dynastyIndex": 12,
+        "summary": {
+          "name": "嘉祐重宝",
+          "historicalPeriod": "北宋（1056年）",
+          "ruler": "仁宗赵祯",
+          "coreFeatures": "铁钱，存世较少",
+          "estimatedValue": "铁：200—2000元",
+          "rarity": "七级（甚少）",
+          "thumbnail": ""
+        }
+      },
+      {
+        "id": "12-21",
+        "name": "治平元宝",
+        "dynasty": "北宋钱币",
+        "dynastyIndex": 12,
+        "summary": {
+          "name": "治平元宝",
+          "historicalPeriod": "北宋（1064年）",
+          "ruler": "英宗赵曙",
+          "coreFeatures": "篆楷对钱",
+          "estimatedValue": "5—50元",
+          "rarity": "十级（多泛）",
+          "thumbnail": "/images/coins/m-北宋钱币/治平元宝/main.jpg"
+        }
+      },
+      {
+        "id": "12-22",
+        "name": "治平通宝",
+        "dynasty": "北宋钱币",
+        "dynastyIndex": 12,
+        "summary": {
+          "name": "治平通宝",
+          "historicalPeriod": "北宋（1064年）",
+          "ruler": "英宗赵曙",
+          "coreFeatures": "篆楷对钱",
+          "estimatedValue": "5—50元",
+          "rarity": "十级（多泛）",
+          "thumbnail": "/images/coins/m-北宋钱币/治平通宝/main.jpg"
+        }
+      },
+      {
+        "id": "12-23",
+        "name": "熙宁元宝",
+        "dynasty": "北宋钱币",
+        "dynastyIndex": 12,
+        "summary": {
+          "name": "熙宁元宝",
+          "historicalPeriod": "北宋（1068年）",
+          "ruler": "神宗赵顼",
+          "coreFeatures": "篆楷对钱，版别繁多",
+          "estimatedValue": "5—100元",
+          "rarity": "十级（多泛）",
+          "thumbnail": "/images/coins/m-北宋钱币/熙宁元宝/main.jpg"
+        }
+      },
+      {
+        "id": "12-24",
+        "name": "熙宁通宝",
+        "dynasty": "北宋钱币",
+        "dynastyIndex": 12,
+        "summary": {
+          "name": "熙宁通宝",
+          "historicalPeriod": "北宋（1068年）",
+          "ruler": "神宗赵顼",
+          "coreFeatures": "铁钱，折二型",
+          "estimatedValue": "铁：100—1000元",
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/m-北宋钱币/熙宁通宝/main.jpg"
+        }
+      },
+      {
+        "id": "12-25",
+        "name": "熙宁重宝",
+        "dynasty": "北宋钱币",
+        "dynastyIndex": 12,
+        "summary": {
+          "name": "熙宁重宝",
+          "historicalPeriod": "北宋（1068年）",
+          "ruler": "神宗赵顼",
+          "coreFeatures": "折二型，铸量大",
+          "estimatedValue": "5—50元",
+          "rarity": "九级（较多）",
+          "thumbnail": "/images/coins/m-北宋钱币/熙宁重宝/main.jpg"
+        }
+      },
+      {
+        "id": "12-26",
+        "name": "元丰通宝",
+        "dynasty": "北宋钱币",
+        "dynastyIndex": 12,
+        "summary": {
+          "name": "元丰通宝",
+          "historicalPeriod": "北宋（1078年）",
+          "ruler": "神宗赵顼",
+          "coreFeatures": "篆行隶三体，版别极多，铸量巨大",
+          "estimatedValue": "5—100元",
+          "rarity": "十级（多泛）",
+          "thumbnail": "/images/coins/m-北宋钱币/元丰通宝/main.jpg"
+        }
+      },
+      {
+        "id": "12-27",
+        "name": "元丰重宝",
+        "dynasty": "北宋钱币",
+        "dynastyIndex": 12,
+        "summary": {
+          "name": "元丰重宝",
+          "historicalPeriod": "北宋（1078年）",
+          "ruler": "神宗赵顼",
+          "coreFeatures": "铁钱，存世较少",
+          "estimatedValue": "铁：500—3000元",
+          "rarity": "七级（甚少）",
+          "thumbnail": ""
+        }
+      },
+      {
+        "id": "12-28",
+        "name": "元祐通宝",
+        "dynasty": "北宋钱币",
+        "dynastyIndex": 12,
+        "summary": {
+          "name": "元祐通宝",
+          "historicalPeriod": "北宋（1086年）",
+          "ruler": "哲宗赵煦",
+          "coreFeatures": "篆行对钱，传为司马光、苏轼手书",
+          "estimatedValue": "10—200元",
+          "rarity": "九级（较多）",
+          "thumbnail": "/images/coins/m-北宋钱币/元祐通宝/main.jpg"
+        }
+      },
+      {
+        "id": "12-29",
+        "name": "绍圣元宝",
+        "dynasty": "北宋钱币",
+        "dynastyIndex": 12,
+        "summary": {
+          "name": "绍圣元宝",
+          "historicalPeriod": "北宋（1094年）",
+          "ruler": "哲宗赵煦",
+          "coreFeatures": "篆行对钱，铜铁并行",
+          "estimatedValue": "5—100元",
+          "rarity": "九级（较多）",
+          "thumbnail": "/images/coins/m-北宋钱币/绍圣元宝/main.jpg"
+        }
+      },
+      {
+        "id": "12-30",
+        "name": "绍圣通宝",
+        "dynasty": "北宋钱币",
+        "dynastyIndex": 12,
+        "summary": {
+          "name": "绍圣通宝",
+          "historicalPeriod": "北宋（1094年）",
+          "ruler": "哲宗赵煦",
+          "coreFeatures": "铜品较少",
+          "estimatedValue": "100—2000元",
+          "rarity": "七级（甚少）",
+          "thumbnail": "/images/coins/m-北宋钱币/绍圣通宝/main.jpg"
+        }
+      },
+      {
+        "id": "12-31",
+        "name": "绍圣重宝",
+        "dynasty": "北宋钱币",
+        "dynastyIndex": 12,
+        "summary": {
+          "name": "绍圣重宝",
+          "historicalPeriod": "北宋（1094年）",
+          "ruler": "哲宗赵煦",
+          "coreFeatures": "铁钱，存世较少",
+          "estimatedValue": "铁：500—3000元",
+          "rarity": "七级（甚少）",
+          "thumbnail": "/images/coins/m-北宋钱币/绍圣重宝/main.jpg"
+        }
+      },
+      {
+        "id": "12-32",
+        "name": "元符通宝",
+        "dynasty": "北宋钱币",
+        "dynastyIndex": 12,
+        "summary": {
+          "name": "元符通宝",
+          "historicalPeriod": "北宋（1098年）",
+          "ruler": "哲宗赵煦",
+          "coreFeatures": "篆行对钱",
+          "estimatedValue": "5—100元",
+          "rarity": "九级（较多）",
+          "thumbnail": "/images/coins/m-北宋钱币/元符通宝/main.jpg"
+        }
+      },
+      {
+        "id": "12-33",
+        "name": "元符重宝",
+        "dynasty": "北宋钱币",
+        "dynastyIndex": 12,
+        "summary": {
+          "name": "元符重宝",
+          "historicalPeriod": "北宋（1098年）",
+          "ruler": "哲宗赵煦",
+          "coreFeatures": "铁钱，存世较少",
+          "estimatedValue": "铁：500—3000元",
+          "rarity": "七级（甚少）",
+          "thumbnail": "/images/coins/m-北宋钱币/元符重宝/main.jpg"
+        }
+      },
+      {
+        "id": "12-34",
+        "name": "圣宋元宝",
+        "dynasty": "北宋钱币",
+        "dynastyIndex": 12,
+        "summary": {
+          "name": "圣宋元宝",
+          "historicalPeriod": "北宋（1101年）",
+          "ruler": "徽宗赵佶",
+          "coreFeatures": "非年号钱，篆行对钱，铸工精美",
+          "estimatedValue": "10—200元",
+          "rarity": "九级（较多）",
+          "thumbnail": "/images/coins/m-北宋钱币/圣宋元宝/main.jpg"
+        }
+      },
+      {
+        "id": "12-35",
+        "name": "圣宋通宝",
+        "dynasty": "北宋钱币",
+        "dynastyIndex": 12,
+        "summary": {
+          "name": "圣宋通宝",
+          "historicalPeriod": "北宋（1101年）",
+          "ruler": "徽宗赵佶",
+          "coreFeatures": "存世较少",
+          "estimatedValue": "200—3000元",
+          "rarity": "七级（甚少）",
+          "thumbnail": "/images/coins/m-北宋钱币/圣宋通宝/main.jpg"
+        }
+      },
+      {
+        "id": "12-36",
+        "name": "建国通宝",
+        "dynasty": "北宋钱币",
+        "dynastyIndex": 12,
+        "summary": {
+          "name": "建国通宝",
+          "historicalPeriod": "北宋（1101年）",
+          "ruler": "徽宗赵佶",
+          "coreFeatures": "存世极罕，试铸性质",
+          "estimatedValue": "50000—200000元",
+          "rarity": "一级（大珍）",
+          "thumbnail": ""
+        }
+      },
+      {
+        "id": "12-37",
+        "name": "崇宁通宝",
+        "dynasty": "北宋钱币",
+        "dynastyIndex": 12,
+        "summary": {
+          "name": "崇宁通宝",
+          "historicalPeriod": "北宋（1102年）",
+          "ruler": "徽宗赵佶",
+          "coreFeatures": "御书瘦金体，铸工极精，当十钱",
+          "estimatedValue": "30—500元",
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/m-北宋钱币/崇宁通宝/main.jpg"
+        }
+      },
+      {
+        "id": "12-38",
+        "name": "崇宁元宝",
+        "dynasty": "北宋钱币",
+        "dynastyIndex": 12,
+        "summary": {
+          "name": "崇宁元宝",
+          "historicalPeriod": "北宋（1102年）",
+          "ruler": "徽宗赵佶",
+          "coreFeatures": "存世较少",
+          "estimatedValue": "100—3000元",
+          "rarity": "七级（甚少）",
+          "thumbnail": "/images/coins/m-北宋钱币/崇宁元宝/main.jpg"
+        }
+      },
+      {
+        "id": "12-39",
+        "name": "崇宁重宝",
+        "dynasty": "北宋钱币",
+        "dynastyIndex": 12,
+        "summary": {
+          "name": "崇宁重宝",
+          "historicalPeriod": "北宋（1102年）",
+          "ruler": "徽宗赵佶",
+          "coreFeatures": "当十钱，铸量大",
+          "estimatedValue": "10—200元",
+          "rarity": "九级（较多）",
+          "thumbnail": "/images/coins/m-北宋钱币/崇宁重宝/main.jpg"
+        }
+      },
+      {
+        "id": "12-40",
+        "name": "大观通宝",
+        "dynasty": "北宋钱币",
+        "dynastyIndex": 12,
+        "summary": {
+          "name": "大观通宝",
+          "historicalPeriod": "北宋（1107年）",
+          "ruler": "徽宗赵佶",
+          "coreFeatures": "御书瘦金体，折十最精",
+          "estimatedValue": "小平：20—300元；折十：50—800元",
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/m-北宋钱币/大观通宝/main.jpg"
+        }
+      },
+      {
+        "id": "12-41",
+        "name": "政和通宝",
+        "dynasty": "北宋钱币",
+        "dynastyIndex": 12,
+        "summary": {
+          "name": "政和通宝",
+          "historicalPeriod": "北宋（1111年）",
+          "ruler": "徽宗赵佶",
+          "coreFeatures": "篆隶对钱",
+          "estimatedValue": "5—100元",
+          "rarity": "九级（较多）",
+          "thumbnail": "/images/coins/m-北宋钱币/政和通宝/main.jpg"
+        }
+      },
+      {
+        "id": "12-42",
+        "name": "政和重宝",
+        "dynasty": "北宋钱币",
+        "dynastyIndex": 12,
+        "summary": {
+          "name": "政和重宝",
+          "historicalPeriod": "北宋（1111年）",
+          "ruler": "徽宗赵佶",
+          "coreFeatures": "铁钱为主",
+          "estimatedValue": "铁：50—500元",
+          "rarity": "八级（少）",
+          "thumbnail": ""
+        }
+      },
+      {
+        "id": "12-43",
+        "name": "重和通宝",
+        "dynasty": "北宋钱币",
+        "dynastyIndex": 12,
+        "summary": {
+          "name": "重和通宝",
+          "historicalPeriod": "北宋（1118年）",
+          "ruler": "徽宗赵佶",
+          "coreFeatures": "铸行仅一年，存世较少",
+          "estimatedValue": "1000—8000元",
+          "rarity": "四级（罕）",
+          "thumbnail": "/images/coins/m-北宋钱币/重和通宝/main.jpg"
+        }
+      },
+      {
+        "id": "12-44",
+        "name": "宣和通宝",
+        "dynasty": "北宋钱币",
+        "dynastyIndex": 12,
+        "summary": {
+          "name": "宣和通宝",
+          "historicalPeriod": "北宋（1119年）",
+          "ruler": "徽宗赵佶",
+          "coreFeatures": "版别众多，篆隶对钱",
+          "estimatedValue": "10—300元",
+          "rarity": "九级（较多）",
+          "thumbnail": "/images/coins/m-北宋钱币/宣和通宝/main.jpg"
+        }
+      },
+      {
+        "id": "12-45",
+        "name": "宣和元宝",
+        "dynasty": "北宋钱币",
+        "dynastyIndex": 12,
+        "summary": {
+          "name": "宣和元宝",
+          "historicalPeriod": "北宋（1119年）",
+          "ruler": "徽宗赵佶",
+          "coreFeatures": "存世较少",
+          "estimatedValue": "50—500元",
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/m-北宋钱币/宣和元宝/main.jpg"
+        }
+      },
+      {
+        "id": "12-46",
+        "name": "靖康通宝",
+        "dynasty": "北宋钱币",
+        "dynastyIndex": 12,
+        "summary": {
+          "name": "靖康通宝",
+          "historicalPeriod": "北宋（1126年）",
+          "ruler": "钦宗赵桓",
+          "coreFeatures": "北宋最后铸币，存世极罕",
+          "estimatedValue": "50000—500000元",
+          "rarity": "一级（大珍）",
+          "thumbnail": "/images/coins/m-北宋钱币/靖康通宝/main.jpg"
+        }
+      },
+      {
+        "id": "12-47",
+        "name": "靖康元宝",
+        "dynasty": "北宋钱币",
+        "dynastyIndex": 12,
+        "summary": {
+          "name": "靖康元宝",
+          "historicalPeriod": "北宋（1126年）",
+          "ruler": "钦宗赵桓",
+          "coreFeatures": "北宋最后铸币，存世极罕",
+          "estimatedValue": "50000—500000元",
+          "rarity": "一级（大珍）",
+          "thumbnail": "/images/coins/m-北宋钱币/靖康元宝/main.jpg"
+        }
+      },
+      {
+        "id": "12-48",
+        "name": "皇祐元宝",
+        "dynasty": "北宋钱币",
+        "dynastyIndex": 12,
+        "summary": {
+          "name": "皇祐元宝",
+          "historicalPeriod": "北宋（1049年）",
+          "ruler": "仁宗赵祯",
+          "coreFeatures": "存世极罕",
+          "estimatedValue": "30000—150000元",
+          "rarity": "三级（罕贵）",
+          "thumbnail": ""
+        }
+      },
+      {
+        "id": "12-49",
+        "name": "庆历直十",
+        "dynasty": "北宋钱币",
+        "dynastyIndex": 12,
+        "summary": {
+          "name": "庆历直十",
+          "historicalPeriod": "北宋（1041年）",
+          "ruler": "仁宗赵祯",
+          "coreFeatures": "铁钱，当十",
+          "estimatedValue": "铁：500—3000元",
+          "rarity": "七级（甚少）",
+          "thumbnail": "/images/coins/m-北宋钱币/庆历直十/main.jpg"
+        }
+      },
+      {
+        "id": "12-50",
+        "name": "应运元宝",
+        "dynasty": "北宋钱币",
+        "dynastyIndex": 12,
+        "summary": {
+          "name": "应运元宝",
+          "historicalPeriod": "北宋（994年）",
+          "ruler": "李顺（农民起义）",
+          "coreFeatures": "四川农民起义军铸币，存世极罕",
+          "estimatedValue": "100000—500000元",
+          "rarity": "一级（大珍）",
+          "thumbnail": "/images/coins/m-北宋钱币/应运元宝/main.jpg"
+        }
+      },
+      {
+        "id": "12-51",
+        "name": "应运钱",
+        "dynasty": "北宋钱币",
+        "dynastyIndex": 12,
+        "summary": {
+          "name": "应运钱",
+          "historicalPeriod": "北宋（994年）",
+          "ruler": "李顺（农民起义）",
+          "coreFeatures": "四川农民起义军铸币",
+          "estimatedValue": "50000—200000元",
+          "rarity": "二级（珍）",
+          "thumbnail": "/images/coins/m-北宋钱币/应运钱/main.jpg"
+        }
+      },
+      {
+        "id": "12-52",
+        "name": "应感通宝",
+        "dynasty": "北宋钱币",
+        "dynastyIndex": 12,
+        "summary": {
+          "name": "应感通宝",
+          "historicalPeriod": "北宋（994年）",
+          "ruler": "李顺（农民起义）",
+          "coreFeatures": "四川农民起义军铸币，存世极罕",
+          "estimatedValue": "30000—150000元",
+          "rarity": "三级（罕贵）",
+          "thumbnail": "/images/coins/m-北宋钱币/应感通宝/main.jpg"
+        }
+      },
+      {
+        "id": "12-53",
+        "name": "应感钱",
+        "dynasty": "北宋钱币",
+        "dynastyIndex": 12,
+        "summary": {
+          "name": "应感钱",
+          "historicalPeriod": "北宋（994年）",
+          "ruler": "李顺（农民起义）",
+          "coreFeatures": "四川农民起义军铸币",
+          "estimatedValue": "50000—200000元",
+          "rarity": "二级（珍）",
+          "thumbnail": "/images/coins/m-北宋钱币/应感钱/main.jpg"
+        }
+      }
+    ]
+  },
+  {
     "dynasty": "西夏钱币",
-    "dynastyIndex": 14,
-    "dynastyPeriod": "1038年—1227年",
-    "dynastyStartYear": 1038,
-    "dynastyEndYear": 1227,
+    "dynastyIndex": 13,
     "coins": [
       {
         "id": "13-0",
         "name": "福圣宝钱",
         "dynasty": "西夏钱币",
-        "dynastyIndex": 14,
+        "dynastyIndex": 13,
         "summary": {
           "name": "福圣宝钱",
           "historicalPeriod": "西夏（1053年）",
@@ -4666,7 +3700,7 @@
         "id": "13-1",
         "name": "大安宝钱",
         "dynasty": "西夏钱币",
-        "dynastyIndex": 14,
+        "dynastyIndex": 13,
         "summary": {
           "name": "大安宝钱",
           "historicalPeriod": "西夏（1075年）",
@@ -4681,7 +3715,7 @@
         "id": "13-2",
         "name": "大安通宝",
         "dynasty": "西夏钱币",
-        "dynastyIndex": 14,
+        "dynastyIndex": 13,
         "summary": {
           "name": "大安通宝",
           "historicalPeriod": "西夏（1075年）",
@@ -4696,7 +3730,7 @@
         "id": "13-3",
         "name": "贞观宝钱",
         "dynasty": "西夏钱币",
-        "dynastyIndex": 14,
+        "dynastyIndex": 13,
         "summary": {
           "name": "贞观宝钱",
           "historicalPeriod": "西夏（1101年）",
@@ -4711,7 +3745,7 @@
         "id": "13-4",
         "name": "元德通宝",
         "dynasty": "西夏钱币",
-        "dynastyIndex": 14,
+        "dynastyIndex": 13,
         "summary": {
           "name": "元德通宝",
           "historicalPeriod": "西夏（1119年）",
@@ -4726,7 +3760,7 @@
         "id": "13-5",
         "name": "元德重宝",
         "dynasty": "西夏钱币",
-        "dynastyIndex": 14,
+        "dynastyIndex": 13,
         "summary": {
           "name": "元德重宝",
           "historicalPeriod": "西夏（1119年）",
@@ -4741,7 +3775,7 @@
         "id": "13-6",
         "name": "天盛元宝",
         "dynasty": "西夏钱币",
-        "dynastyIndex": 14,
+        "dynastyIndex": 13,
         "summary": {
           "name": "天盛元宝",
           "historicalPeriod": "西夏（1149年）",
@@ -4756,14 +3790,14 @@
         "id": "13-7",
         "name": "乾祐元宝",
         "dynasty": "西夏钱币",
-        "dynastyIndex": 14,
+        "dynastyIndex": 13,
         "summary": {
           "name": "乾祐元宝",
           "historicalPeriod": "西夏（1170年）",
           "ruler": "仁宗李仁孝",
           "coreFeatures": "汉文钱币，铜铁并行",
           "estimatedValue": "50—500元",
-          "rarity": "八级（较多）",
+          "rarity": "八级（少）",
           "thumbnail": "/images/coins/n-西夏钱币/乾祐元宝/main.jpg"
         }
       },
@@ -4771,7 +3805,7 @@
         "id": "13-8",
         "name": "乾祐宝钱",
         "dynasty": "西夏钱币",
-        "dynastyIndex": 14,
+        "dynastyIndex": 13,
         "summary": {
           "name": "乾祐宝钱",
           "historicalPeriod": "西夏（1170年）",
@@ -4786,7 +3820,7 @@
         "id": "13-9",
         "name": "天庆宝钱",
         "dynasty": "西夏钱币",
-        "dynastyIndex": 14,
+        "dynastyIndex": 13,
         "summary": {
           "name": "天庆宝钱",
           "historicalPeriod": "西夏（1194年）",
@@ -4801,7 +3835,7 @@
         "id": "13-10",
         "name": "天庆元宝-西夏",
         "dynasty": "西夏钱币",
-        "dynastyIndex": 14,
+        "dynastyIndex": 13,
         "summary": {
           "name": "天庆元宝-西夏",
           "historicalPeriod": "西夏（1194年）",
@@ -4816,7 +3850,7 @@
         "id": "13-11",
         "name": "皇建元宝",
         "dynasty": "西夏钱币",
-        "dynastyIndex": 14,
+        "dynastyIndex": 13,
         "summary": {
           "name": "皇建元宝",
           "historicalPeriod": "西夏（1210年）",
@@ -4831,7 +3865,7 @@
         "id": "13-12",
         "name": "光定元宝",
         "dynasty": "西夏钱币",
-        "dynastyIndex": 14,
+        "dynastyIndex": 13,
         "summary": {
           "name": "光定元宝",
           "historicalPeriod": "西夏（1211年）",
@@ -4846,7 +3880,7 @@
         "id": "13-13",
         "name": "藩国宝钱",
         "dynasty": "西夏钱币",
-        "dynastyIndex": 14,
+        "dynastyIndex": 13,
         "summary": {
           "name": "藩国宝钱",
           "historicalPeriod": "西夏（年代不详）",
@@ -4861,16 +3895,13 @@
   },
   {
     "dynasty": "金朝钱币",
-    "dynastyIndex": 15,
-    "dynastyPeriod": "1115年—1234年",
-    "dynastyStartYear": 1115,
-    "dynastyEndYear": 1234,
+    "dynastyIndex": 14,
     "coins": [
       {
         "id": "14-0",
         "name": "天辅元宝",
         "dynasty": "金朝钱币",
-        "dynastyIndex": 15,
+        "dynastyIndex": 14,
         "summary": {
           "name": "天辅元宝",
           "historicalPeriod": "金（1117年）",
@@ -4885,7 +3916,7 @@
         "id": "14-1",
         "name": "天眷通宝",
         "dynasty": "金朝钱币",
-        "dynastyIndex": 15,
+        "dynastyIndex": 14,
         "summary": {
           "name": "天眷通宝",
           "historicalPeriod": "金（1138年）",
@@ -4900,7 +3931,7 @@
         "id": "14-2",
         "name": "天眷元宝",
         "dynasty": "金朝钱币",
-        "dynastyIndex": 15,
+        "dynastyIndex": 14,
         "summary": {
           "name": "天眷元宝",
           "historicalPeriod": "金（1138年）",
@@ -4915,7 +3946,7 @@
         "id": "14-3",
         "name": "天眷重宝",
         "dynasty": "金朝钱币",
-        "dynastyIndex": 15,
+        "dynastyIndex": 14,
         "summary": {
           "name": "天眷重宝",
           "historicalPeriod": "金（1138年）",
@@ -4930,7 +3961,7 @@
         "id": "14-4",
         "name": "皇统元宝",
         "dynasty": "金朝钱币",
-        "dynastyIndex": 15,
+        "dynastyIndex": 14,
         "summary": {
           "name": "皇统元宝",
           "historicalPeriod": "金（1141年）",
@@ -4945,7 +3976,7 @@
         "id": "14-5",
         "name": "皇统通宝",
         "dynasty": "金朝钱币",
-        "dynastyIndex": 15,
+        "dynastyIndex": 14,
         "summary": {
           "name": "皇统通宝",
           "historicalPeriod": "金（1141年）",
@@ -4960,14 +3991,14 @@
         "id": "14-6",
         "name": "正隆元宝",
         "dynasty": "金朝钱币",
-        "dynastyIndex": 15,
+        "dynastyIndex": 14,
         "summary": {
           "name": "正隆元宝",
           "historicalPeriod": "金（1156年）",
           "ruler": "海陵王完颜亮",
           "coreFeatures": "金铸量最大钱币",
           "estimatedValue": "20—500元",
-          "rarity": "八级（较多）",
+          "rarity": "八级（少）",
           "thumbnail": "/images/coins/o-金朝钱币/正隆元宝/main.jpg"
         }
       },
@@ -4975,14 +4006,14 @@
         "id": "14-7",
         "name": "大定通宝",
         "dynasty": "金朝钱币",
-        "dynastyIndex": 15,
+        "dynastyIndex": 14,
         "summary": {
           "name": "大定通宝",
           "historicalPeriod": "金（1161年）",
           "ruler": "世宗完颜雍",
           "coreFeatures": "铸工极精，仿大观通宝",
           "estimatedValue": "30—1000元",
-          "rarity": "八级（较多）",
+          "rarity": "八级（少）",
           "thumbnail": "/images/coins/o-金朝钱币/大定通宝/main.jpg"
         }
       },
@@ -4990,14 +4021,14 @@
         "id": "14-8",
         "name": "泰和通宝",
         "dynasty": "金朝钱币",
-        "dynastyIndex": 15,
+        "dynastyIndex": 14,
         "summary": {
           "name": "泰和通宝",
           "historicalPeriod": "金（1201年）",
           "ruler": "章宗完颜璟",
           "coreFeatures": "铸工精整",
           "estimatedValue": "50—1000元",
-          "rarity": "八级（较多）",
+          "rarity": "八级（少）",
           "thumbnail": "/images/coins/o-金朝钱币/泰和通宝/main.jpg"
         }
       },
@@ -5005,7 +4036,7 @@
         "id": "14-9",
         "name": "泰和重宝",
         "dynasty": "金朝钱币",
-        "dynastyIndex": 15,
+        "dynastyIndex": 14,
         "summary": {
           "name": "泰和重宝",
           "historicalPeriod": "金（1204年）",
@@ -5020,7 +4051,7 @@
         "id": "14-10",
         "name": "崇庆通宝",
         "dynasty": "金朝钱币",
-        "dynastyIndex": 15,
+        "dynastyIndex": 14,
         "summary": {
           "name": "崇庆通宝",
           "historicalPeriod": "金（1212年）",
@@ -5035,7 +4066,7 @@
         "id": "14-11",
         "name": "崇庆元宝",
         "dynasty": "金朝钱币",
-        "dynastyIndex": 15,
+        "dynastyIndex": 14,
         "summary": {
           "name": "崇庆元宝",
           "historicalPeriod": "金（1212年）",
@@ -5050,7 +4081,7 @@
         "id": "14-12",
         "name": "至宁元宝",
         "dynasty": "金朝钱币",
-        "dynastyIndex": 15,
+        "dynastyIndex": 14,
         "summary": {
           "name": "至宁元宝",
           "historicalPeriod": "金（1213年）",
@@ -5065,7 +4096,7 @@
         "id": "14-13",
         "name": "贞祐通宝",
         "dynasty": "金朝钱币",
-        "dynastyIndex": 15,
+        "dynastyIndex": 14,
         "summary": {
           "name": "贞祐通宝",
           "historicalPeriod": "金（1213年）",
@@ -5080,7 +4111,7 @@
         "id": "14-14",
         "name": "贞祐元宝",
         "dynasty": "金朝钱币",
-        "dynastyIndex": 15,
+        "dynastyIndex": 14,
         "summary": {
           "name": "贞祐元宝",
           "historicalPeriod": "金（1213年）",
@@ -5094,11 +4125,929 @@
     ]
   },
   {
+    "dynasty": "南宋钱币",
+    "dynastyIndex": 15,
+    "coins": [
+      {
+        "id": "15-0",
+        "name": "建炎通宝",
+        "dynasty": "南宋钱币",
+        "dynastyIndex": 15,
+        "summary": {
+          "name": "建炎通宝",
+          "historicalPeriod": "南宋（1127年）",
+          "ruler": "高宗赵构",
+          "coreFeatures": "南宋开国钱，铜铁并行",
+          "estimatedValue": "小平：10—200元",
+          "rarity": "九级（较多）",
+          "thumbnail": "/images/coins/p-南宋钱币/建炎通宝/main.jpg"
+        }
+      },
+      {
+        "id": "15-1",
+        "name": "建炎元宝",
+        "dynasty": "南宋钱币",
+        "dynastyIndex": 15,
+        "summary": {
+          "name": "建炎元宝",
+          "historicalPeriod": "南宋（1127年）",
+          "ruler": "高宗赵构",
+          "coreFeatures": "存世稀少",
+          "estimatedValue": "3000—30000元",
+          "rarity": "五级（稀贵）",
+          "thumbnail": "/images/coins/p-南宋钱币/建炎元宝/main.jpg"
+        }
+      },
+      {
+        "id": "15-2",
+        "name": "建炎重宝",
+        "dynasty": "南宋钱币",
+        "dynastyIndex": 15,
+        "summary": {
+          "name": "建炎重宝",
+          "historicalPeriod": "南宋（1127年）",
+          "ruler": "高宗赵构",
+          "coreFeatures": "折三型，铜铁并行",
+          "estimatedValue": "铜：500—5000元",
+          "rarity": "七级（甚少）",
+          "thumbnail": "/images/coins/p-南宋钱币/建炎重宝/main.jpg"
+        }
+      },
+      {
+        "id": "15-3",
+        "name": "绍兴通宝",
+        "dynasty": "南宋钱币",
+        "dynastyIndex": 15,
+        "summary": {
+          "name": "绍兴通宝",
+          "historicalPeriod": "南宋（1131年）",
+          "ruler": "高宗赵构",
+          "coreFeatures": "存世较少",
+          "estimatedValue": "200—3000元",
+          "rarity": "七级（甚少）",
+          "thumbnail": "/images/coins/p-南宋钱币/绍兴通宝/main.jpg"
+        }
+      },
+      {
+        "id": "15-4",
+        "name": "绍兴元宝",
+        "dynasty": "南宋钱币",
+        "dynastyIndex": 15,
+        "summary": {
+          "name": "绍兴元宝",
+          "historicalPeriod": "南宋（1131年）",
+          "ruler": "高宗赵构",
+          "coreFeatures": "篆楷对钱，铜铁并行",
+          "estimatedValue": "小平：5—100元",
+          "rarity": "九级（较多）",
+          "thumbnail": "/images/coins/p-南宋钱币/绍兴元宝/main.jpg"
+        }
+      },
+      {
+        "id": "15-5",
+        "name": "隆兴元宝",
+        "dynasty": "南宋钱币",
+        "dynastyIndex": 15,
+        "summary": {
+          "name": "隆兴元宝",
+          "historicalPeriod": "南宋（1163年）",
+          "ruler": "孝宗赵昚",
+          "coreFeatures": "篆楷对钱",
+          "estimatedValue": "20—300元",
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/p-南宋钱币/隆兴元宝/main.jpg"
+        }
+      },
+      {
+        "id": "15-6",
+        "name": "隆兴通宝",
+        "dynasty": "南宋钱币",
+        "dynastyIndex": 15,
+        "summary": {
+          "name": "隆兴通宝",
+          "historicalPeriod": "南宋（1163年）",
+          "ruler": "孝宗赵昚",
+          "coreFeatures": "篆楷对钱，铁钱",
+          "estimatedValue": "铁：50—500元",
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/p-南宋钱币/隆兴通宝/main.jpg"
+        }
+      },
+      {
+        "id": "15-7",
+        "name": "隆兴重宝",
+        "dynasty": "南宋钱币",
+        "dynastyIndex": 15,
+        "summary": {
+          "name": "隆兴重宝",
+          "historicalPeriod": "南宋（1163年）",
+          "ruler": "孝宗赵昚",
+          "coreFeatures": "铁钱",
+          "estimatedValue": "铁：200—2000元",
+          "rarity": "七级（甚少）",
+          "thumbnail": ""
+        }
+      },
+      {
+        "id": "15-8",
+        "name": "乾道元宝",
+        "dynasty": "南宋钱币",
+        "dynastyIndex": 15,
+        "summary": {
+          "name": "乾道元宝",
+          "historicalPeriod": "南宋（1165年）",
+          "ruler": "孝宗赵昚",
+          "coreFeatures": "篆楷对钱，铜铁并行",
+          "estimatedValue": "10—200元",
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/p-南宋钱币/乾道元宝/main.jpg"
+        }
+      },
+      {
+        "id": "15-9",
+        "name": "乾道通宝",
+        "dynasty": "南宋钱币",
+        "dynastyIndex": 15,
+        "summary": {
+          "name": "乾道通宝",
+          "historicalPeriod": "南宋（1165年）",
+          "ruler": "孝宗赵昚",
+          "coreFeatures": "铁钱为主",
+          "estimatedValue": "铁：100—1000元",
+          "rarity": "八级（少）",
+          "thumbnail": ""
+        }
+      },
+      {
+        "id": "15-10",
+        "name": "乾道重宝",
+        "dynasty": "南宋钱币",
+        "dynastyIndex": 15,
+        "summary": {
+          "name": "乾道重宝",
+          "historicalPeriod": "南宋（1165年）",
+          "ruler": "孝宗赵昚",
+          "coreFeatures": "铁钱",
+          "estimatedValue": "铁：200—2000元",
+          "rarity": "七级（甚少）",
+          "thumbnail": ""
+        }
+      },
+      {
+        "id": "15-11",
+        "name": "纯熙元宝",
+        "dynasty": "南宋钱币",
+        "dynastyIndex": 15,
+        "summary": {
+          "name": "纯熙元宝",
+          "historicalPeriod": "南宋（1174年）",
+          "ruler": "孝宗赵昚",
+          "coreFeatures": "铁钱，年号仅六月",
+          "estimatedValue": "铁：500—5000元",
+          "rarity": "六级（稀）",
+          "thumbnail": ""
+        }
+      },
+      {
+        "id": "15-12",
+        "name": "淳熙元宝",
+        "dynasty": "南宋钱币",
+        "dynastyIndex": 15,
+        "summary": {
+          "name": "淳熙元宝",
+          "historicalPeriod": "南宋（1174年）",
+          "ruler": "孝宗赵昚",
+          "coreFeatures": "篆楷对钱，铜铁并行",
+          "estimatedValue": "5—100元",
+          "rarity": "九级（较多）",
+          "thumbnail": "/images/coins/p-南宋钱币/淳熙元宝/main.jpg"
+        }
+      },
+      {
+        "id": "15-13",
+        "name": "淳熙通宝",
+        "dynasty": "南宋钱币",
+        "dynastyIndex": 15,
+        "summary": {
+          "name": "淳熙通宝",
+          "historicalPeriod": "南宋（1174年）",
+          "ruler": "孝宗赵昚",
+          "coreFeatures": "铁钱为主",
+          "estimatedValue": "铁：50—500元",
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/p-南宋钱币/淳熙通宝/main.jpg"
+        }
+      },
+      {
+        "id": "15-14",
+        "name": "绍熙元宝",
+        "dynasty": "南宋钱币",
+        "dynastyIndex": 15,
+        "summary": {
+          "name": "绍熙元宝",
+          "historicalPeriod": "南宋（1190年）",
+          "ruler": "光宗赵惇",
+          "coreFeatures": "篆楷对钱",
+          "estimatedValue": "5—100元",
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/p-南宋钱币/绍熙元宝/main.jpg"
+        }
+      },
+      {
+        "id": "15-15",
+        "name": "绍熙通宝",
+        "dynasty": "南宋钱币",
+        "dynastyIndex": 15,
+        "summary": {
+          "name": "绍熙通宝",
+          "historicalPeriod": "南宋（1190年）",
+          "ruler": "光宗赵惇",
+          "coreFeatures": "篆楷对钱",
+          "estimatedValue": "5—100元",
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/p-南宋钱币/绍熙通宝/main.jpg"
+        }
+      },
+      {
+        "id": "15-16",
+        "name": "庆元通宝",
+        "dynasty": "南宋钱币",
+        "dynastyIndex": 15,
+        "summary": {
+          "name": "庆元通宝",
+          "historicalPeriod": "南宋（1195年）",
+          "ruler": "宁宗赵扩",
+          "coreFeatures": "篆楷对钱",
+          "estimatedValue": "5—50元",
+          "rarity": "九级（较多）",
+          "thumbnail": "/images/coins/p-南宋钱币/庆元通宝/main.jpg"
+        }
+      },
+      {
+        "id": "15-17",
+        "name": "庆元元宝",
+        "dynasty": "南宋钱币",
+        "dynastyIndex": 15,
+        "summary": {
+          "name": "庆元元宝",
+          "historicalPeriod": "南宋（1195年）",
+          "ruler": "宁宗赵扩",
+          "coreFeatures": "铁钱",
+          "estimatedValue": "铁：50—500元",
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/p-南宋钱币/庆元元宝/main.jpg"
+        }
+      },
+      {
+        "id": "15-18",
+        "name": "嘉泰通宝",
+        "dynasty": "南宋钱币",
+        "dynastyIndex": 15,
+        "summary": {
+          "name": "嘉泰通宝",
+          "historicalPeriod": "南宋（1201年）",
+          "ruler": "宁宗赵扩",
+          "coreFeatures": "篆楷对钱",
+          "estimatedValue": "10—200元",
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/p-南宋钱币/嘉泰通宝/main.jpg"
+        }
+      },
+      {
+        "id": "15-19",
+        "name": "嘉泰元宝",
+        "dynasty": "南宋钱币",
+        "dynastyIndex": 15,
+        "summary": {
+          "name": "嘉泰元宝",
+          "historicalPeriod": "南宋（1201年）",
+          "ruler": "宁宗赵扩",
+          "coreFeatures": "铁钱",
+          "estimatedValue": "铁：100—1000元",
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/p-南宋钱币/嘉泰元宝/main.jpg"
+        }
+      },
+      {
+        "id": "15-20",
+        "name": "开禧通宝",
+        "dynasty": "南宋钱币",
+        "dynastyIndex": 15,
+        "summary": {
+          "name": "开禧通宝",
+          "historicalPeriod": "南宋（1205年）",
+          "ruler": "宁宗赵扩",
+          "coreFeatures": "篆楷对钱",
+          "estimatedValue": "10—200元",
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/p-南宋钱币/开禧通宝/main.jpg"
+        }
+      },
+      {
+        "id": "15-21",
+        "name": "开禧元宝",
+        "dynasty": "南宋钱币",
+        "dynastyIndex": 15,
+        "summary": {
+          "name": "开禧元宝",
+          "historicalPeriod": "南宋（1205年）",
+          "ruler": "宁宗赵扩",
+          "coreFeatures": "铁钱",
+          "estimatedValue": "铁：100—1000元",
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/p-南宋钱币/开禧元宝/main.jpg"
+        }
+      },
+      {
+        "id": "15-22",
+        "name": "圣宋重宝",
+        "dynasty": "南宋钱币",
+        "dynastyIndex": 15,
+        "summary": {
+          "name": "圣宋重宝",
+          "historicalPeriod": "南宋（1208年）",
+          "ruler": "宁宗赵扩",
+          "coreFeatures": "铁钱当五",
+          "estimatedValue": "铁：200—2000元",
+          "rarity": "七级（甚少）",
+          "thumbnail": ""
+        }
+      },
+      {
+        "id": "15-23",
+        "name": "嘉定通宝",
+        "dynasty": "南宋钱币",
+        "dynastyIndex": 15,
+        "summary": {
+          "name": "嘉定通宝",
+          "historicalPeriod": "南宋（1208年）",
+          "ruler": "宁宗赵扩",
+          "coreFeatures": "篆楷对钱",
+          "estimatedValue": "5—50元",
+          "rarity": "九级（较多）",
+          "thumbnail": "/images/coins/p-南宋钱币/嘉定通宝/main.jpg"
+        }
+      },
+      {
+        "id": "15-24",
+        "name": "嘉定元宝",
+        "dynasty": "南宋钱币",
+        "dynastyIndex": 15,
+        "summary": {
+          "name": "嘉定元宝",
+          "historicalPeriod": "南宋（1208年）",
+          "ruler": "宁宗赵扩",
+          "coreFeatures": "篆楷对钱",
+          "estimatedValue": "10—100元",
+          "rarity": "九级（较多）",
+          "thumbnail": "/images/coins/p-南宋钱币/嘉定元宝/main.jpg"
+        }
+      },
+      {
+        "id": "15-25",
+        "name": "嘉定重宝",
+        "dynasty": "南宋钱币",
+        "dynastyIndex": 15,
+        "summary": {
+          "name": "嘉定重宝",
+          "historicalPeriod": "南宋（1208年）",
+          "ruler": "宁宗赵扩",
+          "coreFeatures": "折五型",
+          "estimatedValue": "50—500元",
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/p-南宋钱币/嘉定重宝/main.jpg"
+        }
+      },
+      {
+        "id": "15-26",
+        "name": "嘉定崇宝",
+        "dynasty": "南宋钱币",
+        "dynastyIndex": 15,
+        "summary": {
+          "name": "嘉定崇宝",
+          "historicalPeriod": "南宋（1208年）",
+          "ruler": "宁宗赵扩",
+          "coreFeatures": "铁钱",
+          "estimatedValue": "铁：100—1000元",
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/p-南宋钱币/嘉定崇宝/main.jpg"
+        }
+      },
+      {
+        "id": "15-27",
+        "name": "嘉定正宝",
+        "dynasty": "南宋钱币",
+        "dynastyIndex": 15,
+        "summary": {
+          "name": "嘉定正宝",
+          "historicalPeriod": "南宋（1208年）",
+          "ruler": "宁宗赵扩",
+          "coreFeatures": "铁钱",
+          "estimatedValue": "铁：100—1000元",
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/p-南宋钱币/嘉定正宝/main.jpg"
+        }
+      },
+      {
+        "id": "15-28",
+        "name": "嘉定全宝",
+        "dynasty": "南宋钱币",
+        "dynastyIndex": 15,
+        "summary": {
+          "name": "嘉定全宝",
+          "historicalPeriod": "南宋（1208年）",
+          "ruler": "宁宗赵扩",
+          "coreFeatures": "铁钱",
+          "estimatedValue": "铁：100—1000元",
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/p-南宋钱币/嘉定全宝/main.jpg"
+        }
+      },
+      {
+        "id": "15-29",
+        "name": "嘉定永宝",
+        "dynasty": "南宋钱币",
+        "dynastyIndex": 15,
+        "summary": {
+          "name": "嘉定永宝",
+          "historicalPeriod": "南宋（1208年）",
+          "ruler": "宁宗赵扩",
+          "coreFeatures": "铁钱",
+          "estimatedValue": "铁：100—1000元",
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/p-南宋钱币/嘉定永宝/main.jpg"
+        }
+      },
+      {
+        "id": "15-30",
+        "name": "嘉定安宝",
+        "dynasty": "南宋钱币",
+        "dynastyIndex": 15,
+        "summary": {
+          "name": "嘉定安宝",
+          "historicalPeriod": "南宋（1208年）",
+          "ruler": "宁宗赵扩",
+          "coreFeatures": "铁钱",
+          "estimatedValue": "铁：100—1000元",
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/p-南宋钱币/嘉定安宝/main.jpg"
+        }
+      },
+      {
+        "id": "15-31",
+        "name": "嘉定真宝",
+        "dynasty": "南宋钱币",
+        "dynastyIndex": 15,
+        "summary": {
+          "name": "嘉定真宝",
+          "historicalPeriod": "南宋（1208年）",
+          "ruler": "宁宗赵扩",
+          "coreFeatures": "铁钱",
+          "estimatedValue": "铁：100—1000元",
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/p-南宋钱币/嘉定真宝/main.jpg"
+        }
+      },
+      {
+        "id": "15-32",
+        "name": "嘉定之宝",
+        "dynasty": "南宋钱币",
+        "dynastyIndex": 15,
+        "summary": {
+          "name": "嘉定之宝",
+          "historicalPeriod": "南宋（1208年）",
+          "ruler": "宁宗赵扩",
+          "coreFeatures": "铁钱",
+          "estimatedValue": "铁：100—1000元",
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/p-南宋钱币/嘉定之宝/main.jpg"
+        }
+      },
+      {
+        "id": "15-33",
+        "name": "嘉定万宝",
+        "dynasty": "南宋钱币",
+        "dynastyIndex": 15,
+        "summary": {
+          "name": "嘉定万宝",
+          "historicalPeriod": "南宋（1208年）",
+          "ruler": "宁宗赵扩",
+          "coreFeatures": "铁钱",
+          "estimatedValue": "铁：100—1000元",
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/p-南宋钱币/嘉定万宝/main.jpg"
+        }
+      },
+      {
+        "id": "15-34",
+        "name": "嘉定隆宝",
+        "dynasty": "南宋钱币",
+        "dynastyIndex": 15,
+        "summary": {
+          "name": "嘉定隆宝",
+          "historicalPeriod": "南宋（1208年）",
+          "ruler": "宁宗赵扩",
+          "coreFeatures": "铁钱",
+          "estimatedValue": "铁：100—1000元",
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/p-南宋钱币/嘉定隆宝/main.jpg"
+        }
+      },
+      {
+        "id": "15-35",
+        "name": "嘉定洪宝",
+        "dynasty": "南宋钱币",
+        "dynastyIndex": 15,
+        "summary": {
+          "name": "嘉定洪宝",
+          "historicalPeriod": "南宋（1208年）",
+          "ruler": "宁宗赵扩",
+          "coreFeatures": "铁钱",
+          "estimatedValue": "铁：100—1000元",
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/p-南宋钱币/嘉定洪宝/main.jpg"
+        }
+      },
+      {
+        "id": "15-36",
+        "name": "嘉定新宝",
+        "dynasty": "南宋钱币",
+        "dynastyIndex": 15,
+        "summary": {
+          "name": "嘉定新宝",
+          "historicalPeriod": "南宋（1208年）",
+          "ruler": "宁宗赵扩",
+          "coreFeatures": "铁钱",
+          "estimatedValue": "铁：100—1000元",
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/p-南宋钱币/嘉定新宝/main.jpg"
+        }
+      },
+      {
+        "id": "15-37",
+        "name": "嘉定泉宝",
+        "dynasty": "南宋钱币",
+        "dynastyIndex": 15,
+        "summary": {
+          "name": "嘉定泉宝",
+          "historicalPeriod": "南宋（1208年）",
+          "ruler": "宁宗赵扩",
+          "coreFeatures": "铁钱",
+          "estimatedValue": "铁：100—1000元",
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/p-南宋钱币/嘉定泉宝/main.jpg"
+        }
+      },
+      {
+        "id": "15-38",
+        "name": "嘉定大宝",
+        "dynasty": "南宋钱币",
+        "dynastyIndex": 15,
+        "summary": {
+          "name": "嘉定大宝",
+          "historicalPeriod": "南宋（1208年）",
+          "ruler": "宁宗赵扩",
+          "coreFeatures": "铁钱",
+          "estimatedValue": "铁：100—1000元",
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/p-南宋钱币/嘉定大宝/main.jpg"
+        }
+      },
+      {
+        "id": "15-39",
+        "name": "嘉定珍宝",
+        "dynasty": "南宋钱币",
+        "dynastyIndex": 15,
+        "summary": {
+          "name": "嘉定珍宝",
+          "historicalPeriod": "南宋（1208年）",
+          "ruler": "宁宗赵扩",
+          "coreFeatures": "铁钱",
+          "estimatedValue": "铁：100—1000元",
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/p-南宋钱币/嘉定珍宝/main.jpg"
+        }
+      },
+      {
+        "id": "15-40",
+        "name": "嘉定至宝",
+        "dynasty": "南宋钱币",
+        "dynastyIndex": 15,
+        "summary": {
+          "name": "嘉定至宝",
+          "historicalPeriod": "南宋（1208年）",
+          "ruler": "宁宗赵扩",
+          "coreFeatures": "铁钱",
+          "estimatedValue": "铁：100—1000元",
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/p-南宋钱币/嘉定至宝/main.jpg"
+        }
+      },
+      {
+        "id": "15-41",
+        "name": "嘉定兴宝",
+        "dynasty": "南宋钱币",
+        "dynastyIndex": 15,
+        "summary": {
+          "name": "嘉定兴宝",
+          "historicalPeriod": "南宋（1208年）",
+          "ruler": "宁宗赵扩",
+          "coreFeatures": "铁钱",
+          "estimatedValue": "铁：100—1000元",
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/p-南宋钱币/嘉定兴宝/main.jpg"
+        }
+      },
+      {
+        "id": "15-42",
+        "name": "嘉定封宝",
+        "dynasty": "南宋钱币",
+        "dynastyIndex": 15,
+        "summary": {
+          "name": "嘉定封宝",
+          "historicalPeriod": "南宋（1208年）",
+          "ruler": "宁宗赵扩",
+          "coreFeatures": "铁钱",
+          "estimatedValue": "铁：100—1000元",
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/p-南宋钱币/嘉定封宝/main.jpg"
+        }
+      },
+      {
+        "id": "15-43",
+        "name": "大宋通宝",
+        "dynasty": "南宋钱币",
+        "dynastyIndex": 15,
+        "summary": {
+          "name": "大宋通宝",
+          "historicalPeriod": "南宋（1225年）",
+          "ruler": "理宗赵昀",
+          "coreFeatures": "当十大钱，存世极罕",
+          "estimatedValue": "100000—500000元",
+          "rarity": "一级（大珍）",
+          "thumbnail": "/images/coins/p-南宋钱币/大宋通宝/main.jpg"
+        }
+      },
+      {
+        "id": "15-44",
+        "name": "大宋元宝",
+        "dynasty": "南宋钱币",
+        "dynastyIndex": 15,
+        "summary": {
+          "name": "大宋元宝",
+          "historicalPeriod": "南宋（1225年）",
+          "ruler": "理宗赵昀",
+          "coreFeatures": "篆楷对钱",
+          "estimatedValue": "10—200元",
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/p-南宋钱币/大宋元宝/main.jpg"
+        }
+      },
+      {
+        "id": "15-45",
+        "name": "宝庆元宝",
+        "dynasty": "南宋钱币",
+        "dynastyIndex": 15,
+        "summary": {
+          "name": "宝庆元宝",
+          "historicalPeriod": "南宋（1225年）",
+          "ruler": "理宗赵昀",
+          "coreFeatures": "铁钱为主",
+          "estimatedValue": "铁：100—1000元",
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/p-南宋钱币/宝庆元宝/main.jpg"
+        }
+      },
+      {
+        "id": "15-46",
+        "name": "绍定通宝",
+        "dynasty": "南宋钱币",
+        "dynastyIndex": 15,
+        "summary": {
+          "name": "绍定通宝",
+          "historicalPeriod": "南宋（1228年）",
+          "ruler": "理宗赵昀",
+          "coreFeatures": "篆楷对钱",
+          "estimatedValue": "10—200元",
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/p-南宋钱币/绍定通宝/main.jpg"
+        }
+      },
+      {
+        "id": "15-47",
+        "name": "绍定元宝",
+        "dynasty": "南宋钱币",
+        "dynastyIndex": 15,
+        "summary": {
+          "name": "绍定元宝",
+          "historicalPeriod": "南宋（1228年）",
+          "ruler": "理宗赵昀",
+          "coreFeatures": "铁钱",
+          "estimatedValue": "铁：100—1000元",
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/p-南宋钱币/绍定元宝/main.jpg"
+        }
+      },
+      {
+        "id": "15-48",
+        "name": "端平通宝",
+        "dynasty": "南宋钱币",
+        "dynastyIndex": 15,
+        "summary": {
+          "name": "端平通宝",
+          "historicalPeriod": "南宋（1234年）",
+          "ruler": "理宗赵昀",
+          "coreFeatures": "折五型",
+          "estimatedValue": "50—500元",
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/p-南宋钱币/端平通宝/main.jpg"
+        }
+      },
+      {
+        "id": "15-49",
+        "name": "端平元宝",
+        "dynasty": "南宋钱币",
+        "dynastyIndex": 15,
+        "summary": {
+          "name": "端平元宝",
+          "historicalPeriod": "南宋（1234年）",
+          "ruler": "理宗赵昀",
+          "coreFeatures": "篆楷对钱",
+          "estimatedValue": "10—200元",
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/p-南宋钱币/端平元宝/main.jpg"
+        }
+      },
+      {
+        "id": "15-50",
+        "name": "端平重宝",
+        "dynasty": "南宋钱币",
+        "dynastyIndex": 15,
+        "summary": {
+          "name": "端平重宝",
+          "historicalPeriod": "南宋（1234年）",
+          "ruler": "理宗赵昀",
+          "coreFeatures": "铁钱",
+          "estimatedValue": "铁：200—2000元",
+          "rarity": "七级（甚少）",
+          "thumbnail": "/images/coins/p-南宋钱币/端平重宝/main.jpg"
+        }
+      },
+      {
+        "id": "15-51",
+        "name": "嘉熙通宝",
+        "dynasty": "南宋钱币",
+        "dynastyIndex": 15,
+        "summary": {
+          "name": "嘉熙通宝",
+          "historicalPeriod": "南宋（1237年）",
+          "ruler": "理宗赵昀",
+          "coreFeatures": "篆楷对钱",
+          "estimatedValue": "10—200元",
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/p-南宋钱币/嘉熙通宝/main.jpg"
+        }
+      },
+      {
+        "id": "15-52",
+        "name": "嘉熙重宝",
+        "dynasty": "南宋钱币",
+        "dynastyIndex": 15,
+        "summary": {
+          "name": "嘉熙重宝",
+          "historicalPeriod": "南宋（1237年）",
+          "ruler": "理宗赵昀",
+          "coreFeatures": "铁钱当五",
+          "estimatedValue": "铁：200—2000元",
+          "rarity": "七级（甚少）",
+          "thumbnail": "/images/coins/p-南宋钱币/嘉熙重宝/main.jpg"
+        }
+      },
+      {
+        "id": "15-53",
+        "name": "淳佑通宝",
+        "dynasty": "南宋钱币",
+        "dynastyIndex": 15,
+        "summary": {
+          "name": "淳佑通宝",
+          "historicalPeriod": "南宋（1241年）",
+          "ruler": "理宗赵昀",
+          "coreFeatures": "铜铁并行",
+          "estimatedValue": "20—300元",
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/p-南宋钱币/淳佑通宝/main.jpg"
+        }
+      },
+      {
+        "id": "15-54",
+        "name": "淳祐元宝",
+        "dynasty": "南宋钱币",
+        "dynastyIndex": 15,
+        "summary": {
+          "name": "淳祐元宝",
+          "historicalPeriod": "南宋（1241年）",
+          "ruler": "理宗赵昀",
+          "coreFeatures": "篆楷对钱",
+          "estimatedValue": "10—200元",
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/p-南宋钱币/淳祐元宝/main.jpg"
+        }
+      },
+      {
+        "id": "15-55",
+        "name": "淳祐通宝",
+        "dynasty": "南宋钱币",
+        "dynastyIndex": 15,
+        "summary": {
+          "name": "淳祐通宝",
+          "historicalPeriod": "南宋（1241年）",
+          "ruler": "理宗赵昀",
+          "coreFeatures": "篆楷对钱",
+          "estimatedValue": "10—200元",
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/p-南宋钱币/淳祐通宝/main.jpg"
+        }
+      },
+      {
+        "id": "15-56",
+        "name": "皇宋元宝",
+        "dynasty": "南宋钱币",
+        "dynastyIndex": 15,
+        "summary": {
+          "name": "皇宋元宝",
+          "historicalPeriod": "南宋（1253年）",
+          "ruler": "理宗赵昀",
+          "coreFeatures": "篆楷对钱",
+          "estimatedValue": "10—200元",
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/p-南宋钱币/皇宋元宝/main.jpg"
+        }
+      },
+      {
+        "id": "15-57",
+        "name": "开庆通宝",
+        "dynasty": "南宋钱币",
+        "dynastyIndex": 15,
+        "summary": {
+          "name": "开庆通宝",
+          "historicalPeriod": "南宋（1259年）",
+          "ruler": "理宗赵昀",
+          "coreFeatures": "篆楷对钱，铸行仅一年",
+          "estimatedValue": "100—2000元",
+          "rarity": "六级（稀）",
+          "thumbnail": "/images/coins/p-南宋钱币/开庆通宝/main.jpg"
+        }
+      },
+      {
+        "id": "15-58",
+        "name": "景定元宝",
+        "dynasty": "南宋钱币",
+        "dynastyIndex": 15,
+        "summary": {
+          "name": "景定元宝",
+          "historicalPeriod": "南宋（1260年）",
+          "ruler": "理宗赵昀",
+          "coreFeatures": "篆楷对钱",
+          "estimatedValue": "10—200元",
+          "rarity": "八级（少）",
+          "thumbnail": "/images/coins/p-南宋钱币/景定元宝/main.jpg"
+        }
+      },
+      {
+        "id": "15-59",
+        "name": "咸淳元宝",
+        "dynasty": "南宋钱币",
+        "dynastyIndex": 15,
+        "summary": {
+          "name": "咸淳元宝",
+          "historicalPeriod": "南宋（1265年）",
+          "ruler": "度宗赵禥",
+          "coreFeatures": "南宋最后大规模铸币",
+          "estimatedValue": "10—200元",
+          "rarity": "七级（甚少）",
+          "thumbnail": "/images/coins/p-南宋钱币/咸淳元宝/main.jpg"
+        }
+      },
+      {
+        "id": "15-60",
+        "name": "临安府钱牌",
+        "dynasty": "南宋钱币",
+        "dynastyIndex": 15,
+        "summary": {
+          "name": "临安府钱牌",
+          "historicalPeriod": "南宋（约1200年）",
+          "ruler": "不详",
+          "coreFeatures": "铅铜钱牌，代用货币",
+          "estimatedValue": "5000—50000元",
+          "rarity": "五级（稀贵）",
+          "thumbnail": "/images/coins/p-南宋钱币/临安府钱牌/main.jpg"
+        }
+      }
+    ]
+  },
+  {
     "dynasty": "元朝钱币",
     "dynastyIndex": 16,
-    "dynastyPeriod": "1271年—1368年",
-    "dynastyStartYear": 1271,
-    "dynastyEndYear": 1368,
     "coins": [
       {
         "id": "16-0",
@@ -5600,9 +5549,6 @@
   {
     "dynasty": "明朝钱币",
     "dynastyIndex": 17,
-    "dynastyPeriod": "1368年—1644年",
-    "dynastyStartYear": 1368,
-    "dynastyEndYear": 1644,
     "coins": [
       {
         "id": "17-0",
@@ -5630,7 +5576,7 @@
           "ruler": "太祖朱元璋",
           "coreFeatures": "纪地纪值制度，小平至折十五等制，明朝统一铸币基础",
           "estimatedValue": "20—500元",
-          "rarity": "八级（较多）",
+          "rarity": "八级（少）",
           "thumbnail": "/images/coins/r-明朝钱币/洪武通宝/main.jpg"
         }
       },
@@ -5644,7 +5590,7 @@
           "historicalPeriod": "明仁宗洪熙元年（1425年）",
           "ruler": "仁宗朱高炽",
           "coreFeatures": "洪熙年号仅十月，铸期极短，存世极罕",
-          "estimatedValue": "50,000—150,000元",
+          "estimatedValue": "珍稀级，参考价50000—150000元",
           "rarity": "一级（大珍）",
           "thumbnail": ""
         }
@@ -5660,7 +5606,7 @@
           "ruler": "成祖朱棣",
           "coreFeatures": "铸工精整，随郑和下西洋流通海外",
           "estimatedValue": "10—200元",
-          "rarity": "九级（多）",
+          "rarity": "九级（较多）",
           "thumbnail": "/images/coins/r-明朝钱币/永乐通宝/main.jpg"
         }
       },
@@ -5675,7 +5621,7 @@
           "ruler": "宣宗朱瞻基",
           "coreFeatures": "宽缘窄郭，楷书直读光背，铸量较少",
           "estimatedValue": "30—500元",
-          "rarity": "八级（较多）",
+          "rarity": "八级（少）",
           "thumbnail": "/images/coins/r-明朝钱币/宣德通宝/main.jpg"
         }
       },
@@ -5705,7 +5651,7 @@
           "ruler": "世宗朱厚熜",
           "coreFeatures": "开黄铜铸币先河，小平至折十，版别丰富",
           "estimatedValue": "小平10—200元",
-          "rarity": "八级（较多）",
+          "rarity": "八级（少）",
           "thumbnail": "/images/coins/r-明朝钱币/嘉靖通宝/main.jpg"
         }
       },
@@ -5735,7 +5681,7 @@
           "ruler": "神宗朱翊钧",
           "coreFeatures": "明代铸量最大钱币，版别极多",
           "estimatedValue": "5—100元",
-          "rarity": "九级（多）",
+          "rarity": "九级（较多）",
           "thumbnail": "/images/coins/r-明朝钱币/万历通宝/main.jpg"
         }
       },
@@ -5780,7 +5726,7 @@
           "ruler": "熹宗朱由校",
           "coreFeatures": "小平至当十，当十大钱版别繁多",
           "estimatedValue": "小平5—100元；当十100—1000元",
-          "rarity": "八级（较多）",
+          "rarity": "八级（少）",
           "thumbnail": "/images/coins/r-明朝钱币/天启通宝/main.jpg"
         }
       },
@@ -5795,93 +5741,21 @@
           "ruler": "思宗朱由检",
           "coreFeatures": "版别极复杂，背文含奔马、星月、纪局纪重等数百种",
           "estimatedValue": "5—200元",
-          "rarity": "九级（多）",
+          "rarity": "九级（较多）",
           "thumbnail": "/images/coins/r-明朝钱币/崇祯通宝/main.jpg"
         }
       }
     ]
   },
   {
-    "dynasty": "南明钱币",
-    "dynastyIndex": 18,
-    "dynastyPeriod": "1644年—1662年",
-    "dynastyStartYear": 1644,
-    "dynastyEndYear": 1662,
-    "coins": [
-      {
-        "id": "19-0",
-        "name": "大明通宝",
-        "dynasty": "南明钱币",
-        "dynastyIndex": 18,
-        "summary": {
-          "name": "大明通宝",
-          "historicalPeriod": "南明鲁王监国时期（1645年）",
-          "ruler": "鲁王朱以海",
-          "coreFeatures": "国号钱，楷书直读光背，铸期极短",
-          "estimatedValue": "500—5000元",
-          "rarity": "六级（稀）",
-          "thumbnail": ""
-        }
-      },
-      {
-        "id": "19-1",
-        "name": "弘光通宝",
-        "dynasty": "南明钱币",
-        "dynastyIndex": 18,
-        "summary": {
-          "name": "弘光通宝",
-          "historicalPeriod": "南明福王弘光元年（1645年）",
-          "ruler": "福王朱由崧",
-          "coreFeatures": "楷书直读，多版别，铸期仅一年",
-          "estimatedValue": "100—1000元",
-          "rarity": "七级（甚少）",
-          "thumbnail": ""
-        }
-      },
-      {
-        "id": "19-2",
-        "name": "隆武通宝",
-        "dynasty": "南明钱币",
-        "dynastyIndex": 18,
-        "summary": {
-          "name": "隆武通宝",
-          "historicalPeriod": "南明唐王隆武年间（1645年）",
-          "ruler": "唐王朱聿键",
-          "coreFeatures": "楷书直读，小平及折二，铸于福建",
-          "estimatedValue": "300—3000元",
-          "rarity": "六级（稀）",
-          "thumbnail": ""
-        }
-      },
-      {
-        "id": "19-3",
-        "name": "永历通宝",
-        "dynasty": "南明钱币",
-        "dynastyIndex": 18,
-        "summary": {
-          "name": "永历通宝",
-          "historicalPeriod": "南明桂王永历年间（1646年）",
-          "ruler": "桂王朱由榔",
-          "coreFeatures": "小平至折十，版别复杂，南明持续时间最长的铸币",
-          "estimatedValue": "100—2000元",
-          "rarity": "七级（甚少）",
-          "thumbnail": ""
-        }
-      }
-    ]
-  },
-  {
     "dynasty": "明末农民起义钱币",
-    "dynastyIndex": 19,
-    "dynastyPeriod": "1628年—1645年",
-    "dynastyStartYear": 1628,
-    "dynastyEndYear": 1645,
+    "dynastyIndex": 18,
     "coins": [
       {
         "id": "18-0",
         "name": "大顺通宝",
         "dynasty": "明末农民起义钱币",
-        "dynastyIndex": 19,
+        "dynastyIndex": 18,
         "summary": {
           "name": "大顺通宝",
           "historicalPeriod": "明末（1644年）",
@@ -5896,7 +5770,7 @@
         "id": "18-1",
         "name": "西王赏功",
         "dynasty": "明末农民起义钱币",
-        "dynastyIndex": 19,
+        "dynastyIndex": 18,
         "summary": {
           "name": "西王赏功",
           "historicalPeriod": "明末（1644年）",
@@ -5911,7 +5785,7 @@
         "id": "18-2",
         "name": "永昌通宝",
         "dynasty": "明末农民起义钱币",
-        "dynastyIndex": 19,
+        "dynastyIndex": 18,
         "summary": {
           "name": "永昌通宝",
           "historicalPeriod": "明末（1644年）",
@@ -5926,7 +5800,7 @@
         "id": "18-3",
         "name": "兴朝通宝",
         "dynasty": "明末农民起义钱币",
-        "dynastyIndex": 19,
+        "dynastyIndex": 18,
         "summary": {
           "name": "兴朝通宝",
           "historicalPeriod": "明末（1647年）",
@@ -5940,11 +5814,74 @@
     ]
   },
   {
+    "dynasty": "南明钱币",
+    "dynastyIndex": 19,
+    "coins": [
+      {
+        "id": "19-0",
+        "name": "大明通宝",
+        "dynasty": "南明钱币",
+        "dynastyIndex": 19,
+        "summary": {
+          "name": "大明通宝",
+          "historicalPeriod": "南明鲁王监国时期（1645年）",
+          "ruler": "鲁王朱以海",
+          "coreFeatures": "国号钱，楷书直读光背，铸期极短",
+          "estimatedValue": "500—5000元",
+          "rarity": "六级（稀）",
+          "thumbnail": ""
+        }
+      },
+      {
+        "id": "19-1",
+        "name": "弘光通宝",
+        "dynasty": "南明钱币",
+        "dynastyIndex": 19,
+        "summary": {
+          "name": "弘光通宝",
+          "historicalPeriod": "南明福王弘光元年（1645年）",
+          "ruler": "福王朱由崧",
+          "coreFeatures": "楷书直读，多版别，铸期仅一年",
+          "estimatedValue": "100—1000元",
+          "rarity": "七级（甚少）",
+          "thumbnail": ""
+        }
+      },
+      {
+        "id": "19-2",
+        "name": "隆武通宝",
+        "dynasty": "南明钱币",
+        "dynastyIndex": 19,
+        "summary": {
+          "name": "隆武通宝",
+          "historicalPeriod": "南明唐王隆武年间（1645年）",
+          "ruler": "唐王朱聿键",
+          "coreFeatures": "楷书直读，小平及折二，铸于福建",
+          "estimatedValue": "300—3000元",
+          "rarity": "六级（稀）",
+          "thumbnail": ""
+        }
+      },
+      {
+        "id": "19-3",
+        "name": "永历通宝",
+        "dynasty": "南明钱币",
+        "dynastyIndex": 19,
+        "summary": {
+          "name": "永历通宝",
+          "historicalPeriod": "南明桂王永历年间（1646年）",
+          "ruler": "桂王朱由榔",
+          "coreFeatures": "小平至折十，版别复杂，南明持续时间最长的铸币",
+          "estimatedValue": "100—2000元",
+          "rarity": "七级（甚少）",
+          "thumbnail": ""
+        }
+      }
+    ]
+  },
+  {
     "dynasty": "清朝钱币",
     "dynastyIndex": 20,
-    "dynastyPeriod": "1636年—1912年",
-    "dynastyStartYear": 1636,
-    "dynastyEndYear": 1912,
     "coins": [
       {
         "id": "20-0",
@@ -5956,7 +5893,7 @@
           "historicalPeriod": "后金天命年间（1616年）",
           "ruler": "太祖努尔哈赤",
           "coreFeatures": "满、汉两种文字，后金开国铸币",
-          "estimatedValue": "200—3,000元",
+          "estimatedValue": "汉文2000—8000元；满文1000—3000元",
           "rarity": "六级（稀）",
           "thumbnail": "/images/coins/u-清朝钱币/天命通宝/main.jpg"
         }
@@ -5971,7 +5908,7 @@
           "historicalPeriod": "后金天聪年间（1627年）",
           "ruler": "太宗皇太极",
           "coreFeatures": "满文折十型，后金第二铸币",
-          "estimatedValue": "3,000—20,000元",
+          "estimatedValue": "珍稀级，参考价10000—30000元",
           "rarity": "五级（稀贵）",
           "thumbnail": "/images/coins/u-清朝钱币/天聪通宝/main.jpg"
         }
@@ -5987,7 +5924,7 @@
           "ruler": "世祖福临",
           "coreFeatures": "清入关后第一铸币，五种版式，背满文纪局",
           "estimatedValue": "50—500元",
-          "rarity": "八级（较多）",
+          "rarity": "八级（少）",
           "thumbnail": "/images/coins/u-清朝钱币/顺治通宝/main.jpg"
         }
       },
@@ -6002,7 +5939,7 @@
           "ruler": "圣祖玄烨",
           "coreFeatures": "背满文纪局，罗汉钱为名誉品",
           "estimatedValue": "5—100元",
-          "rarity": "九级（多）",
+          "rarity": "九级（较多）",
           "thumbnail": "/images/coins/u-清朝钱币/康熙通宝/main.jpg"
         }
       },
@@ -6047,7 +5984,7 @@
           "ruler": "仁宗颙琰",
           "coreFeatures": "背满文纪局，铸量大",
           "estimatedValue": "3—30元",
-          "rarity": "九级（多）",
+          "rarity": "九级（较多）",
           "thumbnail": "/images/coins/u-清朝钱币/嘉庆通宝/main.jpg"
         }
       },
@@ -6062,7 +5999,7 @@
           "ruler": "宣宗旻宁",
           "coreFeatures": "背满文纪局，铸量大",
           "estimatedValue": "3—20元",
-          "rarity": "九级（多）",
+          "rarity": "九级（较多）",
           "thumbnail": "/images/coins/u-清朝钱币/道光通宝/main.jpg"
         }
       },
@@ -6077,7 +6014,7 @@
           "ruler": "文宗奕詝",
           "coreFeatures": "小平钱，背满文纪局，减重严重",
           "estimatedValue": "10—500元",
-          "rarity": "八级（较多）",
+          "rarity": "八级（少）",
           "thumbnail": "/images/coins/u-清朝钱币/咸丰通宝/main.jpg"
         }
       },
@@ -6152,7 +6089,7 @@
           "ruler": "穆宗载淳",
           "coreFeatures": "背满文纪局，铸量较少",
           "estimatedValue": "10—200元",
-          "rarity": "八级（较多）",
+          "rarity": "八级（少）",
           "thumbnail": "/images/coins/u-清朝钱币/同治通宝/main.jpg"
         }
       },
@@ -6182,7 +6119,7 @@
           "ruler": "德宗载湉",
           "coreFeatures": "背满文纪局，部分机制币",
           "estimatedValue": "5—100元",
-          "rarity": "八级（较多）",
+          "rarity": "八级（少）",
           "thumbnail": "/images/coins/u-清朝钱币/光绪通宝/main.jpg"
         }
       },
@@ -6212,7 +6149,7 @@
           "ruler": "末帝溥仪",
           "coreFeatures": "清代最后一种方孔铜钱",
           "estimatedValue": "10—100元",
-          "rarity": "八级（较多）",
+          "rarity": "八级（少）",
           "thumbnail": "/images/coins/u-清朝钱币/宣统通宝/main.jpg"
         }
       },
@@ -6257,7 +6194,7 @@
           "ruler": "德宗载湉",
           "coreFeatures": "机制铜元，开创铜元时代",
           "estimatedValue": "10—500元",
-          "rarity": "八级（较多）",
+          "rarity": "八级（少）",
           "thumbnail": "/images/coins/u-清朝钱币/光绪元宝铜币/main.jpg"
         }
       }
@@ -6266,9 +6203,6 @@
   {
     "dynasty": "三藩钱币",
     "dynastyIndex": 21,
-    "dynastyPeriod": "1673年—1681年",
-    "dynastyStartYear": 1673,
-    "dynastyEndYear": 1681,
     "coins": [
       {
         "id": "21-0",
@@ -6335,9 +6269,6 @@
   {
     "dynasty": "太平天国钱币",
     "dynastyIndex": 22,
-    "dynastyPeriod": "1851年—1864年",
-    "dynastyStartYear": 1851,
-    "dynastyEndYear": 1864,
     "coins": [
       {
         "id": "22-0",
@@ -6509,9 +6440,6 @@
   {
     "dynasty": "晚清起义钱币",
     "dynastyIndex": 23,
-    "dynastyPeriod": "1853年—1911年",
-    "dynastyStartYear": 1853,
-    "dynastyEndYear": 1911,
     "coins": [
       {
         "id": "23-0",
@@ -6821,7 +6749,7 @@
           "ruler": "阮惠",
           "coreFeatures": "楷书直读，有汉文、喃字两版，越南铸币",
           "estimatedValue": "20—200元",
-          "rarity": "八级（较多）",
+          "rarity": "八级（少）",
           "thumbnail": ""
         }
       },
@@ -6836,7 +6764,7 @@
           "ruler": "后黎朝",
           "coreFeatures": "版别极多，铸行时间最长越南钱币",
           "estimatedValue": "10—100元",
-          "rarity": "九级（多）",
+          "rarity": "九级（较多）",
           "thumbnail": ""
         }
       },
@@ -6866,7 +6794,7 @@
           "ruler": "阮光缵",
           "coreFeatures": "楷书直读，越南西山朝铸币",
           "estimatedValue": "20—200元",
-          "rarity": "八级（较多）",
+          "rarity": "八级（少）",
           "thumbnail": ""
         }
       }
