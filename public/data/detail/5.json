@@ -229,6 +229,13 @@
         "grade": "二级（珍） 美品",
         "priceRange": "80,000—200,000元",
         "notes": "文字清晰，极为难得"
+      },
+      {
+        "variant": "折二型",
+        "description": "折二型铜钱",
+        "grade": "一级（大珍） 美品",
+        "priceRange": "500,000—2,000,000元",
+        "notes": "折二型极罕"
       }
     ],
     "reverseFeatures": "- 背面：平素无文"

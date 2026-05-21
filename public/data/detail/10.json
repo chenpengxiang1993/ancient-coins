@@ -33,6 +33,13 @@
         "grade": "一级（大珍） 美品以上",
         "priceRange": "80000—300000元",
         "notes": "存世极罕，博物馆级"
+      },
+      {
+        "variant": "折十型",
+        "description": "大型折十钱，铸工粗犷",
+        "grade": "一级（大珍） 极美品",
+        "priceRange": "300,000—1,000,000元",
+        "notes": "折十型极罕"
       }
     ],
     "reverseFeatures": "- 背面光素无文"
@@ -55,6 +62,13 @@
         "grade": "一级（大珍） 美品以上",
         "priceRange": "80000—300000元",
         "notes": "存世极罕"
+      },
+      {
+        "variant": "折十型",
+        "description": "大型折十钱",
+        "grade": "二级（珍） 极美品",
+        "priceRange": "100,000—300,000元",
+        "notes": "折十型极罕"
       }
     ],
     "reverseFeatures": "- 背面光素无文"
@@ -763,6 +777,13 @@
         "grade": "一级（大珍） 美品以上",
         "priceRange": "10000—50000元",
         "notes": "存世极罕"
+      },
+      {
+        "variant": "折十型",
+        "description": "大型折十钱，闽王延政铸",
+        "grade": "三级（罕贵） 极美品",
+        "priceRange": "50,000—200,000元",
+        "notes": "折十型较少"
       }
     ],
     "reverseFeatures": "- 背面光素无文"
@@ -947,6 +968,13 @@
         "grade": "一级（大珍） 美品以上",
         "priceRange": "20000—100000元",
         "notes": "存世极罕"
+      },
+      {
+        "variant": "铁钱版",
+        "description": "铁质铸币",
+        "grade": "三级（罕贵） 美品",
+        "priceRange": "30,000—100,000元",
+        "notes": "铁钱版较少"
       }
     ],
     "reverseFeatures": "- 背面光素无文"
@@ -1204,6 +1232,13 @@
         "grade": "一级（大珍） 美品以上",
         "priceRange": "10000—50000元",
         "notes": "存世稀少"
+      },
+      {
+        "variant": "折二型",
+        "description": "折二型铜钱",
+        "grade": "二级（珍） 极美品",
+        "priceRange": "100,000—300,000元",
+        "notes": "折二型极罕"
       }
     ],
     "reverseFeatures": "- 背面光素无文"
@@ -1226,6 +1261,13 @@
         "grade": "一级（大珍） 美品以上",
         "priceRange": "200000—1000000元",
         "notes": "古泉大珍，存世仅数枚"
+      },
+      {
+        "variant": "折二型",
+        "description": "折二型铜钱",
+        "grade": "一级（大珍） 极美品",
+        "priceRange": "500,000—2,000,000元",
+        "notes": "存世仅数枚"
       }
     ],
     "reverseFeatures": "- 背面光素无文"
@@ -1356,6 +1398,13 @@
         "grade": "一级（大珍） 美品以上",
         "priceRange": "50000—200000元",
         "notes": "存世极罕"
+      },
+      {
+        "variant": "折十型",
+        "description": "大型折十钱，铸工较精",
+        "grade": "二级（珍） 极美品",
+        "priceRange": "100,000—500,000元",
+        "notes": "折十型极罕"
       }
     ],
     "reverseFeatures": "- 背面光素无文"

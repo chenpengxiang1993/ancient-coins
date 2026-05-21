@@ -249,6 +249,13 @@
         "grade": "八级（较多） 极美品",
         "priceRange": "10000—20000元",
         "notes": ""
+      },
+      {
+        "variant": "大字版",
+        "description": "面文较大，铸工较精",
+        "grade": "五级（稀贵） 美品",
+        "priceRange": "3,000—10,000元",
+        "notes": "大字版"
       }
     ],
     "reverseFeatures": "- 背面：铸有\"圣宝\"二字"
@@ -278,6 +285,13 @@
         "grade": "八级（较多） 极美品",
         "priceRange": "5000—10000元",
         "notes": ""
+      },
+      {
+        "variant": "大字版",
+        "description": "面文较大",
+        "grade": "六级（稀） 美品",
+        "priceRange": "1,000—3,000元",
+        "notes": "大字版"
       }
     ],
     "reverseFeatures": "- 背面：铸有\"通宝\"二字"
@@ -307,6 +321,13 @@
         "grade": "八级（较多） 极美品",
         "priceRange": "5000—10000元",
         "notes": ""
+      },
+      {
+        "variant": "大字版",
+        "description": "面文较大",
+        "grade": "六级（稀） 美品",
+        "priceRange": "1,000—3,000元",
+        "notes": "大字版"
       }
     ],
     "reverseFeatures": "- 背面：铸有\"通宝\"或\"圣宝\"二字"
@@ -336,6 +357,13 @@
         "grade": "一级（大珍） 极美品",
         "priceRange": "10000—15000元",
         "notes": ""
+      },
+      {
+        "variant": "大字版",
+        "description": "面文较大",
+        "grade": "五级（稀贵） 美品",
+        "priceRange": "3,000—10,000元",
+        "notes": "大字版"
       }
     ],
     "reverseFeatures": "- 背面铸\"通宝\"二字"
@@ -365,6 +393,13 @@
         "grade": "一级（大珍） 极美品",
         "priceRange": "10000—15000元",
         "notes": ""
+      },
+      {
+        "variant": "大字版",
+        "description": "面文较大",
+        "grade": "五级（稀贵） 美品",
+        "priceRange": "3,000—10,000元",
+        "notes": "大字版"
       }
     ],
     "reverseFeatures": "- 背面铸\"圣宝\"二字"
@@ -437,6 +472,13 @@
         "grade": "八级（较多） 极美品",
         "priceRange": "2000—5000元",
         "notes": ""
+      },
+      {
+        "variant": "大字版",
+        "description": "面文较大",
+        "grade": "六级（稀） 美品",
+        "priceRange": "1,000—3,000元",
+        "notes": "大字版"
       }
     ],
     "reverseFeatures": "- 背面铸\"圣宝\""
@@ -466,6 +508,13 @@
         "grade": "八级（较多） 极美品",
         "priceRange": "2000—5000元",
         "notes": ""
+      },
+      {
+        "variant": "大字版",
+        "description": "面文较大",
+        "grade": "六级（稀） 美品",
+        "priceRange": "1,000—3,000元",
+        "notes": "大字版"
       }
     ],
     "reverseFeatures": "- 背面铸\"太平\""
@@ -495,6 +544,13 @@
         "grade": "八级（较多） 极美品",
         "priceRange": "2000—5000元",
         "notes": ""
+      },
+      {
+        "variant": "大字版",
+        "description": "面文较大",
+        "grade": "六级（稀） 美品",
+        "priceRange": "1,000—3,000元",
+        "notes": "大字版"
       }
     ],
     "reverseFeatures": "- 背面铸\"天国\""

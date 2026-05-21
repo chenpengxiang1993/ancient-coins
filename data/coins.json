@@ -1801,13 +1801,6 @@
               "variant": "铜贝类",
               "description": "蚁鼻钱（详见\"蚁鼻钱\"条目），面文有\"紊\"字（鬼脸钱）、\"全\"字、\"行\"字、\"贝\"字、\"君\"字、\"匋\"字",
               "grade": "八级（较多） 美品",
-              "priceRange": "普品",
-              "notes": "100—500元"
-            },
-            {
-              "variant": "铜贝类",
-              "description": "蚁鼻钱（详见\"蚁鼻钱\"条目），面文有\"紊\"字（鬼脸钱）、\"全\"字、\"行\"字、\"贝\"字、\"君\"字、\"匋\"字",
-              "grade": "八级（较多） 美品",
               "priceRange": "美品",
               "notes": "500—3,000元"
             },
@@ -3716,7 +3709,7 @@
               "notes": "文字可辨"
             }
           ],
-          "reverseFeatures": "- 背面：光素无文或有简单纹饰"
+          "reverseFeatures": "- 背面：与标准五铢相同，穿上下各有横画（面文\"五铢\"），但钱体仅剩外缘环状部分，内圈被剪凿取用"
         }
       },
       {
@@ -4086,6 +4079,13 @@
               "grade": "八级（较多） 美品",
               "priceRange": "8,000—20,000元",
               "notes": "文字清晰"
+            },
+            {
+              "variant": "大字版",
+              "description": "面文较大",
+              "grade": "五级（稀贵） 美品",
+              "priceRange": "5,000—20,000元",
+              "notes": "大字版较少"
             }
           ],
           "reverseFeatures": "- 背面：平素无文"
@@ -4130,6 +4130,13 @@
               "grade": "八级（较多） 美品",
               "priceRange": "8,000—20,000元",
               "notes": "文字清晰"
+            },
+            {
+              "variant": "大字版",
+              "description": "面文较大",
+              "grade": "五级（稀贵） 美品",
+              "priceRange": "5,000—20,000元",
+              "notes": "大字版较少"
             }
           ],
           "reverseFeatures": "- 背面：平素无文"
@@ -4174,6 +4181,13 @@
               "grade": "八级（较多） 美品",
               "priceRange": "15,000—30,000元",
               "notes": "文字清晰"
+            },
+            {
+              "variant": "大字版",
+              "description": "面文较大",
+              "grade": "四级（罕） 美品",
+              "priceRange": "10,000—50,000元",
+              "notes": "大字版较少"
             }
           ],
           "reverseFeatures": "- 背面：平素无文"
@@ -4269,6 +4283,13 @@
               "grade": "八级（较多） 美品",
               "priceRange": "5,000—10,000元",
               "notes": "文字清晰"
+            },
+            {
+              "variant": "合背版",
+              "description": "两面均为面文",
+              "grade": "五级（稀贵） 美品",
+              "priceRange": "3,000—10,000元",
+              "notes": "合背版"
             }
           ],
           "reverseFeatures": "- 背面：平素无文\n- 铸工尚精"
@@ -4313,6 +4334,13 @@
               "grade": "八级（较多） 美品",
               "priceRange": "5,000—10,000元",
               "notes": "文字清晰"
+            },
+            {
+              "variant": "大字版",
+              "description": "面文较大",
+              "grade": "六级（稀） 美品",
+              "priceRange": "3,000—10,000元",
+              "notes": "大字版"
             }
           ],
           "reverseFeatures": "- 背面：平素无文"
@@ -4357,6 +4385,13 @@
               "grade": "八级（较多） 美品",
               "priceRange": "5,000—10,000元",
               "notes": "文字清晰"
+            },
+            {
+              "variant": "大字版",
+              "description": "面文较大",
+              "grade": "五级（稀贵） 美品",
+              "priceRange": "5,000—15,000元",
+              "notes": "大字版较少"
             }
           ],
           "reverseFeatures": "- 背面：平素无文"
@@ -4401,6 +4436,13 @@
               "grade": "八级（较多） 美品",
               "priceRange": "8,000—15,000元",
               "notes": "文字清晰"
+            },
+            {
+              "variant": "合背版",
+              "description": "两面均为面文",
+              "grade": "四级（罕） 美品",
+              "priceRange": "5,000—20,000元",
+              "notes": "合背版"
             }
           ],
           "reverseFeatures": "- 背面：平素无文"
@@ -4445,6 +4487,13 @@
               "grade": "八级（较多） 美品",
               "priceRange": "8,000—15,000元",
               "notes": "文字清晰"
+            },
+            {
+              "variant": "大字版",
+              "description": "面文较大",
+              "grade": "五级（稀贵） 美品",
+              "priceRange": "5,000—20,000元",
+              "notes": "大字版较少"
             }
           ],
           "reverseFeatures": "- 背面：平素无文"
@@ -4489,6 +4538,13 @@
               "grade": "八级（较多） 美品",
               "priceRange": "8,000—15,000元",
               "notes": "文字清晰"
+            },
+            {
+              "variant": "大字版",
+              "description": "面文较大",
+              "grade": "四级（罕） 美品",
+              "priceRange": "10,000—30,000元",
+              "notes": "大字版较少"
             }
           ],
           "reverseFeatures": "- 背面：平素无文"
@@ -4533,6 +4589,13 @@
               "grade": "八级（较多） 美品",
               "priceRange": "8,000—15,000元",
               "notes": "文字清晰"
+            },
+            {
+              "variant": "传形版",
+              "description": "钱文左右反转",
+              "grade": "四级（罕） 美品",
+              "priceRange": "5,000—30,000元",
+              "notes": "传形版较罕"
             }
           ],
           "reverseFeatures": "- 背面：平素无文"
@@ -4577,6 +4640,13 @@
               "grade": "八级（较多） 美品",
               "priceRange": "8,000—15,000元",
               "notes": "文字清晰"
+            },
+            {
+              "variant": "大字版",
+              "description": "面文较大",
+              "grade": "五级（稀贵） 美品",
+              "priceRange": "5,000—20,000元",
+              "notes": "大字版较少"
             }
           ],
           "reverseFeatures": "- 背面：平素无文"
@@ -4621,6 +4691,13 @@
               "grade": "八级（较多） 美品",
               "priceRange": "8,000—15,000元",
               "notes": "文字清晰"
+            },
+            {
+              "variant": "合背版",
+              "description": "两面均为面文",
+              "grade": "四级（罕） 美品",
+              "priceRange": "5,000—20,000元",
+              "notes": "合背版"
             }
           ],
           "reverseFeatures": "- 背面：平素无文"
@@ -4943,11 +5020,18 @@
           },
           "variantsTable": [
             {
-              "variant": "标准型",
-              "description": "目前已知实物极少，尚未形成系统的版别分类",
-              "grade": "一级（大珍） 美品以上",
+              "variant": "方孔圆钱部分",
+              "description": "上半部方孔圆钱，面文\"国宝金匮\"四字，直读；下半部方形，面文\"直万\"二字",
+              "grade": "一级（大珍） 美品",
               "priceRange": "500,000—2,000,000元",
-              "notes": "存世极罕，仅见数枚"
+              "notes": "古钱五十名珍之一，存世仅数枚"
+            },
+            {
+              "variant": "方孔圆钱部分",
+              "description": "品相极佳",
+              "grade": "一级（大珍） 极美品",
+              "priceRange": "2,000,000—5,000,000元",
+              "notes": "极美品罕见"
             }
           ],
           "reverseFeatures": "- 背面：平素无文"
@@ -5260,6 +5344,13 @@
               "grade": "八级（较多） 美品",
               "priceRange": "1,500—5,000元",
               "notes": "文字清晰"
+            },
+            {
+              "variant": "大字版",
+              "description": "面文较大",
+              "grade": "六级（稀） 美品",
+              "priceRange": "1,000—3,000元",
+              "notes": "大字版较少"
             }
           ],
           "reverseFeatures": "- 背面：平素无文"
@@ -5444,6 +5535,13 @@
               "grade": "八级（较多） 美品",
               "priceRange": "500—2,000元",
               "notes": "文字清晰"
+            },
+            {
+              "variant": "大字版",
+              "description": "面文较大",
+              "grade": "七级（甚少） 美品",
+              "priceRange": "50—200元",
+              "notes": "大字版"
             }
           ],
           "reverseFeatures": "- 背面：平素无文"
@@ -5644,6 +5742,13 @@
               "grade": "八级（较多） 美品",
               "priceRange": "10,000—30,000元",
               "notes": "文字清晰"
+            },
+            {
+              "variant": "合背版",
+              "description": "两面均为面文",
+              "grade": "三级（罕贵） 美品",
+              "priceRange": "30,000—100,000元",
+              "notes": "合背版极罕"
             }
           ],
           "reverseFeatures": "- 背面：平素无文"
@@ -5699,6 +5804,13 @@
               "grade": "二级（珍） 美品",
               "priceRange": "80,000—200,000元",
               "notes": "文字清晰，极为难得"
+            },
+            {
+              "variant": "合背版",
+              "description": "两面均为面文",
+              "grade": "一级（大珍） 美品",
+              "priceRange": "500,000—2,000,000元",
+              "notes": "合背版极罕"
             }
           ],
           "reverseFeatures": "- 背面：平素无文"
@@ -6017,6 +6129,13 @@
               "grade": "二级（珍） 美品",
               "priceRange": "80,000—200,000元",
               "notes": "文字清晰，极为难得"
+            },
+            {
+              "variant": "折二型",
+              "description": "折二型铜钱",
+              "grade": "一级（大珍） 美品",
+              "priceRange": "500,000—2,000,000元",
+              "notes": "折二型极罕"
             }
           ],
           "reverseFeatures": "- 背面：平素无文"
@@ -6143,6 +6262,13 @@
               "grade": "八级（较多） 美品",
               "priceRange": "150—500元",
               "notes": "文字清晰"
+            },
+            {
+              "variant": "大字版",
+              "description": "面文较大",
+              "grade": "八级（较多） 美品",
+              "priceRange": "30—100元",
+              "notes": "大字版"
             }
           ],
           "reverseFeatures": "- 背面：有外廓"
@@ -6256,6 +6382,13 @@
               "grade": "八级（较多） 美品",
               "priceRange": "80—300元",
               "notes": "文字清晰"
+            },
+            {
+              "variant": "大字版",
+              "description": "面文较大",
+              "grade": "九级（多） 美品",
+              "priceRange": "10—30元",
+              "notes": "大字版"
             }
           ],
           "reverseFeatures": "- 背面：有外廓"
@@ -6300,6 +6433,13 @@
               "grade": "八级（较多） 美品",
               "priceRange": "150—500元",
               "notes": "文字清晰"
+            },
+            {
+              "variant": "大字版",
+              "description": "面文较大",
+              "grade": "八级（较多） 美品",
+              "priceRange": "30—100元",
+              "notes": "大字版"
             }
           ],
           "reverseFeatures": "- 背面：有外廓"
@@ -6632,6 +6772,20 @@
               "grade": "八级（较多） 美品",
               "priceRange": "300—1,000元",
               "notes": "文字清晰"
+            },
+            {
+              "variant": "大字版",
+              "description": "面文较大",
+              "grade": "八级（较多） 美品",
+              "priceRange": "30—100元",
+              "notes": "大字版"
+            },
+            {
+              "variant": "阔缘版",
+              "description": "外廓较宽",
+              "grade": "八级（较多） 美品",
+              "priceRange": "30—100元",
+              "notes": "阔缘"
             }
           ],
           "reverseFeatures": "- 背面：平素无文"
@@ -6676,6 +6830,13 @@
               "grade": "八级（较多） 美品",
               "priceRange": "150—500元",
               "notes": "文字清晰"
+            },
+            {
+              "variant": "大字版",
+              "description": "面文较大",
+              "grade": "八级（较多） 美品",
+              "priceRange": "20—80元",
+              "notes": "大字版"
             }
           ],
           "reverseFeatures": "- 背面：平素无文"
@@ -6805,6 +6966,13 @@
               "grade": "八级（较多） 美品",
               "priceRange": "500—2,000元",
               "notes": "文字清晰"
+            },
+            {
+              "variant": "大字版",
+              "description": "面文较大",
+              "grade": "四级（罕） 美品",
+              "priceRange": "10,000—50,000元",
+              "notes": "大字版较少"
             }
           ],
           "reverseFeatures": "- 背面：平素无文"
@@ -6860,6 +7028,13 @@
               "grade": "八级（较多） 美品",
               "priceRange": "500—2,000元",
               "notes": "文字清晰"
+            },
+            {
+              "variant": "大字版",
+              "description": "面文较大",
+              "grade": "五级（稀贵） 美品",
+              "priceRange": "3,000—10,000元",
+              "notes": "大字版较少"
             }
           ],
           "reverseFeatures": "- 背面：平素无文"
@@ -6915,6 +7090,13 @@
               "grade": "八级（较多） 美品",
               "priceRange": "10,000—30,000元",
               "notes": "文字清晰"
+            },
+            {
+              "variant": "大字版",
+              "description": "面文较大",
+              "grade": "三级（罕贵） 美品",
+              "priceRange": "30,000—100,000元",
+              "notes": "大字版较少"
             }
           ],
           "reverseFeatures": "- 背面：平素无文"
@@ -6970,6 +7152,13 @@
               "grade": "八级（较多） 美品",
               "priceRange": "10,000—30,000元",
               "notes": "文字清晰"
+            },
+            {
+              "variant": "大字版",
+              "description": "面文较大",
+              "grade": "三级（罕贵） 美品",
+              "priceRange": "30,000—100,000元",
+              "notes": "大字版较少"
             }
           ],
           "reverseFeatures": "- 背面：平素无文"
@@ -7014,6 +7203,13 @@
               "grade": "八级（较多） 美品",
               "priceRange": "80—300元",
               "notes": "文字清晰"
+            },
+            {
+              "variant": "大字版",
+              "description": "面文较大",
+              "grade": "九级（多） 美品",
+              "priceRange": "10—30元",
+              "notes": "大字版"
             }
           ],
           "reverseFeatures": "- 背面：有外廓"
@@ -7182,6 +7378,13 @@
               "grade": "八级（较多） 美品",
               "priceRange": "80—300元",
               "notes": "文字清晰"
+            },
+            {
+              "variant": "大字版",
+              "description": "面文较大",
+              "grade": "八级（较多） 美品",
+              "priceRange": "20—80元",
+              "notes": "大字版"
             }
           ],
           "reverseFeatures": "- 背面：无外廓"
@@ -7237,6 +7440,13 @@
               "grade": "八级（较多） 美品",
               "priceRange": "3,000—10,000元",
               "notes": "文字清晰"
+            },
+            {
+              "variant": "大字版",
+              "description": "面文较大",
+              "grade": "三级（罕贵） 美品",
+              "priceRange": "30,000—100,000元",
+              "notes": "大字版较少"
             }
           ],
           "reverseFeatures": "- 背面：平素无文"
@@ -7281,6 +7491,13 @@
               "grade": "八级（较多） 美品",
               "priceRange": "150—500元",
               "notes": "两柱清晰"
+            },
+            {
+              "variant": "大样版",
+              "description": "体型较大",
+              "grade": "八级（较多） 美品",
+              "priceRange": "30—100元",
+              "notes": "大样版"
             }
           ],
           "reverseFeatures": "- 背面：有外廓"
@@ -7336,9 +7553,16 @@
               "grade": "八级（较多） 美品",
               "priceRange": "300—1,000元",
               "notes": "四柱清晰"
+            },
+            {
+              "variant": "大样版",
+              "description": "体型较大",
+              "grade": "五级（稀贵） 美品",
+              "priceRange": "3,000—10,000元",
+              "notes": "大样版"
             }
           ],
-          "reverseFeatures": "- 背面：光素无文或有简单纹饰"
+          "reverseFeatures": "- 背面：穿上下各有一星点纹（\"四柱\"指面背各有两个星点，共四点），为该钱最大辨识特征"
         }
       },
       {
@@ -7396,6 +7620,13 @@
               "grade": "八级（较多） 美品",
               "priceRange": "80—300元",
               "notes": "文字清晰"
+            },
+            {
+              "variant": "大字版",
+              "description": "面文较大",
+              "grade": "八级（较多） 美品",
+              "priceRange": "20—80元",
+              "notes": "大字版"
             }
           ],
           "reverseFeatures": "- 背面：有外廓"
@@ -7518,6 +7749,13 @@
               "grade": "八级（较多） 美品",
               "priceRange": "50—200元",
               "notes": "面文可辨"
+            },
+            {
+              "variant": "大样版",
+              "description": "体型略大",
+              "grade": "九级（多） 美品",
+              "priceRange": "10—30元",
+              "notes": "大样版"
             }
           ],
           "reverseFeatures": "- 背面：平素无文"
@@ -8670,18 +8908,18 @@
           },
           "variantsTable": [
             {
-              "variant": "普通版",
-              "description": "面文\"咸通玄宝\"四字楷书，对读",
-              "grade": "一级（大珍） 普品",
+              "variant": "小平钱",
+              "description": "面文\"咸通玄宝\"四字隶书，对读",
+              "grade": "一级（大珍） 美品",
               "priceRange": "50,000—200,000元",
-              "notes": "古钱五十名珍之一"
+              "notes": "唐末试铸，存世极罕"
             },
             {
-              "variant": "普通版",
-              "description": "面文\"咸通玄宝\"四字楷书，对读",
-              "grade": "一级（大珍） 美品",
+              "variant": "小平钱",
+              "description": "面文\"咸通玄宝\"四字隶书",
+              "grade": "一级（大珍） 极美品",
               "priceRange": "200,000—500,000元",
-              "notes": "品相极佳，极为罕见"
+              "notes": "极美品"
             }
           ],
           "reverseFeatures": "- 背面：光背无文\n- 铸工较精"
@@ -9051,6 +9289,13 @@
               "grade": "一级（大珍） 美品以上",
               "priceRange": "80000—300000元",
               "notes": "存世极罕，博物馆级"
+            },
+            {
+              "variant": "折十型",
+              "description": "大型折十钱，铸工粗犷",
+              "grade": "一级（大珍） 极美品",
+              "priceRange": "300,000—1,000,000元",
+              "notes": "折十型极罕"
             }
           ],
           "reverseFeatures": "- 背面光素无文"
@@ -9088,6 +9333,13 @@
               "grade": "一级（大珍） 美品以上",
               "priceRange": "80000—300000元",
               "notes": "存世极罕"
+            },
+            {
+              "variant": "折十型",
+              "description": "大型折十钱",
+              "grade": "二级（珍） 极美品",
+              "priceRange": "100,000—300,000元",
+              "notes": "折十型极罕"
             }
           ],
           "reverseFeatures": "- 背面光素无文"
@@ -9991,6 +10243,13 @@
               "grade": "一级（大珍） 美品以上",
               "priceRange": "10000—50000元",
               "notes": "存世极罕"
+            },
+            {
+              "variant": "折十型",
+              "description": "大型折十钱，闽王延政铸",
+              "grade": "三级（罕贵） 极美品",
+              "priceRange": "50,000—200,000元",
+              "notes": "折十型较少"
             }
           ],
           "reverseFeatures": "- 背面光素无文"
@@ -10235,6 +10494,13 @@
               "grade": "一级（大珍） 美品以上",
               "priceRange": "20000—100000元",
               "notes": "存世极罕"
+            },
+            {
+              "variant": "铁钱版",
+              "description": "铁质铸币",
+              "grade": "三级（罕贵） 美品",
+              "priceRange": "30,000—100,000元",
+              "notes": "铁钱版较少"
             }
           ],
           "reverseFeatures": "- 背面光素无文"
@@ -10567,6 +10833,13 @@
               "grade": "一级（大珍） 美品以上",
               "priceRange": "10000—50000元",
               "notes": "存世稀少"
+            },
+            {
+              "variant": "折二型",
+              "description": "折二型铜钱",
+              "grade": "二级（珍） 极美品",
+              "priceRange": "100,000—300,000元",
+              "notes": "折二型极罕"
             }
           ],
           "reverseFeatures": "- 背面光素无文"
@@ -10604,6 +10877,13 @@
               "grade": "一级（大珍） 美品以上",
               "priceRange": "200000—1000000元",
               "notes": "古泉大珍，存世仅数枚"
+            },
+            {
+              "variant": "折二型",
+              "description": "折二型铜钱",
+              "grade": "一级（大珍） 极美品",
+              "priceRange": "500,000—2,000,000元",
+              "notes": "存世仅数枚"
             }
           ],
           "reverseFeatures": "- 背面光素无文"
@@ -10779,6 +11059,13 @@
               "grade": "一级（大珍） 美品以上",
               "priceRange": "50000—200000元",
               "notes": "存世极罕"
+            },
+            {
+              "variant": "折十型",
+              "description": "大型折十钱，铸工较精",
+              "grade": "二级（珍） 极美品",
+              "priceRange": "100,000—500,000元",
+              "notes": "折十型极罕"
             }
           ],
           "reverseFeatures": "- 背面光素无文"
@@ -11415,20 +11702,6 @@
               "notes": "阔缘"
             },
             {
-              "variant": "大字版",
-              "description": "面文较大",
-              "grade": "八级（较多） 美品",
-              "priceRange": "10—40元",
-              "notes": "大字版"
-            },
-            {
-              "variant": "阔缘版",
-              "description": "外廓较宽",
-              "grade": "八级（较多） 美品",
-              "priceRange": "10—40元",
-              "notes": "阔缘"
-            },
-            {
               "variant": "铁母",
               "description": "铜质母钱",
               "grade": "三级（罕贵） 美品",
@@ -11609,13 +11882,6 @@
               "notes": "阔缘"
             },
             {
-              "variant": "大字版",
-              "description": "面文较大",
-              "grade": "八级（较多） 美品",
-              "priceRange": "10—40元",
-              "notes": "大字版"
-            },
-            {
               "variant": "铁母",
               "description": "铜质母钱",
               "grade": "三级（罕贵） 美品",
@@ -11704,13 +11970,6 @@
               "grade": "八级（较多） 美品",
               "priceRange": "15—50元",
               "notes": "阔缘"
-            },
-            {
-              "variant": "大字版",
-              "description": "面文较大",
-              "grade": "八级（较多） 美品",
-              "priceRange": "10—40元",
-              "notes": "大字版"
             },
             {
               "variant": "铁母",
@@ -11808,13 +12067,6 @@
               "grade": "八级（较多） 美品",
               "priceRange": "15—50元",
               "notes": "阔缘"
-            },
-            {
-              "variant": "大字版",
-              "description": "面文较大",
-              "grade": "八级（较多） 美品",
-              "priceRange": "10—40元",
-              "notes": "大字版"
             },
             {
               "variant": "铁母",
@@ -13586,7 +13838,7 @@
               "notes": "铁母极罕"
             }
           ],
-          "reverseFeatures": "- 背面：光素无文"
+          "reverseFeatures": "- 背面：光素无文（光背），绍圣通宝无纪年、纪地文字"
         }
       },
       {
@@ -14765,7 +15017,7 @@
               "notes": "铁母极罕"
             }
           ],
-          "reverseFeatures": "- 背面：光素无文（光背）"
+          "reverseFeatures": "- 背面：光素无文（光背），铁钱版背面偶有纪监文字"
         }
       },
       {
@@ -16201,7 +16453,7 @@
               "notes": "铁母极罕"
             }
           ],
-          "reverseFeatures": "- 背面：光素无文（光背）"
+          "reverseFeatures": "- 背面：光素无文（光背），年号仅用6天，铸量极少"
         }
       },
       {
@@ -17181,13 +17433,6 @@
               "grade": "八级（较多） 美品",
               "priceRange": "20—100元",
               "notes": "铁钱纪年"
-            },
-            {
-              "variant": "折二铜钱（纪年）",
-              "description": "折二型纪年铜钱",
-              "grade": "八级（较多） 美品",
-              "priceRange": "20—80元",
-              "notes": "折二纪年"
             },
             {
               "variant": "铁母",
@@ -19052,13 +19297,6 @@
               "grade": "八级（较多） 美品",
               "priceRange": "20—100元",
               "notes": "铁钱纪年"
-            },
-            {
-              "variant": "折二铜钱（纪年）",
-              "description": "折二型纪年铜钱",
-              "grade": "八级（较多） 美品",
-              "priceRange": "20—80元",
-              "notes": "折二纪年"
             }
           ],
           "reverseFeatures": "- 背面：穿上有纪年数字（元至十二），铜钱纪年；铁钱背面纪年"
@@ -19133,13 +19371,6 @@
               "grade": "八级（较多） 美品",
               "priceRange": "20—100元",
               "notes": "铁钱纪年"
-            },
-            {
-              "variant": "折二铜钱（纪年）",
-              "description": "折二型纪年铜钱",
-              "grade": "八级（较多） 美品",
-              "priceRange": "20—80元",
-              "notes": "折二纪年"
             }
           ],
           "reverseFeatures": "- 背面：穿上有纪年数字（元至十二），铜钱纪年；铁钱背面纪年"
@@ -19214,13 +19445,6 @@
               "grade": "八级（较多） 美品",
               "priceRange": "20—100元",
               "notes": "铁钱纪年"
-            },
-            {
-              "variant": "折二铜钱（纪年）",
-              "description": "折二型纪年铜钱",
-              "grade": "八级（较多） 美品",
-              "priceRange": "20—80元",
-              "notes": "折二纪年"
             }
           ],
           "reverseFeatures": "- 背面：穿上有纪年数字（元至十二），铜钱纪年；铁钱背面纪年"
@@ -19507,13 +19731,6 @@
               "grade": "八级（较多） 美品",
               "priceRange": "20—100元",
               "notes": "铁钱纪年"
-            },
-            {
-              "variant": "折二铜钱（纪年）",
-              "description": "折二型纪年铜钱",
-              "grade": "八级（较多） 美品",
-              "priceRange": "20—80元",
-              "notes": "折二纪年"
             }
           ],
           "reverseFeatures": "- 背面：穿上有纪年数字（元至八），铜钱纪年，为南宋最后的纪年钱"
@@ -19652,7 +19869,7 @@
               "notes": "大字版"
             }
           ],
-          "reverseFeatures": "- 背面：光素无文（光背）"
+          "reverseFeatures": "- 背面：光素无文（光背），辽代早期铸币沿袭唐制，多为光背"
         }
       },
       {
@@ -19696,7 +19913,7 @@
               "notes": ""
             }
           ],
-          "reverseFeatures": "- 背面：光素无文（光背）"
+          "reverseFeatures": "- 背面：光素无文（光背），辽代太祖朝铸币，铸工粗犷"
         }
       },
       {
@@ -19756,7 +19973,7 @@
               "notes": ""
             }
           ],
-          "reverseFeatures": "- 背面：光素无文（光背）"
+          "reverseFeatures": "- 背面：光素无文（光背），辽代太祖朝铸币"
         }
       },
       {
@@ -19811,7 +20028,7 @@
               "notes": ""
             }
           ],
-          "reverseFeatures": "- 背面：光素无文（光背）"
+          "reverseFeatures": "- 背面：光素无文（光背），辽代太宗朝铸币，铸工较精"
         }
       },
       {
@@ -19855,7 +20072,7 @@
               "notes": ""
             }
           ],
-          "reverseFeatures": "- 背面：光素无文（光背）"
+          "reverseFeatures": "- 背面：光素无文（光背），辽代太宗朝铸币"
         }
       },
       {
@@ -20183,9 +20400,16 @@
               "grade": "一级（大珍） 美品",
               "priceRange": "3000—15000元",
               "notes": ""
+            },
+            {
+              "variant": "大字版",
+              "description": "面文较大，铸工较精",
+              "grade": "六级（稀） 美品",
+              "priceRange": "2,000—5,000元",
+              "notes": "大字版较少"
             }
           ],
-          "reverseFeatures": "- 背面：光素无文（光背）"
+          "reverseFeatures": "- 背面：光素无文（光背），辽代圣宗朝铸币"
         }
       },
       {
@@ -20220,9 +20444,16 @@
               "grade": "一级（大珍） 美品",
               "priceRange": "3000—15000元",
               "notes": ""
+            },
+            {
+              "variant": "大字版",
+              "description": "面文较大",
+              "grade": "六级（稀） 美品",
+              "priceRange": "2,000—5,000元",
+              "notes": "大字版"
             }
           ],
-          "reverseFeatures": "- 背面：光素无文（光背）"
+          "reverseFeatures": "- 背面：光素无文（光背），辽代圣宗朝铸币"
         }
       },
       {
@@ -20257,9 +20488,16 @@
               "grade": "一级（大珍） 美品",
               "priceRange": "3000—15000元",
               "notes": ""
+            },
+            {
+              "variant": "大字版",
+              "description": "面文较大",
+              "grade": "六级（稀） 美品",
+              "priceRange": "2,000—5,000元",
+              "notes": "大字版"
             }
           ],
-          "reverseFeatures": "- 背面：光素无文（光背）"
+          "reverseFeatures": "- 背面：光素无文（光背），辽代兴宗朝铸币"
         }
       },
       {
@@ -20441,9 +20679,16 @@
               "grade": "一级（大珍） 极美品",
               "priceRange": "10000—15000元",
               "notes": ""
+            },
+            {
+              "variant": "大字版",
+              "description": "面文较大",
+              "grade": "六级（稀） 美品",
+              "priceRange": "2,000—5,000元",
+              "notes": "大字版"
             }
           ],
-          "reverseFeatures": "- 背面：光素无文（光背）"
+          "reverseFeatures": "- 背面：光素无文（光背），辽代道宗朝铸币"
         }
       },
       {
@@ -20619,9 +20864,16 @@
               "grade": "一级（大珍） 极美品",
               "priceRange": "10000—15000元",
               "notes": ""
+            },
+            {
+              "variant": "大字版",
+              "description": "面文较大",
+              "grade": "六级（稀） 美品",
+              "priceRange": "2,000—5,000元",
+              "notes": "大字版"
             }
           ],
-          "reverseFeatures": "- 背面：光素无文（光背）"
+          "reverseFeatures": "- 背面：光素无文（光背），辽代道宗朝铸币"
         }
       },
       {
@@ -20921,6 +21173,13 @@
               "grade": "一级（大珍） 极美品",
               "priceRange": "15000—30000元",
               "notes": ""
+            },
+            {
+              "variant": "大字版",
+              "description": "契丹文较大",
+              "grade": "五级（稀贵） 美品",
+              "priceRange": "5,000—15,000元",
+              "notes": "大字版"
             }
           ],
           "reverseFeatures": "- 背面：光素无文（光背），契丹文钱币"
@@ -20976,9 +21235,16 @@
               "grade": "一级（大珍） 极美品",
               "priceRange": "15000—30000元",
               "notes": ""
+            },
+            {
+              "variant": "大字版",
+              "description": "面文较大",
+              "grade": "五级（稀贵） 美品",
+              "priceRange": "5,000—15,000元",
+              "notes": "大字版"
             }
           ],
-          "reverseFeatures": "- 背面：光素无文（光背）"
+          "reverseFeatures": "- 背面：光素无文（光背），助国钱为辽代特有铸币类型"
         }
       },
       {
@@ -21020,9 +21286,16 @@
               "grade": "一级（大珍） 极美品",
               "priceRange": "15000—30000元",
               "notes": ""
+            },
+            {
+              "variant": "大字版",
+              "description": "面文较大",
+              "grade": "五级（稀贵） 美品",
+              "priceRange": "5,000—15,000元",
+              "notes": "大字版"
             }
           ],
-          "reverseFeatures": "- 背面：光素无文（光背）"
+          "reverseFeatures": "- 背面：光素无文（光背），壮国钱与助国钱性质相近"
         }
       },
       {
@@ -21080,6 +21353,20 @@
               "grade": "一级（大珍） 极美品",
               "priceRange": "10000—20000元",
               "notes": ""
+            },
+            {
+              "variant": "大字版",
+              "description": "面文较大",
+              "grade": "六级（稀） 美品",
+              "priceRange": "2,000—5,000元",
+              "notes": "大字版"
+            },
+            {
+              "variant": "小型版",
+              "description": "体型较小",
+              "grade": "七级（甚少） 美品",
+              "priceRange": "500—2,000元",
+              "notes": "小型版"
             }
           ],
           "reverseFeatures": "- 背面：光素无文（光背），吉语钱"
@@ -21137,7 +21424,7 @@
               "notes": ""
             }
           ],
-          "reverseFeatures": "- 背面：光素无文（光背）"
+          "reverseFeatures": "- 背面：光素无文（光背），辽末天祚帝朝铸币"
         }
       }
     ],
@@ -21998,7 +22285,7 @@
               "notes": ""
             }
           ],
-          "reverseFeatures": "- 背面：光素无文（光背）"
+          "reverseFeatures": "- 背面：光素无文（光背），金代太祖朝铸币，存世极罕"
         }
       },
       {
@@ -22054,9 +22341,16 @@
               "grade": "二级（珍） 美品",
               "priceRange": "50,000—200,000元",
               "notes": "篆书版极罕"
+            },
+            {
+              "variant": "折二型",
+              "description": "折二型铜钱",
+              "grade": "一级（大珍） 美品",
+              "priceRange": "200,000—500,000元",
+              "notes": "折二型极罕"
             }
           ],
-          "reverseFeatures": "- 背面：光素无文（光背）"
+          "reverseFeatures": "- 背面：光素无文（光背），金代熙宗朝铸币，有楷书、篆书两种"
         }
       },
       {
@@ -22100,7 +22394,7 @@
               "notes": ""
             }
           ],
-          "reverseFeatures": "- 背面：光素无文（光背）"
+          "reverseFeatures": "- 背面：光素无文（光背），金代熙宗朝铸币"
         }
       },
       {
@@ -22144,7 +22438,7 @@
               "notes": ""
             }
           ],
-          "reverseFeatures": "- 背面：光素无文（光背）"
+          "reverseFeatures": "- 背面：光素无文（光背），金代熙宗朝铸币"
         }
       },
       {
@@ -22199,7 +22493,7 @@
               "notes": ""
             }
           ],
-          "reverseFeatures": "- 背面：光素无文（光背）"
+          "reverseFeatures": "- 背面：光素无文（光背），金代熙宗朝铸币"
         }
       },
       {
@@ -22243,7 +22537,7 @@
               "notes": ""
             }
           ],
-          "reverseFeatures": "- 背面：光素无文（光背）"
+          "reverseFeatures": "- 背面：光素无文（光背），金代熙宗朝铸币"
         }
       },
       {
@@ -22708,9 +23002,30 @@
               "grade": "一级（大珍） 极美品",
               "priceRange": "5000—10000元",
               "notes": ""
+            },
+            {
+              "variant": "小平篆书",
+              "description": "面文篆书，对读",
+              "grade": "四级（罕） 美品",
+              "priceRange": "10,000—30,000元",
+              "notes": "篆书版"
+            },
+            {
+              "variant": "小平楷书",
+              "description": "面文楷书，对读",
+              "grade": "四级（罕） 美品",
+              "priceRange": "10,000—30,000元",
+              "notes": "楷书版"
+            },
+            {
+              "variant": "折二型",
+              "description": "折二型铜钱",
+              "grade": "三级（罕贵） 美品",
+              "priceRange": "30,000—100,000元",
+              "notes": "折二型极罕"
             }
           ],
-          "reverseFeatures": "- 背面：光素无文（光背）"
+          "reverseFeatures": "- 背面：光素无文（光背），金代卫绍王朝铸币"
         }
       },
       {
@@ -22770,7 +23085,7 @@
               "notes": ""
             }
           ],
-          "reverseFeatures": "- 背面：光素无文（光背）"
+          "reverseFeatures": "- 背面：光素无文（光背），金代卫绍王朝铸币"
         }
       },
       {
@@ -22825,7 +23140,7 @@
               "notes": ""
             }
           ],
-          "reverseFeatures": "- 背面：光素无文（光背）"
+          "reverseFeatures": "- 背面：光素无文（光背），金代卫绍王朝铸币"
         }
       },
       {
@@ -22936,7 +23251,7 @@
               "notes": ""
             }
           ],
-          "reverseFeatures": "- 背面：光素无文（光背）"
+          "reverseFeatures": "- 背面：光素无文（光背），金代宣宗朝铸币"
         }
       }
     ],
@@ -23070,6 +23385,13 @@
               "grade": "一级（大珍） 美品",
               "priceRange": "80000—150000元",
               "notes": "据传仅见孤品"
+            },
+            {
+              "variant": "银质版",
+              "description": "银质铸币",
+              "grade": "一级（大珍） 美品",
+              "priceRange": "200,000—500,000元",
+              "notes": "银质极罕"
             }
           ],
           "reverseFeatures": "- 光背无文\n- 大朝金合为蒙古汗国时期铸币，存世极罕\n- 有楷书和篆书两种书体"
@@ -23581,6 +23903,13 @@
               "grade": "二级（珍） 极美品",
               "priceRange": "50,000—80,000元",
               "notes": ""
+            },
+            {
+              "variant": "折二型",
+              "description": "折二型铜钱",
+              "grade": "一级（大珍） 美品",
+              "priceRange": "100,000—300,000元",
+              "notes": "折二型极罕"
             }
           ],
           "reverseFeatures": "- 光背无文为主\n- 供养钱性质，存世极罕\n- 与皇庆通宝同为仁宗皇庆年间铸币"
@@ -23683,6 +24012,13 @@
               "grade": "二级（珍） 极美品",
               "priceRange": "50,000—80,000元",
               "notes": ""
+            },
+            {
+              "variant": "折二型",
+              "description": "折二型铜钱",
+              "grade": "三级（罕贵） 美品",
+              "priceRange": "30,000—100,000元",
+              "notes": "折二较少"
             }
           ],
           "reverseFeatures": "- 光背无文为主\n- 供养钱性质，存世极罕\n- 与延祐通宝同为仁宗延祐年间铸币"
@@ -23785,6 +24121,13 @@
               "grade": "二级（珍） 极美品",
               "priceRange": "50,000—80,000元",
               "notes": ""
+            },
+            {
+              "variant": "折二型",
+              "description": "折二型铜钱",
+              "grade": "一级（大珍） 美品",
+              "priceRange": "100,000—300,000元",
+              "notes": "折二型极罕"
             }
           ],
           "reverseFeatures": "- 光背无文为主\n- 供养钱性质，存世极罕\n- 与至治通宝同为英宗至治年间铸币"
@@ -23887,6 +24230,13 @@
               "grade": "二级（珍） 极美品",
               "priceRange": "50,000—80,000元",
               "notes": ""
+            },
+            {
+              "variant": "折二型",
+              "description": "折二型铜钱",
+              "grade": "一级（大珍） 美品",
+              "priceRange": "100,000—300,000元",
+              "notes": "折二型极罕"
             }
           ],
           "reverseFeatures": "- 光背无文为主\n- 供养钱性质，年号仅存数月，存世极罕\n- 致和为元泰定帝末年年号，仅使用数月即改元天历"
@@ -23931,6 +24281,13 @@
               "grade": "二级（珍） 极美品",
               "priceRange": "50,000—80,000元",
               "notes": ""
+            },
+            {
+              "variant": "折二型",
+              "description": "折二型铜钱",
+              "grade": "一级（大珍） 美品",
+              "priceRange": "100,000—300,000元",
+              "notes": "折二型极罕"
             }
           ],
           "reverseFeatures": "- 光背无文为主\n- 供养钱性质，存世极罕\n- 天历为元文宗年号，铸币量极少"
@@ -23975,6 +24332,13 @@
               "grade": "二级（珍） 极美品",
               "priceRange": "50,000—80,000元",
               "notes": ""
+            },
+            {
+              "variant": "折二型",
+              "description": "折二型铜钱",
+              "grade": "一级（大珍） 美品",
+              "priceRange": "100,000—300,000元",
+              "notes": "折二型极罕"
             }
           ],
           "reverseFeatures": "- 光背无文为主\n- 供养钱性质，存世极罕\n- 至顺为元文宗年号，铸币量极少"
@@ -24160,6 +24524,13 @@
               "grade": "二级（珍） 极美品",
               "priceRange": "50,000—80,000元",
               "notes": ""
+            },
+            {
+              "variant": "折二型",
+              "description": "折二型铜钱",
+              "grade": "一级（大珍） 美品",
+              "priceRange": "100,000—300,000元",
+              "notes": "折二型极罕"
             }
           ],
           "reverseFeatures": "- 光背无文为主\n- 供养钱性质，存世极罕\n- 与至元通宝不同，至元元宝为旋读"
@@ -24568,6 +24939,13 @@
               "grade": "一级（大珍） 极美品",
               "priceRange": "100,000—150,000元",
               "notes": ""
+            },
+            {
+              "variant": "大钱版",
+              "description": "大型折十钱",
+              "grade": "一级（大珍） 美品",
+              "priceRange": "200,000—500,000元",
+              "notes": "大钱极罕"
             }
           ],
           "reverseFeatures": "- 光背无文为主\n- 供养钱性质，存世极罕\n- 注意：与\"大元通宝背大元至治\"不同，此为正面铸\"大元至治\"四字"
@@ -24972,6 +25350,13 @@
               "grade": "一级（大珍） 极美品",
               "priceRange": "200,000—300,000元",
               "notes": ""
+            },
+            {
+              "variant": "大钱版",
+              "description": "大型钱",
+              "grade": "一级（大珍） 极美品",
+              "priceRange": "500,000—2,000,000元",
+              "notes": "大钱极罕"
             }
           ],
           "reverseFeatures": "- 光背无文\n- 供养钱性质，金质，穆清系列中最为珍罕\n- 供奉于佛寺，存世极罕，据传仅见数枚"
@@ -25016,6 +25401,13 @@
               "grade": "一级（大珍） 极美品",
               "priceRange": "100,000—150,000元",
               "notes": ""
+            },
+            {
+              "variant": "大钱版",
+              "description": "大型钱",
+              "grade": "二级（珍） 极美品",
+              "priceRange": "200,000—500,000元",
+              "notes": "大钱极罕"
             }
           ],
           "reverseFeatures": "- 光背无文\n- 供养钱性质，银质\n- 供奉于佛寺，存世极罕"
@@ -25060,6 +25452,13 @@
               "grade": "一级（大珍） 极美品",
               "priceRange": "50,000—80,000元",
               "notes": ""
+            },
+            {
+              "variant": "大钱版",
+              "description": "大型钱",
+              "grade": "二级（珍） 极美品",
+              "priceRange": "100,000—300,000元",
+              "notes": "大钱极罕"
             }
           ],
           "reverseFeatures": "- 光背无文\n- 供养钱性质，与穆清金宝、穆清银宝同系列\n- 供奉于佛寺，存世极罕"
@@ -25398,7 +25797,7 @@
               "notes": "极美品罕见"
             }
           ],
-          "reverseFeatures": "- 背面：光素无文（光背）"
+          "reverseFeatures": "- 背面：光素无文（光背），洪熙年号仅一年，铸量极少"
         }
       },
       {
@@ -25529,7 +25928,7 @@
               "notes": "大字版"
             }
           ],
-          "reverseFeatures": "- 背面：光素无文"
+          "reverseFeatures": "- 背面：光素无文（光背），宣德铸币铸工较精"
         }
       },
       {
@@ -25591,7 +25990,7 @@
               "notes": "大字版"
             }
           ],
-          "reverseFeatures": "- 背面：光素无文"
+          "reverseFeatures": "- 背面：光素无文（光背），弘治铸币铜质较好"
         }
       },
       {
@@ -25660,7 +26059,7 @@
               "notes": "折五大钱稀少"
             }
           ],
-          "reverseFeatures": "- 背面：光素无文（光背）"
+          "reverseFeatures": "- 背面：光素无文（光背），嘉靖通宝铸造量大，有小平和折五型"
         }
       },
       {
@@ -25711,7 +26110,7 @@
               "notes": "品相极佳"
             }
           ],
-          "reverseFeatures": "- 背面：光素无文（光背）"
+          "reverseFeatures": "- 背面：光素无文（光背），隆庆年号仅六年，铸量较少"
         }
       },
       {
@@ -25831,7 +26230,7 @@
               "notes": ""
             }
           ],
-          "reverseFeatures": "- 背面：光素无文"
+          "reverseFeatures": "- 背面：光素无文，银质铸币，非流通货币，属赏赐或纪念性质"
         }
       },
       {
@@ -25907,7 +26306,7 @@
               "notes": "双点通"
             }
           ],
-          "reverseFeatures": "- 背面：光素无文（光背）"
+          "reverseFeatures": "- 背面：光素无文（光背），泰昌年号仅一月，由天启朝补铸"
         }
       },
       {
@@ -25993,7 +26392,7 @@
               "notes": "合背版"
             }
           ],
-          "reverseFeatures": "- 背面：光素无文（光背）"
+          "reverseFeatures": "- 背面：光素无文（光背）或背纪局文字（如\"工\"\"户\"等），折十型背有星月纹"
         }
       },
       {
@@ -26679,7 +27078,7 @@
               "notes": ""
             }
           ],
-          "reverseFeatures": "- 背面：光素无文（光背）"
+          "reverseFeatures": "- 背面：光素无文（光背），李自成大顺政权铸币"
         }
       },
       {
@@ -26836,7 +27235,7 @@
               "notes": "大字版较少"
             }
           ],
-          "reverseFeatures": "- 背面：光素无文（光背）"
+          "reverseFeatures": "- 背面：汉文版光素无文（光背）；满文版背面铸满文\"阿济格\"（意为何恩户），亦有光背版"
         }
       },
       {
@@ -29191,7 +29590,7 @@
               "notes": "背铸纪局文字"
             }
           ],
-          "reverseFeatures": "- 背面：光素无文（光背）"
+          "reverseFeatures": "- 背面：光素无文（光背），吴世璠铸币"
         }
       },
       {
@@ -29540,6 +29939,13 @@
               "grade": "八级（较多） 极美品",
               "priceRange": "10000—20000元",
               "notes": ""
+            },
+            {
+              "variant": "大字版",
+              "description": "面文较大，铸工较精",
+              "grade": "五级（稀贵） 美品",
+              "priceRange": "3,000—10,000元",
+              "notes": "大字版"
             }
           ],
           "reverseFeatures": "- 背面：铸有\"圣宝\"二字"
@@ -29584,6 +29990,13 @@
               "grade": "八级（较多） 极美品",
               "priceRange": "5000—10000元",
               "notes": ""
+            },
+            {
+              "variant": "大字版",
+              "description": "面文较大",
+              "grade": "六级（稀） 美品",
+              "priceRange": "1,000—3,000元",
+              "notes": "大字版"
             }
           ],
           "reverseFeatures": "- 背面：铸有\"通宝\"二字"
@@ -29628,6 +30041,13 @@
               "grade": "八级（较多） 极美品",
               "priceRange": "5000—10000元",
               "notes": ""
+            },
+            {
+              "variant": "大字版",
+              "description": "面文较大",
+              "grade": "六级（稀） 美品",
+              "priceRange": "1,000—3,000元",
+              "notes": "大字版"
             }
           ],
           "reverseFeatures": "- 背面：铸有\"通宝\"或\"圣宝\"二字"
@@ -29672,6 +30092,13 @@
               "grade": "一级（大珍） 极美品",
               "priceRange": "10000—15000元",
               "notes": ""
+            },
+            {
+              "variant": "大字版",
+              "description": "面文较大",
+              "grade": "五级（稀贵） 美品",
+              "priceRange": "3,000—10,000元",
+              "notes": "大字版"
             }
           ],
           "reverseFeatures": "- 背面铸\"通宝\"二字"
@@ -29716,6 +30143,13 @@
               "grade": "一级（大珍） 极美品",
               "priceRange": "10000—15000元",
               "notes": ""
+            },
+            {
+              "variant": "大字版",
+              "description": "面文较大",
+              "grade": "五级（稀贵） 美品",
+              "priceRange": "3,000—10,000元",
+              "notes": "大字版"
             }
           ],
           "reverseFeatures": "- 背面铸\"圣宝\"二字"
@@ -29818,6 +30252,13 @@
               "grade": "八级（较多） 极美品",
               "priceRange": "2000—5000元",
               "notes": ""
+            },
+            {
+              "variant": "大字版",
+              "description": "面文较大",
+              "grade": "六级（稀） 美品",
+              "priceRange": "1,000—3,000元",
+              "notes": "大字版"
             }
           ],
           "reverseFeatures": "- 背面铸\"圣宝\""
@@ -29862,6 +30303,13 @@
               "grade": "八级（较多） 极美品",
               "priceRange": "2000—5000元",
               "notes": ""
+            },
+            {
+              "variant": "大字版",
+              "description": "面文较大",
+              "grade": "六级（稀） 美品",
+              "priceRange": "1,000—3,000元",
+              "notes": "大字版"
             }
           ],
           "reverseFeatures": "- 背面铸\"太平\""
@@ -29906,6 +30354,13 @@
               "grade": "八级（较多） 极美品",
               "priceRange": "2000—5000元",
               "notes": ""
+            },
+            {
+              "variant": "大字版",
+              "description": "面文较大",
+              "grade": "六级（稀） 美品",
+              "priceRange": "1,000—3,000元",
+              "notes": "大字版"
             }
           ],
           "reverseFeatures": "- 背面铸\"天国\""
@@ -30125,7 +30580,7 @@
               "notes": ""
             }
           ],
-          "reverseFeatures": "- 背面：光素无文"
+          "reverseFeatures": "- 背面：光素无文（光背），天地会铸币"
         }
       },
       {
@@ -30176,7 +30631,7 @@
               "notes": "背有文字"
             }
           ],
-          "reverseFeatures": "- 背面：光素无文（光背）"
+          "reverseFeatures": "- 背面：光素无文（光背），天地会铸币"
         }
       },
       {
@@ -30220,7 +30675,7 @@
               "notes": ""
             }
           ],
-          "reverseFeatures": "- 背面：光素无文（光背）"
+          "reverseFeatures": "- 背面：光素无文（光背），天地会铸币"
         }
       },
       {
@@ -30264,7 +30719,7 @@
               "notes": ""
             }
           ],
-          "reverseFeatures": "- 背面：光素无文（光背）"
+          "reverseFeatures": "- 背面：光素无文（光背），天地会铸币"
         }
       },
       {

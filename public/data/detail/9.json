@@ -886,18 +886,18 @@
     },
     "variantsTable": [
       {
-        "variant": "普通版",
-        "description": "面文\"咸通玄宝\"四字楷书，对读",
-        "grade": "一级（大珍） 普品",
+        "variant": "小平钱",
+        "description": "面文\"咸通玄宝\"四字隶书，对读",
+        "grade": "一级（大珍） 美品",
         "priceRange": "50,000—200,000元",
-        "notes": "古钱五十名珍之一"
+        "notes": "唐末试铸，存世极罕"
       },
       {
-        "variant": "普通版",
-        "description": "面文\"咸通玄宝\"四字楷书，对读",
-        "grade": "一级（大珍） 美品",
+        "variant": "小平钱",
+        "description": "面文\"咸通玄宝\"四字隶书",
+        "grade": "一级（大珍） 极美品",
         "priceRange": "200,000—500,000元",
-        "notes": "品相极佳，极为罕见"
+        "notes": "极美品"
       }
     ],
     "reverseFeatures": "- 背面：光背无文\n- 铸工较精"

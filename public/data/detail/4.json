@@ -223,6 +223,13 @@
         "grade": "八级（较多） 美品",
         "priceRange": "1,500—5,000元",
         "notes": "文字清晰"
+      },
+      {
+        "variant": "大字版",
+        "description": "面文较大",
+        "grade": "六级（稀） 美品",
+        "priceRange": "1,000—3,000元",
+        "notes": "大字版较少"
       }
     ],
     "reverseFeatures": "- 背面：平素无文"
@@ -362,6 +369,13 @@
         "grade": "八级（较多） 美品",
         "priceRange": "500—2,000元",
         "notes": "文字清晰"
+      },
+      {
+        "variant": "大字版",
+        "description": "面文较大",
+        "grade": "七级（甚少） 美品",
+        "priceRange": "50—200元",
+        "notes": "大字版"
       }
     ],
     "reverseFeatures": "- 背面：平素无文"
@@ -517,6 +531,13 @@
         "grade": "八级（较多） 美品",
         "priceRange": "10,000—30,000元",
         "notes": "文字清晰"
+      },
+      {
+        "variant": "合背版",
+        "description": "两面均为面文",
+        "grade": "三级（罕贵） 美品",
+        "priceRange": "30,000—100,000元",
+        "notes": "合背版极罕"
       }
     ],
     "reverseFeatures": "- 背面：平素无文"
@@ -557,6 +578,13 @@
         "grade": "二级（珍） 美品",
         "priceRange": "80,000—200,000元",
         "notes": "文字清晰，极为难得"
+      },
+      {
+        "variant": "合背版",
+        "description": "两面均为面文",
+        "grade": "一级（大珍） 美品",
+        "priceRange": "500,000—2,000,000元",
+        "notes": "合背版极罕"
       }
     ],
     "reverseFeatures": "- 背面：平素无文"

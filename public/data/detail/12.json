@@ -661,7 +661,7 @@
         "notes": "铁母极罕"
       }
     ],
-    "reverseFeatures": "- 背面：光素无文（光背）"
+    "reverseFeatures": "- 背面：光素无文（光背），年号仅用6天，铸量极少"
   },
   "15-12": {
     "castingTime": "南宋孝宗赵昚淳熙年间（公元1174年—1189年）。",
@@ -1461,13 +1461,6 @@
         "grade": "八级（较多） 美品",
         "priceRange": "20—100元",
         "notes": "铁钱纪年"
-      },
-      {
-        "variant": "折二铜钱（纪年）",
-        "description": "折二型纪年铜钱",
-        "grade": "八级（较多） 美品",
-        "priceRange": "20—80元",
-        "notes": "折二纪年"
       },
       {
         "variant": "铁母",
@@ -2882,13 +2875,6 @@
         "grade": "八级（较多） 美品",
         "priceRange": "20—100元",
         "notes": "铁钱纪年"
-      },
-      {
-        "variant": "折二铜钱（纪年）",
-        "description": "折二型纪年铜钱",
-        "grade": "八级（较多） 美品",
-        "priceRange": "20—80元",
-        "notes": "折二纪年"
       }
     ],
     "reverseFeatures": "- 背面：穿上有纪年数字（元至十二），铜钱纪年；铁钱背面纪年"
@@ -2948,13 +2934,6 @@
         "grade": "八级（较多） 美品",
         "priceRange": "20—100元",
         "notes": "铁钱纪年"
-      },
-      {
-        "variant": "折二铜钱（纪年）",
-        "description": "折二型纪年铜钱",
-        "grade": "八级（较多） 美品",
-        "priceRange": "20—80元",
-        "notes": "折二纪年"
       }
     ],
     "reverseFeatures": "- 背面：穿上有纪年数字（元至十二），铜钱纪年；铁钱背面纪年"
@@ -3014,13 +2993,6 @@
         "grade": "八级（较多） 美品",
         "priceRange": "20—100元",
         "notes": "铁钱纪年"
-      },
-      {
-        "variant": "折二铜钱（纪年）",
-        "description": "折二型纪年铜钱",
-        "grade": "八级（较多） 美品",
-        "priceRange": "20—80元",
-        "notes": "折二纪年"
       }
     ],
     "reverseFeatures": "- 背面：穿上有纪年数字（元至十二），铜钱纪年；铁钱背面纪年"
@@ -3247,13 +3219,6 @@
         "grade": "八级（较多） 美品",
         "priceRange": "20—100元",
         "notes": "铁钱纪年"
-      },
-      {
-        "variant": "折二铜钱（纪年）",
-        "description": "折二型纪年铜钱",
-        "grade": "八级（较多） 美品",
-        "priceRange": "20—80元",
-        "notes": "折二纪年"
       }
     ],
     "reverseFeatures": "- 背面：穿上有纪年数字（元至八），铜钱纪年，为南宋最后的纪年钱"

@@ -466,20 +466,6 @@
         "notes": "阔缘"
       },
       {
-        "variant": "大字版",
-        "description": "面文较大",
-        "grade": "八级（较多） 美品",
-        "priceRange": "10—40元",
-        "notes": "大字版"
-      },
-      {
-        "variant": "阔缘版",
-        "description": "外廓较宽",
-        "grade": "八级（较多） 美品",
-        "priceRange": "10—40元",
-        "notes": "阔缘"
-      },
-      {
         "variant": "铁母",
         "description": "铜质母钱",
         "grade": "三级（罕贵） 美品",
@@ -630,13 +616,6 @@
         "notes": "阔缘"
       },
       {
-        "variant": "大字版",
-        "description": "面文较大",
-        "grade": "八级（较多） 美品",
-        "priceRange": "10—40元",
-        "notes": "大字版"
-      },
-      {
         "variant": "铁母",
         "description": "铜质母钱",
         "grade": "三级（罕贵） 美品",
@@ -710,13 +689,6 @@
         "grade": "八级（较多） 美品",
         "priceRange": "15—50元",
         "notes": "阔缘"
-      },
-      {
-        "variant": "大字版",
-        "description": "面文较大",
-        "grade": "八级（较多） 美品",
-        "priceRange": "10—40元",
-        "notes": "大字版"
       },
       {
         "variant": "铁母",
@@ -799,13 +771,6 @@
         "grade": "八级（较多） 美品",
         "priceRange": "15—50元",
         "notes": "阔缘"
-      },
-      {
-        "variant": "大字版",
-        "description": "面文较大",
-        "grade": "八级（较多） 美品",
-        "priceRange": "10—40元",
-        "notes": "大字版"
       },
       {
         "variant": "铁母",
@@ -2277,7 +2242,7 @@
         "notes": "铁母极罕"
       }
     ],
-    "reverseFeatures": "- 背面：光素无文"
+    "reverseFeatures": "- 背面：光素无文（光背），绍圣通宝无纪年、纪地文字"
   },
   "12-31": {
     "castingTime": "宋哲宗赵煦绍圣年间（公元1094年—1098年）。",
@@ -3276,7 +3241,7 @@
         "notes": "铁母极罕"
       }
     ],
-    "reverseFeatures": "- 背面：光素无文（光背）"
+    "reverseFeatures": "- 背面：光素无文（光背），铁钱版背面偶有纪监文字"
   },
   "12-43": {
     "castingTime": "宋徽宗赵佶重和元年（公元1118年）。",

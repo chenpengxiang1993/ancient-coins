@@ -26,7 +26,7 @@
         "notes": ""
       }
     ],
-    "reverseFeatures": "- 背面：光素无文（光背）"
+    "reverseFeatures": "- 背面：光素无文（光背），金代太祖朝铸币，存世极罕"
   },
   "14-1": {
     "castingTime": "金熙宗完颜亶天眷年间（公元1138年—1140年）。",
@@ -67,9 +67,16 @@
         "grade": "二级（珍） 美品",
         "priceRange": "50,000—200,000元",
         "notes": "篆书版极罕"
+      },
+      {
+        "variant": "折二型",
+        "description": "折二型铜钱",
+        "grade": "一级（大珍） 美品",
+        "priceRange": "200,000—500,000元",
+        "notes": "折二型极罕"
       }
     ],
-    "reverseFeatures": "- 背面：光素无文（光背）"
+    "reverseFeatures": "- 背面：光素无文（光背），金代熙宗朝铸币，有楷书、篆书两种"
   },
   "14-2": {
     "castingTime": "金熙宗完颜亶天眷年间（公元1138年—1140年）。",
@@ -98,7 +105,7 @@
         "notes": ""
       }
     ],
-    "reverseFeatures": "- 背面：光素无文（光背）"
+    "reverseFeatures": "- 背面：光素无文（光背），金代熙宗朝铸币"
   },
   "14-3": {
     "castingTime": "金熙宗完颜亶天眷年间（公元1138年—1140年）。",
@@ -127,7 +134,7 @@
         "notes": ""
       }
     ],
-    "reverseFeatures": "- 背面：光素无文（光背）"
+    "reverseFeatures": "- 背面：光素无文（光背），金代熙宗朝铸币"
   },
   "14-4": {
     "castingTime": "金熙宗完颜亶皇统年间（公元1141年—1149年）。",
@@ -167,7 +174,7 @@
         "notes": ""
       }
     ],
-    "reverseFeatures": "- 背面：光素无文（光背）"
+    "reverseFeatures": "- 背面：光素无文（光背），金代熙宗朝铸币"
   },
   "14-5": {
     "castingTime": "金熙宗完颜亶皇统年间（公元1141年—1149年）。",
@@ -196,7 +203,7 @@
         "notes": ""
       }
     ],
-    "reverseFeatures": "- 背面：光素无文（光背）"
+    "reverseFeatures": "- 背面：光素无文（光背），金代熙宗朝铸币"
   },
   "14-6": {
     "castingTime": "金海陵王完颜亮正隆年间（公元1156年—1161年）。",
@@ -586,9 +593,30 @@
         "grade": "一级（大珍） 极美品",
         "priceRange": "5000—10000元",
         "notes": ""
+      },
+      {
+        "variant": "小平篆书",
+        "description": "面文篆书，对读",
+        "grade": "四级（罕） 美品",
+        "priceRange": "10,000—30,000元",
+        "notes": "篆书版"
+      },
+      {
+        "variant": "小平楷书",
+        "description": "面文楷书，对读",
+        "grade": "四级（罕） 美品",
+        "priceRange": "10,000—30,000元",
+        "notes": "楷书版"
+      },
+      {
+        "variant": "折二型",
+        "description": "折二型铜钱",
+        "grade": "三级（罕贵） 美品",
+        "priceRange": "30,000—100,000元",
+        "notes": "折二型极罕"
       }
     ],
-    "reverseFeatures": "- 背面：光素无文（光背）"
+    "reverseFeatures": "- 背面：光素无文（光背），金代卫绍王朝铸币"
   },
   "14-11": {
     "castingTime": "金卫绍王完颜永济崇庆年间（公元1212年）。",
@@ -633,7 +661,7 @@
         "notes": ""
       }
     ],
-    "reverseFeatures": "- 背面：光素无文（光背）"
+    "reverseFeatures": "- 背面：光素无文（光背），金代卫绍王朝铸币"
   },
   "14-12": {
     "castingTime": "金卫绍王完颜永济至宁元年（公元1213年）。",
@@ -673,7 +701,7 @@
         "notes": ""
       }
     ],
-    "reverseFeatures": "- 背面：光素无文（光背）"
+    "reverseFeatures": "- 背面：光素无文（光背），金代卫绍王朝铸币"
   },
   "14-13": {
     "castingTime": "金宣宗完颜珣贞祐年间（公元1213年—1217年）。",
@@ -754,6 +782,6 @@
         "notes": ""
       }
     ],
-    "reverseFeatures": "- 背面：光素无文（光背）"
+    "reverseFeatures": "- 背面：光素无文（光背），金代宣宗朝铸币"
   }
 }
