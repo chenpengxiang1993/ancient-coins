@@ -391,7 +391,6 @@ function migrateDetail(detail) {
   });
 
   const newDetail = { ...detail };
-  delete newDetail.variants;
   delete newDetail.valueReference;
   delete newDetail.valueTable;
   newDetail.variantsTable = deduped;

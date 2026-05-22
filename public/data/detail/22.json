@@ -7,236 +7,237 @@
     "reverseFeatures": "",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。太平天国钱为太平天国运动（公元1851年—1864年）期间铸行，洪秀全建立太平天国，定都天京（南京）后铸行。制作流程为：先雕刻太平天国阴文母范（含面文\"太平天国\"四字，宋体或楷书），中央方孔设金属芯；合范浇铸熔融黄铜液，冷却脱范后逐枚修整。铸工精整，以\"圣宝\"取代传统的\"通宝\"\"元宝\"，体现其宗教特色。铸于天京、苏州、杭州、徽州。",
     "coreBackground": "* 太平天国运动（公元1851年—1864年）是中国历史上规模最大的农民起义\n* 洪秀全建立太平天国，定都天京（南京），铸行太平天国钱\n* 太平天国钱以\"圣宝\"取代传统的\"通宝\"\"元宝\"，体现其宗教特色\n* 据《中国钱币大辞典》记载，太平天国钱铸于天京、苏州、杭州、徽州",
+    "variants": "* **按面值分**：\n* **小平版**：直径约2.5厘米，铸量最大\n* **折五版**：直径约3.3厘米，较少见\n* **折十版**：直径约3.8厘米，背\"圣宝\"\n* **折五十版**：直径约4.8厘米，珍罕\n* **按面文书体分**：\n* **宋体版**：面文为宋体，笔画方正，为最常见的版式\n* **楷书版**：面文为楷书，笔画流畅，较为少见\n* **隐起文版**：面文笔画有隐起现象，较为少见\n* **按背文位置分**：\n* **背\"圣宝\"竖读版**：背面\"圣宝\"二字竖读（上下排列），为最常见的版式\n* **背\"圣宝\"横读版**：背面\"圣宝\"二字横读（左右排列），较为少见\n* **按铸地分**：据《中国钱币大辞典》记载，太平天国钱主要铸于以下地区：\n* **天京版**（南京）：铸工较精，铸量最大\n* **苏州版**：铸工尚可\n* **杭州版**：铸工尚可\n* **徽州版**：铸量较少\n* **特殊版别**：\n* **大字版**：面文字体较大\n* **小字版**：面文字体较小\n* **阔缘版**：外缘较宽\n* **母钱**：铸工精整，字口深峻",
+    "images": {
+      "main": "/images/coins/w-太平天国钱币/太平天国/main.jpg",
+      "variants": []
+    },
     "variantsTable": [
       {
         "variant": "小平钱",
-        "description": "",
-        "grade": "普品",
+        "description": "直径约2.5厘米，铸量最大，直径：约2.5厘米，重约3—4克",
+        "grade": "八级（较多） 普品",
         "priceRange": "100—300元",
         "notes": "八级（较多）"
       },
       {
         "variant": "宋体版",
-        "description": "",
-        "grade": "美品",
+        "description": "面文为宋体，笔画方正，为最常见的版式",
+        "grade": "十级（多泛） 美品",
         "priceRange": "200—500元",
         "notes": ""
       },
       {
         "variant": "宋体版",
-        "description": "",
-        "grade": "极美品",
+        "description": "面文为宋体，笔画方正，为最常见的版式",
+        "grade": "十级（多泛） 极美品",
         "priceRange": "500—1000元",
         "notes": ""
       },
       {
         "variant": "楷书版",
-        "description": "",
-        "grade": "美品",
+        "description": "面文为楷书，笔画流畅，较为少见",
+        "grade": "七级（较少） 美品",
         "priceRange": "300—800元",
         "notes": "较少见"
       },
       {
         "variant": "楷书版",
-        "description": "",
-        "grade": "极美品",
+        "description": "面文为楷书，笔画流畅，较为少见",
+        "grade": "六级（少） 极美品",
         "priceRange": "800—1500元",
         "notes": ""
       },
       {
         "variant": "隐起文版",
-        "description": "",
-        "grade": "美品",
+        "description": "面文笔画有隐起现象，较为少见",
+        "grade": "七级（较少） 美品",
         "priceRange": "300—800元",
         "notes": "较少见"
       },
       {
         "variant": "大面值",
-        "description": "",
-        "grade": "美品",
+        "description": "大面值版别",
+        "grade": "八级（较多） 美品",
         "priceRange": "500—3,000元",
         "notes": "八级（较多）"
       },
       {
         "variant": "折五版",
-        "description": "",
-        "grade": "美品",
+        "description": "直径约3.3厘米，较少见，重约10—15g",
+        "grade": "七级（较少） 美品",
         "priceRange": "500—1500元",
         "notes": "较少见"
       },
       {
         "variant": "折十版",
-        "description": "",
-        "grade": "美品",
+        "description": "直径约3.8厘米，背\"圣宝\"，重约15—25g",
+        "grade": "八级（较多） 美品",
         "priceRange": "500—2000元",
         "notes": ""
       },
       {
         "variant": "折十版",
-        "description": "",
-        "grade": "极美品",
+        "description": "直径约3.8厘米，背\"圣宝\"，重约15—25g",
+        "grade": "八级（较多） 极美品",
         "priceRange": "2000—4000元",
         "notes": ""
       },
       {
         "variant": "折五十版",
-        "description": "",
-        "grade": "美品",
+        "description": "直径约3.3厘米，较少见，重约10—15g",
+        "grade": "七级（较少） 美品",
         "priceRange": "3000—10000元",
         "notes": "珍罕"
       },
       {
         "variant": "折五十版",
-        "description": "",
-        "grade": "美品",
+        "description": "直径约3.3厘米，较少见，重约10—15g",
+        "grade": "七级（较少） 美品",
         "priceRange": "2,000—8,000元",
         "notes": "八级（较多）"
       },
       {
         "variant": "特殊品类",
-        "description": "",
-        "grade": "美品",
+        "description": "特殊版别，存世较少",
+        "grade": "八级（较多） 美品",
         "priceRange": "1,000—10,000元",
         "notes": "八级（较多）"
       },
       {
         "variant": "小平钱",
-        "description": "",
-        "grade": "普品",
+        "description": "直径约2.5厘米，铸量最大，直径：约2.5厘米，重约3—4克",
+        "grade": "十级（多泛） 普品",
         "priceRange": "100—300元",
         "notes": "最常见面值"
       },
       {
         "variant": "大面值",
-        "description": "",
-        "grade": "美品",
+        "description": "大面值版别",
+        "grade": "七级（较少） 美品",
         "priceRange": "500—3,000元",
         "notes": "较大面值，较少见"
       },
       {
         "variant": "折五十版",
-        "description": "",
-        "grade": "美品",
+        "description": "直径约3.3厘米，较少见，重约10—15g",
+        "grade": "七级（较少） 美品",
         "priceRange": "1,000—5,000元",
         "notes": "折五十面值，较少见"
       },
       {
         "variant": "按面值分",
-        "description": "",
-        "grade": "美品",
+        "description": "按类别细分的版别",
+        "grade": "八级（较多） 美品",
         "priceRange": "100—1,000元",
         "notes": "按面值区分"
       },
       {
         "variant": "按面文书体分",
-        "description": "",
-        "grade": "美品",
+        "description": "按面文书体分",
+        "grade": "八级（较多） 美品",
         "priceRange": "100—500元",
         "notes": "按面文书体区分"
       },
       {
         "variant": "按背文位置分",
-        "description": "",
-        "grade": "美品",
+        "description": "按类别细分的版别",
+        "grade": "八级（较多） 美品",
         "priceRange": "100—500元",
         "notes": "按背文位置区分"
       },
       {
         "variant": "背\"圣宝\"竖读版",
-        "description": "",
-        "grade": "美品",
+        "description": "背面\"圣宝\"二字竖读（上下排列），为最常见的版式",
+        "grade": "十级（多泛） 美品",
         "priceRange": "100—300元",
         "notes": "背文竖读"
       },
       {
         "variant": "背\"圣宝\"横读版",
-        "description": "",
-        "grade": "美品",
+        "description": "背面\"圣宝\"二字横读（左右排列），较为少见",
+        "grade": "六级（少） 美品",
         "priceRange": "100—300元",
         "notes": "背文横读"
       },
       {
         "variant": "天京版",
-        "description": "",
-        "grade": "美品",
+        "description": "（南京）：铸工较精，铸量最大",
+        "grade": "八级（较多） 美品",
         "priceRange": "200—800元",
         "notes": "天京铸行"
       },
       {
         "variant": "苏州版",
-        "description": "",
-        "grade": "美品",
+        "description": "铸工尚可",
+        "grade": "八级（较多） 美品",
         "priceRange": "200—800元",
         "notes": "苏州铸行"
       },
       {
         "variant": "杭州版",
-        "description": "",
-        "grade": "美品",
+        "description": "铸工尚可",
+        "grade": "八级（较多） 美品",
         "priceRange": "200—800元",
         "notes": "杭州铸行"
       },
       {
         "variant": "徽州版",
-        "description": "",
-        "grade": "美品",
+        "description": "铸量较少",
+        "grade": "八级（较多） 美品",
         "priceRange": "200—800元",
         "notes": "徽州铸行"
       },
       {
         "variant": "按铸地分",
-        "description": "",
-        "grade": "美品",
+        "description": "据《中国钱币大辞典》记载，太平天国钱主要铸于以下地区",
+        "grade": "八级（较多） 美品",
         "priceRange": "200—800元",
         "notes": "按铸地区分"
       },
       {
         "variant": "大字版",
-        "description": "",
-        "grade": "美品",
+        "description": "面文字体较大",
+        "grade": "八级（较多） 美品",
         "priceRange": "200—500元",
         "notes": "文字较大"
       },
       {
         "variant": "小字版",
-        "description": "",
-        "grade": "普品",
+        "description": "面文字体较小",
+        "grade": "八级（较多） 普品",
         "priceRange": "100—300元",
         "notes": "文字较小"
       },
       {
         "variant": "阔缘版",
-        "description": "",
-        "grade": "美品",
+        "description": "外缘较宽",
+        "grade": "八级（较多） 美品",
         "priceRange": "200—500元",
         "notes": "边缘较宽"
       },
       {
         "variant": "特殊版别",
-        "description": "",
-        "grade": "极美品",
+        "description": "特殊版别，存世较少",
+        "grade": "七级（较少） 极美品",
         "priceRange": "500—3,000元",
         "notes": "特殊版别，较少见"
       },
       {
         "variant": "特殊品类",
-        "description": "",
-        "grade": "极美品",
+        "description": "特殊版别，存世较少",
+        "grade": "二级（极罕） 极美品",
         "priceRange": "1,000—10,000元",
         "notes": "特殊品类，极为珍贵"
       },
       {
         "variant": "母钱",
-        "description": "",
-        "grade": "美品以上",
+        "description": "铸工精整，字口深峻",
+        "grade": "八级（较多） 美品以上",
         "priceRange": "5000—20000元",
         "notes": "存世极少"
       }
-    ],
-    "images": {
-      "main": "/images/coins/w-太平天国钱币/太平天国/main.jpg",
-      "variants": []
-    }
+    ]
   },
   "22-1": {
     "castingTime": "太平天国初期（约公元1851年—1853年）。",
@@ -246,26 +247,27 @@
     "reverseFeatures": "",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。天国通宝为太平天国初期（约公元1851年—1853年）试铸钱币。制作流程为：先雕刻天国通宝阴文母范（含面文\"天国通宝\"四字，楷书），中央方孔设金属芯；合范浇铸熔融黄铜液，冷却脱范后逐枚修整。为太平天国最早的钱币形式之一，后改为\"圣宝\"制度，铸量极少，存世稀少。",
     "coreBackground": "* 天国通宝为太平天国初期试铸钱币，铸量极少\n* 为太平天国最早的钱币形式之一，后改为\"圣宝\"制度\n* 存世稀少\n* 据《中国钱币大辞典》记载，天国通宝为太平天国钱币中的珍稀品种",
+    "variants": "* **小平版**：面文楷书直读，光背",
+    "images": {
+      "main": "/images/coins/w-太平天国钱币/天国通宝/main.jpg",
+      "variants": []
+    },
     "variantsTable": [
       {
         "variant": "小平",
-        "description": "",
-        "grade": "美品",
+        "description": "面文楷书直读，光背，直径约2.4厘米，重约3—3.5克",
+        "grade": "八级（较多） 美品",
         "priceRange": "3000—10000元",
         "notes": ""
       },
       {
         "variant": "小平",
-        "description": "",
-        "grade": "极美品",
+        "description": "面文楷书直读，光背，直径约2.4厘米，重约3—3.5克",
+        "grade": "八级（较多） 极美品",
         "priceRange": "10000—20000元",
         "notes": ""
       }
-    ],
-    "images": {
-      "main": "/images/coins/w-太平天国钱币/天国通宝/main.jpg",
-      "variants": []
-    }
+    ]
   },
   "22-2": {
     "castingTime": "太平天国初期（约公元1851年—1853年）。",
@@ -275,26 +277,27 @@
     "reverseFeatures": "",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。天国圣宝为太平天国早期（约公元1851年—1853年）铸币。制作流程为：先雕刻天国圣宝阴文母范（含面文\"天国圣宝\"四字），中央方孔设金属芯；合范浇铸熔融黄铜液，冷却脱范后逐枚修整。\"圣宝\"体现了太平天国的拜上帝教宗教特色，存世量有限。",
     "coreBackground": "* 天国圣宝为太平天国早期铸币，采用\"圣宝\"命名\n* \"圣宝\"体现了太平天国的拜上帝教宗教特色\n* 据《中国钱币大辞典》记载，天国圣宝存世量有限",
+    "variants": "* **小平版**：面文\"天国圣宝\"",
+    "images": {
+      "main": "/images/coins/w-太平天国钱币/天国圣宝/main.jpg",
+      "variants": []
+    },
     "variantsTable": [
       {
         "variant": "小平",
-        "description": "",
-        "grade": "美品",
+        "description": "面文\"天国圣宝\"，直径约2.4厘米，重约3—3.5克",
+        "grade": "八级（较多） 美品",
         "priceRange": "1000—5000元",
         "notes": ""
       },
       {
         "variant": "小平",
-        "description": "",
-        "grade": "极美品",
+        "description": "面文\"天国圣宝\"，直径约2.4厘米，重约3—3.5克",
+        "grade": "八级（较多） 极美品",
         "priceRange": "5000—10000元",
         "notes": ""
       }
-    ],
-    "images": {
-      "main": "/images/coins/w-太平天国钱币/天国圣宝/main.jpg",
-      "variants": []
-    }
+    ]
   },
   "22-3": {
     "castingTime": "太平天国时期（约公元1853年—1864年）。",
@@ -304,26 +307,27 @@
     "reverseFeatures": "",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。太平圣宝为太平天国时期（约公元1853年—1864年）铸币。制作流程为：先雕刻太平圣宝阴文母范（含面文\"太平圣宝\"四字），中央方孔设金属芯；合范浇铸熔融黄铜液，冷却脱范后逐枚修整。太平天国钱币面文组合多样，\"太平圣宝\"为其中一种，存世量有限。",
     "coreBackground": "* 太平圣宝为太平天国铸币的另一种面文形式\n* 太平天国钱币面文组合多样，\"太平圣宝\"为其中一种\n* 据《中国钱币大辞典》记载，太平圣宝存世量有限",
+    "variants": "* **小平版**：面文\"太平圣宝\"",
+    "images": {
+      "main": "/images/coins/w-太平天国钱币/太平圣宝/main.jpg",
+      "variants": []
+    },
     "variantsTable": [
       {
         "variant": "小平",
-        "description": "",
-        "grade": "美品",
+        "description": "面文\"太平圣宝\"，直径约2.5厘米，重约3—4克",
+        "grade": "八级（较多） 美品",
         "priceRange": "1000—5000元",
         "notes": ""
       },
       {
         "variant": "小平",
-        "description": "",
-        "grade": "极美品",
+        "description": "面文\"太平圣宝\"，直径约2.5厘米，重约3—4克",
+        "grade": "八级（较多） 极美品",
         "priceRange": "5000—10000元",
         "notes": ""
       }
-    ],
-    "images": {
-      "main": "/images/coins/w-太平天国钱币/太平圣宝/main.jpg",
-      "variants": []
-    }
+    ]
   },
   "22-4": {
     "castingTime": "太平天国初期（约公元1851年—1853年）。",
@@ -333,26 +337,27 @@
     "reverseFeatures": "",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。天国背通宝为太平天国早期（约公元1851年—1853年）试铸币之一。制作流程为：先雕刻天国背通宝阴文母范（面文\"天国\"二字，背面\"通宝\"二字），中央方孔设金属芯；合范浇铸熔融黄铜液或青铜液，冷却脱范后逐枚修整。形制特殊，面文仅有\"天国\"二字，存世稀少。",
     "coreBackground": "* 为太平天国早期试铸币之一\n* 面文仅有\"天国\"二字，背面\"通宝\"，形制特殊\n* 存世稀少\n* 据《中国钱币大辞典》记载，天国背通宝为太平天国钱币中的稀少品种",
+    "variants": "仅见小平钱。",
+    "images": {
+      "main": "/images/coins/w-太平天国钱币/天国背通宝/main.jpg",
+      "variants": []
+    },
     "variantsTable": [
       {
         "variant": "小平",
-        "description": "",
-        "grade": "美品",
+        "description": "仅见小平钱，制式，直径约2.4厘米，重约3—4g",
+        "grade": "一级（孤品） 美品",
         "priceRange": "2000—10000元",
         "notes": ""
       },
       {
         "variant": "小平",
-        "description": "",
-        "grade": "极美品",
+        "description": "仅见小平钱，制式，直径约2.4厘米，重约3—4g",
+        "grade": "一级（孤品） 极美品",
         "priceRange": "10000—15000元",
         "notes": ""
       }
-    ],
-    "images": {
-      "main": "/images/coins/w-太平天国钱币/天国背通宝/main.jpg",
-      "variants": []
-    }
+    ]
   },
   "22-5": {
     "castingTime": "太平天国初期（约公元1851年—1853年）。",
@@ -362,26 +367,27 @@
     "reverseFeatures": "",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。天国背圣宝为太平天国早期（约公元1851年—1853年）铸币。制作流程为：先雕刻天国背圣宝阴文母范（面文\"天国\"二字，背面\"圣宝\"二字），中央方孔设金属芯；合范浇铸熔融黄铜液或青铜液，冷却脱范后逐枚修整。面文\"天国\"、背\"圣宝\"的组合体现了太平天国宗教特色，存世稀少。",
     "coreBackground": "* 为太平天国早期铸币\n* 面文\"天国\"、背\"圣宝\"的组合体现了太平天国宗教特色\n* 存世稀少\n* 据《中国钱币大辞典》记载，天国背圣宝为太平天国钱币中的稀少品种",
+    "variants": "仅见小平钱。",
+    "images": {
+      "main": "/images/coins/w-太平天国钱币/天国背圣宝/main.jpg",
+      "variants": []
+    },
     "variantsTable": [
       {
         "variant": "小平",
-        "description": "",
-        "grade": "美品",
+        "description": "仅见小平钱，制式，直径约2.4厘米，重约3—4g",
+        "grade": "一级（孤品） 美品",
         "priceRange": "2000—10000元",
         "notes": ""
       },
       {
         "variant": "小平",
-        "description": "",
-        "grade": "极美品",
+        "description": "仅见小平钱，制式，直径约2.4厘米，重约3—4g",
+        "grade": "一级（孤品） 极美品",
         "priceRange": "10000—15000元",
         "notes": ""
       }
-    ],
-    "images": {
-      "main": "/images/coins/w-太平天国钱币/天国背圣宝/main.jpg",
-      "variants": []
-    }
+    ]
   },
   "22-6": {
     "castingTime": "太平天国癸好三年（公元1853年）始铸。",
@@ -391,40 +397,41 @@
     "reverseFeatures": "",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。太平天国背圣宝为太平天国癸好三年（公元1853年）始铸的标准版式。制作流程为：先雕刻太平天国背圣宝阴文母范（含面文\"太平天国\"四字，宋体直读），中央方孔设金属芯；合范浇铸熔融黄铜液，冷却脱范后逐枚修整。铸工精整，铸于天京，铸量最大。",
     "coreBackground": "* 此为太平天国钱币中最为标准、铸量最大的版式\n* 面文\"太平天国\"、背文\"圣宝\"的组合是太平天国钱币的典型特征\n* 据《中国钱币大辞典》记载，太平天国背圣宝铸于天京",
+    "variants": "* **小平版**：面\"太平天国\"，背\"圣宝\"\n* **折五版**：较少见\n* **折十版**：背\"圣宝\"",
+    "images": {
+      "main": "/images/coins/w-太平天国钱币/太平天国背圣宝/main.jpg",
+      "variants": []
+    },
     "variantsTable": [
       {
         "variant": "小平",
-        "description": "",
-        "grade": "美品",
+        "description": "面\"太平天国\"，背\"圣宝\"，直径：约2.5厘米，重约3—4g",
+        "grade": "八级（较多） 美品",
         "priceRange": "200—500元",
         "notes": ""
       },
       {
         "variant": "小平",
-        "description": "",
-        "grade": "极美品",
+        "description": "面\"太平天国\"，背\"圣宝\"，直径：约2.5厘米，重约3—4g",
+        "grade": "八级（较多） 极美品",
         "priceRange": "500—1000元",
         "notes": ""
       },
       {
         "variant": "折五",
-        "description": "",
-        "grade": "美品",
+        "description": "较少见，直径约3.3—3.5cm，重约10—15g",
+        "grade": "七级（较少） 美品",
         "priceRange": "500—2000元",
         "notes": ""
       },
       {
         "variant": "折十",
-        "description": "",
-        "grade": "美品",
+        "description": "背\"圣宝\"，直径：约3.8厘米，重约15—25g",
+        "grade": "八级（较多） 美品",
         "priceRange": "500—2000元",
         "notes": ""
       }
-    ],
-    "images": {
-      "main": "/images/coins/w-太平天国钱币/太平天国背圣宝/main.jpg",
-      "variants": []
-    }
+    ]
   },
   "22-7": {
     "castingTime": "太平天国时期（公元1853年—1864年）。",
@@ -434,26 +441,27 @@
     "reverseFeatures": "",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。天国太平背圣宝为太平天国时期（公元1853年—1864年）铸币。制作流程为：先雕刻天国太平背圣宝阴文母范（含面文四字按上下右左顺序读为\"天国太平\"，背面\"圣宝\"），中央方孔设金属芯；合范浇铸熔融黄铜液，冷却脱范后逐枚修整。面文排列方式特殊，为太平天国钱币面文组合的变体，存世量有限。",
     "coreBackground": "* 面文排列方式特殊，上下右左读\n* 为太平天国钱币面文组合的变体\n* 据《中国钱币大辞典》记载，此版存世量有限",
+    "variants": "* **小平版**：面文上下右左读，背\"圣宝\"",
+    "images": {
+      "main": "/images/coins/w-太平天国钱币/天国太平背圣宝/main.jpg",
+      "variants": []
+    },
     "variantsTable": [
       {
         "variant": "小平",
-        "description": "",
-        "grade": "美品",
+        "description": "面文上下右左读，背\"圣宝\"，直径约2.5厘米，重约3—4g",
+        "grade": "八级（较多） 美品",
         "priceRange": "500—2000元",
         "notes": ""
       },
       {
         "variant": "小平",
-        "description": "",
-        "grade": "极美品",
+        "description": "面文上下右左读，背\"圣宝\"，直径约2.5厘米，重约3—4g",
+        "grade": "八级（较多） 极美品",
         "priceRange": "2000—5000元",
         "notes": ""
       }
-    ],
-    "images": {
-      "main": "/images/coins/w-太平天国钱币/天国太平背圣宝/main.jpg",
-      "variants": []
-    }
+    ]
   },
   "22-8": {
     "castingTime": "太平天国时期（公元1853年—1864年）。",
@@ -463,26 +471,27 @@
     "reverseFeatures": "",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。天国圣宝背太平为太平天国时期（公元1853年—1864年）铸币。制作流程为：先雕刻天国圣宝背太平阴文母范（含面文\"天国圣宝\"，背面\"太平\"），中央方孔设金属芯；合范浇铸熔融黄铜液，冷却脱范后逐枚修整。面文\"天国圣宝\"、背文\"太平\"的组合为太平天国钱币面文组合变体之一，存世量有限。",
     "coreBackground": "* 面文\"天国圣宝\"、背文\"太平\"的组合\n* 为太平天国钱币面文组合变体之一\n* 据《中国钱币大辞典》记载，此版存世量有限",
+    "variants": "* **小平版**：面\"天国圣宝\"，背\"太平\"",
+    "images": {
+      "main": "/images/coins/w-太平天国钱币/天国圣宝背太平/main.jpg",
+      "variants": []
+    },
     "variantsTable": [
       {
         "variant": "小平",
-        "description": "",
-        "grade": "美品",
+        "description": "面\"天国圣宝\"，背\"太平\"，直径约2.5厘米，重约3—4g",
+        "grade": "八级（较多） 美品",
         "priceRange": "500—2000元",
         "notes": ""
       },
       {
         "variant": "小平",
-        "description": "",
-        "grade": "极美品",
+        "description": "面\"天国圣宝\"，背\"太平\"，直径约2.5厘米，重约3—4g",
+        "grade": "八级（较多） 极美品",
         "priceRange": "2000—5000元",
         "notes": ""
       }
-    ],
-    "images": {
-      "main": "/images/coins/w-太平天国钱币/天国圣宝背太平/main.jpg",
-      "variants": []
-    }
+    ]
   },
   "22-9": {
     "castingTime": "太平天国时期（公元1853年—1864年）。",
@@ -492,26 +501,27 @@
     "reverseFeatures": "",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。太平圣宝背天国为太平天国时期（公元1853年—1864年）铸币。制作流程为：先雕刻太平圣宝背天国阴文母范（含面文\"太平圣宝\"，背面\"天国\"），中央方孔设金属芯；合范浇铸熔融黄铜液，冷却脱范后逐枚修整。面文\"太平圣宝\"、背文\"天国\"的组合为太平天国钱币面文组合变体之一，存世量有限。",
     "coreBackground": "* 面文\"太平圣宝\"、背文\"天国\"的组合\n* 为太平天国钱币面文组合变体之一\n* 据《中国钱币大辞典》记载，此版存世量有限",
+    "variants": "* **小平版**：面\"太平圣宝\"，背\"天国\"",
+    "images": {
+      "main": "/images/coins/w-太平天国钱币/太平圣宝背天国/main.jpg",
+      "variants": []
+    },
     "variantsTable": [
       {
         "variant": "小平",
-        "description": "",
-        "grade": "美品",
+        "description": "面\"太平圣宝\"，背\"天国\"，直径约2.5厘米，重约3—4g",
+        "grade": "八级（较多） 美品",
         "priceRange": "500—2000元",
         "notes": ""
       },
       {
         "variant": "小平",
-        "description": "",
-        "grade": "极美品",
+        "description": "面\"太平圣宝\"，背\"天国\"，直径约2.5厘米，重约3—4g",
+        "grade": "八级（较多） 极美品",
         "priceRange": "2000—5000元",
         "notes": ""
       }
-    ],
-    "images": {
-      "main": "/images/coins/w-太平天国钱币/太平圣宝背天国/main.jpg",
-      "variants": []
-    }
+    ]
   },
   "22-10": {
     "castingTime": "太平天国时期（公元1853年—1864年）。",
@@ -521,29 +531,7 @@
     "reverseFeatures": "",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。太平天国钱为太平天国后期铸行的大钱，当十型。制作流程为：先雕刻太平天国钱阴文母范（含面文\"太平天国\"四字，背面\"圣宝\"二字），中央方孔设金属芯；合范浇铸熔融黄铜液，冷却脱范后逐枚修整。大型厚重，铸量较少，为太平天国后期铸币。",
     "coreBackground": "* 太平天国大钱，当十型\n* 铸量较少，为太平天国后期铸币\n* 据《中国钱币大辞典》记载，太平天国大钱存世量有限",
-    "variantsTable": [
-      {
-        "variant": "当十",
-        "description": "",
-        "grade": "美品",
-        "priceRange": "500—3000元",
-        "notes": ""
-      },
-      {
-        "variant": "当十",
-        "description": "",
-        "grade": "极美品",
-        "priceRange": "3000—5000元",
-        "notes": ""
-      },
-      {
-        "variant": "当五十",
-        "description": "",
-        "grade": "美品",
-        "priceRange": "5000—10000元",
-        "notes": "珍罕"
-      }
-    ],
+    "variants": "* **当十版**：面\"太平天国\"，背\"圣宝\"\n* **当五十版**：珍罕",
     "images": {
       "main": "/images/coins/w-太平天国钱币/太平天国钱/main.jpg",
       "variants": [
@@ -558,6 +546,29 @@
           "label": "当五十版"
         }
       ]
-    }
+    },
+    "variantsTable": [
+      {
+        "variant": "当十",
+        "description": "面\"太平天国\"，背\"圣宝\"，直径约3.8—4.0厘米，重约15—20克",
+        "grade": "八级（较多） 美品",
+        "priceRange": "500—3000元",
+        "notes": ""
+      },
+      {
+        "variant": "当十",
+        "description": "面\"太平天国\"，背\"圣宝\"，直径约3.8—4.0厘米，重约15—20克",
+        "grade": "八级（较多） 极美品",
+        "priceRange": "3000—5000元",
+        "notes": ""
+      },
+      {
+        "variant": "当五十",
+        "description": "珍罕，直径约5.0—5.5cm，重约30—50g",
+        "grade": "八级（较多） 美品",
+        "priceRange": "5000—10000元",
+        "notes": "珍罕"
+      }
+    ]
   }
 }
