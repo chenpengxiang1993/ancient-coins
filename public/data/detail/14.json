@@ -4,19 +4,20 @@
     "material": "青铜（铜、锡、铅合金），铜含量约60%—70%，锡含量约5%—10%，铅含量约15%—25%。金代铜钱铸工较精。出土后表面多呈青绿色锈蚀，原始铸造色泽为金黄色。",
     "dimensions": "直径约2.4厘米，单枚重量约3.5克。",
     "obverseFeatures": "面文\"天辅元宝\"，四字旋读，楷书，背面光素无文。",
+    "reverseFeatures": "",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。天辅元宝为金太祖完颜阿骨打天辅年间（公元1117年—1123年）铸行，为金朝最早铸币。制作流程为：先雕刻天辅元宝阴文母范（含面文\"天辅元宝\"四字，楷书），中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。金初铸币技术尚在初创阶段，铸量极少，存世极罕。",
     "coreBackground": "天辅元宝为金最早铸币，存世极罕。马定祥十级制定为三级（罕贵）。",
-    "variants": "仅见小平钱。",
-    "valueReference": "",
-    "valueTable": [
+    "variantsTable": [
       {
         "variant": "小平钱",
+        "description": "",
         "grade": "美品",
         "priceRange": "30000—80000元",
         "notes": "存世极罕"
       },
       {
         "variant": "小平钱",
+        "description": "",
         "grade": "极美品",
         "priceRange": "80000—150000元",
         "notes": ""
@@ -32,19 +33,20 @@
     "material": "青铜（铜、锡、铅合金），铜含量约60%—70%，锡含量约5%—10%，铅含量约15%—25%。金代铜钱铸工较精。出土后表面多呈青绿色锈蚀，原始铸造色泽为金黄色。",
     "dimensions": "直径约2.4厘米，单枚重量约3.5克。",
     "obverseFeatures": "面文\"天眷通宝\"，四字对读，楷书，背面光素无文。",
+    "reverseFeatures": "",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。天眷通宝为金熙宗完颜亶天眷年间（公元1138年—1140年）铸行。制作流程为：先雕刻天眷通宝阴文母范（含面文\"天眷通宝\"四字，楷书），中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。金代铜钱铸工较精，但天眷年间铸量稀少。",
     "coreBackground": "天眷通宝存世稀少，为金早期铸币。",
-    "variants": "仅见小平钱。",
-    "valueReference": "",
-    "valueTable": [
+    "variantsTable": [
       {
         "variant": "小平钱",
+        "description": "",
         "grade": "美品",
         "priceRange": "5000—15000元",
         "notes": ""
       },
       {
         "variant": "小平钱",
+        "description": "",
         "grade": "极美品",
         "priceRange": "15000—30000元",
         "notes": ""
@@ -60,19 +62,20 @@
     "material": "青铜（铜、锡、铅合金），铜含量约60%—70%，锡含量约5%—10%，铅含量约15%—25%。金代铜钱铸工较精。出土后表面多呈青绿色锈蚀，原始铸造色泽为金黄色。",
     "dimensions": "直径约2.4厘米，单枚重量约3.5克。",
     "obverseFeatures": "面文\"天眷元宝\"，四字旋读，楷书，背面光素无文。",
+    "reverseFeatures": "",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。天眷元宝为金熙宗完颜亶天眷年间（公元1138年—1140年）铸行，与天眷通宝并行。制作流程为：先雕刻天眷元宝阴文母范（含面文\"天眷元宝\"四字，楷书），中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。金代铜钱铸工较精，存世稀少。",
     "coreBackground": "天眷元宝与天眷通宝并行，存世稀少。",
-    "variants": "仅见小平钱。",
-    "valueReference": "",
-    "valueTable": [
+    "variantsTable": [
       {
         "variant": "小平钱",
+        "description": "",
         "grade": "美品",
         "priceRange": "5000—15000元",
         "notes": ""
       },
       {
         "variant": "小平钱",
+        "description": "",
         "grade": "极美品",
         "priceRange": "15000—30000元",
         "notes": ""
@@ -88,19 +91,20 @@
     "material": "青铜（铜、锡、铅合金），铜含量约60%—70%，锡含量约5%—10%，铅含量约15%—25%。金代铜钱铸工较精。出土后表面多呈青绿色锈蚀，原始铸造色泽为金黄色。",
     "dimensions": "直径约3.0厘米（折三型），单枚重量约6—8克。",
     "obverseFeatures": "面文\"天眷重宝\"，四字对读，楷书，折三型，背面光素无文。",
+    "reverseFeatures": "",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。天眷重宝为金熙宗完颜亶天眷年间（公元1138年—1140年）铸行，为折三型大钱。制作流程为：先雕刻天眷重宝阴文母范（含面文\"天眷重宝\"四字，楷书，折三型），中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。金代铜钱铸工较精，折三型铸量更少。",
     "coreBackground": "天眷重宝为折三型，存世稀少。",
-    "variants": "仅见折三型。",
-    "valueReference": "",
-    "valueTable": [
+    "variantsTable": [
       {
         "variant": "折三型",
+        "description": "",
         "grade": "美品",
         "priceRange": "5000—15000元",
         "notes": ""
       },
       {
         "variant": "折三型",
+        "description": "",
         "grade": "极美品",
         "priceRange": "15000—30000元",
         "notes": ""
@@ -116,19 +120,20 @@
     "material": "青铜（铜、锡、铅合金），铜含量约60%—70%，锡含量约5%—10%，铅含量约15%—25%。金代铜钱铸工较精。出土后表面多呈青绿色锈蚀，原始铸造色泽为金黄色。",
     "dimensions": "直径约2.4厘米，单枚重量约3.5克。",
     "obverseFeatures": "面文\"皇统元宝\"，四字旋读，楷书，背面光素无文。",
+    "reverseFeatures": "",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。皇统元宝为金熙宗完颜亶皇统年间（公元1141年—1149年）铸行。制作流程为：先雕刻皇统元宝阴文母范（含面文\"皇统元宝\"四字，楷书），中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。金代铜钱铸工较精，存世稀少。",
     "coreBackground": "皇统元宝存世稀少。",
-    "variants": "仅见小平钱。",
-    "valueReference": "",
-    "valueTable": [
+    "variantsTable": [
       {
         "variant": "小平钱",
+        "description": "",
         "grade": "美品",
         "priceRange": "5000—15000元",
         "notes": ""
       },
       {
         "variant": "小平钱",
+        "description": "",
         "grade": "极美品",
         "priceRange": "15000—30000元",
         "notes": ""
@@ -155,19 +160,20 @@
     "material": "青铜（铜、锡、铅合金），铜含量约60%—70%，锡含量约5%—10%，铅含量约15%—25%。金代铜钱铸工较精。出土后表面多呈青绿色锈蚀，原始铸造色泽为金黄色。",
     "dimensions": "直径约2.4厘米，单枚重量约3.5克。",
     "obverseFeatures": "面文\"皇统通宝\"，四字对读，楷书，背面光素无文。",
+    "reverseFeatures": "",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。皇统通宝为金熙宗完颜亶皇统年间（公元1141年—1149年）铸行，与皇统元宝并行。制作流程为：先雕刻皇统通宝阴文母范（含面文\"皇统通宝\"四字，楷书），中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。金代铜钱铸工较精，存世稀少。",
     "coreBackground": "皇统通宝与皇统元宝并行，存世稀少。",
-    "variants": "仅见小平钱。",
-    "valueReference": "",
-    "valueTable": [
+    "variantsTable": [
       {
         "variant": "小平钱",
+        "description": "",
         "grade": "美品",
         "priceRange": "5000—15000元",
         "notes": ""
       },
       {
         "variant": "小平钱",
+        "description": "",
         "grade": "极美品",
         "priceRange": "15000—30000元",
         "notes": ""
@@ -183,31 +189,34 @@
     "material": "青铜（铜、锡、铅合金），铜含量约60%—70%，锡含量约5%—10%，铅含量约15%—25%。金代铜钱铸工较精。出土后表面多呈青绿色锈蚀，原始铸造色泽为金黄色。",
     "dimensions": "* 直径：约2.4—2.5厘米\n* 单枚重量：约3.5—4.0克",
     "obverseFeatures": "* 面文\"正隆元宝\"，四字旋读，楷书\n* 铸工精整\n* 背面光素无文",
+    "reverseFeatures": "",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。正隆元宝为金海陵王完颜亮正隆年间（公元1156年—1161年）铸行，为金朝铸量最大的钱币。制作流程为：先雕刻正隆元宝阴文母范（含面文\"正隆元宝\"四字，楷书），中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。铸工精整，为金代钱币中较为常见的品种。",
     "coreBackground": "* 正隆元宝为金朝铸量最大的钱币，马定祥十级制定为八级（少）\n* 海陵王完颜亮是金朝积极汉化的君主，正隆年间推行汉制，铸行铜钱\n* 正隆元宝铸工较精，为金代钱币中较为常见的品种",
-    "variants": "* **普通版**：最为常见\n* **大字版**：面文字体较大\n* **五笔\"正\"版**：\"正\"字五笔，较少见",
-    "valueReference": "",
-    "valueTable": [
+    "variantsTable": [
       {
         "variant": "普通版",
+        "description": "",
         "grade": "普品",
         "priceRange": "20—50元",
         "notes": "金代较常见者"
       },
       {
         "variant": "普通版",
+        "description": "",
         "grade": "美品",
         "priceRange": "50—200元",
         "notes": ""
       },
       {
         "variant": "五笔\"正\"",
+        "description": "",
         "grade": "美品",
         "priceRange": "200—500元",
         "notes": "较少见"
       },
       {
         "variant": "大字版",
+        "description": "",
         "grade": "美品",
         "priceRange": "50—150元",
         "notes": "文字较大"
@@ -234,163 +243,188 @@
     "material": "青铜（铜、锡、铅合金），铜含量约60%—70%，锡含量约5%—10%，铅含量约15%—25%。金代铜钱铸工较精。出土后表面多呈青绿色锈蚀，原始铸造色泽为金黄色。",
     "dimensions": "* 直径：约2.5厘米\n* 单枚重量：约3.5—4.0克",
     "obverseFeatures": "* 面文\"大定通宝\"，四字对读，楷书\n* 铸工极精，文字规整，仿宋徽宗瘦金体风格\n* 背面有光背、背\"申\"、背\"酉\"（纪年）",
+    "reverseFeatures": "",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。大定通宝为金世宗完颜雍大定年间（公元1161年—1189年）铸行，为金代铸工最精的钱币。制作流程为：先雕刻大定通宝阴文母范（含面文\"大定通宝\"四字，楷书，仿宋徽宗瘦金体风格），中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。铸工极精，文字规整，背面有光背及纪年（背\"申\"、背\"酉\"）两种。另有铁母、白铜版等特殊铸造品种。",
     "coreBackground": "* 大定通宝为金代铸工最精的钱币，世宗被誉为\"小尧舜\"，大定年间政治清明\n* 铸工之精可与北宋大观通宝媲美，为金代钱币中的精品\n* 马定祥十级制定为八级（少）",
-    "variants": "* **按背面文字分**：据《中国钱币大辞典》记载，大定通宝背面有光背和纪年两种\n* **光背版**：背面无文。面文\"大定通宝\"笔画规整端庄，\"大\"字撇捺舒展，\"定\"字\"宀\"部宽大，\"通\"字\"辶\"部舒展，\"宝\"字\"贝\"部方正。为最常见的版式\n* **背\"申\"版**：背面穿下铸\"申\"字，笔画端正清晰（大定二十八年，戊申年，公元1188年铸）\n* **背\"酉\"版**：背面穿下铸\"酉\"字，笔画端正清晰（大定二十九年，己酉年，公元1189年铸）\n* **按面文风格分**：\n* **大字版**：面文\"大定通宝\"字体较大，笔画粗壮，字口深峻。较少见\n* **小字版**：面文字体较小\n* **阔缘版**：外缘较宽\n* **窄缘版**：外缘较窄\n* **瘦金体版**：面文仿宋徽宗瘦金体风格，笔画纤细挺拔\n* **特殊版别**：\n* **铁母**：铁钱的母钱，铜质精良，极为珍贵\n* **白铜版**：白铜铸造，铜色银白，较为少见\n* **母钱**：铸工精整，字口深峻",
-    "valueReference": "",
-    "valueTable": [
+    "variantsTable": [
       {
         "variant": "光背版",
+        "description": "",
         "grade": "",
         "priceRange": "",
         "notes": ""
       },
       {
         "variant": "光背",
+        "description": "",
         "grade": "普品",
         "priceRange": "30—80元",
         "notes": "金代精品"
       },
       {
         "variant": "光背",
+        "description": "",
         "grade": "美品",
         "priceRange": "80—300元",
         "notes": ""
       },
       {
         "variant": "光背",
+        "description": "",
         "grade": "极美品",
         "priceRange": "300—600元",
         "notes": ""
       },
       {
         "variant": "大字版",
+        "description": "",
         "grade": "美品",
         "priceRange": "200—500元",
         "notes": ""
       },
       {
         "variant": "瘦金体版",
+        "description": "",
         "grade": "美品",
         "priceRange": "200—500元",
         "notes": ""
       },
       {
         "variant": "背纪年",
+        "description": "",
         "grade": "",
         "priceRange": "",
         "notes": ""
       },
       {
         "variant": "背\"申\"",
+        "description": "",
         "grade": "美品",
         "priceRange": "200—500元",
         "notes": "纪年"
       },
       {
         "variant": "背\"申\"",
+        "description": "",
         "grade": "极美品",
         "priceRange": "500—1000元",
         "notes": ""
       },
       {
         "variant": "背\"酉\"",
+        "description": "",
         "grade": "美品",
         "priceRange": "200—500元",
         "notes": "纪年"
       },
       {
         "variant": "背\"酉\"",
+        "description": "",
         "grade": "极美品",
         "priceRange": "500—1000元",
         "notes": ""
       },
       {
         "variant": "特殊版别",
+        "description": "",
         "grade": "",
         "priceRange": "",
         "notes": ""
       },
       {
         "variant": "白铜版",
+        "description": "",
         "grade": "美品",
         "priceRange": "500—1500元",
         "notes": "较少见"
       },
       {
         "variant": "铁母",
+        "description": "",
         "grade": "美品以上",
         "priceRange": "5000—15000元",
         "notes": "极珍贵"
       },
       {
         "variant": "母钱",
+        "description": "",
         "grade": "美品以上",
         "priceRange": "5000—15000元",
         "notes": "存世极少"
       },
       {
         "variant": "光背版",
+        "description": "",
         "grade": "普品",
         "priceRange": "50—150元",
         "notes": "十级（多泛）"
       },
       {
         "variant": "背纪年",
+        "description": "",
         "grade": "美品",
         "priceRange": "200—800元",
         "notes": "八级（较多）"
       },
       {
         "variant": "小字版",
+        "description": "",
         "grade": "普品",
         "priceRange": "50—100元",
         "notes": "文字较小"
       },
       {
         "variant": "阔缘版",
+        "description": "",
         "grade": "美品",
         "priceRange": "100—300元",
         "notes": "边缘较宽"
       },
       {
         "variant": "窄缘版",
+        "description": "",
         "grade": "美品",
         "priceRange": "50—150元",
         "notes": "边缘较窄"
       },
       {
         "variant": "按背面文字分",
+        "description": "",
         "grade": "美品",
         "priceRange": "100—300元",
         "notes": "按背面文字区分"
       },
       {
         "variant": "按面文风格分",
+        "description": "",
         "grade": "美品",
         "priceRange": "50—150元",
         "notes": "按面文风格区分"
       },
       {
         "variant": "特殊版别",
+        "description": "",
         "grade": "美品",
         "priceRange": "1,000—5,000元",
         "notes": "八级（较多）"
       },
       {
         "variant": "母钱",
+        "description": "",
         "grade": "美品",
         "priceRange": "10,000—50,000元",
         "notes": "八级（较多）"
       },
       {
         "variant": "母钱",
+        "description": "",
         "grade": "极美品",
         "priceRange": "1,000—3,000元",
         "notes": "铸母，较少见"
       },
       {
         "variant": "特殊版别",
+        "description": "",
         "grade": "极美品",
         "priceRange": "500—2,000元",
         "notes": "特殊版别，较少见"
@@ -417,25 +451,27 @@
     "material": "青铜（铜、锡、铅合金），铜含量约60%—70%，锡含量约5%—10%，铅含量约15%—25%。金代铜钱铸工较精。出土后表面多呈青绿色锈蚀，原始铸造色泽为金黄色。",
     "dimensions": "直径约2.4厘米（小平钱），单枚重量约3.5克。",
     "obverseFeatures": "面文\"泰和通宝\"，四字对读，楷书，铸工精整，背面光素无文。",
+    "reverseFeatures": "",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。泰和通宝为金章宗完颜璟泰和年间（公元1201年—1208年）铸行。制作流程为：先雕刻泰和通宝阴文母范（含面文\"泰和通宝\"四字，楷书），中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。铸工精整。",
     "coreBackground": "泰和通宝铸工精整，马定祥十级制定为八级（少）。",
-    "variants": "仅见小平钱。",
-    "valueReference": "",
-    "valueTable": [
+    "variantsTable": [
       {
         "variant": "小平钱",
+        "description": "",
         "grade": "普品",
         "priceRange": "50—200元",
         "notes": ""
       },
       {
         "variant": "小平钱",
+        "description": "",
         "grade": "美品",
         "priceRange": "200—500元",
         "notes": ""
       },
       {
         "variant": "小平钱",
+        "description": "",
         "grade": "极美品",
         "priceRange": "500—1000元",
         "notes": ""
@@ -467,31 +503,34 @@
     "material": "青铜（铜、锡、铅合金），铜含量约60%—70%，锡含量约5%—10%，铅含量约15%—25%。金代铜钱铸工较精。出土后表面多呈青绿色锈蚀，原始铸造色泽为金黄色。",
     "dimensions": "* 直径：约4.5厘米（当十大钱）\n* 厚度：约0.25厘米\n* 单枚重量：约12—15克",
     "obverseFeatures": "* 面文\"泰和重宝\"，四字对读，玉箸篆（篆书笔画圆润如玉箸）\n* 当十大钱，钱体硕大\n* 铸工极精\n* 背面光素无文",
+    "reverseFeatures": "",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。泰和重宝为金章宗完颜璟泰和四年（公元1204年）铸行，为金代著名当十大钱。制作流程为：先雕刻泰和重宝阴文母范（含面文\"泰和重宝\"四字，玉箸篆书体，笔画圆润如玉箸），中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。铸工极精，钱体硕大，代表了金代铸币的最高水平。",
     "coreBackground": "* 泰和重宝为金代著名大钱，面文为精美的玉箸篆书体\n* 章宗时期是金朝文化最鼎盛的时期，泰和重宝的铸工代表了金代铸币的最高水平\n* 马定祥十级制定为七级（甚少）",
-    "variants": "* **当十大钱**：最为常见\n* **折三型**：较少见",
-    "valueReference": "",
-    "valueTable": [
+    "variantsTable": [
       {
         "variant": "当十大钱",
+        "description": "",
         "grade": "普品",
         "priceRange": "100—300元",
         "notes": "玉箸篆名品"
       },
       {
         "variant": "当十大钱",
+        "description": "",
         "grade": "美品",
         "priceRange": "300—800元",
         "notes": ""
       },
       {
         "variant": "当十大钱",
+        "description": "",
         "grade": "极美品",
         "priceRange": "800—3000元",
         "notes": ""
       },
       {
         "variant": "折三型",
+        "description": "",
         "grade": "美品",
         "priceRange": "500—1,500元",
         "notes": "折三型，较少见"
@@ -518,19 +557,20 @@
     "material": "青铜（铜、锡、铅合金），铜含量约60%—70%，锡含量约5%—10%，铅含量约15%—25%。金代铜钱铸工较精。出土后表面多呈青绿色锈蚀，原始铸造色泽为金黄色。",
     "dimensions": "直径约2.4厘米（小平钱），单枚重量约3.5克。",
     "obverseFeatures": "面文\"崇庆通宝\"，四字对读，楷书，背面光素无文。",
+    "reverseFeatures": "",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。崇庆通宝为金卫绍王完颜永济崇庆年间（公元1212年）铸行。制作流程为：先雕刻崇庆通宝阴文母范（含面文\"崇庆通宝\"四字，楷书），中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。崇庆年号仅一年，铸量稀少。",
     "coreBackground": "崇庆年号仅一年，铸量稀少。",
-    "variants": "仅见小平钱。",
-    "valueReference": "",
-    "valueTable": [
+    "variantsTable": [
       {
         "variant": "小平钱",
+        "description": "",
         "grade": "美品",
         "priceRange": "2000—5000元",
         "notes": ""
       },
       {
         "variant": "小平钱",
+        "description": "",
         "grade": "极美品",
         "priceRange": "5000—10000元",
         "notes": ""
@@ -562,19 +602,20 @@
     "material": "青铜（铜、锡、铅合金），铜含量约60%—70%，锡含量约5%—10%，铅含量约15%—25%。金代铜钱铸工较精。出土后表面多呈青绿色锈蚀，原始铸造色泽为金黄色。",
     "dimensions": "直径约2.4厘米（小平钱），单枚重量约3.5克。",
     "obverseFeatures": "面文\"崇庆元宝\"，四字旋读，楷书，背面光素无文。",
+    "reverseFeatures": "",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。崇庆元宝为金卫绍王完颜永济崇庆年间（公元1212年）铸行，与崇庆通宝并行。制作流程为：先雕刻崇庆元宝阴文母范（含面文\"崇庆元宝\"四字，楷书），中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。崇庆年号仅一年，较崇庆通宝更少，极罕见。",
     "coreBackground": "崇庆元宝较崇庆通宝少，极罕见。马定祥十级制定为四级（罕）。",
-    "variants": "仅见小平钱。",
-    "valueReference": "",
-    "valueTable": [
+    "variantsTable": [
       {
         "variant": "小平钱",
+        "description": "",
         "grade": "美品",
         "priceRange": "30000—60000元",
         "notes": "极罕见"
       },
       {
         "variant": "小平钱",
+        "description": "",
         "grade": "极美品",
         "priceRange": "60000—100000元",
         "notes": ""
@@ -606,19 +647,20 @@
     "material": "青铜（铜、锡、铅合金），铜含量约60%—70%，锡含量约5%—10%，铅含量约15%—25%。金代铜钱铸工较精。出土后表面多呈青绿色锈蚀，原始铸造色泽为金黄色。",
     "dimensions": "直径约2.4厘米（小平钱），单枚重量约3.5克。",
     "obverseFeatures": "面文\"至宁元宝\"，四字旋读，楷书，背面光素无文。",
+    "reverseFeatures": "",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。至宁元宝为金卫绍王完颜永济至宁元年（公元1213年）铸行。制作流程为：先雕刻至宁元宝阴文母范（含面文\"至宁元宝\"四字，楷书），中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。至宁年号仅数月即改元，铸量极少。",
     "coreBackground": "至宁年号仅数月即改元，铸量极少。马定祥十级制定为四级（罕）。",
-    "variants": "仅见小平钱。",
-    "valueReference": "",
-    "valueTable": [
+    "variantsTable": [
       {
         "variant": "小平钱",
+        "description": "",
         "grade": "美品",
         "priceRange": "3000—10000元",
         "notes": "年号仅数月"
       },
       {
         "variant": "小平钱",
+        "description": "",
         "grade": "极美品",
         "priceRange": "10000—20000元",
         "notes": ""
@@ -645,25 +687,27 @@
     "material": "青铜（铜、锡、铅合金），铜含量约60%—70%，锡含量约5%—10%，铅含量约15%—25%。金代铜钱铸工较精。出土后表面多呈青绿色锈蚀，原始铸造色泽为金黄色。",
     "dimensions": "直径约2.4厘米（小平钱），单枚重量约3.5克。",
     "obverseFeatures": "面文\"贞祐通宝\"，四字对读，楷书，背面光素无文。",
+    "reverseFeatures": "",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。贞祐通宝为金宣宗完颜珣贞祐年间（公元1213年—1217年）铸行。制作流程为：先雕刻贞祐通宝阴文母范（含面文\"贞祐通宝\"四字，楷书），中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。贞祐年间蒙古大举南侵，金朝被迫迁都，铸量有限。",
     "coreBackground": "* 贞祐年间蒙古大举南侵，金朝被迫迁都开封（贞祐南迁）\n* 贞祐通宝铸量有限，马定祥十级制定为五级（稀贵）",
-    "variants": "仅见小平钱。",
-    "valueReference": "",
-    "valueTable": [
+    "variantsTable": [
       {
         "variant": "小平钱",
+        "description": "",
         "grade": "普品",
         "priceRange": "10000—20000元",
         "notes": ""
       },
       {
         "variant": "小平钱",
+        "description": "",
         "grade": "美品",
         "priceRange": "20000—35000元",
         "notes": ""
       },
       {
         "variant": "小平钱",
+        "description": "",
         "grade": "极美品",
         "priceRange": "35000—50000元",
         "notes": ""
@@ -695,19 +739,20 @@
     "material": "青铜（铜、锡、铅合金），铜含量约60%—70%，锡含量约5%—10%，铅含量约15%—25%。金代铜钱铸工较精。出土后表面多呈青绿色锈蚀，原始铸造色泽为金黄色。",
     "dimensions": "直径约2.4厘米（小平钱），单枚重量约3.5克。",
     "obverseFeatures": "面文\"贞祐元宝\"，四字旋读，楷书，背面光素无文。",
+    "reverseFeatures": "",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。贞祐元宝为金宣宗完颜珣贞祐年间（公元1213年—1217年）铸行，与贞祐通宝并行。制作流程为：先雕刻贞祐元宝阴文母范（含面文\"贞祐元宝\"四字，楷书），中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。贞祐年间金朝国势危急，较贞祐通宝更少。",
     "coreBackground": "贞祐元宝较贞祐通宝少，存世稀少。",
-    "variants": "仅见小平钱。",
-    "valueReference": "",
-    "valueTable": [
+    "variantsTable": [
       {
         "variant": "小平钱",
+        "description": "",
         "grade": "美品",
         "priceRange": "3000—10000元",
         "notes": ""
       },
       {
         "variant": "小平钱",
+        "description": "",
         "grade": "极美品",
         "priceRange": "10000—20000元",
         "notes": ""

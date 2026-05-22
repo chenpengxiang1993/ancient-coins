@@ -4,61 +4,69 @@
     "material": "青铜（铜、锡、铅合金），铜含量约60%—70%，锡含量约5%—10%，铅含量约15%—20%。元末明初铸币，铜质尚可。出土后表面多呈青绿色锈蚀，原始铸造色泽为金黄色。",
     "dimensions": "* 小平直径：约2.4厘米，单枚重量约3.5克\n* 折二直径：约2.8厘米\n* 折三直径：约3.1厘米\n* 折五直径：约3.5厘米\n* 当十直径：约4.5厘米",
     "obverseFeatures": "* 圆形方孔\n* 面文\"大中通宝\"四字楷书，对读\n* 背面有纪地（如\"京\"\"浙\"\"福\"\"广\"\"鄂\"\"豫\"\"桂\"\"北平\"）和纪值（如\"十\"）多种\n* 小平钱光背或背纪地\n* 铸工较精",
+    "reverseFeatures": "",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。大中通宝为朱元璋建立明朝前后铸行。制作流程为：先雕刻大中通宝阴文母范（含面文\"大中通宝\"四字，楷书），中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。铸工较精，背面有纪地和纪值多种，纪地纪值制度奠定了洪武通宝的基础。",
     "coreBackground": "* 朱元璋在建立明朝之前即已铸行大中通宝，建立明朝后继续铸行\n* 大中通宝的纪地纪值制度奠定了洪武通宝的基础\n* 据《中国钱币大辞典》记载，大中通宝是元末明初最重要的过渡性铸币",
-    "variants": "* **小平光背版**：背面无文\n* **小平背纪地版**：背铸\"京\"\"浙\"\"福\"\"广\"\"鄂\"\"豫\"\"桂\"\"北平\"纪地文字\n* **折二版**：背纪地纪值\n* **折三版**：背纪地纪值\n* **折五版**：背纪地纪值\n* **当十版**：背纪地纪值，直径约4.5厘米",
-    "valueReference": "",
-    "valueTable": [
+    "variantsTable": [
       {
         "variant": "小平光背",
+        "description": "",
         "grade": "普品",
         "priceRange": "20—50元",
         "notes": ""
       },
       {
         "variant": "小平光背",
+        "description": "",
         "grade": "美品",
         "priceRange": "50—150元",
         "notes": ""
       },
       {
         "variant": "小平光背",
+        "description": "",
         "grade": "极美品",
         "priceRange": "150—300元",
         "notes": ""
       },
       {
         "variant": "小平背纪地（常见）",
+        "description": "",
         "grade": "美品",
         "priceRange": "100—300元",
         "notes": ""
       },
       {
         "variant": "小平背纪地（少见）",
+        "description": "",
         "grade": "美品",
         "priceRange": "200—500元",
         "notes": ""
       },
       {
         "variant": "折二",
+        "description": "",
         "grade": "美品",
         "priceRange": "200—500元",
         "notes": ""
       },
       {
         "variant": "折三",
+        "description": "",
         "grade": "美品",
         "priceRange": "300—800元",
         "notes": ""
       },
       {
         "variant": "折五",
+        "description": "",
         "grade": "美品",
         "priceRange": "500—1500元",
         "notes": ""
       },
       {
         "variant": "当十",
+        "description": "",
         "grade": "美品",
         "priceRange": "1000—3000元",
         "notes": ""
@@ -85,61 +93,69 @@
     "material": "青铜（铜、锡、铅合金），铜含量约60%—70%，锡含量约5%—10%，铅含量约15%—20%。明初铸币铜质精良，标准化程度高。出土后表面多呈青绿色锈蚀，原始铸造色泽为金黄色。",
     "dimensions": "* 小平钱直径：2.4—2.5厘米，单枚重3.5—4克\n* 折二钱直径：约2.8厘米\n* 折三钱直径：约3.1厘米\n* 折五钱直径：约3.8厘米\n* 折十钱直径：4.4—4.5厘米，单枚重20—25克",
     "obverseFeatures": "* 圆形方孔，内外郭规整\n* 面文\"洪武通宝\"四字楷书，对读，笔画端庄有力\n* 背面纪地、纪值\n* 分为小平、折二、折三、折五、折十五等制\n* 纪地版共九种铸局：京（应天府，今南京）、北平（北平行省）、鄂（湖北省）、浙（浙江省）、济（山东省）、桂（广西省）、福（福建省）、豫（河南省）、广（广东省），各有小平、折二、当三、当五、当十五等\n* 青铜质，铸工精良，标准化程度高",
+    "reverseFeatures": "",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。洪武通宝为明太祖朱元璋洪武年间（公元1368年—1398年）铸行，为明代开国钱币。制作流程为：先雕刻洪武通宝阴文母范（含面文\"洪武通宝\"四字，楷书），中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。铜质精良，铸工精良，标准化程度高。设铸局于各省，实行严格的纪地纪值制度，共九局（京、北平、鄂、浙、济、桂、福、豫、广），各有五等面值。",
     "coreBackground": "* 明代开国钱币，确立了明代制钱的基本形制与五等钱制\n* 是明代铸行时间最长、版别最丰富的钱币之一\n* 奠定了明代三百年的铸币制度基础\n* 据《中国钱币大辞典》记载，洪武通宝设铸局于各省，实行严格的纪地纪值制度",
-    "variants": "* **小平光背版**：背面无文\n* **小平背纪重版**：背铸\"一钱\"等纪重文字\n* **折二背纪重版**：背铸\"二钱\"\n* **折三背纪重版**：背铸\"三钱\"\n* **折五背纪重版**：背铸\"五钱\"\n* **折十背纪重版**：背铸\"十两\"或纪地\n* **纪地版系列**：背铸各省铸局名称，共九局（京、北平、鄂、浙、济、桂、福、豫、广），各有五等面值。其中背桂小平钱有穿上桂和穿上下\"桂一\"两种。据《武陵藏珍》记载，洪武通宝钱有四类六十一种，纪地版实共四十六种",
-    "valueReference": "",
-    "valueTable": [
+    "variantsTable": [
       {
         "variant": "小平光背",
+        "description": "",
         "grade": "普品",
         "priceRange": "20—50元",
         "notes": ""
       },
       {
         "variant": "小平光背",
+        "description": "",
         "grade": "美品",
         "priceRange": "50—150元",
         "notes": ""
       },
       {
         "variant": "小平光背",
+        "description": "",
         "grade": "极美品",
         "priceRange": "150—300元",
         "notes": ""
       },
       {
         "variant": "小平背纪重",
+        "description": "",
         "grade": "美品",
         "priceRange": "100—300元",
         "notes": ""
       },
       {
         "variant": "折二",
+        "description": "",
         "grade": "美品",
         "priceRange": "100—300元",
         "notes": ""
       },
       {
         "variant": "折三",
+        "description": "",
         "grade": "美品",
         "priceRange": "150—400元",
         "notes": ""
       },
       {
         "variant": "折五",
+        "description": "",
         "grade": "美品",
         "priceRange": "300—800元",
         "notes": ""
       },
       {
         "variant": "折十",
+        "description": "",
         "grade": "美品",
         "priceRange": "500—2000元",
         "notes": "纪地版较高"
       },
       {
         "variant": "纪地版系列",
+        "description": "",
         "grade": "美品",
         "priceRange": "100—500元",
         "notes": "背铸地名，各局价格差异大"
@@ -171,19 +187,20 @@
     "material": "青铜（铜、锡、铅合金），铜含量约60%—70%，锡含量约5%—10%，铅含量约15%—20%。洪熙年间明朝尚未采用黄铜铸币，仍以传统青铜铸造。出土后表面多呈青绿色锈蚀，原始铸造色泽为金黄色。",
     "dimensions": "小平制式，具体尺寸重量数据因存世极罕而缺少系统记载。",
     "obverseFeatures": "* 圆形方孔\n* 面文\"洪熙通宝\"四字楷书直读\n* 光背无文\n* 铸工精整",
+    "reverseFeatures": "",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。洪熙通宝为明仁宗朱高炽洪熙元年（公元1425年）铸行。制作流程为：先雕刻洪熙通宝阴文母范（含面文\"洪熙通宝\"四字，楷书），中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。铸工精整。洪熙年号使用极短，在位仅约十个月即驾崩，铸币量极少，存世极罕。",
     "coreBackground": "* 仁宗朱高炽于公元1424年即位，次年改元洪熙，在位仅约十个月即驾崩\n* 洪熙年号使用极短，铸币量极少\n* 据《中国钱币大辞典》记载，洪熙通宝属中国古泉五十名珍之一\n* 存世极罕，仅见数枚，多为博物馆藏品",
-    "variants": "仅见小平钱。",
-    "valueReference": "",
-    "valueTable": [
+    "variantsTable": [
       {
         "variant": "小平钱",
+        "description": "",
         "grade": "美品",
         "priceRange": "50000—100000元",
         "notes": "据《中国钱币大辞典》记载，存世极罕"
       },
       {
         "variant": "小平钱",
+        "description": "",
         "grade": "极美品",
         "priceRange": "100000—150000元",
         "notes": ""
@@ -199,37 +216,41 @@
     "material": "青铜（铜、锡、铅合金），铜含量约60%—70%，锡含量约5%—10%，铅含量约15%—20%。永乐年间仍以传统青铜铸造，铜质精整。出土后表面多呈青绿色锈蚀，原始铸造色泽为金黄色。",
     "dimensions": "直径2.4—2.5厘米，厚度约0.1厘米，单枚重3.5—4克。",
     "obverseFeatures": "* 圆形方孔，内外郭规整\n* 面文\"永乐通宝\"四字楷书，对读，笔画端庄秀丽\n* 钱文深峻\n* 背面平夷无文\n* 青铜质，铜质精良，铸工极为规整，标准化程度极高",
+    "reverseFeatures": "",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。永乐通宝为明成祖朱棣永乐六年（公元1408年）始铸。制作流程为：先雕刻永乐通宝阴文母范（含面文\"永乐通宝\"四字，楷书），中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。铜质精良，铸工极为规整，标准化程度极高，是明代铸币的代表作。铸量极大，是郑和下西洋的主要流通货币。",
     "coreBackground": "* 明代官方法定货币，主要用于海外贸易\n* 是郑和下西洋的主要流通货币，流通范围远至东南亚、中东、非洲\n* 是中国古代流通范围最广的钱币之一，铸量极大\n* 在日本被称为\"永乐钱\"，长期作为日本标准货币使用\n* 据《中国钱币大辞典》记载，永乐通宝铸工精整，是明代铸币的代表作",
-    "variants": "* **普通版**：楷书对读，光背，标准型制\n* **大字版**：钱文字体较大\n* **细字版**：钱文字体较细",
-    "valueReference": "",
-    "valueTable": [
+    "variantsTable": [
       {
         "variant": "普通版",
+        "description": "",
         "grade": "普品",
         "priceRange": "10—30元",
         "notes": ""
       },
       {
         "variant": "普通版",
+        "description": "",
         "grade": "美品",
         "priceRange": "30—80元",
         "notes": ""
       },
       {
         "variant": "普通版",
+        "description": "",
         "grade": "极美品",
         "priceRange": "80—200元",
         "notes": ""
       },
       {
         "variant": "大字版",
+        "description": "",
         "grade": "美品",
         "priceRange": "50—150元",
         "notes": ""
       },
       {
         "variant": "细字版",
+        "description": "",
         "grade": "美品",
         "priceRange": "50—150元",
         "notes": ""
@@ -256,37 +277,41 @@
     "material": "青铜（铜、锡、铅合金），铜含量约60%—70%，锡含量约5%—10%，铅含量约15%—20%。宣德年间仍以传统青铜铸造。出土后表面多呈青绿色锈蚀，原始铸造色泽为金黄色。",
     "dimensions": "直径2.4—2.5厘米，重3—3.6克，厚度约1.2—1.5毫米。",
     "obverseFeatures": "* 圆形方孔，宽缘窄郭，缘郭深峻\n* 面文\"宣德通宝\"四字楷书直读，文字端庄\n* 正式颁行的仅为小平光背钱一式\n* 光背无文\n* 因原料中夹杂铅、锡，故钱的铜色黯淡",
+    "reverseFeatures": "",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。宣德通宝为明宣宗朱瞻基宣德八年（公元1433年）始铸。制作流程为：先雕刻宣德通宝阴文母范（含面文\"宣德通宝\"四字，楷书），中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。钱制沿永乐成规，皆为小平钱，光背无文。因原料中夹杂铅、锡，故铜色黯淡。铸量少于永乐通宝。",
     "coreBackground": "* 明宣宗宣德八年开铸\"宣德通宝\"，钱制沿永乐成规，皆为小平钱\n* 光背无文，版别较少\n* 宣德以后的几十年间，基本上没有铸钱\n* 据《中国钱币大辞典》记载，宣德通宝铸量少于永乐通宝，但传世仍有一定数量",
-    "variants": "* **普通版**：楷书直读，光背\n* **大字版**：钱文字体较大\n* **小字版**：钱文字体较小",
-    "valueReference": "",
-    "valueTable": [
+    "variantsTable": [
       {
         "variant": "普通版",
+        "description": "",
         "grade": "普品",
         "priceRange": "30—80元",
         "notes": ""
       },
       {
         "variant": "普通版",
+        "description": "",
         "grade": "美品",
         "priceRange": "80—200元",
         "notes": ""
       },
       {
         "variant": "普通版",
+        "description": "",
         "grade": "极美品",
         "priceRange": "200—500元",
         "notes": ""
       },
       {
         "variant": "大字版",
+        "description": "",
         "grade": "美品",
         "priceRange": "100—300元",
         "notes": ""
       },
       {
         "variant": "小字版",
+        "description": "",
         "grade": "普品",
         "priceRange": "30—80元",
         "notes": "文字较小"
@@ -313,37 +338,41 @@
     "material": "青铜（铜、锡、铅合金），铜含量约60%—70%，锡含量约5%—10%，铅含量约15%—20%。弘治年间仍以传统青铜铸造，铜质尚可。出土后表面多呈青绿色锈蚀，原始铸造色泽为金黄色。",
     "dimensions": "小平直径约2.5厘米，重约3.5—4克。",
     "obverseFeatures": "* 圆形方孔\n* 面文\"弘治通宝\"四字楷书直读\n* 光背无文\n* 青铜质",
+    "reverseFeatures": "",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。弘治通宝为明孝宗弘治年间铸行。制作流程为：先雕刻弘治通宝阴文母范（含面文\"弘治通宝\"四字，楷书），中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。弘治朝大力整顿币制，铸造较为规整，但因铜源紧张，部分钱币质量不佳。",
     "coreBackground": "* 孝宗弘治年间铸，是明代中期的重要铸币\n* 弘治朝大力整顿币制，弘治通宝铸造较为规整\n* 铸量不多，因铜源紧张，部分钱币质量不佳\n* 据《中国钱币大辞典》记载，弘治通宝存世量有限",
-    "variants": "* **普通版**：楷书直读\"隆庆通宝\"，笔画端庄，\"隆\"字\"阝\"部清晰，\"庆\"字\"广\"部宽大。光背。铸工精整\n* **大字版**：面文\"隆庆通宝\"字体较大，笔画粗壮。较少见\n* **小型版**：直径偏小，面文字体较小。较少见",
-    "valueReference": "",
-    "valueTable": [
+    "variantsTable": [
       {
         "variant": "普通版",
+        "description": "",
         "grade": "普品",
         "priceRange": "50—150元",
         "notes": ""
       },
       {
         "variant": "普通版",
+        "description": "",
         "grade": "美品",
         "priceRange": "150—400元",
         "notes": ""
       },
       {
         "variant": "普通版",
+        "description": "",
         "grade": "极美品",
         "priceRange": "400—800元",
         "notes": ""
       },
       {
         "variant": "大字版",
+        "description": "",
         "grade": "美品",
         "priceRange": "200—500元",
         "notes": ""
       },
       {
         "variant": "小型版",
+        "description": "",
         "grade": "普品",
         "priceRange": "30—80元",
         "notes": "体型较小"
@@ -370,67 +399,76 @@
     "material": "青铜与黄铜并用。据《明史·食货志》记载，嘉靖通宝\"以铜和倭铅铸\"，开中国古代黄铜铸币先河。嘉靖早期仍以青铜为主，中晚期开始大量掺入锌（古称\"倭铅\"或\"白铅\"），铜含量约60%—70%，锌含量约10%—25%。青铜版呈青绿色锈蚀；黄铜版呈金黄色至暗黄色。",
     "dimensions": "* 小平直径：2.3—2.5厘米，重3—4.5克\n* 折二直径：2.7—2.9厘米\n* 折三直径：3—3.3厘米（国博藏品折三钱直径3.3厘米，重10.4克）\n* 折五直径：3.8—4厘米\n* 折十直径：4.3—4.5厘米",
     "obverseFeatures": "* 圆形方孔，宽缘窄郭，缘郭深峻\n* 面文\"嘉靖通宝\"四字楷书直读，文字清秀疏朗\n* 小平钱为光背\n* 其他面值钱背纪重（如折三钱背穿左\"三钱\"）\n* 有阔缘、窄缘、粗字、细字、斜立靖版别",
+    "reverseFeatures": "",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。嘉靖通宝为明世宗朱厚熜嘉靖六年（公元1527年）始铸。制作流程为：先雕刻嘉靖通宝阴文母范（含面文\"嘉靖通宝\"四字，楷书），中央方孔设金属芯；合范浇铸熔融青铜液或黄铜液，冷却脱范后逐枚修整。据《明史·食货志》记载，嘉靖通宝\"以铜和倭铅铸\"，开中国古代黄铜铸币先河。嘉靖早期仍以青铜为主，中晚期开始大量掺入锌（古称\"倭铅\"或\"白铅\"）。嘉靖十三年开始铸行折二至折十大钱，背面纪重。",
     "coreBackground": "* 世宗嘉靖六年（公元1527年）始铸，嘉靖十三年开始铸行折二至折十大钱\n* 此钱开中国古代铸币用黄铜的先河，具有重要意义\n* 据《中国钱币大辞典》记载，嘉靖通宝光背小平钱存世较多",
-    "variants": "* **小平光背版**：楷书直读，光背\n* **折二背纪重版**：背铸纪重文字\n* **折三背纪重版**：背铸\"三钱\"\n* **折五背纪重版**：背铸纪重文字\n* **折十背纪重版**：背铸纪重文字\n* **阔缘版**：外缘较宽\n* **窄缘版**：外缘较窄\n* **斜立靖版**：\"靖\"字略斜",
-    "valueReference": "",
-    "valueTable": [
+    "variantsTable": [
       {
         "variant": "小平光背",
+        "description": "",
         "grade": "普品",
         "priceRange": "10—30元",
         "notes": ""
       },
       {
         "variant": "小平光背",
+        "description": "",
         "grade": "美品",
         "priceRange": "30—100元",
         "notes": ""
       },
       {
         "variant": "小平光背",
+        "description": "",
         "grade": "极美品",
         "priceRange": "100—200元",
         "notes": ""
       },
       {
         "variant": "折二",
+        "description": "",
         "grade": "美品",
         "priceRange": "200—500元",
         "notes": ""
       },
       {
         "variant": "折三",
+        "description": "",
         "grade": "美品",
         "priceRange": "500—1500元",
         "notes": ""
       },
       {
         "variant": "折五",
+        "description": "",
         "grade": "美品",
         "priceRange": "1000—3000元",
         "notes": ""
       },
       {
         "variant": "折十",
+        "description": "",
         "grade": "美品",
         "priceRange": "2000—5000元",
         "notes": ""
       },
       {
         "variant": "阔缘版",
+        "description": "",
         "grade": "美品",
         "priceRange": "100—300元",
         "notes": "边缘较宽"
       },
       {
         "variant": "窄缘版",
+        "description": "",
         "grade": "美品",
         "priceRange": "50—150元",
         "notes": "边缘较窄"
       },
       {
         "variant": "斜立靖版",
+        "description": "",
         "grade": "美品",
         "priceRange": "100—300元",
         "notes": "\"靖\"字斜立，较少见"
@@ -457,31 +495,34 @@
     "material": "黄铜（铜锌合金），铜含量约60%—70%，锌含量约20%—30%。隆庆通宝全面采用黄铜铸造，标志明代铸币从青铜向黄铜的转变完成。黄铜钱呈金黄色，表面多呈深褐色包浆。",
     "dimensions": "小平直径约2.5厘米，重约3.5—4克，钱重一钱三分。",
     "obverseFeatures": "* 圆形方孔\n* 面文\"隆庆通宝\"四字楷书直读\n* 光背\n* 文字端正，铸工精美，铜质厚重\n* 用黄铜铸造",
+    "reverseFeatures": "",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。隆庆通宝为明穆宗朱载坖隆庆四年（公元1570年）始铸。制作流程为：先雕刻隆庆通宝阴文母范（含面文\"隆庆通宝\"四字，楷书），中央方孔设金属芯；合范浇铸熔融黄铜液，冷却脱范后逐枚修整。全面采用黄铜铸造，标志明代铸币从青铜向黄铜的转变完成。文字端正，铸工精美，铜质厚重。隆庆年号仅用6年，铸行仅约半年，铸量极少。",
     "coreBackground": "* 明穆宗隆庆四年（公元1570年）始铸\n* 隆庆年号仅用6年，铸行仅约半年\n* 目前仅发现有小平钱一种样式\n* 存世较少，为明代钱币中的名誉品\n* 据《中国钱币大辞典》记载，隆庆通宝是明代铸量最少的年号钱之一",
-    "variants": "* **普通版**：楷书直读，光背\n* **大字版**：钱文字体较大",
-    "valueReference": "",
-    "valueTable": [
+    "variantsTable": [
       {
         "variant": "普通版",
+        "description": "",
         "grade": "普品",
         "priceRange": "500—1000元",
         "notes": ""
       },
       {
         "variant": "普通版",
+        "description": "",
         "grade": "美品",
         "priceRange": "1000—3000元",
         "notes": ""
       },
       {
         "variant": "普通版",
+        "description": "",
         "grade": "极美品",
         "priceRange": "3000—5000元",
         "notes": ""
       },
       {
         "variant": "大字版",
+        "description": "",
         "grade": "美品",
         "priceRange": "200—500元",
         "notes": "文字较大"
@@ -497,43 +538,48 @@
     "material": "黄铜（铜锌合金），铜含量约55%—65%，锌含量约25%—35%，锡铅含量约5%—10%。万历时期黄铜铸币技术成熟，铸量极大。黄铜钱呈金黄色，表面多呈深褐色至黑色包浆，不易生绿锈。",
     "dimensions": "* 小平钱直径：2.4—2.5厘米，单枚重3.5—4克\n* 折二钱直径：2.7—2.8厘米，单枚重5.5—6.5克",
     "obverseFeatures": "* 圆形方孔，内外郭规整\n* 面文\"万历通宝\"四字楷书，对读，笔画方正有力\n* 版别极多，背面有星月纹、纪地、纪局文字\n* 青铜质，铸工精良，铸量极大",
+    "reverseFeatures": "",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。万历通宝为明神宗朱翊钧万历四年（公元1576年）始铸。制作流程为：先雕刻万历通宝阴文母范（含面文\"万历通宝\"四字，楷书），中央方孔设金属芯；合范浇铸熔融黄铜液，冷却脱范后逐枚修整。万历时期黄铜铸币技术成熟，铸工精良，铸量极大。版别极多，背面有星月纹、纪地、纪局文字。",
     "coreBackground": "* 明代铸量最大、流通时间最长的货币\n* 万历朝长达48年，铸量大，版别丰富\n* 是明代中后期的主流流通货币\n* 据《中国钱币大辞典》记载，万历通宝是明代钱币最具代表性的品种",
-    "variants": "* **小平光背版**：背面无文\n* **小平背星月版**：背面铸星纹或月纹\n* **小平背纪局版**：背面铸纪局文字（如\"工\"\"公\"）\n* **折二版**：较少见",
-    "valueReference": "",
-    "valueTable": [
+    "variantsTable": [
       {
         "variant": "小平光背",
+        "description": "",
         "grade": "普品",
         "priceRange": "5—15元",
         "notes": ""
       },
       {
         "variant": "小平光背",
+        "description": "",
         "grade": "美品",
         "priceRange": "15—50元",
         "notes": ""
       },
       {
         "variant": "小平光背",
+        "description": "",
         "grade": "极美品",
         "priceRange": "50—100元",
         "notes": ""
       },
       {
         "variant": "小平背星月",
+        "description": "",
         "grade": "美品",
         "priceRange": "30—80元",
         "notes": ""
       },
       {
         "variant": "小平背纪局",
+        "description": "",
         "grade": "美品",
         "priceRange": "50—150元",
         "notes": ""
       },
       {
         "variant": "折二",
+        "description": "",
         "grade": "美品",
         "priceRange": "100—500元",
         "notes": "较少见"
@@ -560,19 +606,20 @@
     "material": "白银，含银量约90%—95%。试铸性质，存世极罕。表面呈银白色至暗灰色。",
     "dimensions": "据记载为小平制式，具体尺寸重量数据因存世极罕而缺少系统记载。",
     "obverseFeatures": "* 圆形方孔\n* 面文\"万历通宝\"四字楷书直读\n* 银质铸造\n* 铸工精整",
+    "reverseFeatures": "",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。万历银钱为明神宗万历年间试铸性质的银质钱币，未大规模流通。制作流程为：先雕刻万历通宝阴文母范（含面文\"万历通宝\"四字，楷书），中央方孔设金属芯；合范浇铸熔融银液，冷却脱范后逐枚修整。铸工精整，存世极罕，仅见数枚。",
     "coreBackground": "* 万历银钱为明代试铸性质的银质钱币，未大规模流通\n* 明代以白银为主要大额货币，但多为银锭形式，银质方孔钱极为罕见\n* 存世极罕，仅见数枚\n* 据《古钱大辞典》著录，属明代钱币中的珍品",
-    "variants": "仅见小平钱。",
-    "valueReference": "",
-    "valueTable": [
+    "variantsTable": [
       {
         "variant": "小平钱",
+        "description": "",
         "grade": "美品",
         "priceRange": "30000—50000元",
         "notes": "银质，存世极罕"
       },
       {
         "variant": "小平钱",
+        "description": "",
         "grade": "极美品",
         "priceRange": "50000—80000元",
         "notes": ""
@@ -588,49 +635,55 @@
     "material": "黄铜（铜锌合金），铜含量约55%—65%，锌含量约25%—35%。天启元年补铸，沿用万历后期黄铜铸币标准。黄铜钱呈金黄色，表面多呈深褐色包浆。",
     "dimensions": "小平直径2.5厘米，重约2.8克上下。",
     "obverseFeatures": "* 圆形方孔\n* 面文\"泰昌通宝\"四字楷书直读\n* 钱文尚工\n* 有光背、背星、背月、合背、合号版别\n* 除小平外亦有折二型，但传世较少见",
+    "reverseFeatures": "",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。泰昌通宝为明熹宗于天启元年八月补铸，因光宗朱常洛在位不足一月即崩，未及铸钱。制作流程为：先雕刻泰昌通宝阴文母范（含面文\"泰昌通宝\"四字，楷书），中央方孔设金属芯；合范浇铸熔融黄铜液，冷却脱范后逐枚修整。属补铸性质，铸量有限。",
     "coreBackground": "* 泰昌为明光宗朱常洛年号，光宗在位不足一月即崩，未及铸钱\n* 其子熹宗于天启元年八月补铸泰昌通宝\n* 属补铸性质，存世量有限\n* 据《中国钱币大辞典》记载，泰昌通宝为明代名誉品之一",
-    "variants": "* **小平光背版**：背面无文\n* **小平背星版**：背面铸星纹\n* **小平背月版**：背面铸月纹\n* **合背版**：两面均为面文\n* **折二版**：较少见",
-    "valueReference": "",
-    "valueTable": [
+    "variantsTable": [
       {
         "variant": "小平光背",
+        "description": "",
         "grade": "普品",
         "priceRange": "50—100元",
         "notes": ""
       },
       {
         "variant": "小平光背",
+        "description": "",
         "grade": "美品",
         "priceRange": "100—300元",
         "notes": ""
       },
       {
         "variant": "小平光背",
+        "description": "",
         "grade": "极美品",
         "priceRange": "300—500元",
         "notes": ""
       },
       {
         "variant": "小平背星月",
+        "description": "",
         "grade": "美品",
         "priceRange": "150—400元",
         "notes": ""
       },
       {
         "variant": "合背版",
+        "description": "",
         "grade": "美品",
         "priceRange": "500—1500元",
         "notes": ""
       },
       {
         "variant": "折二",
+        "description": "",
         "grade": "美品",
         "priceRange": "500—2000元",
         "notes": "较少见"
       },
       {
         "variant": "小平背月版",
+        "description": "",
         "grade": "美品",
         "priceRange": "100—300元",
         "notes": "背有月纹"
@@ -657,49 +710,55 @@
     "material": "黄铜（铜锌合金），铜含量约55%—65%，锌含量约25%—35%。天启时期铸量大，铜质参差。黄铜钱呈金黄色至暗黄色，表面多呈深褐色包浆。",
     "dimensions": "* 小平直径：约2.4厘米，重2.6—3.6克\n* 折十直径：4.5—4.8厘米，重18—30克",
     "obverseFeatures": "* 圆形方孔\n* 面文\"天启通宝\"四字楷书直读\n* 分小平、折二、折十三种面值\n* 除光背者外，尚有记值、记地、记重数种\n* 如背上\"十\"右\"一两\"\n* 版别繁多，为明代版别最复杂的钱币之一",
+    "reverseFeatures": "",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。天启通宝为明熹宗朱由校天启年间（公元1621年—1627年）铸行。制作流程为：先雕刻天启通宝阴文母范（含面文\"天启通宝\"四字，楷书），中央方孔设金属芯；合范浇铸熔融黄铜液，冷却脱范后逐枚修整。因辽东战事频繁、财政拮据，大量铸行折十大钱，铜质参差。版别繁多，为明代版别最复杂的钱币之一。",
     "coreBackground": "* 熹宗天启年间铸，因辽东战事频繁、财政拮据，大量铸行折十大钱\n* 天启通宝是明代货币制度由稳定走向混乱的转折标志\n* 明代天启通宝需与元代天启通宝区分（后者极罕见）\n* 据《中国钱币大辞典》记载，天启通宝小平钱存世量较大",
-    "variants": "* **小平光背版**：背面无文\n* **小平背纪局版**：背铸纪局文字\n* **折十大钱版**：背有\"十一两\"\"府\"\"密\"等多种版别\n* **合背版**：两面均为面文",
-    "valueReference": "",
-    "valueTable": [
+    "variantsTable": [
       {
         "variant": "小平光背",
+        "description": "",
         "grade": "普品",
         "priceRange": "5—15元",
         "notes": ""
       },
       {
         "variant": "小平光背",
+        "description": "",
         "grade": "美品",
         "priceRange": "15—50元",
         "notes": ""
       },
       {
         "variant": "小平光背",
+        "description": "",
         "grade": "极美品",
         "priceRange": "50—100元",
         "notes": ""
       },
       {
         "variant": "小平背纪局",
+        "description": "",
         "grade": "美品",
         "priceRange": "30—100元",
         "notes": ""
       },
       {
         "variant": "折十（普通版）",
+        "description": "",
         "grade": "美品",
         "priceRange": "200—500元",
         "notes": ""
       },
       {
         "variant": "折十（少见版）",
+        "description": "",
         "grade": "美品",
         "priceRange": "500—1000元",
         "notes": ""
       },
       {
         "variant": "合背版",
+        "description": "",
         "grade": "极美品",
         "priceRange": "500—2,000元",
         "notes": "双面均铸面文，较少见"
@@ -715,319 +774,370 @@
     "material": "黄铜（铜锌合金）为主，铜含量约55%—65%，锌含量约25%—35%。崇祯末期因财政困难，部分钱币铜质下降，含铅量增加。黄铜钱呈金黄色至暗黄色；劣质钱呈灰黄色。",
     "dimensions": "* 小平钱直径：2.4—2.5厘米，单枚重2.5—3.5克\n* 折二钱直径：约2.8厘米",
     "obverseFeatures": "* 圆形方孔，内外郭规整\n* 面文\"崇祯通宝\"四字楷书，对读\n* 版别极多，背面有星月纹、纪局、纪地、纪值文字\n* 青铜质，铸工不一，后期减重严重\n* 背文包括：奔马图（跑马崇祯）、星月纹、天干地支、纪局文字（如\"工\"\"户\"\"兵\"）、纪重（如\"一分\"\"八厘\"）\n* 背面无文（光背）者亦不少",
+    "reverseFeatures": "",
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。崇祯通宝为明思宗朱由检崇祯年间（公元1628年—1644年）铸行，为明代最后一种官方铸币。制作流程为：先雕刻崇祯通宝阴文母范（含面文\"崇祯通宝\"四字，楷书），中央方孔设金属芯；合范浇铸熔融黄铜液，冷却脱范后逐枚修整。明末财政困难，各地纷纷铸钱，铜质不一，后期减重严重，导致版别极为复杂，已知版别达数百种。",
     "coreBackground": "* 明代最后一种官方铸币\n* 是明代末年战乱频仍、经济崩溃时期的货币\n* 版别极为复杂，是中国古钱币中版别研究最热门的品种之一，已知版别数百种\n* \"跑马崇祯\"（背面铸奔马图案）因民间附会\"一马乱天下\"的谶语而著名\n* 明末财政困难，各地纷纷铸钱，导致版别极为复杂\n* 据《中国钱币大辞典》记载，崇祯通宝是明钱中版别最丰富的品种",
-    "variants": "* **按背面纹饰和文字分**：崇祯通宝版别极为复杂，据《中国钱币大辞典》记载，已知版别达数百种，主要分为以下系列：\n* **光背版**：背面无文，为较常见的版式\n* **背星月版**：背面铸星纹或月纹，有背上星、背下星、穿左星、穿右星、背月纹等多种位置\n* **背纪局版**：背面铸纪局文字，如\"工\"\"户\"\"兵\"\"监\"\"院\"\"局\"等\n* **背纪重版**：背面铸纪重文字，如\"一分\"\"八厘\"\"一钱\"\"五厘\"等\n* **背天干地支版**：背面铸天干（如\"甲\"\"乙\"\"丙\"\"丁\"）或地支文字\n* **背纪值版**：背面铸纪值文字\n* **跑马崇祯**：背面铸奔马图案，因民间附会\"一马乱天下\"的谶语而著名，为崇祯通宝中的名誉品\n* **背奔马版**：与跑马崇祯同类，马形姿态各异\n* **按面文风格分**：\n* **大字版**：面文字体较大\n* **小字版**：面文字体较小\n* **阔缘版**：外缘较宽\n* **窄缘版**：外缘较窄\n* **粗字版**：笔画粗壮\n* **细字版**：笔画纤细\n* **阔\"崇\"版**：\"崇\"字较宽\n* **狭\"崇\"版**：\"崇\"字较窄\n* **长\"祯\"版**：\"祯\"字较长\n* **短\"祯\"版**：\"祯\"字较短\n* **按铸地分**：明末各地纷纷铸钱，据《中国钱币大辞典》记载，主要铸地有南京（南铸）、北京（北铸），各省亦有铸行，不同铸地的钱币在文字风格、铜质、铸工等方面均有差异\n* **折二版**：折二钱较少见，直径约2.8厘米",
-    "valueReference": "",
-    "valueTable": [
+    "variantsTable": [
       {
         "variant": "光背版",
+        "description": "",
         "grade": "",
         "priceRange": "",
         "notes": "八级（较多）"
       },
       {
         "variant": "光背版",
+        "description": "",
         "grade": "普品",
         "priceRange": "10—30元",
         "notes": "背面无文，最常见"
       },
       {
         "variant": "小平光背",
+        "description": "",
         "grade": "普品",
         "priceRange": "5—15元",
         "notes": "较常见"
       },
       {
         "variant": "小平光背",
+        "description": "",
         "grade": "美品",
         "priceRange": "15—50元",
         "notes": ""
       },
       {
         "variant": "小平光背",
+        "description": "",
         "grade": "极美品",
         "priceRange": "50—100元",
         "notes": ""
       },
       {
         "variant": "背纪局版",
+        "description": "",
         "grade": "",
         "priceRange": "",
         "notes": "八级（较多）"
       },
       {
         "variant": "背纪局版",
+        "description": "",
         "grade": "普品",
         "priceRange": "20—80元",
         "notes": "背铸铸局名"
       },
       {
         "variant": "背\"工\"",
+        "description": "",
         "grade": "美品",
         "priceRange": "20—60元",
         "notes": ""
       },
       {
         "variant": "背\"户\"",
+        "description": "",
         "grade": "美品",
         "priceRange": "20—60元",
         "notes": ""
       },
       {
         "variant": "背\"兵\"",
+        "description": "",
         "grade": "美品",
         "priceRange": "30—80元",
         "notes": ""
       },
       {
         "variant": "背\"监\"",
+        "description": "",
         "grade": "美品",
         "priceRange": "30—100元",
         "notes": "较少见"
       },
       {
         "variant": "背\"院\"",
+        "description": "",
         "grade": "美品",
         "priceRange": "30—100元",
         "notes": "较少见"
       },
       {
         "variant": "背纪重版",
+        "description": "",
         "grade": "",
         "priceRange": "",
         "notes": "八级（较多）"
       },
       {
         "variant": "背纪重版",
+        "description": "",
         "grade": "美品",
         "priceRange": "30—100元",
         "notes": "背铸纪重文字"
       },
       {
         "variant": "背\"一分\"",
+        "description": "",
         "grade": "美品",
         "priceRange": "30—100元",
         "notes": ""
       },
       {
         "variant": "背\"八厘\"",
+        "description": "",
         "grade": "美品",
         "priceRange": "30—100元",
         "notes": ""
       },
       {
         "variant": "背\"一钱\"",
+        "description": "",
         "grade": "美品",
         "priceRange": "50—150元",
         "notes": "较少见"
       },
       {
         "variant": "背\"五厘\"",
+        "description": "",
         "grade": "美品",
         "priceRange": "30—80元",
         "notes": ""
       },
       {
         "variant": "背星月版",
+        "description": "",
         "grade": "",
         "priceRange": "",
         "notes": "八级（较多）"
       },
       {
         "variant": "背星月版",
+        "description": "",
         "grade": "美品",
         "priceRange": "100—500元",
         "notes": "背有星月纹"
       },
       {
         "variant": "背星",
+        "description": "",
         "grade": "美品",
         "priceRange": "20—80元",
         "notes": ""
       },
       {
         "variant": "背月",
+        "description": "",
         "grade": "美品",
         "priceRange": "20—80元",
         "notes": ""
       },
       {
         "variant": "背天干地支版",
+        "description": "",
         "grade": "",
         "priceRange": "",
         "notes": "八级（较多）"
       },
       {
         "variant": "背天干地支版",
+        "description": "",
         "grade": "美品",
         "priceRange": "100—500元",
         "notes": "背铸天干地支"
       },
       {
         "variant": "常见天干",
+        "description": "",
         "grade": "美品",
         "priceRange": "30—100元",
         "notes": ""
       },
       {
         "variant": "少见天干",
+        "description": "",
         "grade": "美品",
         "priceRange": "100—300元",
         "notes": ""
       },
       {
         "variant": "跑马崇祯",
+        "description": "",
         "grade": "",
         "priceRange": "",
         "notes": "八级（较多）"
       },
       {
         "variant": "跑马崇祯",
+        "description": "",
         "grade": "美品",
         "priceRange": "500—3,000元",
         "notes": "背铸奔马图，名誉品"
       },
       {
         "variant": "跑马崇祯",
+        "description": "",
         "grade": "极美品",
         "priceRange": "500—1500元",
         "notes": ""
       },
       {
         "variant": "折二版",
+        "description": "",
         "grade": "",
         "priceRange": "",
         "notes": "七级（较少）"
       },
       {
         "variant": "折二版",
+        "description": "",
         "grade": "美品",
         "priceRange": "200—800元",
         "notes": "折二型"
       },
       {
         "variant": "折二光背",
+        "description": "",
         "grade": "美品",
         "priceRange": "100—500元",
         "notes": "较少见"
       },
       {
         "variant": "折二背纪局",
+        "description": "",
         "grade": "美品",
         "priceRange": "200—800元",
         "notes": "较少见"
       },
       {
         "variant": "特殊品类",
+        "description": "",
         "grade": "",
         "priceRange": "",
         "notes": "八级（较多）"
       },
       {
         "variant": "特殊品类",
+        "description": "",
         "grade": "美品",
         "priceRange": "500—5,000元",
         "notes": "特殊品类，较少见"
       },
       {
         "variant": "母钱",
+        "description": "",
         "grade": "美品以上",
         "priceRange": "3000—10000元",
         "notes": "存世极少"
       },
       {
         "variant": "雕母（祖钱）",
+        "description": "",
         "grade": "美品以上",
         "priceRange": "50000—150000元",
         "notes": "仅见数枚"
       },
       {
         "variant": "背纪值版",
+        "description": "",
         "grade": "美品",
         "priceRange": "30—100元",
         "notes": "背铸纪值文字"
       },
       {
         "variant": "背奔马版",
+        "description": "",
         "grade": "美品",
         "priceRange": "100—300元",
         "notes": "背铸奔马"
       },
       {
         "variant": "按背面纹饰和文字分",
+        "description": "",
         "grade": "美品",
         "priceRange": "30—100元",
         "notes": "按背文区分"
       },
       {
         "variant": "按面文风格分",
+        "description": "",
         "grade": "美品",
         "priceRange": "20—50元",
         "notes": "按面文风格区分"
       },
       {
         "variant": "大字版",
+        "description": "",
         "grade": "美品",
         "priceRange": "30—80元",
         "notes": "文字较大"
       },
       {
         "variant": "小字版",
+        "description": "",
         "grade": "普品",
         "priceRange": "10—30元",
         "notes": "文字较小"
       },
       {
         "variant": "阔缘版",
+        "description": "",
         "grade": "美品",
         "priceRange": "30—80元",
         "notes": "边缘较宽"
       },
       {
         "variant": "窄缘版",
+        "description": "",
         "grade": "美品",
         "priceRange": "20—50元",
         "notes": "边缘较窄"
       },
       {
         "variant": "粗字版",
+        "description": "",
         "grade": "普品",
         "priceRange": "10—30元",
         "notes": "文字粗壮"
       },
       {
         "variant": "细字版",
+        "description": "",
         "grade": "美品",
         "priceRange": "20—50元",
         "notes": "文字纤细"
       },
       {
         "variant": "阔\"崇\"版",
+        "description": "",
         "grade": "美品",
         "priceRange": "30—80元",
         "notes": "\"崇\"字较宽"
       },
       {
         "variant": "狭\"崇\"版",
+        "description": "",
         "grade": "美品",
         "priceRange": "30—80元",
         "notes": "\"崇\"字较窄"
       },
       {
         "variant": "长\"祯\"版",
+        "description": "",
         "grade": "美品",
         "priceRange": "30—80元",
         "notes": "\"祯\"字较长"
       },
       {
         "variant": "短\"祯\"版",
+        "description": "",
         "grade": "美品",
         "priceRange": "20—50元",
         "notes": "\"祯\"字较短"
       },
       {
         "variant": "按铸地分",
+        "description": "",
         "grade": "美品",
         "priceRange": "30—100元",
         "notes": "按铸地区分"

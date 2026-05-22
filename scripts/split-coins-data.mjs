@@ -13,9 +13,6 @@ const data = JSON.parse(fs.readFileSync(INPUT, 'utf-8'));
 const summaryList = data.map((dynasty) => ({
   dynasty: dynasty.dynasty,
   dynastyIndex: dynasty.dynastyIndex,
-  dynastyPeriod: dynasty.dynastyPeriod,
-  dynastyStartYear: dynasty.dynastyStartYear,
-  dynastyEndYear: dynasty.dynastyEndYear,
   coins: dynasty.coins.map((coin) => ({
     id: coin.id,
     name: coin.name,

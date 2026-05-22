@@ -144,11 +144,12 @@ function parseCoinDetails(content) {
         material: '',
         dimensions: '',
         obverseFeatures: '',
+        reverseFeatures: '',
         castingCraft: '',
         coreBackground: '',
         variants: '',
         valueReference: '',
-        valueTable: [],
+        variantsTable: [],
       };
 
       const fields = [
@@ -185,8 +186,9 @@ function parseCoinDetails(content) {
           }
 
           if (currentField === 'valueReference' && tableHeaders && cells.length >= 4) {
-            detail.valueTable.push({
+            detail.variantsTable.push({
               variant: cells[0],
+              description: '',
               grade: cells[1],
               priceRange: cells[2],
               notes: cells[3] || '',
@@ -258,6 +260,8 @@ function parseFile(filePath, dynasty, dynastyIndex, prefix) {
     const images = buildCoinImages(dynasty, summary.name, detail?.variants || '', prefix);
     if (detail) {
       detail.images = images;
+      delete detail.variants;
+      delete detail.valueReference;
     }
     return {
       id: `${dynastyIndex}-${idx}`,

@@ -53,9 +53,6 @@ export interface Coin {
 export interface DynastyData {
   dynasty: string;
   dynastyIndex: number;
-  dynastyPeriod: string;
-  dynastyStartYear: number | null;
-  dynastyEndYear: number | null;
   coins: Coin[];
 }
 
