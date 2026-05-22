@@ -1,7 +1,7 @@
 import { memo, useMemo } from 'react';
 import type { Coin, CoinDetail as CoinDetailType, VariantTableRow } from '../../types';
 import { formatContent } from '../../utils/format';
-import { getRarityLevel } from '../../utils/rarity';
+import { getRarityLevel, isTop50Rare } from '../../utils/rarity';
 import styles from './index.module.scss';
 
 interface CoinDetailProps {
@@ -24,6 +24,7 @@ export default memo(function CoinDetail({ coin, detail, loading, error, onRetry 
           <div className={styles.coinDetailTags}>
             <span className={styles.coinDetailTag}>{coin.dynasty}</span>
             <span className={styles.coinDetailTag}>{coin.summary.historicalPeriod}</span>
+            {isTop50Rare(coin.id) && <span className={styles.coinDetailTop50Badge}>五十大珍</span>}
             <span className={styles.coinDetailRarityBadge} data-rarity={rarityLevel}>
               {coin.summary.rarity}
             </span>

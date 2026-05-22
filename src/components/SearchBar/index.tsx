@@ -1,7 +1,7 @@
 import { memo, useState, useRef, useEffect, useCallback } from "react";
 import type { DynastyData, SearchResult } from "../../types";
 import { searchCoins } from "../../utils/search";
-import { getRarityLevel } from "../../utils/rarity";
+import { getRarityLevel, isTop50Rare } from "../../utils/rarity";
 import { useDebounce } from "../../hooks/useDebounce";
 import styles from "./index.module.scss";
 
@@ -201,6 +201,9 @@ export default memo(function SearchBar({
                 >
                   <div className={styles.searchBarResultName}>
                     {result.coin.name}
+                    {isTop50Rare(result.coin.id) && (
+                      <span className={styles.searchBarResultTop50}>五十大珍</span>
+                    )}
                   </div>
                   <div className={styles.searchBarResultInfo}>
                     <div className={styles.searchBarResultInfoTop}>
