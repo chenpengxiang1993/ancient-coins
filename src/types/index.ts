@@ -29,12 +29,17 @@ export interface VariantTableRow {
   notes: string;
 }
 
+export interface FeaturesGroup {
+  common: string;    // 钱币特征（通用，不特定属于正面或背面）
+  obverse: string;   // 面特征（仅与正面相关）
+  reverse: string;   // 背特征（仅与背面相关）
+}
+
 export interface CoinDetail {
   castingTime: string;
   material: string;
   dimensions: string;
-  obverseFeatures: string;
-  reverseFeatures: string;
+  featuresGroup: FeaturesGroup;
   castingCraft: string;
   coreBackground: string;
   variantsTable: VariantTableRow[];

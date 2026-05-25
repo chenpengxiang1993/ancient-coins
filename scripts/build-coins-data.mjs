@@ -155,31 +155,62 @@ function parseSummaryTable(content) {
   return coins;
 }
 
-function splitObverseReverse(detail) {
-  if (!detail.obverseFeatures) return;
+/**
+ * 解析新版三段式面背特征结构（B方案）：
+ *   * **面背特征**：
+ *     * 通用特征项...（钱币特征/common）
+ *     * ***面特征***
+ *       * 正面特征项...
+ *     * ***背特征***
+ *       * 背面特征项...
+ *
+ * 输出：detail.featuresGroup = { common, obverse, reverse }
+ * 兼容旧版（无面特征/背特征子标题的平铺格式）：所有内容归入 common
+ */
+function parseFeaturesGroup(detail) {
+  const raw = detail.obverseFeatures || '';
+  if (!raw) {
+    detail.featuresGroup = { common: '', obverse: '', reverse: '' };
+    delete detail.obverseFeatures;
+    delete detail.reverseFeatures;
+    return;
+  }
 
-  const lines = detail.obverseFeatures.split('\n');
+  const lines = raw.split('\n');
+  const commonLines = [];
   const obverseLines = [];
   const reverseLines = [];
-  let currentTarget = 'obverse';
+  // 'common' | 'obverse' | 'reverse'
+  let section = 'common';
 
   for (const line of lines) {
     const trimmed = line.trim();
-    if (/^[-*]\s*背面[：:]/.test(trimmed)) {
-      currentTarget = 'reverse';
-      reverseLines.push(trimmed);
-    } else if (/^[-*]\s*正面[：:]/.test(trimmed)) {
-      currentTarget = 'obverse';
+    // 匹配 ***面特征*** 或 **面特征** 子标题（支持 "  * ***面特征***" 等多种写法）
+    if (/(?:^\*?\s*)?\*{2,3}面特征\*{2,3}/.test(trimmed)) {
+      section = 'obverse';
+      continue;
+    }
+    if (/(?:^\*?\s*)?\*{2,3}背特征\*{2,3}/.test(trimmed)) {
+      section = 'reverse';
+      continue;
+    }
+
+    if (section === 'obverse') {
       obverseLines.push(trimmed);
-    } else if (currentTarget === 'reverse') {
-      reverseLines.push(line);
+    } else if (section === 'reverse') {
+      reverseLines.push(trimmed);
     } else {
-      obverseLines.push(line);
+      commonLines.push(trimmed);
     }
   }
 
-  detail.obverseFeatures = obverseLines.join('\n').trim();
-  detail.reverseFeatures = reverseLines.join('\n').trim();
+  detail.featuresGroup = {
+    common: commonLines.join('\n').trim(),
+    obverse: obverseLines.join('\n').trim(),
+    reverse: reverseLines.join('\n').trim(),
+  };
+  delete detail.obverseFeatures;
+  delete detail.reverseFeatures;
 }
 
 function parseCoinDetails(content) {
@@ -258,6 +289,13 @@ function parseCoinDetails(content) {
         if (fieldMatch) {
           const label = fieldMatch[1];
           const value = fieldMatch[2];
+          // 跳过 ***面特征***/***背特征*** 等三重星号子标题，作为普通内容收集
+          if (/^\*面特征$|^\*背特征$/.test(label)) {
+            if (currentField) {
+              currentValue.push(trimmed);
+              continue;
+            }
+          }
           const field = fields.find(f => f.label === label);
           if (field) {
             if (currentField && currentValue.length > 0) {
@@ -286,7 +324,7 @@ function parseCoinDetails(content) {
         detail[currentField] = currentValue.join('\n').trim();
       }
 
-      splitObverseReverse(detail);
+      parseFeaturesGroup(detail);
       details.push({ name: coinName, detail });
     }
   }

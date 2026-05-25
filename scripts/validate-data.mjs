@@ -40,8 +40,7 @@ const COIN_DETAIL_REQUIRED_KEYS = [
   'castingTime',
   'material',
   'dimensions',
-  'obverseFeatures',
-  'reverseFeatures',
+  'featuresGroup',
   'castingCraft',
   'coreBackground',
   'variantsTable',
@@ -51,6 +50,9 @@ const COIN_DETAIL_REQUIRED_KEYS = [
 const COIN_DETAIL_ALLOWED_KEYS = new Set([
   ...COIN_DETAIL_REQUIRED_KEYS,
 ]);
+
+const FEATURES_GROUP_REQUIRED_KEYS = ['common', 'obverse', 'reverse'];
+const FEATURES_GROUP_ALLOWED_KEYS = new Set(FEATURES_GROUP_REQUIRED_KEYS);
 
 const VARIANT_TABLE_ROW_REQUIRED_KEYS = ['variant', 'description', 'grade', 'priceRange', 'notes'];
 const VARIANT_TABLE_ROW_ALLOWED_KEYS = new Set(VARIANT_TABLE_ROW_REQUIRED_KEYS);
@@ -142,6 +144,10 @@ function main() {
         const detailPath = `${coinPath}.detail`;
         checkKeys(coin.detail, COIN_DETAIL_ALLOWED_KEYS, COIN_DETAIL_REQUIRED_KEYS, detailPath);
 
+        if (coin.detail.featuresGroup) {
+          checkKeys(coin.detail.featuresGroup, FEATURES_GROUP_ALLOWED_KEYS, FEATURES_GROUP_REQUIRED_KEYS, `${detailPath}.featuresGroup`);
+        }
+
         if (!Array.isArray(coin.detail.variantsTable)) {
           console.error(`❌ ${detailPath}.variantsTable 不是数组`);
           errors++;
@@ -203,6 +209,9 @@ function main() {
       const detailMap = JSON.parse(fs.readFileSync(path.join(detailDir, file), 'utf-8'));
       for (const [coinId, detail] of Object.entries(detailMap)) {
         checkKeys(detail, COIN_DETAIL_ALLOWED_KEYS, COIN_DETAIL_REQUIRED_KEYS, `detail/${file} [${coinId}]`);
+        if (detail.featuresGroup) {
+          checkKeys(detail.featuresGroup, FEATURES_GROUP_ALLOWED_KEYS, FEATURES_GROUP_REQUIRED_KEYS, `detail/${file} [${coinId}].featuresGroup`);
+        }
         if (detail.variantsTable && Array.isArray(detail.variantsTable)) {
           for (let j = 0; j < detail.variantsTable.length; j++) {
             checkKeys(detail.variantsTable[j], VARIANT_TABLE_ROW_ALLOWED_KEYS, VARIANT_TABLE_ROW_REQUIRED_KEYS, `detail/${file} [${coinId}].variantsTable[${j}]`);

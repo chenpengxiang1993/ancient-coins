@@ -257,6 +257,49 @@
   line-height: 1.6;
 }
 
+.featuresGroupContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.featuresSubSection {
+  padding: 12px 16px;
+  border-radius: 8px;
+  background: var(--bg-secondary);
+  border: 1px solid var(--border-light);
+}
+
+.featuresSubTitle {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-family: $font-serif;
+  font-size: 14px;
+  font-weight: 700;
+  color: var(--text-primary);
+  margin-bottom: 8px;
+  padding-bottom: 6px;
+  border-bottom: 1px dashed var(--border-light);
+}
+
+.featuresSubIcon {
+  font-size: 12px;
+  color: var(--gold);
+}
+
+.featuresSubContent {
+  font-size: 14px;
+  line-height: 1.8;
+  color: var(--text-secondary);
+  font-family: $font-sans;
+
+  strong {
+    color: var(--text-primary);
+    font-weight: 600;
+  }
+}
+
 @media (max-width: 768px) {
   .coinDetailScroll {
     padding: 20px 16px;

@@ -1,5 +1,5 @@
 import { memo, useMemo } from 'react';
-import type { Coin, CoinDetail as CoinDetailType, VariantTableRow } from '../../types';
+import type { Coin, CoinDetail as CoinDetailType, FeaturesGroup, VariantTableRow } from '../../types';
 import { formatContent } from '../../utils/format';
 import { getRarityLevel, isTop50Rare } from '../../utils/rarity';
 import styles from './index.module.scss';
@@ -69,8 +69,7 @@ export default memo(function CoinDetail({ coin, detail, loading, error, onRetry 
             <DetailSection title="铸造时间" content={detail.castingTime} icon="🕐" />
             <DetailSection title="材质成分" content={detail.material} icon="⚗" />
             <DetailSection title="尺寸重量" content={detail.dimensions} icon="📏" />
-            <DetailSection title="面特征" content={detail.obverseFeatures} icon="🔍" />
-            <DetailSection title="背特征" content={detail.reverseFeatures} icon="🔎" />
+            <FeaturesGroupSection featuresGroup={detail.featuresGroup} />
             <DetailSection title="铸造工艺" content={detail.castingCraft} icon="⚒" />
             <DetailSection title="核心背景" content={detail.coreBackground} icon="📜" />
             <VariantsSection table={detail.variantsTable} />
@@ -101,6 +100,49 @@ const DetailSection = memo(function DetailSection({ title, content, icon }: Deta
         {title}
       </div>
       <div className={styles.coinDetailSectionContent} dangerouslySetInnerHTML={{ __html: html }} />
+    </div>
+  );
+});
+
+interface FeaturesGroupSectionProps {
+  featuresGroup: FeaturesGroup;
+}
+
+const FEATURES_GROUP_ITEMS: { key: keyof FeaturesGroup; label: string; icon: string }[] = [
+  { key: 'common', label: '钱币特征', icon: '●' },
+  { key: 'obverse', label: '面特征', icon: '◎' },
+  { key: 'reverse', label: '背特征', icon: '◉' },
+];
+
+const FeaturesGroupSection = memo(function FeaturesGroupSection({ featuresGroup }: FeaturesGroupSectionProps) {
+  const hasContent = FEATURES_GROUP_ITEMS.some(({ key }) => featuresGroup[key]);
+  if (!hasContent) return null;
+
+  return (
+    <div className={styles.coinDetailSection}>
+      <div className={styles.coinDetailSectionTitle}>
+        <span className={styles.coinDetailSectionIcon}>🔍</span>
+        面背特征
+      </div>
+      <div className={styles.featuresGroupContainer}>
+        {FEATURES_GROUP_ITEMS.map(({ key, label, icon }) => {
+          const content = featuresGroup[key];
+          if (!content) return null;
+          const html = formatContent(content);
+          return (
+            <div key={key} className={styles.featuresSubSection}>
+              <div className={styles.featuresSubTitle}>
+                <span className={styles.featuresSubIcon}>{icon}</span>
+                {label}
+              </div>
+              <div
+                className={styles.featuresSubContent}
+                dangerouslySetInnerHTML={{ __html: html }}
+              />
+            </div>
+          );
+        })}
+      </div>
     </div>
   );
 });
