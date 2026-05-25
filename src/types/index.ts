@@ -37,7 +37,6 @@ export interface CoinDetail {
   reverseFeatures: string;
   castingCraft: string;
   coreBackground: string;
-  variants: string;
   variantsTable: VariantTableRow[];
   images: CoinImages;
 }

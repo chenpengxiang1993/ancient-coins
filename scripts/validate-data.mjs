@@ -13,15 +13,12 @@ const COIN_DETAIL_REQUIRED_KEYS = [
   'reverseFeatures',
   'castingCraft',
   'coreBackground',
-  'variants',
   'variantsTable',
   'images',
 ];
 
 const COIN_DETAIL_ALLOWED_KEYS = new Set([
   ...COIN_DETAIL_REQUIRED_KEYS,
-  'valueReference',
-  'valueTable',
 ]);
 
 const VARIANT_TABLE_ROW_REQUIRED_KEYS = ['variant', 'description', 'grade', 'priceRange', 'notes'];

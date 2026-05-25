@@ -73,7 +73,6 @@ export default memo(function CoinDetail({ coin, detail, loading, error, onRetry 
             <DetailSection title="背特征" content={detail.reverseFeatures} icon="🔎" />
             <DetailSection title="铸造工艺" content={detail.castingCraft} icon="⚒" />
             <DetailSection title="核心背景" content={detail.coreBackground} icon="📜" />
-            <DetailSection title="版别体系" content={detail.variants} icon="🏷" />
             <VariantsSection table={detail.variantsTable} />
           </>
         )}
@@ -133,8 +132,8 @@ const VariantsSection = memo(function VariantsSection({ table }: VariantsSection
   return (
     <div className={styles.coinDetailSection}>
       <div className={styles.coinDetailSectionTitle}>
-        <span className={styles.coinDetailSectionIcon}>💰</span>
-        价值参考
+        <span className={styles.coinDetailSectionIcon}>🏷</span>
+        版别体系
       </div>
       <div className={styles.coinDetailTableWrapper}>
         <table className={`${styles.coinDetailTable} ${styles.coinDetailVariantsTable}`}>

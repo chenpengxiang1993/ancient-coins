@@ -60,7 +60,7 @@
 ### 格式
 
 - 文档结构严格遵循 `docs/template.md`（汇总表 + 详细介绍）
-- 单枚钱币详细介绍严格遵循 `docs/modules-template.md`，包含：铸造时间、材质成分、尺寸重量、面背特征、铸造工艺、核心背景、版别体系、价值参考
+- 单枚钱币详细介绍严格遵循 `docs/modules-template.md`，包含：铸造时间、材质成分、尺寸重量、面背特征、铸造工艺、核心背景、版别体系（含价值参考）
 - 涉及价格须标注"仅供参考，实际价格受品相、版别、存世量等因素影响"
 - 引用数据须注明来源（如"据《中国钱币大辞典》记载"）
 
@@ -198,8 +198,8 @@ pnpm run build
   输出字段：castingTime、material、dimensions、obverseFeatures、reverseFeatures、castingCraft、coreBackground、variants（版别体系文本）、valueReference、valueTable（价值参考表格）
 
 步骤二：data/coins.json → migrate-variants.mjs → data/coins.json（原地更新）
-  职责：将 variants 文本与 valueTable 表格智能匹配，生成 variantsTable（含 description 字段）
-  输出字段：保留 variants，删除 valueReference/valueTable，新增 variantsTable
+  职责：将 variants 文本与 valueTable 表格智能匹配，生成 variantsTable（含 description 字段），删除 variants、valueReference、valueTable
+  输出字段：删除 variants/valueReference/valueTable，新增 variantsTable
 
 步骤三：data/coins.json → split-coins-data.mjs → public/data/coins-summary.json + public/data/detail/0.json—25.json
 ```
@@ -223,8 +223,7 @@ public/images/coins/**/*.jpg → convert-images.mjs → *.webp（原图）+ thum
 | `reverseFeatures` | `reverseFeatures` | 背特征 |
 | `castingCraft` | `castingCraft` | 铸造工艺 |
 | `coreBackground` | `coreBackground` | 核心背景 |
-| `variants` | `variants` | 版别体系文本 |
-| `variantsTable` | `variantsTable` | 价值参考表格（含 description） |
+| `variantsTable` | `variantsTable` | 版别体系表格（含特征描述、品相等级、参考价格） |
 | `images` | `images` | 钱币图片 |
 
 `VariantTableRow` 字段：variant、description、grade、priceRange、notes（五个字段缺一不可）
@@ -235,7 +234,7 @@ public/images/coins/**/*.jpg → convert-images.mjs → *.webp（原图）+ thum
 - 也可手动执行：`pnpm run validate`
 - 校验失败（错误 > 0）时构建必须中止，修复后重新执行完整流程
 - **禁止跳过 `migrate-variants.mjs`**：该步骤负责生成 `variantsTable.description`，跳过会导致前端表格缺少特征描述
-- **禁止删除 `variants` 字段**：前端需要渲染版别体系文本内容
+- `variants` 字段在 `migrate-variants.mjs` 执行后被转换为 `variantsTable`，前端仅消费 `variantsTable`，`variants` 字段不需要保留在最终 JSON 中
 
 ### 常见错误与禁忌
 
@@ -243,4 +242,3 @@ public/images/coins/**/*.jpg → convert-images.mjs → *.webp（原图）+ thum
 | --- | --- | --- |
 | 手动执行 `parse → split` 跳过 `migrate` | `variantsTable` 缺少 `description`，字段名可能不一致 | 使用 `pnpm run parse-data` 完整流程 |
 | 在 `parse-coins-data.mjs` 中直接输出 `variantsTable` | 与 `migrate-variants.mjs` 职责冲突 | `parse` 输出 `valueTable`，由 `migrate` 转换为 `variantsTable` |
-| 删除 `variants` 字段 | 前端"版别体系"模块无内容 | 保留 `variants` 字段 |
