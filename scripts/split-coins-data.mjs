@@ -8,6 +8,12 @@ const INPUT = path.join(ROOT, 'data', 'coins.json');
 const SUMMARY_OUT = path.join(ROOT, 'public', 'data');
 const DETAIL_OUT = path.join(ROOT, 'public', 'data', 'detail');
 
+function atomicWriteJSON(filePath, data) {
+  const tmp = filePath + '.tmp';
+  fs.writeFileSync(tmp, JSON.stringify(data, null, 2), 'utf-8');
+  fs.renameSync(tmp, filePath);
+}
+
 const data = JSON.parse(fs.readFileSync(INPUT, 'utf-8'));
 
 const summaryList = data.map((dynasty) => ({
@@ -22,11 +28,7 @@ const summaryList = data.map((dynasty) => ({
   })),
 }));
 
-fs.writeFileSync(
-  path.join(SUMMARY_OUT, 'coins-summary.json'),
-  JSON.stringify(summaryList, null, 2),
-  'utf-8'
-);
+atomicWriteJSON(path.join(SUMMARY_OUT, 'coins-summary.json'), summaryList);
 
 for (const dynasty of data) {
   const detailMap = {};
@@ -37,7 +39,7 @@ for (const dynasty of data) {
   }
   const filePath = path.join(DETAIL_OUT, `${dynasty.dynastyIndex}.json`);
   fs.mkdirSync(path.dirname(filePath), { recursive: true });
-  fs.writeFileSync(filePath, JSON.stringify(detailMap, null, 2), 'utf-8');
+  atomicWriteJSON(filePath, detailMap);
 }
 
 const totalDetails = data.reduce((sum, d) => sum + d.coins.length, 0);

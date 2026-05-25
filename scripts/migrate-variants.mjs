@@ -3,7 +3,6 @@ import path from 'path';
 import { fileURLToPath } from 'url';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const detailDir = path.join(__dirname, '..', 'public', 'data', 'detail');
 
 // Parse variants text into array of {name, description}
 function parseVariantsText(variants) {
@@ -399,39 +398,31 @@ function migrateDetail(detail) {
   return newDetail;
 }
 
-// Process all detail JSON files
-const files = fs.readdirSync(detailDir).filter(f => f.endsWith('.json'));
-
-for (const file of files) {
-  const filePath = path.join(detailDir, file);
-  const content = fs.readFileSync(filePath, 'utf-8');
-  const data = JSON.parse(content);
-
-  const migrated = {};
-  for (const [key, detail] of Object.entries(data)) {
-    migrated[key] = migrateDetail(detail);
-  }
-
-  fs.writeFileSync(filePath, JSON.stringify(migrated, null, 2) + '\n', 'utf-8');
-  console.log(`Migrated ${file}: ${Object.keys(migrated).length} entries`);
+function atomicWriteJSON(filePath, data) {
+  const tmp = filePath + '.tmp';
+  fs.writeFileSync(tmp, JSON.stringify(data, null, 2) + '\n', 'utf-8');
+  fs.renameSync(tmp, filePath);
 }
 
-// Also migrate data/coins.json
 const coinsPath = path.join(__dirname, '..', 'data', 'coins.json');
-if (fs.existsSync(coinsPath)) {
-  const coinsContent = fs.readFileSync(coinsPath, 'utf-8');
-  const coinsData = JSON.parse(coinsContent);
+if (!fs.existsSync(coinsPath)) {
+  console.error('coins.json not found');
+  process.exit(1);
+}
 
-  for (const dynasty of coinsData) {
-    for (const coin of dynasty.coins) {
-      if (coin.detail) {
-        coin.detail = migrateDetail(coin.detail);
-      }
+const coinsData = JSON.parse(fs.readFileSync(coinsPath, 'utf-8'));
+
+for (const dynasty of coinsData) {
+  for (const coin of dynasty.coins) {
+    if (coin.detail) {
+      coin.detail = migrateDetail(coin.detail);
     }
   }
-
-  fs.writeFileSync(coinsPath, JSON.stringify(coinsData, null, 2) + '\n', 'utf-8');
-  console.log(`Migrated coins.json`);
 }
+
+atomicWriteJSON(coinsPath, coinsData);
+
+const totalMigrated = coinsData.reduce((sum, d) => sum + d.coins.filter(c => c.detail).length, 0);
+console.log(`Migrated coins.json: ${totalMigrated} entries`);
 
 console.log('Migration complete!');

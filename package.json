@@ -7,7 +7,7 @@
     "dev": "vite",
     "build": "tsc -b && vite build",
     "preview": "vite preview",
-    "parse-data": "node scripts/parse-coins-data.mjs && node scripts/migrate-variants.mjs && node scripts/split-coins-data.mjs && node scripts/validate-data.mjs",
+    "parse-data": "node scripts/backup-coins.mjs && node scripts/parse-coins-data.mjs && node scripts/migrate-variants.mjs && node scripts/split-coins-data.mjs && node scripts/validate-data.mjs",
     "validate": "node scripts/validate-data.mjs",
     "convert-images": "node scripts/convert-images.mjs"
   },

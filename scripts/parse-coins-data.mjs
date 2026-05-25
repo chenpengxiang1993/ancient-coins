@@ -39,6 +39,12 @@ const DYNASTY_FILES = [
 
 const IMAGES_DIR = path.join(ROOT, 'public', 'images', 'coins');
 
+function atomicWriteJSON(filePath, data) {
+  const tmp = filePath + '.tmp';
+  fs.writeFileSync(tmp, JSON.stringify(data, null, 2), 'utf-8');
+  fs.renameSync(tmp, filePath);
+}
+
 function sanitizeFileName(name) {
   return name.replace(/[\/\\:*?"<>|]/g, '-').replace(/\s+/g, '');
 }
@@ -123,6 +129,33 @@ function parseSummaryTable(content) {
     }
   }
   return coins;
+}
+
+function splitObverseReverse(detail) {
+  if (!detail.obverseFeatures) return;
+
+  const lines = detail.obverseFeatures.split('\n');
+  const obverseLines = [];
+  const reverseLines = [];
+  let currentTarget = 'obverse';
+
+  for (const line of lines) {
+    const trimmed = line.trim();
+    if (/^[-*]\s*背面[：:]/.test(trimmed)) {
+      currentTarget = 'reverse';
+      reverseLines.push(trimmed);
+    } else if (/^[-*]\s*正面[：:]/.test(trimmed)) {
+      currentTarget = 'obverse';
+      obverseLines.push(trimmed);
+    } else if (currentTarget === 'reverse') {
+      reverseLines.push(line);
+    } else {
+      obverseLines.push(line);
+    }
+  }
+
+  detail.obverseFeatures = obverseLines.join('\n').trim();
+  detail.reverseFeatures = reverseLines.join('\n').trim();
 }
 
 function parseCoinDetails(content) {
@@ -232,6 +265,8 @@ function parseCoinDetails(content) {
         detail[currentField] = currentValue.join('\n').trim();
       }
 
+      splitObverseReverse(detail);
+
       details.push({ name: coinName, detail });
     }
   }
@@ -296,7 +331,7 @@ function main() {
     console.log(`✓ ${dynasty}: ${data.coins.length} 枚`);
   }
 
-  fs.writeFileSync(OUTPUT_FILE, JSON.stringify(allData, null, 2), 'utf-8');
+  atomicWriteJSON(OUTPUT_FILE, allData);
   console.log(`\n总计: ${allData.length} 个朝代, ${totalCoins} 枚钱币`);
   console.log(`输出: ${OUTPUT_FILE}`);
 
