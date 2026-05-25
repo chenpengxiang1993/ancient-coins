@@ -1,9 +1,40 @@
 import fs from 'fs';
 import path from 'path';
+import crypto from 'crypto';
 import { fileURLToPath } from 'url';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, '..');
+
+// ─── MD 哈希校验 ──────────────────────────────────────────────────────────────
+
+function sha256File(filePath) {
+  const content = fs.readFileSync(filePath);
+  return crypto.createHash('sha256').update(content).digest('hex');
+}
+
+function checkSourceHashes(data) {
+  let hashErrors = 0;
+  for (const dynasty of data) {
+    if (!dynasty._source || !dynasty._sourceHash) continue;
+    const mdPath = path.join(ROOT, dynasty._source);
+    if (!fs.existsSync(mdPath)) {
+      console.warn(`⚠️  源文件不存在: ${dynasty._source}`);
+      continue;
+    }
+    const currentHash = sha256File(mdPath);
+    if (currentHash !== dynasty._sourceHash) {
+      console.error(
+        `❌ 数据不同步：${dynasty._source} 已修改但未重新构建！\n` +
+        `   期望 hash: ${dynasty._sourceHash.slice(0, 16)}…\n` +
+        `   当前 hash: ${currentHash.slice(0, 16)}…\n` +
+        `   → 请运行 pnpm run parse-data`
+      );
+      hashErrors++;
+    }
+  }
+  return hashErrors;
+}
 
 const COIN_DETAIL_REQUIRED_KEYS = [
   'castingTime',
@@ -37,7 +68,7 @@ const COIN_REQUIRED_KEYS = ['id', 'name', 'dynasty', 'dynastyIndex', 'summary', 
 const COIN_ALLOWED_KEYS = new Set(COIN_REQUIRED_KEYS);
 
 const DYNASTY_REQUIRED_KEYS = ['dynasty', 'dynastyIndex', 'coins'];
-const DYNASTY_ALLOWED_KEYS = new Set(DYNASTY_REQUIRED_KEYS);
+const DYNASTY_ALLOWED_KEYS = new Set([...DYNASTY_REQUIRED_KEYS, '_source', '_sourceHash', '_generatedAt']);
 
 const SUMMARY_JSON_DYNASTY_KEYS = ['dynasty', 'dynastyIndex', 'coins'];
 const SUMMARY_JSON_COIN_KEYS = ['id', 'name', 'dynasty', 'dynastyIndex', 'summary'];
@@ -81,6 +112,12 @@ function main() {
   }
 
   console.log(`--- 校验 coins.json (${data.length} 个朝代) ---\n`);
+
+  const hashErrors = checkSourceHashes(data);
+  if (hashErrors > 0) {
+    console.error(`\n❌ 发现 ${hashErrors} 个源文件哈希不匹配，请运行 npm run parse-data 重新构建\n`);
+    errors += hashErrors;
+  }
 
   for (const dynasty of data) {
     const dynastyPath = `dynasty[${dynasty.dynastyIndex}]`;
