@@ -1,55 +1,29 @@
+/**
+ * validate-data.mjs
+ * JSON-first 架构下的数据校验：
+ *   1. 校验 data/dynasties/*.json 结构（必需字段 / 多余字段 / 类型）
+ *   2. 反向 MD 防篡改：在内存中由 JSON 重新生成 MD，与 docs/target/ 下文件做字节比对
+ *      —— 若不一致，说明 MD 被手工修改或未重新构建
+ *   3. 校验 public/data/coins-summary.json 与 public/data/detail/*.json 结构
+ */
+
 import fs from 'fs';
 import path from 'path';
-import crypto from 'crypto';
 import { fileURLToPath } from 'url';
+import { buildMDFromDynasty } from './build-md-from-json.mjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, '..');
+const DYNASTIES_DIR = path.join(ROOT, 'data', 'dynasties');
+const TARGET_DIR = path.join(ROOT, 'docs', 'target');
 
-// ─── MD 哈希校验 ──────────────────────────────────────────────────────────────
-
-function sha256File(filePath) {
-  const content = fs.readFileSync(filePath);
-  return crypto.createHash('sha256').update(content).digest('hex');
-}
-
-function checkSourceHashes(data) {
-  let hashErrors = 0;
-  for (const dynasty of data) {
-    if (!dynasty._source || !dynasty._sourceHash) continue;
-    const mdPath = path.join(ROOT, dynasty._source);
-    if (!fs.existsSync(mdPath)) {
-      console.warn(`⚠️  源文件不存在: ${dynasty._source}`);
-      continue;
-    }
-    const currentHash = sha256File(mdPath);
-    if (currentHash !== dynasty._sourceHash) {
-      console.error(
-        `❌ 数据不同步：${dynasty._source} 已修改但未重新构建！\n` +
-        `   期望 hash: ${dynasty._sourceHash.slice(0, 16)}…\n` +
-        `   当前 hash: ${currentHash.slice(0, 16)}…\n` +
-        `   → 请运行 pnpm run parse-data`
-      );
-      hashErrors++;
-    }
-  }
-  return hashErrors;
-}
+const PREFIXES = 'abcdefghijklmnopqrstuvwxyz';
 
 const COIN_DETAIL_REQUIRED_KEYS = [
-  'castingTime',
-  'material',
-  'dimensions',
-  'featuresGroup',
-  'castingCraft',
-  'coreBackground',
-  'variantsTable',
-  'images',
+  'castingTime', 'material', 'dimensions', 'featuresGroup',
+  'castingCraft', 'coreBackground', 'variantsTable', 'images',
 ];
-
-const COIN_DETAIL_ALLOWED_KEYS = new Set([
-  ...COIN_DETAIL_REQUIRED_KEYS,
-]);
+const COIN_DETAIL_ALLOWED_KEYS = new Set(COIN_DETAIL_REQUIRED_KEYS);
 
 const FEATURES_GROUP_REQUIRED_KEYS = ['common', 'obverse', 'reverse'];
 const FEATURES_GROUP_ALLOWED_KEYS = new Set(FEATURES_GROUP_REQUIRED_KEYS);
@@ -63,162 +37,227 @@ const COIN_IMAGES_ALLOWED_KEYS = new Set(COIN_IMAGES_REQUIRED_KEYS);
 const COIN_IMAGE_REQUIRED_KEYS = ['src', 'alt'];
 const COIN_IMAGE_ALLOWED_KEYS = new Set([...COIN_IMAGE_REQUIRED_KEYS, 'label']);
 
-const SUMMARY_REQUIRED_KEYS = ['name', 'historicalPeriod', 'ruler', 'coreFeatures', 'estimatedValue', 'rarity', 'thumbnail'];
+const SUMMARY_REQUIRED_KEYS = [
+  'name', 'historicalPeriod', 'ruler', 'coreFeatures', 'estimatedValue', 'rarity', 'thumbnail',
+];
 const SUMMARY_ALLOWED_KEYS = new Set(SUMMARY_REQUIRED_KEYS);
 
 const COIN_REQUIRED_KEYS = ['id', 'name', 'dynasty', 'dynastyIndex', 'summary', 'detail'];
 const COIN_ALLOWED_KEYS = new Set(COIN_REQUIRED_KEYS);
 
 const DYNASTY_REQUIRED_KEYS = ['dynasty', 'dynastyIndex', 'coins'];
-const DYNASTY_ALLOWED_KEYS = new Set([...DYNASTY_REQUIRED_KEYS, '_source', '_sourceHash', '_generatedAt']);
-
-const SUMMARY_JSON_DYNASTY_KEYS = ['dynasty', 'dynastyIndex', 'coins'];
-const SUMMARY_JSON_COIN_KEYS = ['id', 'name', 'dynasty', 'dynastyIndex', 'summary'];
+const DYNASTY_ALLOWED_KEYS = new Set(DYNASTY_REQUIRED_KEYS);
 
 let errors = 0;
 let warnings = 0;
 
-function checkKeys(obj, allowedKeys, requiredKeys, path) {
+function checkKeys(obj, allowedKeys, requiredKeys, p) {
   if (!obj || typeof obj !== 'object') {
-    console.error(`❌ ${path}: 值为空或非对象`);
+    console.error(`❌ ${p}: 值为空或非对象`);
     errors++;
     return;
   }
   const keys = Object.keys(obj);
-  const missing = requiredKeys.filter(k => !(k in obj));
-  const extra = keys.filter(k => !allowedKeys.has(k));
-  for (const m of missing) {
-    console.error(`❌ ${path}: 缺少字段 "${m}"`);
+  for (const m of requiredKeys.filter((k) => !(k in obj))) {
+    console.error(`❌ ${p}: 缺少字段 "${m}"`);
     errors++;
   }
-  for (const e of extra) {
-    console.warn(`⚠️  ${path}: 多余字段 "${e}"`);
+  for (const e of keys.filter((k) => !allowedKeys.has(k))) {
+    console.warn(`⚠️  ${p}: 多余字段 "${e}"`);
     warnings++;
   }
 }
 
-function main() {
-  console.log('=== 数据校验开始 ===\n');
-
-  const coinsJsonPath = path.join(ROOT, 'data', 'coins.json');
-  if (!fs.existsSync(coinsJsonPath)) {
-    console.error('❌ coins.json 不存在');
-    process.exit(1);
+function validateDynastyJSON(data, label) {
+  checkKeys(data, DYNASTY_ALLOWED_KEYS, DYNASTY_REQUIRED_KEYS, label);
+  if (!Array.isArray(data.coins)) {
+    console.error(`❌ ${label}.coins 不是数组`);
+    errors++;
+    return;
   }
+  for (let i = 0; i < data.coins.length; i++) {
+    const coin = data.coins[i];
+    const coinPath = `${label}.coins[${i}] (${coin.name || '?'})`;
+    checkKeys(coin, COIN_ALLOWED_KEYS, COIN_REQUIRED_KEYS, coinPath);
 
-  const data = JSON.parse(fs.readFileSync(coinsJsonPath, 'utf-8'));
-
-  if (!Array.isArray(data)) {
-    console.error('❌ coins.json 顶层不是数组');
-    process.exit(1);
-  }
-
-  console.log(`--- 校验 coins.json (${data.length} 个朝代) ---\n`);
-
-  const hashErrors = checkSourceHashes(data);
-  if (hashErrors > 0) {
-    console.error(`\n❌ 发现 ${hashErrors} 个源文件哈希不匹配，请运行 npm run parse-data 重新构建\n`);
-    errors += hashErrors;
-  }
-
-  for (const dynasty of data) {
-    const dynastyPath = `dynasty[${dynasty.dynastyIndex}]`;
-    checkKeys(dynasty, DYNASTY_ALLOWED_KEYS, DYNASTY_REQUIRED_KEYS, dynastyPath);
-
-    if (!Array.isArray(dynasty.coins)) {
-      console.error(`❌ ${dynastyPath}.coins 不是数组`);
+    const expectedId = `${data.dynastyIndex}-${i}`;
+    if (coin.id !== expectedId) {
+      console.error(`❌ ${coinPath}.id 应为 "${expectedId}"，实际 "${coin.id}"`);
       errors++;
-      continue;
+    }
+    if (coin.dynastyIndex !== data.dynastyIndex) {
+      console.error(`❌ ${coinPath}.dynastyIndex 与所在朝代不一致`);
+      errors++;
     }
 
-    for (let i = 0; i < dynasty.coins.length; i++) {
-      const coin = dynasty.coins[i];
-      const coinPath = `${dynastyPath}.coins[${i}] (${coin.name || '?'})`;
-      checkKeys(coin, COIN_ALLOWED_KEYS, COIN_REQUIRED_KEYS, coinPath);
+    if (coin.summary) {
+      checkKeys(coin.summary, SUMMARY_ALLOWED_KEYS, SUMMARY_REQUIRED_KEYS, `${coinPath}.summary`);
+    }
 
-      if (coin.summary) {
-        checkKeys(coin.summary, SUMMARY_ALLOWED_KEYS, SUMMARY_REQUIRED_KEYS, `${coinPath}.summary`);
+    if (coin.detail) {
+      const dp = `${coinPath}.detail`;
+      checkKeys(coin.detail, COIN_DETAIL_ALLOWED_KEYS, COIN_DETAIL_REQUIRED_KEYS, dp);
+
+      if (coin.detail.featuresGroup) {
+        checkKeys(
+          coin.detail.featuresGroup,
+          FEATURES_GROUP_ALLOWED_KEYS,
+          FEATURES_GROUP_REQUIRED_KEYS,
+          `${dp}.featuresGroup`
+        );
       }
 
-      if (coin.detail) {
-        const detailPath = `${coinPath}.detail`;
-        checkKeys(coin.detail, COIN_DETAIL_ALLOWED_KEYS, COIN_DETAIL_REQUIRED_KEYS, detailPath);
-
-        if (coin.detail.featuresGroup) {
-          checkKeys(coin.detail.featuresGroup, FEATURES_GROUP_ALLOWED_KEYS, FEATURES_GROUP_REQUIRED_KEYS, `${detailPath}.featuresGroup`);
+      if (!Array.isArray(coin.detail.variantsTable)) {
+        console.error(`❌ ${dp}.variantsTable 不是数组`);
+        errors++;
+      } else {
+        for (let j = 0; j < coin.detail.variantsTable.length; j++) {
+          checkKeys(
+            coin.detail.variantsTable[j],
+            VARIANT_TABLE_ROW_ALLOWED_KEYS,
+            VARIANT_TABLE_ROW_REQUIRED_KEYS,
+            `${dp}.variantsTable[${j}]`
+          );
         }
+      }
 
-        if (!Array.isArray(coin.detail.variantsTable)) {
-          console.error(`❌ ${detailPath}.variantsTable 不是数组`);
-          errors++;
-        } else {
-          for (let j = 0; j < coin.detail.variantsTable.length; j++) {
-            const row = coin.detail.variantsTable[j];
-            checkKeys(row, VARIANT_TABLE_ROW_ALLOWED_KEYS, VARIANT_TABLE_ROW_REQUIRED_KEYS, `${detailPath}.variantsTable[${j}]`);
-          }
-        }
-
-        if (coin.detail.images) {
-          checkKeys(coin.detail.images, COIN_IMAGES_ALLOWED_KEYS, COIN_IMAGES_REQUIRED_KEYS, `${detailPath}.images`);
-          if (Array.isArray(coin.detail.images.variants)) {
-            for (let k = 0; k < coin.detail.images.variants.length; k++) {
-              checkKeys(coin.detail.images.variants[k], COIN_IMAGE_ALLOWED_KEYS, COIN_IMAGE_REQUIRED_KEYS, `${detailPath}.images.variants[${k}]`);
-            }
+      if (coin.detail.images) {
+        checkKeys(
+          coin.detail.images,
+          COIN_IMAGES_ALLOWED_KEYS,
+          COIN_IMAGES_REQUIRED_KEYS,
+          `${dp}.images`
+        );
+        if (Array.isArray(coin.detail.images.variants)) {
+          for (let k = 0; k < coin.detail.images.variants.length; k++) {
+            checkKeys(
+              coin.detail.images.variants[k],
+              COIN_IMAGE_ALLOWED_KEYS,
+              COIN_IMAGE_REQUIRED_KEYS,
+              `${dp}.images.variants[${k}]`
+            );
           }
         }
       }
     }
   }
+}
 
-  console.log('\n--- 校验 coins-summary.json ---\n');
+function validateReverseMD(jsonPath, data, expectedContent) {
+  const prefix = PREFIXES[data.dynastyIndex];
+  const mdName = `${prefix}-${data.dynasty}.md`;
+  const mdPath = path.join(TARGET_DIR, mdName);
+  if (!fs.existsSync(mdPath)) {
+    console.error(`❌ MD 缺失: docs/target/${mdName} — 请运行 pnpm run parse-data`);
+    errors++;
+    return;
+  }
+  const actual = fs.readFileSync(mdPath, 'utf-8');
+  if (actual !== expectedContent) {
+    console.error(
+      `❌ MD 与源 JSON 不同步: docs/target/${mdName}\n` +
+        `   → 可能被手工修改或未重新构建；请运行 pnpm run parse-data 重新生成`
+    );
+    errors++;
+  }
+}
+
+function main() {
+  console.log('=== 数据校验开始（JSON-first）===\n');
+
+  if (!fs.existsSync(DYNASTIES_DIR)) {
+    console.error('❌ data/dynasties/ 不存在');
+    process.exit(1);
+  }
+
+  const files = fs
+    .readdirSync(DYNASTIES_DIR)
+    .filter((f) => /^\d+\.json$/.test(f))
+    .sort((a, b) => parseInt(a) - parseInt(b));
+
+  console.log(`--- 校验 data/dynasties/*.json (${files.length} 个文件) ---\n`);
+  const allData = [];
+  for (const f of files) {
+    const jsonPath = path.join(DYNASTIES_DIR, f);
+    const { data, content } = buildMDFromDynasty(jsonPath);
+    validateDynastyJSON(data, `dynasties/${f}`);
+    validateReverseMD(jsonPath, data, content);
+    allData.push(data);
+  }
+
+  console.log('\n--- 校验 public/data/coins-summary.json ---\n');
   const summaryPath = path.join(ROOT, 'public', 'data', 'coins-summary.json');
   if (fs.existsSync(summaryPath)) {
     const summaryData = JSON.parse(fs.readFileSync(summaryPath, 'utf-8'));
     for (const dynasty of summaryData) {
       const dp = `summary.dynasty[${dynasty.dynastyIndex}]`;
-      const dynastyKeys = Object.keys(dynasty);
-      for (const k of SUMMARY_JSON_DYNASTY_KEYS) {
-        if (!dynastyKeys.includes(k)) {
+      for (const k of ['dynasty', 'dynastyIndex', 'coins']) {
+        if (!(k in dynasty)) {
           console.error(`❌ ${dp}: 缺少字段 "${k}"`);
           errors++;
         }
       }
       for (const coin of dynasty.coins || []) {
-        const coinKeys = Object.keys(coin);
-        for (const k of SUMMARY_JSON_COIN_KEYS) {
-          if (!coinKeys.includes(k)) {
+        for (const k of ['id', 'name', 'dynasty', 'dynastyIndex', 'summary']) {
+          if (!(k in coin)) {
             console.error(`❌ ${dp}.coins[${coin.id}]: 缺少字段 "${k}"`);
             errors++;
           }
         }
         if (coin.summary) {
-          checkKeys(coin.summary, SUMMARY_ALLOWED_KEYS, SUMMARY_REQUIRED_KEYS, `${dp}.coins[${coin.id}].summary`);
+          checkKeys(
+            coin.summary,
+            SUMMARY_ALLOWED_KEYS,
+            SUMMARY_REQUIRED_KEYS,
+            `${dp}.coins[${coin.id}].summary`
+          );
         }
       }
     }
+  } else {
+    console.error('❌ coins-summary.json 不存在');
+    errors++;
   }
 
-  console.log('\n--- 校验 detail JSON 文件 ---\n');
+  console.log('\n--- 校验 public/data/detail/*.json ---\n');
   const detailDir = path.join(ROOT, 'public', 'data', 'detail');
   if (fs.existsSync(detailDir)) {
-    const files = fs.readdirSync(detailDir).filter(f => f.endsWith('.json')).sort((a, b) => {
-      const na = parseInt(a), nb = parseInt(b);
-      return na - nb;
-    });
-    for (const file of files) {
+    const dfiles = fs
+      .readdirSync(detailDir)
+      .filter((f) => f.endsWith('.json'))
+      .sort((a, b) => parseInt(a) - parseInt(b));
+    for (const file of dfiles) {
       const detailMap = JSON.parse(fs.readFileSync(path.join(detailDir, file), 'utf-8'));
       for (const [coinId, detail] of Object.entries(detailMap)) {
-        checkKeys(detail, COIN_DETAIL_ALLOWED_KEYS, COIN_DETAIL_REQUIRED_KEYS, `detail/${file} [${coinId}]`);
+        checkKeys(
+          detail,
+          COIN_DETAIL_ALLOWED_KEYS,
+          COIN_DETAIL_REQUIRED_KEYS,
+          `detail/${file} [${coinId}]`
+        );
         if (detail.featuresGroup) {
-          checkKeys(detail.featuresGroup, FEATURES_GROUP_ALLOWED_KEYS, FEATURES_GROUP_REQUIRED_KEYS, `detail/${file} [${coinId}].featuresGroup`);
+          checkKeys(
+            detail.featuresGroup,
+            FEATURES_GROUP_ALLOWED_KEYS,
+            FEATURES_GROUP_REQUIRED_KEYS,
+            `detail/${file} [${coinId}].featuresGroup`
+          );
         }
-        if (detail.variantsTable && Array.isArray(detail.variantsTable)) {
+        if (Array.isArray(detail.variantsTable)) {
           for (let j = 0; j < detail.variantsTable.length; j++) {
-            checkKeys(detail.variantsTable[j], VARIANT_TABLE_ROW_ALLOWED_KEYS, VARIANT_TABLE_ROW_REQUIRED_KEYS, `detail/${file} [${coinId}].variantsTable[${j}]`);
+            checkKeys(
+              detail.variantsTable[j],
+              VARIANT_TABLE_ROW_ALLOWED_KEYS,
+              VARIANT_TABLE_ROW_REQUIRED_KEYS,
+              `detail/${file} [${coinId}].variantsTable[${j}]`
+            );
           }
         }
       }
     }
+  } else {
+    console.error('❌ public/data/detail/ 不存在');
+    errors++;
   }
 
   console.log('\n=== 校验结果 ===');
@@ -229,7 +268,7 @@ function main() {
     console.log('\n❌ 校验失败！请修复上述错误后重新执行。');
     process.exit(1);
   } else {
-    console.log('\n✅ 校验通过！所有字段完全匹配。');
+    console.log('\n✅ 校验通过！');
   }
 }
 

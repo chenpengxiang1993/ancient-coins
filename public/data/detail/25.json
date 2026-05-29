@@ -8,7 +8,7 @@
     "featuresGroup": {
       "common": "* 圆形方孔\n* 有汉文版和喃字版两种\n* 光背或背有纹饰",
       "obverse": "* 面文\"光中通宝\"四字楷书直读",
-      "reverse": ""
+      "reverse": "- 背面有文字或纹饰（详见版别体系）"
     },
     "images": {
       "main": "",
@@ -16,18 +16,18 @@
     },
     "variantsTable": [
       {
-        "variant": "汉文小平",
+        "variant": "汉文小平（普品）",
         "description": "面文汉文楷书，直径约2.4厘米，重约2.5—3.5克",
         "grade": "八级（较多） 普品",
         "priceRange": "20—50元",
         "notes": "越南铸币"
       },
       {
-        "variant": "汉文小平",
+        "variant": "汉文小平（美品）",
         "description": "面文汉文楷书，直径约2.4厘米，重约2.5—3.5克",
         "grade": "八级（较多） 美品",
         "priceRange": "50—100元",
-        "notes": ""
+        "notes": "汉文小平"
       },
       {
         "variant": "喃字版",
@@ -54,7 +54,7 @@
     "featuresGroup": {
       "common": "* 圆形方孔\n* 版别极多，有小平、折二、折三、背文、光背多种\n* 部分背面铸有纪年、纪地文字",
       "obverse": "* 面文\"景兴通宝\"四字楷书直读",
-      "reverse": ""
+      "reverse": "- 背面有文字或纹饰（详见版别体系）"
     },
     "images": {
       "main": "",
@@ -62,32 +62,32 @@
     },
     "variantsTable": [
       {
-        "variant": "小平光背",
+        "variant": "小平光背（普品）",
         "description": "背面无文，直径约2.4厘米，重约2.5—3.5克。另有多种大钱",
         "grade": "八级（较多） 普品",
         "priceRange": "10—30元",
         "notes": "越南铸币"
       },
       {
-        "variant": "小平光背",
+        "variant": "小平光背（美品）",
         "description": "背面无文，直径约2.4厘米，重约2.5—3.5克。另有多种大钱",
         "grade": "八级（较多） 美品",
         "priceRange": "30—50元",
-        "notes": ""
+        "notes": "小平光背"
       },
       {
         "variant": "小平背文",
         "description": "背面铸有文字，直径约2.4厘米，重约2.5—3.5克。另有多种大钱",
         "grade": "八级（较多） 美品",
         "priceRange": "30—100元",
-        "notes": ""
+        "notes": "小平背文"
       },
       {
         "variant": "大钱版",
         "description": "多种面值",
         "grade": "八级（较多） 美品",
         "priceRange": "50—200元",
-        "notes": ""
+        "notes": "大钱版"
       },
       {
         "variant": "折二版",
@@ -107,7 +107,7 @@
     "featuresGroup": {
       "common": "* 圆形方孔\n* 光背或背有纹饰、文字\n* 版别极多",
       "obverse": "* 面文\"宽永通宝\"四字楷书直读",
-      "reverse": ""
+      "reverse": "- 背面有文字或纹饰（详见版别体系）"
     },
     "images": {
       "main": "",
@@ -115,32 +115,32 @@
     },
     "variantsTable": [
       {
-        "variant": "光背版",
+        "variant": "光背版（普品）",
         "description": "背面无文",
         "grade": "八级（较多） 普品",
         "priceRange": "5—10元",
         "notes": "日本铸币"
       },
       {
-        "variant": "光背版",
+        "variant": "光背版（美品）",
         "description": "背面无文",
         "grade": "八级（较多） 美品",
         "priceRange": "10—30元",
-        "notes": ""
+        "notes": "光背版"
       },
       {
         "variant": "背\"文\"版",
         "description": "背面铸\"文\"字",
         "grade": "八级（较多） 美品",
         "priceRange": "10—30元",
-        "notes": ""
+        "notes": "背\"文\"版"
       },
       {
         "variant": "少见版",
         "description": "较少见的版别",
-        "grade": "七级（较少） 美品",
+        "grade": "八级（较多） 美品",
         "priceRange": "30—100元",
-        "notes": ""
+        "notes": "少见版"
       },
       {
         "variant": "背\"小\"版",
@@ -174,7 +174,7 @@
     "featuresGroup": {
       "common": "* 圆形方孔\n* 光背为主",
       "obverse": "* 面文\"景盛通宝\"四字楷书直读",
-      "reverse": ""
+      "reverse": "- 背面有文字或纹饰（详见版别体系）"
     },
     "images": {
       "main": "",
@@ -182,25 +182,25 @@
     },
     "variantsTable": [
       {
-        "variant": "小平光背",
+        "variant": "小平光背（普品）",
         "description": "背面无文，直径约2.4厘米，重约2.5—3.5克",
         "grade": "八级（较多） 普品",
         "priceRange": "20—50元",
         "notes": "越南铸币"
       },
       {
-        "variant": "小平光背",
+        "variant": "小平光背（美品）",
         "description": "背面无文，直径约2.4厘米，重约2.5—3.5克",
         "grade": "八级（较多） 美品",
         "priceRange": "50—100元",
-        "notes": ""
+        "notes": "小平光背"
       },
       {
-        "variant": "小平光背",
+        "variant": "小平光背（极美品）",
         "description": "背面无文，直径约2.4厘米，重约2.5—3.5克",
         "grade": "八级（较多） 极美品",
         "priceRange": "100—200元",
-        "notes": ""
+        "notes": "小平光背"
       },
       {
         "variant": "小平背纹版",

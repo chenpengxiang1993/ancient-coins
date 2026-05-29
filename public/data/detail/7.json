@@ -15,13 +15,13 @@
       "variants": [
         {
           "src": "/images/coins/h-北朝钱币/太和五铢/variant_1.jpg",
-          "alt": "太和五铢 - 标准型太和五铢",
-          "label": "标准型太和五铢"
+          "alt": "太和五铢 - 小字版",
+          "label": "小字版"
         },
         {
           "src": "/images/coins/h-北朝钱币/太和五铢/variant_2.jpg",
-          "alt": "太和五铢 - 大字版",
-          "label": "大字版"
+          "alt": "太和五铢 - 标准型太和五铢",
+          "label": "标准型太和五铢"
         }
       ]
     },
@@ -65,26 +65,26 @@
       "variants": [
         {
           "src": "/images/coins/h-北朝钱币/永平五铢/variant_1.jpg",
-          "alt": "永平五铢 - 标准型永平五铢",
-          "label": "标准型永平五铢"
+          "alt": "永平五铢 - 标准型永平五铢（普品）",
+          "label": "标准型永平五铢（普品）"
         },
         {
           "src": "/images/coins/h-北朝钱币/永平五铢/variant_2.jpg",
-          "alt": "永平五铢 - 版别2",
-          "label": "版别2"
+          "alt": "永平五铢 - 标准型永平五铢（美品）",
+          "label": "标准型永平五铢（美品）"
         }
       ]
     },
     "variantsTable": [
       {
-        "variant": "标准型永平五铢",
+        "variant": "标准型永平五铢（普品）",
         "description": "直径2.4—2.5cm",
         "grade": "八级（较多） 普品",
         "priceRange": "50—150元",
         "notes": "较常见"
       },
       {
-        "variant": "标准型永平五铢",
+        "variant": "标准型永平五铢（美品）",
         "description": "直径2.4—2.5cm",
         "grade": "八级（较多） 美品",
         "priceRange": "150—500元",
@@ -108,26 +108,26 @@
       "variants": [
         {
           "src": "/images/coins/h-北朝钱币/永安五铢/variant_1.jpg",
-          "alt": "永安五铢 - 标准型永安五铢",
-          "label": "标准型永安五铢"
+          "alt": "永安五铢 - 标准型永安五铢（普品）",
+          "label": "标准型永安五铢（普品）"
         },
         {
           "src": "/images/coins/h-北朝钱币/永安五铢/variant_2.jpg",
-          "alt": "永安五铢 - 大字版",
-          "label": "大字版"
+          "alt": "永安五铢 - 标准型永安五铢（美品）",
+          "label": "标准型永安五铢（美品）"
         }
       ]
     },
     "variantsTable": [
       {
-        "variant": "标准型永安五铢",
+        "variant": "标准型永安五铢（普品）",
         "description": "直径2.4—2.5cm",
         "grade": "八级（较多） 普品",
         "priceRange": "50—150元",
         "notes": "较常见"
       },
       {
-        "variant": "标准型永安五铢",
+        "variant": "标准型永安五铢（美品）",
         "description": "直径2.4—2.5cm",
         "grade": "八级（较多） 美品",
         "priceRange": "150—400元",
@@ -166,14 +166,14 @@
     },
     "variantsTable": [
       {
-        "variant": "标准型东魏五铢",
+        "variant": "标准型东魏五铢（普品）",
         "description": "直径2.3—2.5cm",
         "grade": "八级（较多） 普品",
         "priceRange": "30—80元",
         "notes": "较常见"
       },
       {
-        "variant": "标准型东魏五铢",
+        "variant": "标准型东魏五铢（美品）",
         "description": "直径2.3—2.5cm",
         "grade": "八级（较多） 美品",
         "priceRange": "80—300元",
@@ -198,14 +198,14 @@
     },
     "variantsTable": [
       {
-        "variant": "标准型大统五铢",
+        "variant": "标准型大统五铢（普品）",
         "description": "直径2.4—2.5cm",
         "grade": "八级（较多） 普品",
         "priceRange": "50—150元",
         "notes": "较常见"
       },
       {
-        "variant": "标准型大统五铢",
+        "variant": "标准型大统五铢（美品）",
         "description": "直径2.4—2.5cm",
         "grade": "八级（较多） 美品",
         "priceRange": "150—500元",
@@ -229,26 +229,26 @@
       "variants": [
         {
           "src": "/images/coins/h-北朝钱币/常平五铢/variant_1.jpg",
-          "alt": "常平五铢 - 标准型常平五铢",
-          "label": "标准型常平五铢"
+          "alt": "常平五铢 - 标准型常平五铢（普品）",
+          "label": "标准型常平五铢（普品）"
         },
         {
           "src": "/images/coins/h-北朝钱币/常平五铢/variant_2.jpg",
-          "alt": "常平五铢 - 大字版",
-          "label": "大字版"
+          "alt": "常平五铢 - 标准型常平五铢（美品）",
+          "label": "标准型常平五铢（美品）"
         }
       ]
     },
     "variantsTable": [
       {
-        "variant": "标准型常平五铢",
+        "variant": "标准型常平五铢（普品）",
         "description": "直径2.4—2.5cm，铸工极精",
         "grade": "八级（较多） 普品",
         "priceRange": "50—150元",
         "notes": "较常见"
       },
       {
-        "variant": "标准型常平五铢",
+        "variant": "标准型常平五铢（美品）",
         "description": "直径2.4—2.5cm，铸工极精",
         "grade": "八级（较多） 美品",
         "priceRange": "150—400元",
@@ -287,14 +287,14 @@
     },
     "variantsTable": [
       {
-        "variant": "标准型布泉",
+        "variant": "标准型布泉（普品）",
         "description": "直径2.5—2.6cm，铸工极精",
         "grade": "八级（较多） 普品",
         "priceRange": "200—500元",
         "notes": "较常见"
       },
       {
-        "variant": "标准型布泉",
+        "variant": "标准型布泉（美品）",
         "description": "直径2.5—2.6cm，铸工极精",
         "grade": "八级（较多） 美品",
         "priceRange": "500—1,500元",
@@ -325,13 +325,13 @@
       "variants": [
         {
           "src": "/images/coins/h-北朝钱币/五行大布/variant_1.jpg",
-          "alt": "五行大布 - 标准型五行大布",
-          "label": "标准型五行大布"
+          "alt": "五行大布 - 标准型五行大布（普品）",
+          "label": "标准型五行大布（普品）"
         },
         {
           "src": "/images/coins/h-北朝钱币/五行大布/variant_2.jpg",
-          "alt": "五行大布 - 大字版",
-          "label": "大字版"
+          "alt": "五行大布 - 标准型五行大布（美品）",
+          "label": "标准型五行大布（美品）"
         },
         {
           "src": "/images/coins/h-北朝钱币/五行大布/variant_3.jpg",
@@ -342,14 +342,14 @@
     },
     "variantsTable": [
       {
-        "variant": "标准型五行大布",
+        "variant": "标准型五行大布（普品）",
         "description": "直径2.7—2.8cm",
         "grade": "十级（多泛） 普品",
         "priceRange": "50—150元",
         "notes": "北周三品中最常见"
       },
       {
-        "variant": "标准型五行大布",
+        "variant": "标准型五行大布（美品）",
         "description": "直径2.7—2.8cm",
         "grade": "八级（较多） 美品",
         "priceRange": "150—400元",
@@ -387,31 +387,31 @@
       "variants": [
         {
           "src": "/images/coins/h-北朝钱币/永通万国/variant_1.jpg",
-          "alt": "永通万国 - 标准型永通万国",
-          "label": "标准型永通万国"
+          "alt": "永通万国 - 标准型永通万国（普品）",
+          "label": "标准型永通万国（普品）"
         },
         {
           "src": "/images/coins/h-北朝钱币/永通万国/variant_2.jpg",
-          "alt": "永通万国 - 大字版",
-          "label": "大字版"
+          "alt": "永通万国 - 标准型永通万国（美品）",
+          "label": "标准型永通万国（美品）"
         },
         {
           "src": "/images/coins/h-北朝钱币/永通万国/variant_3.jpg",
-          "alt": "永通万国 - 合背版",
-          "label": "合背版"
+          "alt": "永通万国 - 大字版",
+          "label": "大字版"
         }
       ]
     },
     "variantsTable": [
       {
-        "variant": "标准型永通万国",
+        "variant": "标准型永通万国（普品）",
         "description": "直径约3.0cm，铸工极精",
         "grade": "八级（较多） 普品",
         "priceRange": "200—500元",
         "notes": "存世较少"
       },
       {
-        "variant": "标准型永通万国",
+        "variant": "标准型永通万国（美品）",
         "description": "直径约3.0cm，铸工极精",
         "grade": "八级（较多） 美品",
         "priceRange": "500—2,000元",

@@ -16,14 +16,14 @@
     },
     "variantsTable": [
       {
-        "variant": "标准型沈郎五铢",
+        "variant": "标准型沈郎五铢（普品）",
         "description": "直径2.0—2.3cm",
         "grade": "八级（较多） 普品",
         "priceRange": "100—300元",
         "notes": "存世较少"
       },
       {
-        "variant": "标准型沈郎五铢",
+        "variant": "标准型沈郎五铢（美品）",
         "description": "直径2.0—2.3cm",
         "grade": "八级（较多） 美品",
         "priceRange": "300—1,000元",
@@ -54,33 +54,33 @@
       "variants": [
         {
           "src": "/images/coins/f-两晋十六国钱币/凉造新泉/variant_1.jpg",
-          "alt": "凉造新泉 - 标准型凉造新泉",
-          "label": "标准型凉造新泉"
+          "alt": "凉造新泉 - 标准型凉造新泉（普品）",
+          "label": "标准型凉造新泉（普品）"
         },
         {
           "src": "/images/coins/f-两晋十六国钱币/凉造新泉/variant_2.jpg",
-          "alt": "凉造新泉 - 大字型",
-          "label": "大字型"
+          "alt": "凉造新泉 - 标准型凉造新泉（美品）",
+          "label": "标准型凉造新泉（美品）"
         },
         {
           "src": "/images/coins/f-两晋十六国钱币/凉造新泉/variant_3.jpg",
-          "alt": "凉造新泉 - 版别3",
-          "label": "版别3"
+          "alt": "凉造新泉 - 大字型",
+          "label": "大字型"
         }
       ]
     },
     "variantsTable": [
       {
-        "variant": "标准型凉造新泉",
+        "variant": "标准型凉造新泉（普品）",
         "description": "直径1.8—2.1cm。面文\"凉造新泉\"笔画纤细，\"凉\"字\"冫\"部清晰，\"造\"字\"辶\"部简化，\"新泉\"二字结构紧凑。铸工尚可",
-        "grade": "八级（较多） 普品",
+        "grade": "七级（甚少） 普品",
         "priceRange": "3,000—10,000元",
         "notes": "存世稀少"
       },
       {
-        "variant": "标准型凉造新泉",
+        "variant": "标准型凉造新泉（美品）",
         "description": "直径1.8—2.1cm。面文\"凉造新泉\"笔画纤细，\"凉\"字\"冫\"部清晰，\"造\"字\"辶\"部简化，\"新泉\"二字结构紧凑。铸工尚可",
-        "grade": "八级（较多） 美品",
+        "grade": "七级（甚少） 美品",
         "priceRange": "10,000—30,000元",
         "notes": "文字清晰"
       },
@@ -109,40 +109,40 @@
       "variants": [
         {
           "src": "/images/coins/f-两晋十六国钱币/汉兴钱/variant_1.jpg",
-          "alt": "汉兴钱 - 直读型",
-          "label": "直读型"
+          "alt": "汉兴钱 - 直读型（普品）",
+          "label": "直读型（普品）"
         },
         {
           "src": "/images/coins/f-两晋十六国钱币/汉兴钱/variant_2.jpg",
-          "alt": "汉兴钱 - 横读型",
-          "label": "横读型"
+          "alt": "汉兴钱 - 直读型（美品）",
+          "label": "直读型（美品）"
         }
       ]
     },
     "variantsTable": [
       {
-        "variant": "直读型",
+        "variant": "直读型（普品）",
         "description": "面文\"汉兴\"二字上下排列（穿上下各一字）",
         "grade": "八级（较多） 普品",
         "priceRange": "500—1,500元",
         "notes": "较横读型多见"
       },
       {
-        "variant": "直读型",
+        "variant": "直读型（美品）",
         "description": "面文\"汉兴\"二字上下排列（穿上下各一字）",
         "grade": "八级（较多） 美品",
         "priceRange": "1,500—3,000元",
         "notes": "文字清晰"
       },
       {
-        "variant": "横读型",
+        "variant": "横读型（普品）",
         "description": "面文\"汉兴\"二字左右排列（穿左右各一字）",
         "grade": "六级（少） 普品",
         "priceRange": "800—2,000元",
         "notes": "较直读型少见"
       },
       {
-        "variant": "横读型",
+        "variant": "横读型（美品）",
         "description": "面文\"汉兴\"二字左右排列（穿左右各一字）",
         "grade": "八级（较多） 美品",
         "priceRange": "2,000—5,000元",
@@ -166,31 +166,31 @@
       "variants": [
         {
           "src": "/images/coins/f-两晋十六国钱币/丰货钱/variant_1.jpg",
-          "alt": "丰货钱 - 篆书丰货",
-          "label": "篆书丰货"
+          "alt": "丰货钱 - 隶书丰货（普品）",
+          "label": "隶书丰货（普品）"
         },
         {
           "src": "/images/coins/f-两晋十六国钱币/丰货钱/variant_2.jpg",
-          "alt": "丰货钱 - 隶书丰货",
-          "label": "隶书丰货"
+          "alt": "丰货钱 - 隶书丰货（美品）",
+          "label": "隶书丰货（美品）"
         },
         {
           "src": "/images/coins/f-两晋十六国钱币/丰货钱/variant_3.jpg",
-          "alt": "丰货钱 - 版别3",
-          "label": "版别3"
+          "alt": "丰货钱 - 篆书丰货",
+          "label": "篆书丰货"
         }
       ]
     },
     "variantsTable": [
       {
-        "variant": "隶书丰货",
+        "variant": "隶书丰货（普品）",
         "description": "面文为隶书，较常见",
         "grade": "八级（较多） 普品",
         "priceRange": "500—1,000元",
         "notes": "较常见"
       },
       {
-        "variant": "隶书丰货",
+        "variant": "隶书丰货（美品）",
         "description": "面文为隶书，较常见",
         "grade": "八级（较多） 美品",
         "priceRange": "1,000—2,500元",
@@ -221,26 +221,26 @@
       "variants": [
         {
           "src": "/images/coins/f-两晋十六国钱币/太夏真兴/variant_1.jpg",
-          "alt": "太夏真兴 - 标准型太夏真兴",
-          "label": "标准型太夏真兴"
+          "alt": "太夏真兴 - 标准型太夏真兴（普品）",
+          "label": "标准型太夏真兴（普品）"
         },
         {
           "src": "/images/coins/f-两晋十六国钱币/太夏真兴/variant_2.jpg",
-          "alt": "太夏真兴 - 版别2",
-          "label": "版别2"
+          "alt": "太夏真兴 - 标准型太夏真兴（美品）",
+          "label": "标准型太夏真兴（美品）"
         }
       ]
     },
     "variantsTable": [
       {
-        "variant": "标准型太夏真兴",
+        "variant": "标准型太夏真兴（普品）",
         "description": "直径2.2—2.4cm",
         "grade": "二级（极罕） 普品",
         "priceRange": "30,000—80,000元",
         "notes": "存世极罕"
       },
       {
-        "variant": "标准型太夏真兴",
+        "variant": "标准型太夏真兴（美品）",
         "description": "直径2.2—2.4cm",
         "grade": "二级（极罕） 美品",
         "priceRange": "80,000—200,000元",

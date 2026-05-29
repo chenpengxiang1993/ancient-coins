@@ -1,0 +1,840 @@
+{
+  "dynasty": "西夏钱币",
+  "dynastyIndex": 13,
+  "coins": [
+    {
+      "id": "13-0",
+      "name": "福圣宝钱",
+      "dynasty": "西夏钱币",
+      "dynastyIndex": 13,
+      "summary": {
+        "name": "福圣宝钱",
+        "historicalPeriod": "西夏（1053年）",
+        "ruler": "毅宗李谅祚",
+        "coreFeatures": "西夏文钱币，存世稀少",
+        "estimatedValue": "5,000—150,000元",
+        "rarity": "三级（罕贵）",
+        "thumbnail": "/images/coins/n-西夏钱币/福圣宝钱/main.jpg"
+      },
+      "detail": {
+        "castingTime": "西夏毅宗李谅祚福圣承道年间（公元1053年—1056年）。",
+        "material": "青铜（铜、锡、铅合金），铜含量约55%—70%，锡含量约5%—10%，铅含量约15%—25%。西夏铸币铜质尚可。出土后表面多呈青绿色锈蚀，原始铸造色泽偏暗黄至金黄色。",
+        "dimensions": "直径约2.4厘米，单枚重量约3.5克。",
+        "castingCraft": "采用范铸法（铜范或砂范），一范多钱。福圣宝钱为西夏毅宗李谅祚福圣承道年间（公元1053年—1056年）铸行，为西夏最早的铸币之一。制作流程为：先雕刻福圣宝钱阴文母范（含面文\"福圣宝钱\"西夏文），中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。西夏文钱文由野利仁荣创制的西夏文字书写，铸量极少。",
+        "coreBackground": "福圣宝钱为西夏最早的铸币之一，使用西夏文（蕃书）钱文。马定祥十级制定为三级（罕贵）。",
+        "featuresGroup": {
+          "common": "- 形制：圆形方孔，有内外廓\n- 铸造工艺：翻砂法，铸工较精\n- 青铜质地，铜质偏红\n- 面文为西夏文，为西夏特有铸币体系\n- 西夏文钱币，铸量极少，存世稀少",
+          "obverse": "* 面文\"福圣宝钱\"为西夏文（又称蕃书），由西夏文字创制者野利仁荣创制",
+          "reverse": "* 背面光素无文"
+        },
+        "images": {
+          "main": "/images/coins/n-西夏钱币/福圣宝钱/main.jpg",
+          "variants": []
+        },
+        "variantsTable": [
+          {
+            "variant": "小平钱（美品）",
+            "description": "仅见小平钱，直径约2.3—2.5cm，重约3—4g",
+            "grade": "一级（孤品） 美品",
+            "priceRange": "30000—80000元",
+            "notes": "西夏文钱，存世极罕"
+          },
+          {
+            "variant": "小平钱（极美品）",
+            "description": "仅见小平钱，直径约2.3—2.5cm，重约3—4g",
+            "grade": "一级（孤品） 极美品",
+            "priceRange": "80000—150000元",
+            "notes": "小平钱"
+          }
+        ]
+      }
+    },
+    {
+      "id": "13-1",
+      "name": "大安宝钱",
+      "dynasty": "西夏钱币",
+      "dynastyIndex": 13,
+      "summary": {
+        "name": "大安宝钱",
+        "historicalPeriod": "西夏（1075年）",
+        "ruler": "惠宗李秉常",
+        "coreFeatures": "西夏文钱币，存世稀少",
+        "estimatedValue": "5000—30000元",
+        "rarity": "五级（稀贵）",
+        "thumbnail": "/images/coins/n-西夏钱币/大安宝钱/main.jpg"
+      },
+      "detail": {
+        "castingTime": "西夏惠宗李秉常大安年间（公元1075年—1085年）。",
+        "material": "青铜（铜、锡、铅合金），铜含量约55%—70%，锡含量约5%—10%，铅含量约15%—25%。西夏铸币铜质尚可。出土后表面多呈青绿色锈蚀，原始铸造色泽偏暗黄至金黄色。",
+        "dimensions": "直径约2.4厘米，单枚重量约3.5克。",
+        "castingCraft": "采用范铸法（铜范或砂范），一范多钱。大安宝钱为西夏惠宗李秉常大安年间（公元1075年—1085年）铸行。制作流程为：先雕刻大安宝钱阴文母范（含面文\"大安宝钱\"西夏文），中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。西夏文钱文，存世稀少。",
+        "coreBackground": "大安宝钱为西夏文钱币，存世稀少。",
+        "featuresGroup": {
+          "common": "- 形制：圆形方孔，有内外廓\n- 铸造工艺：翻砂法，铸工较精\n- 青铜质地，铜质偏红\n- 面文为西夏文，为西夏特有铸币体系",
+          "obverse": "* 面文\"大安宝钱\"为西夏文",
+          "reverse": "* 背面光素无文"
+        },
+        "images": {
+          "main": "/images/coins/n-西夏钱币/大安宝钱/main.jpg",
+          "variants": [
+            {
+              "src": "/images/coins/n-西夏钱币/大安宝钱/variant_1.jpg",
+              "alt": "大安宝钱 - 小平钱（美品）",
+              "label": "小平钱（美品）"
+            },
+            {
+              "src": "/images/coins/n-西夏钱币/大安宝钱/variant_2.jpg",
+              "alt": "大安宝钱 - 小平钱（极美品）",
+              "label": "小平钱（极美品）"
+            }
+          ]
+        },
+        "variantsTable": [
+          {
+            "variant": "小平钱（美品）",
+            "description": "仅见小平钱，直径约2.3—2.5cm，重约3—4g",
+            "grade": "三级（罕贵） 美品",
+            "priceRange": "3000—10000元",
+            "notes": "小平钱"
+          },
+          {
+            "variant": "小平钱（极美品）",
+            "description": "仅见小平钱，直径约2.3—2.5cm，重约3—4g",
+            "grade": "三级（罕贵） 极美品",
+            "priceRange": "10000—20000元",
+            "notes": "小平钱"
+          }
+        ]
+      }
+    },
+    {
+      "id": "13-2",
+      "name": "大安通宝",
+      "dynasty": "西夏钱币",
+      "dynastyIndex": 13,
+      "summary": {
+        "name": "大安通宝",
+        "historicalPeriod": "西夏（1075年）",
+        "ruler": "惠宗李秉常",
+        "coreFeatures": "汉文钱币，存世稀少",
+        "estimatedValue": "5000—30000元",
+        "rarity": "五级（稀贵）",
+        "thumbnail": "/images/coins/n-西夏钱币/大安通宝/main.jpg"
+      },
+      "detail": {
+        "castingTime": "西夏惠宗李秉常大安年间（公元1075年—1085年）。",
+        "material": "青铜（铜、锡、铅合金），铜含量约55%—70%，锡含量约5%—10%，铅含量约15%—25%。西夏铸币铜质尚可。出土后表面多呈青绿色锈蚀，原始铸造色泽偏暗黄至金黄色。",
+        "dimensions": "直径约2.4厘米，单枚重量约3.5克。",
+        "castingCraft": "采用范铸法（铜范或砂范），一范多钱。大安通宝为西夏惠宗李秉常大安年间（公元1075年—1085年）铸行，与大安宝钱（西夏文）并行。制作流程为：先雕刻大安通宝阴文母范（含面文\"大安通宝\"四字，汉文楷书），中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。汉文钱币，存世稀少。",
+        "coreBackground": "大安通宝为汉文钱币，与大安宝钱（西夏文）并行，存世稀少。",
+        "featuresGroup": {
+          "common": "- 形制：圆形方孔，有内外廓\n- 铸造工艺：翻砂法，铸工较精\n- 青铜质地，部分含铁\n- 面文为汉文，受宋钱影响深远",
+          "obverse": "* 面文\"大安通宝\"，汉文，四字对读，楷书",
+          "reverse": "* 背面光素无文"
+        },
+        "images": {
+          "main": "/images/coins/n-西夏钱币/大安通宝/main.jpg",
+          "variants": []
+        },
+        "variantsTable": [
+          {
+            "variant": "小平钱（美品）",
+            "description": "仅见小平钱，直径约2.3—2.5cm，重约3—4g",
+            "grade": "三级（罕贵） 美品",
+            "priceRange": "5000—15000元",
+            "notes": "小平钱"
+          },
+          {
+            "variant": "小平钱（极美品）",
+            "description": "仅见小平钱，直径约2.3—2.5cm，重约3—4g",
+            "grade": "三级（罕贵） 极美品",
+            "priceRange": "15000—30000元",
+            "notes": "小平钱"
+          }
+        ]
+      }
+    },
+    {
+      "id": "13-3",
+      "name": "贞观宝钱",
+      "dynasty": "西夏钱币",
+      "dynastyIndex": 13,
+      "summary": {
+        "name": "贞观宝钱",
+        "historicalPeriod": "西夏（1101年）",
+        "ruler": "崇宗李乾顺",
+        "coreFeatures": "西夏文钱币，存世极罕",
+        "estimatedValue": "30000—150000元",
+        "rarity": "三级（罕贵）",
+        "thumbnail": "/images/coins/n-西夏钱币/贞观宝钱/main.jpg"
+      },
+      "detail": {
+        "castingTime": "西夏崇宗李乾顺贞观年间（公元1101年—1113年）。",
+        "material": "青铜（铜、锡、铅合金），铜含量约55%—70%，锡含量约5%—10%，铅含量约15%—25%。西夏铸币铜质尚可。出土后表面多呈青绿色锈蚀，原始铸造色泽偏暗黄至金黄色。",
+        "dimensions": "直径约2.4厘米，单枚重量约3.5克。",
+        "castingCraft": "采用范铸法（铜范或砂范），一范多钱。贞观宝钱为西夏崇宗李乾顺贞观年间（公元1101年—1113年）铸行。制作流程为：先雕刻贞观宝钱阴文母范（含面文\"贞观宝钱\"西夏文），中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。西夏文钱文，存世极罕。",
+        "coreBackground": "贞观宝钱为西夏文钱币，存世极罕。马定祥十级制定为三级（罕贵）。",
+        "featuresGroup": {
+          "common": "- 形制：圆形方孔，有内外廓\n- 铸造工艺：翻砂法，铸工较精\n- 青铜质地，铜质偏红\n- 面文为西夏文，为西夏特有铸币体系\n- 西夏文钱币，铸量极少，存世稀少",
+          "obverse": "* 面文\"贞观宝钱\"为西夏文",
+          "reverse": "* 背面光素无文"
+        },
+        "images": {
+          "main": "/images/coins/n-西夏钱币/贞观宝钱/main.jpg",
+          "variants": [
+            {
+              "src": "/images/coins/n-西夏钱币/贞观宝钱/variant_1.jpg",
+              "alt": "贞观宝钱 - 小平钱（美品）",
+              "label": "小平钱（美品）"
+            },
+            {
+              "src": "/images/coins/n-西夏钱币/贞观宝钱/variant_2.jpg",
+              "alt": "贞观宝钱 - 小平钱（极美品）",
+              "label": "小平钱（极美品）"
+            }
+          ]
+        },
+        "variantsTable": [
+          {
+            "variant": "小平钱（美品）",
+            "description": "仅见小平钱，直径约2.3—2.5cm，重约3—4g",
+            "grade": "一级（孤品） 美品",
+            "priceRange": "30000—80000元",
+            "notes": "存世极罕"
+          },
+          {
+            "variant": "小平钱（极美品）",
+            "description": "仅见小平钱，直径约2.3—2.5cm，重约3—4g",
+            "grade": "一级（孤品） 极美品",
+            "priceRange": "80000—150000元",
+            "notes": "小平钱"
+          }
+        ]
+      }
+    },
+    {
+      "id": "13-4",
+      "name": "元德通宝",
+      "dynasty": "西夏钱币",
+      "dynastyIndex": 13,
+      "summary": {
+        "name": "元德通宝",
+        "historicalPeriod": "西夏（1119年）",
+        "ruler": "崇宗李乾顺",
+        "coreFeatures": "汉文钱币，存世稀少",
+        "estimatedValue": "3000—20000元",
+        "rarity": "六级（稀）",
+        "thumbnail": "/images/coins/n-西夏钱币/元德通宝/main.jpg"
+      },
+      "detail": {
+        "castingTime": "西夏崇宗李乾顺元德年间（公元1119年—1126年）。",
+        "material": "青铜（铜、锡、铅合金），铜含量约55%—70%，锡含量约5%—10%，铅含量约15%—25%。西夏铸币铜质尚可。出土后表面多呈青绿色锈蚀，原始铸造色泽偏暗黄至金黄色。",
+        "dimensions": "直径约2.4厘米，单枚重量约3.5克。",
+        "castingCraft": "采用范铸法（铜范或砂范），一范多钱。元德通宝为西夏崇宗李乾顺元德年间（公元1119年—1126年）铸行。制作流程为：先雕刻元德通宝阴文母范（含面文\"元德通宝\"四字，汉文楷书），中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。汉文钱币，铸量有限。",
+        "coreBackground": "元德通宝为汉文钱币，铸量有限。",
+        "featuresGroup": {
+          "common": "- 形制：圆形方孔，有内外廓\n- 铸造工艺：翻砂法，铸工较精\n- 青铜质地，部分含铁\n- 面文为汉文，受宋钱影响深远",
+          "obverse": "* 面文\"元德通宝\"，汉文，四字对读，楷书",
+          "reverse": "* 背面光素无文"
+        },
+        "images": {
+          "main": "/images/coins/n-西夏钱币/元德通宝/main.jpg",
+          "variants": [
+            {
+              "src": "/images/coins/n-西夏钱币/元德通宝/variant_1.jpg",
+              "alt": "元德通宝 - 小平钱（普品）",
+              "label": "小平钱（普品）"
+            },
+            {
+              "src": "/images/coins/n-西夏钱币/元德通宝/variant_2.jpg",
+              "alt": "元德通宝 - 小平钱（美品）",
+              "label": "小平钱（美品）"
+            }
+          ]
+        },
+        "variantsTable": [
+          {
+            "variant": "小平钱（普品）",
+            "description": "仅见小平钱，直径约2.3—2.5cm，重约3—4g",
+            "grade": "四级（罕见） 普品",
+            "priceRange": "3000—8000元",
+            "notes": "小平钱"
+          },
+          {
+            "variant": "小平钱（美品）",
+            "description": "仅见小平钱，直径约2.3—2.5cm，重约3—4g",
+            "grade": "四级（罕见） 美品",
+            "priceRange": "8000—15000元",
+            "notes": "小平钱"
+          },
+          {
+            "variant": "小平钱（极美品）",
+            "description": "仅见小平钱，直径约2.3—2.5cm，重约3—4g",
+            "grade": "四级（罕见） 极美品",
+            "priceRange": "15000—20000元",
+            "notes": "小平钱"
+          }
+        ]
+      }
+    },
+    {
+      "id": "13-5",
+      "name": "元德重宝",
+      "dynasty": "西夏钱币",
+      "dynastyIndex": 13,
+      "summary": {
+        "name": "元德重宝",
+        "historicalPeriod": "西夏（1119年）",
+        "ruler": "崇宗李乾顺",
+        "coreFeatures": "汉文钱币，折二型",
+        "estimatedValue": "5000—30000元",
+        "rarity": "五级（稀贵）",
+        "thumbnail": "/images/coins/n-西夏钱币/元德重宝/main.jpg"
+      },
+      "detail": {
+        "castingTime": "西夏崇宗李乾顺元德年间（公元1119年—1126年）。",
+        "material": "青铜（铜、锡、铅合金），铜含量约55%—70%，锡含量约5%—10%，铅含量约15%—25%。西夏铸币铜质尚可。出土后表面多呈青绿色锈蚀，原始铸造色泽偏暗黄至金黄色。",
+        "dimensions": "直径约2.8厘米（折二型），单枚重量约5克。",
+        "castingCraft": "采用范铸法（铜范或砂范），一范多钱。元德重宝为西夏崇宗李乾顺元德年间（公元1119年—1126年）铸行，为折二型。制作流程为：先雕刻元德重宝阴文母范（含面文\"元德重宝\"四字，汉文楷书，折二型），中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。折二型铸量更少，存世稀少。",
+        "coreBackground": "元德重宝为折二型，存世稀少。",
+        "featuresGroup": {
+          "common": "- 形制：圆形方孔，有内外廓\n- 铸造工艺：翻砂法，铸工较精\n- 青铜质地，部分含铁\n- 面文为汉文，受宋钱影响深远",
+          "obverse": "* 面文\"元德重宝\"，汉文，四字对读，楷书，折二型",
+          "reverse": "* 背面光素无文"
+        },
+        "images": {
+          "main": "/images/coins/n-西夏钱币/元德重宝/main.jpg",
+          "variants": [
+            {
+              "src": "/images/coins/n-西夏钱币/元德重宝/variant_1.jpg",
+              "alt": "元德重宝 - 折二型（美品）",
+              "label": "折二型（美品）"
+            },
+            {
+              "src": "/images/coins/n-西夏钱币/元德重宝/variant_2.jpg",
+              "alt": "元德重宝 - 折二型（极美品）",
+              "label": "折二型（极美品）"
+            }
+          ]
+        },
+        "variantsTable": [
+          {
+            "variant": "折二型（美品）",
+            "description": "仅见折二型，直径约2.7—3.0cm，重约5—7g",
+            "grade": "三级（罕贵） 美品",
+            "priceRange": "5000—15000元",
+            "notes": "折二型"
+          },
+          {
+            "variant": "折二型（极美品）",
+            "description": "仅见折二型，直径约2.7—3.0cm，重约5—7g",
+            "grade": "三级（罕贵） 极美品",
+            "priceRange": "15000—30000元",
+            "notes": "折二型"
+          }
+        ]
+      }
+    },
+    {
+      "id": "13-6",
+      "name": "天盛元宝",
+      "dynasty": "西夏钱币",
+      "dynastyIndex": 13,
+      "summary": {
+        "name": "天盛元宝",
+        "historicalPeriod": "西夏（1149年）",
+        "ruler": "仁宗李仁孝",
+        "coreFeatures": "西夏铸量最大钱币",
+        "estimatedValue": "30—20,000元",
+        "rarity": "七级（甚少）",
+        "thumbnail": "/images/coins/n-西夏钱币/天盛元宝/main.jpg"
+      },
+      "detail": {
+        "castingTime": "西夏仁宗李仁孝天盛年间（公元1149年—1169年）。",
+        "material": "青铜（铜、锡、铅合金），铜含量约55%—70%，锡含量约5%—10%，铅含量约15%—25%。西夏铸币铜质尚可。出土后表面多呈青绿色锈蚀，原始铸造色泽偏暗黄至金黄色。",
+        "dimensions": "* 直径：约2.4厘米\n* 单枚重量：约3.5克",
+        "castingCraft": "采用范铸法（铜范或砂范），一范多钱。天盛元宝为西夏仁宗李仁孝天盛年间（公元1149年—1169年）铸行，为西夏铸量最大的钱币。制作流程为：先雕刻天盛元宝阴文母范（含面文\"天盛元宝\"四字，汉文楷书），中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。铸工较精，天盛年间为西夏鼎盛时期，铸钱规模较大。另有铁母版，为铁钱的母钱，铜质精良。",
+        "coreBackground": "* 天盛元宝为西夏铸量最大的钱币，也是西夏钱币中最为常见的品种\n* 天盛年间为西夏鼎盛时期，仁宗推行文治，铸钱规模较大\n* 马定祥十级制定为七级（甚少）",
+        "featuresGroup": {
+          "common": "- 形制：圆形方孔，有内外廓\n- 铸造工艺：翻砂法，铸工较精\n- 青铜质地，部分含铁\n- 面文为汉文，受宋钱影响深远",
+          "obverse": "* 面文\"天盛元宝\"，汉文，四字旋读，楷书",
+          "reverse": "* 背面光素无文"
+        },
+        "images": {
+          "main": "/images/coins/n-西夏钱币/天盛元宝/main.jpg",
+          "variants": [
+            {
+              "src": "/images/coins/n-西夏钱币/天盛元宝/variant_1.jpg",
+              "alt": "天盛元宝 - 光背（普品）",
+              "label": "光背（普品）"
+            },
+            {
+              "src": "/images/coins/n-西夏钱币/天盛元宝/variant_2.jpg",
+              "alt": "天盛元宝 - 光背（美品）",
+              "label": "光背（美品）"
+            },
+            {
+              "src": "/images/coins/n-西夏钱币/天盛元宝/variant_3.jpg",
+              "alt": "天盛元宝 - 光背（极美品）",
+              "label": "光背（极美品）"
+            }
+          ]
+        },
+        "variantsTable": [
+          {
+            "variant": "光背（普品）",
+            "description": "背面无文",
+            "grade": "八级（较多） 普品",
+            "priceRange": "30—100元",
+            "notes": "西夏较常见者"
+          },
+          {
+            "variant": "光背（美品）",
+            "description": "背面无文",
+            "grade": "八级（较多） 美品",
+            "priceRange": "100—300元",
+            "notes": "光背"
+          },
+          {
+            "variant": "光背（极美品）",
+            "description": "背面无文",
+            "grade": "八级（较多） 极美品",
+            "priceRange": "300—500元",
+            "notes": "光背"
+          },
+          {
+            "variant": "大字版",
+            "description": "直径：约2.4厘米，单枚重量：约3.5克",
+            "grade": "八级（较多） 美品",
+            "priceRange": "100—300元",
+            "notes": "文字较大"
+          },
+          {
+            "variant": "铁母版",
+            "description": "铁钱的母钱，铜质，极少见",
+            "grade": "六级（少） 美品",
+            "priceRange": "5,000—20,000元",
+            "notes": "六级（少）"
+          }
+        ]
+      }
+    },
+    {
+      "id": "13-7",
+      "name": "乾祐元宝",
+      "dynasty": "西夏钱币",
+      "dynastyIndex": 13,
+      "summary": {
+        "name": "乾祐元宝",
+        "historicalPeriod": "西夏（1170年）",
+        "ruler": "仁宗李仁孝",
+        "coreFeatures": "汉文钱币，铜铁并行",
+        "estimatedValue": "20—500元",
+        "rarity": "八级（少）",
+        "thumbnail": "/images/coins/n-西夏钱币/乾祐元宝/main.jpg"
+      },
+      "detail": {
+        "castingTime": "西夏仁宗李仁孝乾祐年间（公元1170年—1193年）。",
+        "material": "青铜（铜、锡、铅合金），铜含量约55%—70%，锡含量约5%—10%，铅含量约15%—25%。西夏铸币铜质尚可。出土后表面多呈青绿色锈蚀，原始铸造色泽偏暗黄至金黄色。",
+        "dimensions": "直径约2.4厘米，单枚重量约3.5克。",
+        "castingCraft": "采用范铸法（铜范或铁范），一范多钱。乾祐元宝为西夏仁宗李仁孝乾祐年间（公元1170年—1193年）铸行，铜铁并行。制作流程为：先雕刻乾祐元宝阴文母范（含面文\"乾祐元宝\"四字，汉文楷书），中央方孔设金属芯；合范浇铸熔融青铜液或铁液，冷却脱范后逐枚修整。铜品较少，铁品多见。",
+        "coreBackground": "乾祐元宝为西夏中期铸币，铜品较少，铁品多见。马定祥十级制定为八级（少）。",
+        "featuresGroup": {
+          "common": "- 形制：圆形方孔，有内外廓\n- 铸造工艺：翻砂法，铸工较精\n- 青铜质地，部分含铁\n- 面文为汉文，受宋钱影响深远",
+          "obverse": "* 面文\"乾祐元宝\"，汉文，四字旋读，楷书，铜铁并行",
+          "reverse": "* 背面光素无文"
+        },
+        "images": {
+          "main": "/images/coins/n-西夏钱币/乾祐元宝/main.jpg",
+          "variants": [
+            {
+              "src": "/images/coins/n-西夏钱币/乾祐元宝/variant_1.jpg",
+              "alt": "乾祐元宝 - 铜品（普品）",
+              "label": "铜品（普品）"
+            },
+            {
+              "src": "/images/coins/n-西夏钱币/乾祐元宝/variant_2.jpg",
+              "alt": "乾祐元宝 - 铜品（美品）",
+              "label": "铜品（美品）"
+            }
+          ]
+        },
+        "variantsTable": [
+          {
+            "variant": "铜品（普品）",
+            "description": "铜品小平、铁品小平",
+            "grade": "八级（较多） 普品",
+            "priceRange": "50—200元",
+            "notes": "铜品"
+          },
+          {
+            "variant": "铜品（美品）",
+            "description": "铜品小平、铁品小平",
+            "grade": "八级（较多） 美品",
+            "priceRange": "200—500元",
+            "notes": "铜品"
+          },
+          {
+            "variant": "铁品",
+            "description": "铜品小平、铁品小平",
+            "grade": "八级（较多） 普品",
+            "priceRange": "20—50元",
+            "notes": "铁品"
+          }
+        ]
+      }
+    },
+    {
+      "id": "13-8",
+      "name": "乾祐宝钱",
+      "dynasty": "西夏钱币",
+      "dynastyIndex": 13,
+      "summary": {
+        "name": "乾祐宝钱",
+        "historicalPeriod": "西夏（1170年）",
+        "ruler": "仁宗李仁孝",
+        "coreFeatures": "西夏文钱币，存世稀少",
+        "estimatedValue": "5000—30000元",
+        "rarity": "五级（稀贵）",
+        "thumbnail": "/images/coins/n-西夏钱币/乾祐宝钱/main.jpg"
+      },
+      "detail": {
+        "castingTime": "西夏仁宗李仁孝乾祐年间（公元1170年—1193年）。",
+        "material": "青铜（铜、锡、铅合金），铜含量约55%—70%，锡含量约5%—10%，铅含量约15%—25%。西夏铸币铜质尚可。出土后表面多呈青绿色锈蚀，原始铸造色泽偏暗黄至金黄色。",
+        "dimensions": "直径约2.4厘米，单枚重量约3.5克。",
+        "castingCraft": "采用范铸法（铜范或砂范），一范多钱。乾祐宝钱为西夏仁宗李仁孝乾祐年间（公元1170年—1193年）铸行，与乾祐元宝并行。制作流程为：先雕刻乾祐宝钱阴文母范（含面文\"乾祐宝钱\"西夏文），中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。西夏文钱文，存世稀少。",
+        "coreBackground": "乾祐宝钱为西夏文钱币，存世稀少。",
+        "featuresGroup": {
+          "common": "- 形制：圆形方孔，有内外廓\n- 铸造工艺：翻砂法，铸工较精\n- 青铜质地，铜质偏红\n- 面文为西夏文，为西夏特有铸币体系\n- 西夏文钱币，铸量极少，存世稀少",
+          "obverse": "* 面文\"乾祐宝钱\"为西夏文",
+          "reverse": "* 背面光素无文"
+        },
+        "images": {
+          "main": "/images/coins/n-西夏钱币/乾祐宝钱/main.jpg",
+          "variants": [
+            {
+              "src": "/images/coins/n-西夏钱币/乾祐宝钱/variant_1.jpg",
+              "alt": "乾祐宝钱 - 小平钱（美品）",
+              "label": "小平钱（美品）"
+            },
+            {
+              "src": "/images/coins/n-西夏钱币/乾祐宝钱/variant_2.jpg",
+              "alt": "乾祐宝钱 - 小平钱（极美品）",
+              "label": "小平钱（极美品）"
+            }
+          ]
+        },
+        "variantsTable": [
+          {
+            "variant": "小平钱（美品）",
+            "description": "仅见小平钱，直径约2.3—2.5cm，重约3—4g",
+            "grade": "三级（罕贵） 美品",
+            "priceRange": "3000—10000元",
+            "notes": "小平钱"
+          },
+          {
+            "variant": "小平钱（极美品）",
+            "description": "仅见小平钱，直径约2.3—2.5cm，重约3—4g",
+            "grade": "三级（罕贵） 极美品",
+            "priceRange": "10000—20000元",
+            "notes": "小平钱"
+          }
+        ]
+      }
+    },
+    {
+      "id": "13-9",
+      "name": "天庆宝钱",
+      "dynasty": "西夏钱币",
+      "dynastyIndex": 13,
+      "summary": {
+        "name": "天庆宝钱",
+        "historicalPeriod": "西夏（1194年）",
+        "ruler": "桓宗李纯祐",
+        "coreFeatures": "西夏文钱币，存世稀少",
+        "estimatedValue": "3,000—30,000元",
+        "rarity": "六级（稀）",
+        "thumbnail": "/images/coins/n-西夏钱币/天庆宝钱/main.jpg"
+      },
+      "detail": {
+        "castingTime": "西夏桓宗李纯祐天庆年间（公元1194年—1206年）。",
+        "material": "青铜（铜、锡、铅合金），铜含量约55%—70%，锡含量约5%—10%，铅含量约15%—25%。西夏铸币铜质尚可。出土后表面多呈青绿色锈蚀，原始铸造色泽偏暗黄至金黄色。",
+        "dimensions": "直径约2.4厘米，单枚重量约3.5克。",
+        "castingCraft": "采用范铸法（铜范或砂范），一范多钱。天庆宝钱为西夏桓宗李纯祐天庆年间（公元1194年—1206年）铸行。制作流程为：先雕刻天庆宝钱阴文母范（含面文\"天庆宝钱\"西夏文），中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。西夏文钱文，存世稀少。",
+        "coreBackground": "天庆宝钱为西夏文钱币，存世稀少。",
+        "featuresGroup": {
+          "common": "- 形制：圆形方孔，有内外廓\n- 铸造工艺：翻砂法，铸工较精\n- 青铜质地，铜质偏红\n- 面文为西夏文，为西夏特有铸币体系\n- 西夏文钱币，铸量极少，存世稀少",
+          "obverse": "* 面文\"天庆宝钱\"为西夏文",
+          "reverse": "* 背面光素无文"
+        },
+        "images": {
+          "main": "/images/coins/n-西夏钱币/天庆宝钱/main.jpg",
+          "variants": [
+            {
+              "src": "/images/coins/n-西夏钱币/天庆宝钱/variant_1.jpg",
+              "alt": "天庆宝钱 - 小平钱（美品）",
+              "label": "小平钱（美品）"
+            },
+            {
+              "src": "/images/coins/n-西夏钱币/天庆宝钱/variant_2.jpg",
+              "alt": "天庆宝钱 - 小平钱（极美品）",
+              "label": "小平钱（极美品）"
+            }
+          ]
+        },
+        "variantsTable": [
+          {
+            "variant": "小平钱（美品）",
+            "description": "仅见小平钱，直径约2.3—2.5cm，重约3—4g",
+            "grade": "四级（罕见） 美品",
+            "priceRange": "5000—15000元",
+            "notes": "小平钱"
+          },
+          {
+            "variant": "小平钱（极美品）",
+            "description": "仅见小平钱，直径约2.3—2.5cm，重约3—4g",
+            "grade": "四级（罕见） 极美品",
+            "priceRange": "15000—30000元",
+            "notes": "小平钱"
+          }
+        ]
+      }
+    },
+    {
+      "id": "13-10",
+      "name": "天庆元宝-西夏",
+      "dynasty": "西夏钱币",
+      "dynastyIndex": 13,
+      "summary": {
+        "name": "天庆元宝-西夏",
+        "historicalPeriod": "西夏（1194年）",
+        "ruler": "桓宗李纯祐",
+        "coreFeatures": "汉文钱币，存世较少",
+        "estimatedValue": "100—1000元",
+        "rarity": "七级（甚少）",
+        "thumbnail": "/images/coins/n-西夏钱币/天庆元宝-西夏/main.jpg"
+      },
+      "detail": {
+        "castingTime": "西夏桓宗李纯祐天庆年间（公元1194年—1206年）。",
+        "material": "青铜（铜、锡、铅合金），铜含量约55%—70%，锡含量约5%—10%，铅含量约15%—25%。西夏铸币铜质尚可。出土后表面多呈青绿色锈蚀，原始铸造色泽偏暗黄至金黄色。",
+        "dimensions": "直径约2.4厘米，单枚重量约3.5克。",
+        "castingCraft": "采用范铸法（铜范或砂范），一范多钱。天庆元宝为西夏桓宗李纯祐天庆年间（公元1194年—1206年）铸行，与天庆宝钱（西夏文）并行。制作流程为：先雕刻天庆元宝阴文母范（含面文\"天庆元宝\"四字，汉文楷书），中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。汉文钱币，需与辽代天庆元宝区分。",
+        "coreBackground": "天庆元宝-西夏需与辽代天庆元宝区分。马定祥十级制定为七级（甚少）。",
+        "featuresGroup": {
+          "common": "- 形制：圆形方孔，有内外廓\n- 铸造工艺：翻砂法，铸工较精\n- 青铜质地，部分含铁\n- 面文为汉文，受宋钱影响深远",
+          "obverse": "* 面文\"天庆元宝\"，汉文，四字旋读，楷书",
+          "reverse": "* 背面光素无文"
+        },
+        "images": {
+          "main": "/images/coins/n-西夏钱币/天庆元宝-西夏/main.jpg",
+          "variants": []
+        },
+        "variantsTable": [
+          {
+            "variant": "小平钱（普品）",
+            "description": "仅见小平钱，直径约2.3—2.5cm，重约3—4g",
+            "grade": "五级（稀贵） 普品",
+            "priceRange": "100—300元",
+            "notes": "小平钱"
+          },
+          {
+            "variant": "小平钱（美品）",
+            "description": "仅见小平钱，直径约2.3—2.5cm，重约3—4g",
+            "grade": "五级（稀贵） 美品",
+            "priceRange": "300—700元",
+            "notes": "小平钱"
+          },
+          {
+            "variant": "小平钱（极美品）",
+            "description": "仅见小平钱，直径约2.3—2.5cm，重约3—4g",
+            "grade": "五级（稀贵） 极美品",
+            "priceRange": "700—1000元",
+            "notes": "小平钱"
+          }
+        ]
+      }
+    },
+    {
+      "id": "13-11",
+      "name": "皇建元宝",
+      "dynasty": "西夏钱币",
+      "dynastyIndex": 13,
+      "summary": {
+        "name": "皇建元宝",
+        "historicalPeriod": "西夏（1210年）",
+        "ruler": "襄宗李安全",
+        "coreFeatures": "汉文钱币，存世较少",
+        "estimatedValue": "200—2000元",
+        "rarity": "七级（甚少）",
+        "thumbnail": "/images/coins/n-西夏钱币/皇建元宝/main.jpg"
+      },
+      "detail": {
+        "castingTime": "西夏襄宗李安全皇建年间（公元1210年—1211年）。",
+        "material": "青铜（铜、锡、铅合金），铜含量约55%—70%，锡含量约5%—10%，铅含量约15%—25%。西夏铸币铜质尚可。出土后表面多呈青绿色锈蚀，原始铸造色泽偏暗黄至金黄色。",
+        "dimensions": "直径约2.4厘米，单枚重量约3.5克。",
+        "castingCraft": "采用范铸法（铜范或砂范），一范多钱。皇建元宝为西夏襄宗李安全皇建年间（公元1210年—1211年）铸行。制作流程为：先雕刻皇建元宝阴文母范（含面文\"皇建元宝\"四字，汉文楷书），中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。皇建年号仅两年，铸量有限。",
+        "coreBackground": "皇建年号仅两年，铸量有限。马定祥十级制定为七级（甚少）。",
+        "featuresGroup": {
+          "common": "- 形制：圆形方孔，有内外廓\n- 铸造工艺：翻砂法，铸工较精\n- 青铜质地，部分含铁\n- 面文为汉文，受宋钱影响深远",
+          "obverse": "* 面文\"皇建元宝\"，汉文，四字旋读，楷书",
+          "reverse": "* 背面光素无文"
+        },
+        "images": {
+          "main": "/images/coins/n-西夏钱币/皇建元宝/main.jpg",
+          "variants": [
+            {
+              "src": "/images/coins/n-西夏钱币/皇建元宝/variant_1.jpg",
+              "alt": "皇建元宝 - 小平钱（普品）",
+              "label": "小平钱（普品）"
+            },
+            {
+              "src": "/images/coins/n-西夏钱币/皇建元宝/variant_2.jpg",
+              "alt": "皇建元宝 - 小平钱（美品）",
+              "label": "小平钱（美品）"
+            }
+          ]
+        },
+        "variantsTable": [
+          {
+            "variant": "小平钱（普品）",
+            "description": "仅见小平钱，直径约2.3—2.5cm，重约3—4g",
+            "grade": "五级（稀贵） 普品",
+            "priceRange": "100—300元",
+            "notes": "小平钱"
+          },
+          {
+            "variant": "小平钱（美品）",
+            "description": "仅见小平钱，直径约2.3—2.5cm，重约3—4g",
+            "grade": "五级（稀贵） 美品",
+            "priceRange": "300—700元",
+            "notes": "小平钱"
+          },
+          {
+            "variant": "小平钱（极美品）",
+            "description": "仅见小平钱，直径约2.3—2.5cm，重约3—4g",
+            "grade": "五级（稀贵） 极美品",
+            "priceRange": "700—1000元",
+            "notes": "小平钱"
+          }
+        ]
+      }
+    },
+    {
+      "id": "13-12",
+      "name": "光定元宝",
+      "dynasty": "西夏钱币",
+      "dynastyIndex": 13,
+      "summary": {
+        "name": "光定元宝",
+        "historicalPeriod": "西夏（1211年）",
+        "ruler": "神宗李遵顼",
+        "coreFeatures": "汉文钱币，篆楷对钱",
+        "estimatedValue": "500—5000元",
+        "rarity": "六级（稀）",
+        "thumbnail": "/images/coins/n-西夏钱币/光定元宝/main.jpg"
+      },
+      "detail": {
+        "castingTime": "西夏神宗李遵顼光定年间（公元1211年—1223年）。",
+        "material": "青铜（铜、锡、铅合金），铜含量约55%—70%，锡含量约5%—10%，铅含量约15%—25%。西夏铸币铜质尚可。出土后表面多呈青绿色锈蚀，原始铸造色泽偏暗黄至金黄色。",
+        "dimensions": "直径约2.4厘米，单枚重量约3.5克。",
+        "castingCraft": "采用范铸法（铜范或砂范），一范多钱。光定元宝为西夏神宗李遵顼光定年间（公元1211年—1223年）铸行，有篆书、楷书对钱。制作流程为：先雕刻光定元宝阴文母范（含面文\"光定元宝\"四字，汉文楷书或篆书），中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。铸工精整，光定年间为西夏晚期，铸量有限。",
+        "coreBackground": "光定年间为西夏晚期，国势日衰，铸量有限。光定元宝铸工精整，有篆书、楷书对钱。马定祥十级制定为六级（稀）。",
+        "featuresGroup": {
+          "common": "- 形制：圆形方孔，有内外廓\n- 铸造工艺：翻砂法，铸工较精\n- 青铜质地，部分含铁\n- 面文为汉文，受宋钱影响深远",
+          "obverse": "* 面文\"光定元宝\"，汉文，四字旋读，楷书",
+          "reverse": "* 背面光素无文"
+        },
+        "images": {
+          "main": "/images/coins/n-西夏钱币/光定元宝/main.jpg",
+          "variants": [
+            {
+              "src": "/images/coins/n-西夏钱币/光定元宝/variant_1.jpg",
+              "alt": "光定元宝 - 楷书版（普品）",
+              "label": "楷书版（普品）"
+            },
+            {
+              "src": "/images/coins/n-西夏钱币/光定元宝/variant_2.jpg",
+              "alt": "光定元宝 - 楷书版（美品）",
+              "label": "楷书版（美品）"
+            },
+            {
+              "src": "/images/coins/n-西夏钱币/光定元宝/variant_3.jpg",
+              "alt": "光定元宝 - 篆书版",
+              "label": "篆书版"
+            }
+          ]
+        },
+        "variantsTable": [
+          {
+            "variant": "楷书版（普品）",
+            "description": "楷书版、篆书版（对钱）",
+            "grade": "八级（较多） 普品",
+            "priceRange": "500—1500元",
+            "notes": "楷书版"
+          },
+          {
+            "variant": "楷书版（美品）",
+            "description": "楷书版、篆书版（对钱）",
+            "grade": "八级（较多） 美品",
+            "priceRange": "1500—3000元",
+            "notes": "楷书版"
+          },
+          {
+            "variant": "篆书版",
+            "description": "楷书版、篆书版（对钱）",
+            "grade": "七级（较少） 美品",
+            "priceRange": "2000—5000元",
+            "notes": "较少见"
+          }
+        ]
+      }
+    },
+    {
+      "id": "13-13",
+      "name": "藩国宝钱",
+      "dynasty": "西夏钱币",
+      "dynastyIndex": 13,
+      "summary": {
+        "name": "藩国宝钱",
+        "historicalPeriod": "西夏（年代不详）",
+        "ruler": "不详",
+        "coreFeatures": "西夏文钱币，存世极罕",
+        "estimatedValue": "30000—150000元",
+        "rarity": "三级（罕贵）",
+        "thumbnail": ""
+      },
+      "detail": {
+        "castingTime": "西夏时期，具体年代不详。",
+        "material": "青铜（铜、锡、铅合金），铜含量约55%—70%，锡含量约5%—10%，铅含量约15%—25%。西夏铸币铜质尚可。出土后表面多呈青绿色锈蚀，原始铸造色泽偏暗黄至金黄色。",
+        "dimensions": "直径约2.4厘米，单枚重量约3.5克。",
+        "castingCraft": "采用范铸法（铜范或砂范），一范多钱。藩国宝钱为西夏时期特殊铸币，具体年代不详。制作流程为：先雕刻藩国宝钱阴文母范（含面文\"藩国宝钱\"西夏文），中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。西夏文钱文，存世极罕。",
+        "coreBackground": "藩国宝钱为西夏特殊铸币，存世极罕。马定祥十级制定为三级（罕贵）。",
+        "featuresGroup": {
+          "common": "- 形制：圆形方孔，有内外廓\n- 铸造工艺：翻砂法，铸工较精\n- 青铜质地，铜质偏红\n- 面文为西夏文，为西夏特有铸币体系\n- 西夏文钱币，铸量极少，存世稀少",
+          "obverse": "* 面文\"藩国宝钱\"为西夏文",
+          "reverse": "* 背面光素无文"
+        },
+        "images": {
+          "main": "",
+          "variants": []
+        },
+        "variantsTable": [
+          {
+            "variant": "小平钱（美品）",
+            "description": "仅见小平钱，直径约2.3—2.5cm，重约3—4g",
+            "grade": "一级（孤品） 美品",
+            "priceRange": "30000—80000元",
+            "notes": "存世极罕"
+          },
+          {
+            "variant": "小平钱（极美品）",
+            "description": "仅见小平钱，直径约2.3—2.5cm，重约3—4g",
+            "grade": "一级（孤品） 极美品",
+            "priceRange": "80000—150000元",
+            "notes": "小平钱"
+          }
+        ]
+      }
+    }
+  ]
+}

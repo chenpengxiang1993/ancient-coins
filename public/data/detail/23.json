@@ -27,14 +27,14 @@
         "description": "背面穿下铸\"前\"字，笔画端正。为前营铸行",
         "grade": "八级（较多） 美品",
         "priceRange": "1000—3000元",
-        "notes": ""
+        "notes": "背\"前\"版"
       },
       {
         "variant": "背\"后\"版",
         "description": "背面穿下铸\"后\"字，笔画端正。为后营铸行",
         "grade": "八级（较多） 美品",
         "priceRange": "1000—3000元",
-        "notes": ""
+        "notes": "背\"后\"版"
       }
     ]
   },
@@ -47,7 +47,7 @@
     "featuresGroup": {
       "common": "* 圆形方孔\n* 光背或背有文字",
       "obverse": "* 面文\"平靖胜宝\"四字楷书直读",
-      "reverse": ""
+      "reverse": "- 光背无文"
     },
     "images": {
       "main": "",
@@ -64,16 +64,16 @@
       {
         "variant": "银质",
         "description": "白银铸造",
-        "grade": "八级（较多） 美品",
+        "grade": "五级（稀贵） 美品",
         "priceRange": "50000—80000元",
-        "notes": ""
+        "notes": "银质"
       },
       {
         "variant": "铜质",
         "description": "青铜铸造",
-        "grade": "八级（较多） 美品",
+        "grade": "五级（稀贵） 美品",
         "priceRange": "30000—50000元",
-        "notes": ""
+        "notes": "铜质"
       }
     ]
   },
@@ -86,7 +86,7 @@
     "featuresGroup": {
       "common": "* 圆形方孔\n* 光背无文",
       "obverse": "* 面文\"天朝通宝\"四字楷书直读",
-      "reverse": ""
+      "reverse": "- 光背无文"
     },
     "images": {
       "main": "",
@@ -94,18 +94,18 @@
     },
     "variantsTable": [
       {
-        "variant": "小平光背",
+        "variant": "小平光背（美品）",
         "description": "背面无文，直径约2.4厘米，重约3克",
         "grade": "八级（较多） 美品",
         "priceRange": "1000—3000元",
         "notes": "铸主：上海小刀会"
       },
       {
-        "variant": "小平光背",
+        "variant": "小平光背（极美品）",
         "description": "背面无文，直径约2.4厘米，重约3克",
         "grade": "八级（较多） 极美品",
         "priceRange": "3000—5000元",
-        "notes": ""
+        "notes": "小平光背"
       }
     ]
   },
@@ -118,7 +118,7 @@
     "featuresGroup": {
       "common": "* 圆形方孔\n* 光背或背有文字",
       "obverse": "* 面文\"皇帝通宝\"四字楷书直读",
-      "reverse": ""
+      "reverse": "- 背面有文字或纹饰（详见版别体系）"
     },
     "images": {
       "main": "",
@@ -126,18 +126,18 @@
     },
     "variantsTable": [
       {
-        "variant": "小平光背",
+        "variant": "小平光背（美品）",
         "description": "背面无文，直径约2.4厘米，重约3克",
         "grade": "八级（较多） 美品",
         "priceRange": "500—1500元",
         "notes": "铸主：天地会"
       },
       {
-        "variant": "小平光背",
+        "variant": "小平光背（极美品）",
         "description": "背面无文，直径约2.4厘米，重约3克",
         "grade": "八级（较多） 极美品",
         "priceRange": "1500—3000元",
-        "notes": ""
+        "notes": "小平光背"
       },
       {
         "variant": "小平背文版",
@@ -157,7 +157,7 @@
     "featuresGroup": {
       "common": "* 圆形方孔\n* 光背",
       "obverse": "* 面文\"天元通宝\"四字楷书直读",
-      "reverse": ""
+      "reverse": "- 光背无文"
     },
     "images": {
       "main": "",
@@ -165,18 +165,18 @@
     },
     "variantsTable": [
       {
-        "variant": "小平光背",
+        "variant": "小平光背（美品）",
         "description": "背面无文，直径约2.4厘米，重约3克",
         "grade": "八级（较多） 美品",
         "priceRange": "500—1500元",
         "notes": "铸主：天地会"
       },
       {
-        "variant": "小平光背",
+        "variant": "小平光背（极美品）",
         "description": "背面无文，直径约2.4厘米，重约3克",
         "grade": "八级（较多） 极美品",
         "priceRange": "1500—3000元",
-        "notes": ""
+        "notes": "小平光背"
       }
     ]
   },
@@ -189,7 +189,7 @@
     "featuresGroup": {
       "common": "* 圆形方孔\n* 光背",
       "obverse": "* 面文\"嗣统通宝\"四字楷书直读",
-      "reverse": ""
+      "reverse": "- 光背无文"
     },
     "images": {
       "main": "",
@@ -197,18 +197,18 @@
     },
     "variantsTable": [
       {
-        "variant": "小平光背",
+        "variant": "小平光背（美品）",
         "description": "背面无文，直径约2.4厘米，重约3克",
         "grade": "八级（较多） 美品",
         "priceRange": "500—1500元",
         "notes": "铸主：天地会"
       },
       {
-        "variant": "小平光背",
+        "variant": "小平光背（极美品）",
         "description": "背面无文，直径约2.4厘米，重约3克",
         "grade": "八级（较多） 极美品",
         "priceRange": "1500—3000元",
-        "notes": ""
+        "notes": "小平光背"
       }
     ]
   },
@@ -219,7 +219,7 @@
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。金钱义记为浙江金钱会于清咸丰年间铸行。制作流程为：先雕刻金钱义记阴文母范（含面文\"金钱义记\"四字，楷书），中央方孔设金属芯；合范浇铸熔融黄铜液或青铜液，冷却脱范后逐枚修整。背面铸方胜纹（两个菱形相连）或文字，\"义记\"意为\"义气铭记\"，体现了会党义气精神。",
     "coreBackground": "* 金钱义记为浙江金钱会铸币\n* 金钱会为天地会系统分支，咸丰年间在浙江平阳起义\n* \"义记\"意为\"义气铭记\"，体现了会党义气精神\n* 据《中国钱币大辞典》记载，金钱义记为晚清会党铸币的代表性品种",
     "featuresGroup": {
-      "common": "* 圆形方孔",
+      "common": "- 形制：圆形方孔，有内外廓\n- 铸造工艺：翻砂法，铸工较粗\n- 青铜质地\n- 晚清天地会起义军铸币，面文\"金钱义记\"，存世较少",
       "obverse": "* 面文\"金钱义记\"四字楷书直读",
       "reverse": "* 背面有方胜纹（两个菱形相连）或文字"
     },
@@ -229,25 +229,25 @@
     },
     "variantsTable": [
       {
-        "variant": "背方胜纹",
+        "variant": "背方胜纹（美品）",
         "description": "背面铸方胜纹（两个菱形相连）",
         "grade": "八级（较多） 美品",
         "priceRange": "500—2000元",
         "notes": "铸主：金钱会"
       },
       {
-        "variant": "背方胜纹",
+        "variant": "背方胜纹（极美品）",
         "description": "背面铸方胜纹（两个菱形相连）",
         "grade": "八级（较多） 极美品",
         "priceRange": "2000—5000元",
-        "notes": ""
+        "notes": "背方胜纹"
       },
       {
         "variant": "背文字版",
         "description": "背面铸有文字",
         "grade": "八级（较多） 美品",
         "priceRange": "1000—3000元",
-        "notes": ""
+        "notes": "背文字版"
       }
     ]
   },
@@ -268,18 +268,18 @@
     },
     "variantsTable": [
       {
-        "variant": "库车型",
+        "variant": "库车型（美品）",
         "description": "铸于库车",
         "grade": "八级（较多） 美品",
         "priceRange": "1000—3000元",
         "notes": "铸主：热西丁和卓"
       },
       {
-        "variant": "库车型",
+        "variant": "库车型（极美品）",
         "description": "铸于库车",
         "grade": "八级（较多） 极美品",
         "priceRange": "3000—5000元",
-        "notes": ""
+        "notes": "库车型"
       },
       {
         "variant": "其他地方版",

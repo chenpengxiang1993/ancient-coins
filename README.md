@@ -30,7 +30,7 @@ pnpm install
 # 启动开发服务器（端口 3601）
 pnpm dev
 
-# 解析数据（从 docs/target/*.md 生成 JSON）
+# 解析数据（从 data/dynasties/*.json 重新生成 MD 与前端 JSON）
 pnpm run parse-data
 
 # 转换图片（JPG → WebP + 生成缩略图，需安装 cwebp）
@@ -43,19 +43,22 @@ pnpm run build
 pnpm run preview
 ```
 
-## 数据流水线
+## 数据流水线（JSON-first）
 
 ```
-docs/target/*.md  →  scripts/parse-coins-data.mjs  →  data/coins.json
-                                                      ↓
-                                              scripts/split-coins-data.mjs
-                                                      ↓
-                                        public/data/coins-summary.json（摘要，异步加载）
-                                        public/data/detail/*.json（详情，按需加载）
+data/dynasties/{0..25}.json (26 个朝代 JSON，单一数据源)
+  ├─► scripts/backup-coins.mjs           备份现有 JSON 快照
+  ├─► scripts/sync-images.mjs            同步 public/coin-images → JSON
+  ├─► scripts/build-md-from-json.mjs     生成 docs/target/*.md（只读视图）
+  ├─► scripts/split-coins-data.mjs
+  │     ├─► public/data/coins-summary.json (~230 KB, 首屏)
+  │     ├─► public/data/coins-detail-*.json (按朝代分片)
+  │     └─► public/data/dynasties.json (索引)
+  └─► scripts/validate-data.mjs          校验 + 反向 MD 哈希比对
 ```
 
-- `coins-summary.json` — 全部钱币的摘要信息，应用启动时异步 fetch（preload 提示）
-- `detail/*.json` — 按朝代拆分的详情数据，用户切换朝代时异步获取（带缓存与请求去重）
+- 唯一数据源：`data/dynasties/{0..25}.json`。**禁止手工编辑** `docs/target/*.md`，它由程序生成、pre-commit 反向哈希校验。
+- 执行 `pnpm run parse-data` 触发完整重建（backup → sync-images → build-md → split → validate）。
 
 ## 图片流水线
 
@@ -70,6 +73,8 @@ public/images/coins/**/*.jpg  →  scripts/convert-images.mjs  →  *.webp + thu
 ## 项目结构
 
 ```
+├── data/dynasties/      # 26 个朝代 JSON 数据源（唯一可编辑入口）
+├── docs/target/         # 由 JSON 生成的只读 Markdown 视图
 ├── public/
 │   ├── images/coins/     # 钱币图片（JPG + WebP + 缩略图，按朝代分目录）
 │   └── data/
@@ -92,9 +97,7 @@ public/images/coins/**/*.jpg  →  scripts/convert-images.mjs  →  *.webp + thu
 │   │   └── format.ts    # 文本格式化
 │   ├── types/index.ts   # TypeScript 类型定义
 │   └── styles/          # 共享样式变量与 mixin
-├── docs/target/          # 26 个朝代原始 Markdown 数据源
 ├── scripts/              # 数据解析、拆分、图片转换等脚本
-├── data/                 # 解析后的中间 JSON 数据
 └── deploy/               # 部署配置（Nginx）
 ```
 

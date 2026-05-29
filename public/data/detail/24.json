@@ -18,49 +18,49 @@
       {
         "variant": "吉语花钱（常见）",
         "description": "直径2.5—5.0厘米不等，大小不一。",
-        "grade": "九级（多） 美品",
+        "grade": "七级（甚少） 美品",
         "priceRange": "500—2000元",
-        "notes": ""
+        "notes": "吉语花钱（常见）"
       },
       {
         "variant": "吉语花钱（少见）",
         "description": "直径2.5—5.0厘米不等，大小不一。",
         "grade": "六级（少） 美品",
         "priceRange": "2000—10000元",
-        "notes": ""
+        "notes": "吉语花钱（少见）"
       },
       {
         "variant": "四神花钱",
         "description": "直径2.5—5.0厘米不等，大小不一。",
-        "grade": "八级（较多） 美品",
+        "grade": "七级（甚少） 美品",
         "priceRange": "5000—20000元",
-        "notes": ""
+        "notes": "四神花钱"
       },
       {
         "variant": "大型花钱",
         "description": "直径2.5—5.0厘米不等，大小不一。",
-        "grade": "八级（较多） 美品",
+        "grade": "七级（甚少） 美品",
         "priceRange": "10000—50000元",
-        "notes": ""
+        "notes": "大型花钱"
       },
       {
         "variant": "吉语类",
         "description": "面文铸\"长乐未央\"\"常乐\"\"千秋万岁\"",
-        "grade": "八级（较多） 美品",
+        "grade": "七级（甚少） 美品",
         "priceRange": "500—3,000元",
         "notes": "吉语文字"
       },
       {
         "variant": "四神类",
         "description": "背面铸青龙、白虎、朱雀、玄武",
-        "grade": "八级（较多） 美品",
+        "grade": "七级（甚少） 美品",
         "priceRange": "1,000—5,000元",
         "notes": "四神图案"
       },
       {
         "variant": "星象类",
         "description": "背面铸星象图",
-        "grade": "八级（较多） 美品",
+        "grade": "七级（甚少） 美品",
         "priceRange": "1,000—5,000元",
         "notes": "星象纹饰"
       }
@@ -87,21 +87,21 @@
         "description": "背面铸星月纹",
         "grade": "八级（较多） 美品",
         "priceRange": "300—1000元",
-        "notes": ""
+        "notes": "开元通宝背星月"
       },
       {
         "variant": "开元通宝背花草",
         "description": "背面铸花草纹",
         "grade": "八级（较多） 美品",
         "priceRange": "500—3000元",
-        "notes": ""
+        "notes": "开元通宝背花草"
       },
       {
         "variant": "吉语花钱",
         "description": "面文铸吉语",
         "grade": "八级（较多） 美品",
         "priceRange": "1000—10000元",
-        "notes": ""
+        "notes": "吉语花钱"
       }
     ]
   },
@@ -112,7 +112,7 @@
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。五代花钱承唐制，非流通货币。制作流程为：先雕刻花钱阴文母范（含面文吉语或年号，背面纹饰），中央方孔设金属芯；合范浇铸熔融青铜液或黄铜液，冷却脱范后逐枚修整。五代十国时期战乱频繁，花钱铸量较少，风格与唐代相近。",
     "coreBackground": "* 五代十国时期战乱频繁，花钱铸量较少\n* 五代花钱承唐制，风格相近\n* 据《中国钱币大辞典》记载，五代花钱存世量有限",
     "featuresGroup": {
-      "common": "* 圆形方孔",
+      "common": "- 形制：圆形方孔，有内外廓\n- 铸造工艺：翻砂法\n- 青铜质地\n- 五代时期花钱，非流通货币，用于厌胜辟邪或吉庆",
       "obverse": "* 面文铸吉语或年号",
       "reverse": "* 背面铸纹饰"
     },
@@ -126,14 +126,14 @@
         "description": "直径2.5—4.0厘米不等。",
         "grade": "八级（较多） 美品",
         "priceRange": "500—3000元",
-        "notes": ""
+        "notes": "吉语花钱"
       },
       {
         "variant": "年号花钱",
         "description": "直径2.5—4.0厘米不等。",
         "grade": "八级（较多） 美品",
         "priceRange": "1000—5000元",
-        "notes": ""
+        "notes": "年号花钱"
       },
       {
         "variant": "吉语类",
@@ -170,44 +170,44 @@
       {
         "variant": "吉语花钱（常见）",
         "description": "直径2.5—6.0厘米不等，大小差异大。",
-        "grade": "九级（多） 美品",
+        "grade": "八级（较多） 美品",
         "priceRange": "200—1000元",
-        "notes": ""
+        "notes": "吉语花钱（常见）"
       },
       {
         "variant": "吉语花钱（少见）",
         "description": "直径2.5—6.0厘米不等，大小差异大。",
         "grade": "六级（少） 美品",
         "priceRange": "1000—5000元",
-        "notes": ""
+        "notes": "吉语花钱（少见）"
       },
       {
         "variant": "生肖花钱",
         "description": "直径2.5—6.0厘米不等，大小差异大。",
         "grade": "八级（较多） 美品",
         "priceRange": "1000—5000元",
-        "notes": ""
+        "notes": "生肖花钱"
       },
       {
         "variant": "八卦花钱",
         "description": "直径2.5—6.0厘米不等，大小差异大。",
         "grade": "八级（较多） 美品",
         "priceRange": "500—3000元",
-        "notes": ""
+        "notes": "八卦花钱"
       },
       {
         "variant": "神仙人物花钱",
         "description": "直径2.5—6.0厘米不等，大小差异大。",
         "grade": "八级（较多） 美品",
         "priceRange": "2000—10000元",
-        "notes": ""
+        "notes": "神仙人物花钱"
       },
       {
         "variant": "大型花钱",
         "description": "直径2.5—6.0厘米不等，大小差异大。",
         "grade": "八级（较多） 美品",
         "priceRange": "5000—30000元",
-        "notes": ""
+        "notes": "大型花钱"
       },
       {
         "variant": "吉语类",
@@ -253,7 +253,7 @@
     "castingCraft": "采用范铸法（铜范或砂范），一范多钱。金代花钱受宋文化影响深远，非流通货币，风格仿宋。制作流程为：先雕刻花钱阴文母范（含面文吉语，背面生肖或吉语），中央方孔设金属芯；合范浇铸熔融青铜液或黄铜液，冷却脱范后逐枚修整。铸量较少，存世有限，为北方民族花钱的代表。",
     "coreBackground": "* 金代花钱受宋文化影响深远，风格仿宋\n* 金代花钱铸量较少，存世有限\n* 据《中国钱币大辞典》记载，金代花钱为北方民族花钱的代表",
     "featuresGroup": {
-      "common": "",
+      "common": "- 形制：圆形方孔，有内外廓\n- 铸造工艺：翻砂法\n- 青铜质地\n- 金代花钱，非流通货币，用于厌胜辟邪或吉庆",
       "obverse": "* 圆形方孔\n* 仿宋风格",
       "reverse": "* 背面铸生肖或吉语"
     },
@@ -267,21 +267,21 @@
         "description": "直径3.0—5.0厘米不等。",
         "grade": "八级（较多） 美品",
         "priceRange": "500—3000元",
-        "notes": ""
+        "notes": "吉语花钱"
       },
       {
         "variant": "生肖花钱",
         "description": "直径3.0—5.0厘米不等。",
         "grade": "八级（较多） 美品",
         "priceRange": "1000—5000元",
-        "notes": ""
+        "notes": "生肖花钱"
       },
       {
         "variant": "大型花钱",
         "description": "直径3.0—5.0厘米不等。",
         "grade": "八级（较多） 美品",
         "priceRange": "5000—20000元",
-        "notes": ""
+        "notes": "大型花钱"
       },
       {
         "variant": "吉语类",
@@ -308,7 +308,7 @@
     "featuresGroup": {
       "common": "* 圆形方孔\n* 铸工粗犷，具有契丹民族风格",
       "obverse": "* 面文或背文铸有契丹文",
-      "reverse": ""
+      "reverse": "- 光背无文或铸吉祥纹饰"
     },
     "images": {
       "main": "",
@@ -318,28 +318,28 @@
       {
         "variant": "吉语花钱",
         "description": "直径3.0—5.0厘米不等。",
-        "grade": "八级（较多） 美品",
+        "grade": "七级（甚少） 美品",
         "priceRange": "500—3000元",
-        "notes": ""
+        "notes": "吉语花钱"
       },
       {
         "variant": "契丹文花钱",
         "description": "直径3.0—5.0厘米不等。",
-        "grade": "八级（较多） 美品",
+        "grade": "七级（甚少） 美品",
         "priceRange": "3000—10000元",
-        "notes": ""
+        "notes": "契丹文花钱"
       },
       {
         "variant": "大型花钱",
         "description": "直径3.0—5.0厘米不等。",
-        "grade": "八级（较多） 美品",
+        "grade": "七级（甚少） 美品",
         "priceRange": "5000—20000元",
-        "notes": ""
+        "notes": "大型花钱"
       },
       {
         "variant": "吉语类",
         "description": "面文铸吉语",
-        "grade": "八级（较多） 美品",
+        "grade": "七级（甚少） 美品",
         "priceRange": "1,000—5,000元",
         "notes": "吉语文字"
       },
@@ -361,7 +361,7 @@
     "featuresGroup": {
       "common": "* 圆形方孔\n* 多为供养钱性质\n* 寺观铸造",
       "obverse": "* 面文铸吉语或佛教用语",
-      "reverse": ""
+      "reverse": "- 光背无文或铸吉祥纹饰"
     },
     "images": {
       "main": "",
@@ -371,42 +371,42 @@
       {
         "variant": "供养钱",
         "description": "寺观铸造",
-        "grade": "八级（较多） 美品",
+        "grade": "七级（甚少） 美品",
         "priceRange": "500—5000元",
-        "notes": ""
+        "notes": "供养钱"
       },
       {
         "variant": "吉语花钱",
         "description": "直径3.0—5.0厘米不等。",
-        "grade": "八级（较多） 美品",
+        "grade": "七级（甚少） 美品",
         "priceRange": "500—3000元",
-        "notes": ""
+        "notes": "吉语花钱"
       },
       {
         "variant": "佛教花钱",
         "description": "直径3.0—5.0厘米不等。",
-        "grade": "八级（较多） 美品",
+        "grade": "七级（甚少） 美品",
         "priceRange": "1000—10000元",
-        "notes": ""
+        "notes": "佛教花钱"
       },
       {
         "variant": "大型花钱",
         "description": "直径3.0—5.0厘米不等。",
-        "grade": "八级（较多） 美品",
+        "grade": "七级（甚少） 美品",
         "priceRange": "5000—30000元",
-        "notes": ""
+        "notes": "大型花钱"
       },
       {
         "variant": "吉语类",
         "description": "面文铸吉语",
-        "grade": "八级（较多） 美品",
+        "grade": "七级（甚少） 美品",
         "priceRange": "500—3,000元",
         "notes": "吉语文字"
       },
       {
         "variant": "佛教类",
         "description": "面文铸佛教用语",
-        "grade": "八级（较多） 美品",
+        "grade": "七级（甚少） 美品",
         "priceRange": "1,000—5,000元",
         "notes": "佛教题材"
       }
@@ -433,28 +433,28 @@
         "description": "直径2.5—5.0厘米不等。",
         "grade": "九级（多） 美品",
         "priceRange": "100—500元",
-        "notes": ""
+        "notes": "吉语花钱（常见）"
       },
       {
         "variant": "吉语花钱（少见）",
         "description": "直径2.5—5.0厘米不等。",
         "grade": "六级（少） 美品",
         "priceRange": "500—3000元",
-        "notes": ""
+        "notes": "吉语花钱（少见）"
       },
       {
         "variant": "生肖花钱",
         "description": "直径2.5—5.0厘米不等。",
         "grade": "八级（较多） 美品",
         "priceRange": "300—2000元",
-        "notes": ""
+        "notes": "生肖花钱"
       },
       {
         "variant": "大型花钱",
         "description": "直径2.5—5.0厘米不等。",
         "grade": "八级（较多） 美品",
         "priceRange": "2000—10000元",
-        "notes": ""
+        "notes": "大型花钱"
       },
       {
         "variant": "吉语类",
@@ -500,49 +500,49 @@
         "description": "直径2.5—8.0厘米不等，大小差异极大。",
         "grade": "九级（多） 美品",
         "priceRange": "50—300元",
-        "notes": ""
+        "notes": "吉语花钱（常见）"
       },
       {
         "variant": "吉语花钱（少见）",
         "description": "直径2.5—8.0厘米不等，大小差异极大。",
         "grade": "六级（少） 美品",
         "priceRange": "300—2000元",
-        "notes": ""
+        "notes": "吉语花钱（少见）"
       },
       {
         "variant": "宫钱",
         "description": "朝廷铸行，如\"天下太平\"\"天子万年\"",
         "grade": "八级（较多） 美品",
         "priceRange": "1000—10000元",
-        "notes": ""
+        "notes": "宫钱"
       },
       {
         "variant": "生肖花钱",
         "description": "直径2.5—8.0厘米不等，大小差异极大。",
         "grade": "八级（较多） 美品",
         "priceRange": "200—2000元",
-        "notes": ""
+        "notes": "生肖花钱"
       },
       {
         "variant": "镂空花钱",
         "description": "直径2.5—8.0厘米不等，大小差异极大。",
         "grade": "八级（较多） 美品",
         "priceRange": "300—3000元",
-        "notes": ""
+        "notes": "镂空花钱"
       },
       {
         "variant": "山鬼花钱",
         "description": "面文\"山鬼\"咒语，用于辟邪",
         "grade": "八级（较多） 美品",
         "priceRange": "100—1000元",
-        "notes": ""
+        "notes": "山鬼花钱"
       },
       {
         "variant": "大型宫钱",
         "description": "直径2.5—8.0厘米不等，大小差异极大。",
         "grade": "八级（较多） 美品",
         "priceRange": "5000—50000元",
-        "notes": ""
+        "notes": "大型宫钱"
       },
       {
         "variant": "吉语类",
@@ -602,14 +602,14 @@
         "description": "直径2.5—5.0厘米不等。",
         "grade": "八级（较多） 美品",
         "priceRange": "200—1000元",
-        "notes": ""
+        "notes": "纹饰花钱"
       },
       {
         "variant": "大型花钱",
         "description": "直径2.5—5.0厘米不等。",
         "grade": "八级（较多） 美品",
         "priceRange": "1000—5000元",
-        "notes": ""
+        "notes": "大型花钱"
       },
       {
         "variant": "吉语类",
@@ -636,7 +636,7 @@
     "featuresGroup": {
       "common": "* 圆形方孔\n* 铸工较精",
       "obverse": "* 面文铸吉语",
-      "reverse": ""
+      "reverse": "- 光背无文或铸吉祥纹饰"
     },
     "images": {
       "main": "",
@@ -644,25 +644,25 @@
     },
     "variantsTable": [
       {
-        "variant": "吉语花钱",
+        "variant": "吉语花钱（美品）",
         "description": "直径2.5—5.0厘米不等。",
         "grade": "八级（较多） 美品",
         "priceRange": "50—300元",
-        "notes": ""
+        "notes": "吉语花钱"
       },
       {
-        "variant": "吉语花钱",
+        "variant": "吉语花钱（极美品）",
         "description": "直径2.5—5.0厘米不等。",
         "grade": "八级（较多） 极美品",
         "priceRange": "300—1000元",
-        "notes": ""
+        "notes": "吉语花钱"
       },
       {
         "variant": "纪念花钱",
         "description": "直径2.5—5.0厘米不等。",
         "grade": "八级（较多） 美品",
         "priceRange": "200—3000元",
-        "notes": ""
+        "notes": "纪念花钱"
       },
       {
         "variant": "吉语类",
