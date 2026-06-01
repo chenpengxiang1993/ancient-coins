@@ -33,7 +33,7 @@
         },
         "variantsTable": [
           {
-            "variant": "小平钱（八级 undefined",
+            "variant": "小平钱（普品）",
             "description": "直径约2.5厘米，铸量最大，直径：约2.5厘米，重约3—4克",
             "grade": "八级（较多） 普品",
             "priceRange": "100—300元",
@@ -75,7 +75,7 @@
             "notes": "较少见"
           },
           {
-            "variant": "大面值（八级 undefined",
+            "variant": "大面值（美品）",
             "description": "大面值版别",
             "grade": "八级（较多） 美品",
             "priceRange": "500—3,000元",

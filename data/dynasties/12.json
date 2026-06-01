@@ -1694,8 +1694,8 @@
           "variants": [
             {
               "src": "/images/coins/m-北宋钱币/元丰通宝/variant_1.jpg",
-              "alt": "元丰通宝 - 篆书/行书普通版（九级 undefined",
-              "label": "篆书/行书普通版（九级 undefined"
+              "alt": "元丰通宝 - 篆书/行书普通版（普品）",
+              "label": "篆书/行书普通版（普品）"
             },
             {
               "src": "/images/coins/m-北宋钱币/元丰通宝/variant_2.jpg",
@@ -1706,7 +1706,7 @@
         },
         "variantsTable": [
           {
-            "variant": "篆书/行书普通版（九级 undefined",
+            "variant": "篆书/行书普通版（普品）",
             "description": "篆书面文，笔画圆润",
             "grade": "九级（多） 普品",
             "priceRange": "5—15元",
@@ -1769,7 +1769,7 @@
             "notes": "较少见"
           },
           {
-            "variant": "母钱（八级 undefined",
+            "variant": "母钱（美品以上）",
             "description": "铁钱的母钱，铜质精良，极为珍贵",
             "grade": "八级（较多） 美品以上",
             "priceRange": "3000—10000元",
@@ -3010,7 +3010,7 @@
             "notes": "极罕见"
           },
           {
-            "variant": "母钱（六级 undefined",
+            "variant": "母钱（美品以上）",
             "description": "铁钱的母钱，铜质精良，极为珍贵",
             "grade": "六级（稀） 美品以上",
             "priceRange": "5000—15000元",
