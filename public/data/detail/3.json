@@ -16,67 +16,46 @@
     },
     "variantsTable": [
       {
-        "variant": "标准型大泉五十（普品）",
-        "description": "直径2.8—3.5cm。面文悬针篆规整，笔画纤细均匀，铸工尚可。最为常见",
-        "grade": "十级（多泛） 普品",
-        "priceRange": "30—80元",
-        "notes": "最常见规格"
+        "variant": "小平版（普品）",
+        "description": "面文\"大泉五十\"，四字对读。直径约2.8cm，重约5—8g",
+        "grade": "九级（多） 普品",
+        "priceRange": "5—30元",
+        "notes": "新莽铸量最大的铜钱"
       },
       {
-        "variant": "标准型大泉五十（美品）",
-        "description": "直径2.8—3.5cm。面文悬针篆规整，笔画纤细均匀，铸工尚可。最为常见",
-        "grade": "十级（多泛） 美品",
-        "priceRange": "80—200元",
-        "notes": "文字清晰"
+        "variant": "小平版（美品）",
+        "description": "品相精美，文字规整",
+        "grade": "九级（多） 美品",
+        "priceRange": "30—100元",
+        "notes": "美品价格较高"
       },
       {
-        "variant": "大型大泉五十",
-        "description": "直径3.5—4.0cm。钱体厚重饱满，面文\"大泉五十\"悬针篆笔画纤细挺拔，字口深峻，\"大\"字撇捺舒展，\"泉\"字中竖笔直，\"五\"字交笔弯曲，\"十\"字横竖端正。铸工精整，外廓高挺。早期铸行",
-        "grade": "八级（较多） 美品",
-        "priceRange": "200—500元",
-        "notes": "铸工精整"
+        "variant": "大字版",
+        "description": "面文字体较大，笔画粗壮",
+        "grade": "七级（甚少）",
+        "priceRange": "100—500元",
+        "notes": "大字版较少见"
       },
       {
-        "variant": "合背型",
-        "description": "两面均为面文\"大泉五十\"，为合范时误用两面母范所致。较为少见",
-        "grade": "七级（甚少） 美品",
-        "priceRange": "500—2,000元",
-        "notes": "较为少见"
+        "variant": "厚肉版",
+        "description": "铜质厚重，铸工较精",
+        "grade": "七级（甚少）",
+        "priceRange": "100—500元",
+        "notes": "厚肉版较少见"
       },
       {
-        "variant": "带花纹型",
-        "description": "背面铸有星纹（凸起圆点）、月纹（弧形纹饰），纹饰位置不固定。较为少见",
-        "grade": "七级（甚少） 美品",
-        "priceRange": "300—1,000元",
-        "notes": "背星月纹"
+        "variant": "合背版",
+        "description": "两面均为面文，极为罕见",
+        "grade": "三级（罕）",
+        "priceRange": "5,000—30,000元",
+        "notes": "合背极罕见"
       },
       {
-        "variant": "小型大泉五十",
-        "description": "直径2.7—2.8cm。钱体偏薄，面文字体较小，笔画纤细但字口较浅。晚期减重铸行",
-        "grade": "八级（较多） 普品",
-        "priceRange": "30—80元",
-        "notes": "减重小型，较常见"
-      },
-      {
-        "variant": "合面型",
-        "description": "两面均为光背（无面文），为合范时误用两面背范所致。较为少见",
-        "grade": "七级（较少） 美品",
-        "priceRange": "500—1,500元",
-        "notes": "面文合面，较少见"
-      },
-      {
-        "variant": "四出纹型",
-        "description": "背面穿孔四角各有一道凸线延伸至外廓。较少见",
-        "grade": "七级（甚少） 美品",
-        "priceRange": "500—2,000元",
-        "notes": "背面四道纹饰外通，较为少见"
-      },
-      {
-        "variant": "铁质型",
-        "description": "以铁铸造，呈黑褐色，面文较铜钱粗放。较少见",
-        "grade": "七级（甚少） 普品",
-        "priceRange": "200—800元",
-        "notes": "铁质铸行，存世较少"
+        "variant": "铁钱",
+        "description": "以铁铸造",
+        "grade": "七级（甚少）",
+        "priceRange": "100—500元",
+        "notes": "铁钱较少见"
       }
     ]
   },
@@ -96,37 +75,30 @@
       "variants": [
         {
           "src": "/images/coins/d-新莽钱币/契刀五百/variant_1.jpg",
-          "alt": "契刀五百 - 标准型契刀五百（普品）",
-          "label": "标准型契刀五百（普品）"
+          "alt": "契刀五百 - 标准版",
+          "label": "标准版"
         },
         {
           "src": "/images/coins/d-新莽钱币/契刀五百/variant_2.jpg",
-          "alt": "契刀五百 - 标准型契刀五百（美品）",
-          "label": "标准型契刀五百（美品）"
+          "alt": "契刀五百 - 大字版",
+          "label": "大字版"
         }
       ]
     },
     "variantsTable": [
       {
-        "variant": "标准型契刀五百（普品）",
-        "description": "全长约7.0—7.5cm。刀环圆形方孔，刀身长方，面文\"契刀五百\"悬针篆笔画纤细挺拔，\"契\"字上部结构紧凑，\"刀\"字撇画舒展，\"五\"字交笔弯曲，\"百\"字上部横画平直。铸工精整",
-        "grade": "八级（较多） 普品",
-        "priceRange": "2,000—5,000元",
-        "notes": "存世较少"
+        "variant": "标准版",
+        "description": "面文\"契刀五百\"，刀环上方\"契刀\"二字，下方\"五百\"二字。通长约7.3cm",
+        "grade": "六级（稀）",
+        "priceRange": "1,000—5,000元",
+        "notes": "新莽刀币，存世较少"
       },
       {
-        "variant": "标准型契刀五百（美品）",
-        "description": "全长约7.0—7.5cm。刀环圆形方孔，刀身长方，面文\"契刀五百\"悬针篆笔画纤细挺拔，\"契\"字上部结构紧凑，\"刀\"字撇画舒展，\"五\"字交笔弯曲，\"百\"字上部横画平直。铸工精整",
-        "grade": "八级（较多） 美品",
-        "priceRange": "5,000—12,000元",
-        "notes": "文字清晰"
-      },
-      {
-        "variant": "大字型",
-        "description": "面文字体较大，笔画粗壮，字口深峻。较少见",
-        "grade": "四级（罕见） 极美品",
-        "priceRange": "10,000—20,000元",
-        "notes": "较为罕见"
+        "variant": "大字版",
+        "description": "面文字体较大",
+        "grade": "五级（稀贵）",
+        "priceRange": "3,000—10,000元",
+        "notes": "大字版较少见"
       }
     ]
   },
@@ -146,37 +118,30 @@
       "variants": [
         {
           "src": "/images/coins/d-新莽钱币/一刀平五千/variant_1.jpg",
-          "alt": "一刀平五千 - 错金脱落型",
-          "label": "错金脱落型"
+          "alt": "一刀平五千 - 错金版",
+          "label": "错金版"
         },
         {
           "src": "/images/coins/d-新莽钱币/一刀平五千/variant_2.jpg",
-          "alt": "一刀平五千 - 标准型一刀平五千",
-          "label": "标准型一刀平五千"
+          "alt": "一刀平五千 - 未错金版",
+          "label": "未错金版"
         }
       ]
     },
     "variantsTable": [
       {
-        "variant": "错金脱落型",
-        "description": "金丝部分脱落或全部脱落，\"一刀\"二字仅残留字槽凹痕，可见嵌金痕迹。品相受损但仍有较高学术价值",
-        "grade": "四级（罕见） 普品",
-        "priceRange": "30,000—80,000元",
-        "notes": "存世稀少"
+        "variant": "错金版",
+        "description": "刀环上方\"一刀\"二字错金，下方\"平五千\"三字。通长约7.3cm",
+        "grade": "三级（罕贵）",
+        "priceRange": "20,000—100,000元",
+        "notes": "新莽大珍，\"一刀\"错金为其特征"
       },
       {
-        "variant": "标准型一刀平五千",
-        "description": "全长约7.0—7.5cm。刀环圆形方孔，环面铸\"一刀\"二字，以黄金错入字槽（错金工艺），金丝色泽金黄闪亮；刀身铸\"平五千\"三字悬针篆，笔画纤细挺拔。铸工极精，为王莽铸币工艺之巅峰",
-        "grade": "四级（罕见） 美品",
-        "priceRange": "80,000—150,000元",
-        "notes": "错金尚存"
-      },
-      {
-        "variant": "错金完好型",
-        "description": "金丝保存完好，色泽金黄，与铜质底色对比鲜明。\"一刀\"二字金丝嵌填饱满，字槽边缘整齐",
-        "grade": "二级（极罕） 极美品",
-        "priceRange": "150,000—300,000元",
-        "notes": "金丝保存完好，极为难得"
+        "variant": "未错金版",
+        "description": "\"一刀\"二字未错金，或为试铸品",
+        "grade": "四级（罕）",
+        "priceRange": "5,000—30,000元",
+        "notes": "未错金版较少见"
       }
     ]
   },
@@ -197,25 +162,18 @@
     },
     "variantsTable": [
       {
-        "variant": "标准型小泉直一（普品）",
-        "description": "直径1.4—1.6cm，最为常见",
-        "grade": "十级（多泛） 普品",
-        "priceRange": "50—150元",
-        "notes": "较常见"
+        "variant": "标准版",
+        "description": "面文\"小泉直一\"，四字对读。直径约1.4cm，重约0.5—1g",
+        "grade": "八级（较多）",
+        "priceRange": "20—100元",
+        "notes": "新莽六泉中最小者"
       },
       {
-        "variant": "标准型小泉直一（美品）",
-        "description": "直径1.4—1.6cm，最为常见",
-        "grade": "十级（多泛） 美品",
-        "priceRange": "150—350元",
-        "notes": "文字清晰"
-      },
-      {
-        "variant": "大字型",
-        "description": "面文字体稍大",
-        "grade": "七级（较少） 极美品",
-        "priceRange": "300—800元",
-        "notes": "较少见"
+        "variant": "大字版",
+        "description": "面文字体较大",
+        "grade": "七级（甚少）",
+        "priceRange": "50—300元",
+        "notes": "大字版较少见"
       }
     ]
   },
@@ -236,18 +194,11 @@
     },
     "variantsTable": [
       {
-        "variant": "标准型幺泉一十（普品）",
-        "description": "直径1.6—1.8cm",
-        "grade": "七级（甚少） 普品",
-        "priceRange": "3,000—8,000元",
-        "notes": "存世较少"
-      },
-      {
-        "variant": "标准型幺泉一十（美品）",
-        "description": "直径1.6—1.8cm",
-        "grade": "七级（甚少） 美品",
-        "priceRange": "8,000—20,000元",
-        "notes": "文字清晰"
+        "variant": "标准型幺泉一十",
+        "description": "直径1.6—1.8cm，面文\"幺泉一十\"悬针篆规整，铸工精整",
+        "grade": "七级（甚少）",
+        "priceRange": "3,000—20,000元",
+        "notes": "存世较少，品相决定价格"
       }
     ]
   },
@@ -268,18 +219,11 @@
     },
     "variantsTable": [
       {
-        "variant": "标准型幼泉二十（普品）",
-        "description": "直径1.8—2.0cm",
-        "grade": "七级（甚少） 普品",
-        "priceRange": "3,000—8,000元",
-        "notes": "存世较少"
-      },
-      {
-        "variant": "标准型幼泉二十（美品）",
-        "description": "直径1.8—2.0cm",
-        "grade": "七级（甚少） 美品",
-        "priceRange": "8,000—20,000元",
-        "notes": "文字清晰"
+        "variant": "标准型幼泉二十",
+        "description": "直径1.8—2.0cm，面文\"幼泉二十\"悬针篆规整",
+        "grade": "七级（甚少）",
+        "priceRange": "3,000—20,000元",
+        "notes": "存世较少，品相决定价格"
       }
     ]
   },
@@ -300,18 +244,11 @@
     },
     "variantsTable": [
       {
-        "variant": "标准型中泉三十（普品）",
-        "description": "直径2.0—2.1cm",
-        "grade": "七级（甚少） 普品",
-        "priceRange": "5,000—15,000元",
-        "notes": "存世稀少"
-      },
-      {
-        "variant": "标准型中泉三十（美品）",
-        "description": "直径2.0—2.1cm",
-        "grade": "七级（甚少） 美品",
-        "priceRange": "15,000—30,000元",
-        "notes": "文字清晰"
+        "variant": "标准型中泉三十",
+        "description": "直径2.0—2.1cm，面文\"中泉三十\"悬针篆规整",
+        "grade": "七级（甚少）",
+        "priceRange": "5,000—30,000元",
+        "notes": "存世稀少，品相决定价格"
       }
     ]
   },
@@ -332,25 +269,11 @@
     },
     "variantsTable": [
       {
-        "variant": "标准型壮泉四十（普品）",
-        "description": "直径2.0—2.2cm",
-        "grade": "二级（极罕） 普品",
-        "priceRange": "80,000—150,000元",
-        "notes": "存世极罕"
-      },
-      {
-        "variant": "标准型壮泉四十（美品）",
-        "description": "直径2.0—2.2cm",
-        "grade": "三级（罕贵） 美品",
-        "priceRange": "40,000—80,000元",
-        "notes": "文字清晰"
-      },
-      {
-        "variant": "标准型壮泉四十（极美品）",
-        "description": "直径2.0—2.2cm",
-        "grade": "二级（极罕） 极美品",
-        "priceRange": "80,000—150,000元",
-        "notes": "极为难得"
+        "variant": "标准型壮泉四十",
+        "description": "直径2.0—2.2cm，面文\"壮泉四十\"悬针篆规整。古泉五十名珍之一，存世极罕",
+        "grade": "二级（珍）",
+        "priceRange": "40,000—150,000元",
+        "notes": "古泉五十名珍，品相决定价格"
       }
     ]
   },
@@ -371,18 +294,11 @@
     },
     "variantsTable": [
       {
-        "variant": "标准型小布一百（普品）",
-        "description": "通高3.5—4.0cm",
-        "grade": "八级（较多） 普品",
-        "priceRange": "2,000—5,000元",
-        "notes": "存世较少"
-      },
-      {
-        "variant": "标准型小布一百（美品）",
-        "description": "通高3.5—4.0cm",
-        "grade": "八级（较多） 美品",
-        "priceRange": "5,000—10,000元",
-        "notes": "文字清晰"
+        "variant": "标准型小布一百",
+        "description": "通高3.5—4.0cm，面文\"小布一百\"悬针篆规整",
+        "grade": "八级（较多）",
+        "priceRange": "2,000—10,000元",
+        "notes": "存世较少，品相决定价格"
       }
     ]
   },
@@ -403,18 +319,11 @@
     },
     "variantsTable": [
       {
-        "variant": "标准型幺布二百（普品）",
-        "description": "通高3.6—4.2cm",
-        "grade": "八级（较多） 普品",
-        "priceRange": "2,000—5,000元",
-        "notes": "存世较少"
-      },
-      {
-        "variant": "标准型幺布二百（美品）",
-        "description": "通高3.6—4.2cm",
-        "grade": "八级（较多） 美品",
-        "priceRange": "5,000—10,000元",
-        "notes": "文字清晰"
+        "variant": "标准型幺布二百",
+        "description": "通高3.6—4.2cm，面文\"幺布二百\"悬针篆规整",
+        "grade": "八级（较多）",
+        "priceRange": "2,000—10,000元",
+        "notes": "存世较少，品相决定价格"
       }
     ]
   },
@@ -435,18 +344,11 @@
     },
     "variantsTable": [
       {
-        "variant": "标准型幼布三百（普品）",
-        "description": "通高3.8—4.5cm",
-        "grade": "八级（较多） 普品",
-        "priceRange": "2,000—5,000元",
-        "notes": "存世较少"
-      },
-      {
-        "variant": "标准型幼布三百（美品）",
-        "description": "通高3.8—4.5cm",
-        "grade": "八级（较多） 美品",
-        "priceRange": "5,000—10,000元",
-        "notes": "文字清晰"
+        "variant": "标准型幼布三百",
+        "description": "通高3.8—4.5cm，面文\"幼布三百\"悬针篆规整",
+        "grade": "八级（较多）",
+        "priceRange": "2,000—10,000元",
+        "notes": "存世较少，品相决定价格"
       }
     ]
   },
@@ -467,18 +369,11 @@
     },
     "variantsTable": [
       {
-        "variant": "标准型序布四百（普品）",
-        "description": "通高4.0—4.8cm",
-        "grade": "七级（甚少） 普品",
-        "priceRange": "3,000—8,000元",
-        "notes": "存世较少"
-      },
-      {
-        "variant": "标准型序布四百（美品）",
-        "description": "通高4.0—4.8cm",
-        "grade": "七级（甚少） 美品",
-        "priceRange": "8,000—15,000元",
-        "notes": "文字清晰"
+        "variant": "标准型序布四百",
+        "description": "通高4.0—4.8cm，面文\"序布四百\"悬针篆规整",
+        "grade": "七级（甚少）",
+        "priceRange": "3,000—15,000元",
+        "notes": "存世较少，品相决定价格"
       }
     ]
   },
@@ -499,18 +394,11 @@
     },
     "variantsTable": [
       {
-        "variant": "标准型差布五百（普品）",
-        "description": "通高4.2—5.0cm",
-        "grade": "七级（甚少） 普品",
-        "priceRange": "3,000—8,000元",
-        "notes": "存世较少"
-      },
-      {
-        "variant": "标准型差布五百（美品）",
-        "description": "通高4.2—5.0cm",
-        "grade": "七级（甚少） 美品",
-        "priceRange": "8,000—15,000元",
-        "notes": "文字清晰"
+        "variant": "标准型差布五百",
+        "description": "通高4.2—5.0cm，面文\"差布五百\"悬针篆规整",
+        "grade": "七级（甚少）",
+        "priceRange": "3,000—15,000元",
+        "notes": "存世较少，品相决定价格"
       }
     ]
   },
@@ -531,18 +419,11 @@
     },
     "variantsTable": [
       {
-        "variant": "标准型中布六百（普品）",
-        "description": "通高4.5—5.2cm",
-        "grade": "七级（甚少） 普品",
-        "priceRange": "3,000—8,000元",
-        "notes": "存世较少"
-      },
-      {
-        "variant": "标准型中布六百（美品）",
-        "description": "通高4.5—5.2cm",
-        "grade": "七级（甚少） 美品",
-        "priceRange": "8,000—15,000元",
-        "notes": "文字清晰"
+        "variant": "标准型中布六百",
+        "description": "通高4.5—5.2cm，面文\"中布六百\"悬针篆规整",
+        "grade": "七级（甚少）",
+        "priceRange": "3,000—15,000元",
+        "notes": "存世较少，品相决定价格"
       }
     ]
   },
@@ -563,18 +444,11 @@
     },
     "variantsTable": [
       {
-        "variant": "标准型壮布七百（普品）",
-        "description": "通高4.8—5.5cm",
-        "grade": "七级（甚少） 普品",
-        "priceRange": "3,000—8,000元",
-        "notes": "存世较少"
-      },
-      {
-        "variant": "标准型壮布七百（美品）",
-        "description": "通高4.8—5.5cm",
-        "grade": "七级（甚少） 美品",
-        "priceRange": "8,000—15,000元",
-        "notes": "文字清晰"
+        "variant": "标准型壮布七百",
+        "description": "通高4.8—5.5cm，面文\"壮布七百\"悬针篆规整",
+        "grade": "七级（甚少）",
+        "priceRange": "3,000—15,000元",
+        "notes": "存世较少，品相决定价格"
       }
     ]
   },
@@ -595,18 +469,11 @@
     },
     "variantsTable": [
       {
-        "variant": "标准型第布八百（普品）",
-        "description": "通高5.0—5.5cm",
-        "grade": "七级（甚少） 普品",
-        "priceRange": "3,000—8,000元",
-        "notes": "存世较少"
-      },
-      {
-        "variant": "标准型第布八百（美品）",
-        "description": "通高5.0—5.5cm",
-        "grade": "七级（甚少） 美品",
-        "priceRange": "8,000—15,000元",
-        "notes": "文字清晰"
+        "variant": "标准型第布八百",
+        "description": "通高5.0—5.5cm，面文\"第布八百\"悬针篆规整",
+        "grade": "七级（甚少）",
+        "priceRange": "3,000—15,000元",
+        "notes": "存世较少，品相决定价格"
       }
     ]
   },
@@ -627,18 +494,11 @@
     },
     "variantsTable": [
       {
-        "variant": "标准型次布九百（普品）",
-        "description": "通高5.2—5.5cm",
-        "grade": "七级（甚少） 普品",
-        "priceRange": "3,000—8,000元",
-        "notes": "存世较少"
-      },
-      {
-        "variant": "标准型次布九百（美品）",
-        "description": "通高5.2—5.5cm",
-        "grade": "七级（甚少） 美品",
-        "priceRange": "8,000—15,000元",
-        "notes": "文字清晰"
+        "variant": "标准型次布九百",
+        "description": "通高5.2—5.5cm，面文\"次布九百\"悬针篆规整",
+        "grade": "七级（甚少）",
+        "priceRange": "3,000—15,000元",
+        "notes": "存世较少，品相决定价格"
       }
     ]
   },
@@ -658,30 +518,23 @@
       "variants": [
         {
           "src": "/images/coins/d-新莽钱币/大布黄千/variant_1.jpg",
-          "alt": "大布黄千 - 标准型大布黄千（普品）",
-          "label": "标准型大布黄千（普品）"
+          "alt": "大布黄千 - 标准型大布黄千",
+          "label": "标准型大布黄千"
         },
         {
           "src": "/images/coins/d-新莽钱币/大布黄千/variant_2.jpg",
-          "alt": "大布黄千 - 标准型大布黄千（美品）",
-          "label": "标准型大布黄千（美品）"
+          "alt": "大布黄千 - 大型大布黄千",
+          "label": "大型大布黄千"
         }
       ]
     },
     "variantsTable": [
       {
-        "variant": "标准型大布黄千（普品）",
+        "variant": "标准型大布黄千",
         "description": "通高5.5—5.8cm。面文\"大布黄千\"悬针篆笔画纤细挺拔，\"大\"字撇捺舒展，\"布\"字上部竖画笔直，\"黄\"字中部横画平直，\"千\"字撇画流畅。双足方正规整，首部圆孔清晰。铸工精整",
-        "grade": "九级（多） 普品",
-        "priceRange": "300—800元",
-        "notes": "布货十品中最常见"
-      },
-      {
-        "variant": "标准型大布黄千（美品）",
-        "description": "通高5.5—5.8cm。面文\"大布黄千\"悬针篆笔画纤细挺拔，\"大\"字撇捺舒展，\"布\"字上部竖画笔直，\"黄\"字中部横画平直，\"千\"字撇画流畅。双足方正规整，首部圆孔清晰。铸工精整",
-        "grade": "八级（较多） 美品",
-        "priceRange": "800—2,000元",
-        "notes": "文字清晰"
+        "grade": "九级（多）",
+        "priceRange": "300—2,000元",
+        "notes": "布货十品中最常见，品相决定价格"
       },
       {
         "variant": "大型大布黄千",
@@ -722,51 +575,44 @@
       "variants": [
         {
           "src": "/images/coins/d-新莽钱币/货布钱/variant_1.jpg",
-          "alt": "货布钱 - 标准型货布（普品）",
-          "label": "标准型货布（普品）"
+          "alt": "货布钱 - 标准版（普品）",
+          "label": "标准版（普品）"
         },
         {
           "src": "/images/coins/d-新莽钱币/货布钱/variant_2.jpg",
-          "alt": "货布钱 - 标准型货布（美品）",
-          "label": "标准型货布（美品）"
+          "alt": "货布钱 - 标准版（美品）",
+          "label": "标准版（美品）"
         }
       ]
     },
     "variantsTable": [
       {
-        "variant": "标准型货布（普品）",
-        "description": "通高约5.8cm。面文\"货布\"悬针篆笔画纤细挺拔，\"货\"字\"化\"部撇画舒展，\"布\"字竖画笔直。双足方正规整，首部圆孔清晰。铸工极精，铜质精良，字口深峻。为新莽铸币中工艺最精整者",
+        "variant": "标准版（普品）",
+        "description": "面文\"货布\"，二字对读，悬针篆。通高约5.8cm，重约12—16g",
         "grade": "八级（较多） 普品",
-        "priceRange": "200—500元",
-        "notes": "较常见"
+        "priceRange": "50—200元",
+        "notes": "新莽晚期布币"
       },
       {
-        "variant": "标准型货布（美品）",
-        "description": "通高约5.8cm。面文\"货布\"悬针篆笔画纤细挺拔，\"货\"字\"化\"部撇画舒展，\"布\"字竖画笔直。双足方正规整，首部圆孔清晰。铸工极精，铜质精良，字口深峻。为新莽铸币中工艺最精整者",
+        "variant": "标准版（美品）",
+        "description": "品相精美，悬针篆文字纤细",
         "grade": "八级（较多） 美品",
-        "priceRange": "500—1,500元",
-        "notes": "文字清晰，铸工精整"
+        "priceRange": "200—500元",
+        "notes": "美品较珍贵"
       },
       {
-        "variant": "大型货布",
-        "description": "通高6.0cm以上。钱体厚重，面文字体较大，笔画粗壮深峻。较少见",
-        "grade": "七级（较少） 极美品",
-        "priceRange": "1,500—5,000元",
-        "notes": "铸工上佳"
+        "variant": "大字版",
+        "description": "面文字体较大，笔画舒展",
+        "grade": "七级（甚少）",
+        "priceRange": "200—1,000元",
+        "notes": "大字版较少见"
       },
       {
-        "variant": "合背型",
-        "description": "两面均为面文\"货布\"，为合范时误用两面母范所致。较少见",
-        "grade": "七级（较少） 美品",
-        "priceRange": "3,000—8,000元",
-        "notes": "较为少见"
-      },
-      {
-        "variant": "减重型",
-        "description": "通高约5.5cm，钱体偏薄，面文字体较小，笔画纤细。晚期减重铸行",
-        "grade": "八级（较多） 普品",
-        "priceRange": "200—600元",
-        "notes": "晚期减重铸行"
+        "variant": "厚肉版",
+        "description": "铜质厚重",
+        "grade": "七级（甚少）",
+        "priceRange": "200—1,000元",
+        "notes": "厚肉版较少见"
       }
     ]
   },
@@ -786,72 +632,51 @@
       "variants": [
         {
           "src": "/images/coins/d-新莽钱币/货泉钱/variant_1.jpg",
-          "alt": "货泉钱 - 标准型货泉（普品）",
-          "label": "标准型货泉（普品）"
+          "alt": "货泉钱 - 标准版（普品）",
+          "label": "标准版（普品）"
         },
         {
           "src": "/images/coins/d-新莽钱币/货泉钱/variant_2.jpg",
-          "alt": "货泉钱 - 标准型货泉（美品）",
-          "label": "标准型货泉（美品）"
+          "alt": "货泉钱 - 标准版（美品）",
+          "label": "标准版（美品）"
         }
       ]
     },
     "variantsTable": [
       {
-        "variant": "标准型货泉（普品）",
-        "description": "直径2.2—2.4cm。面文\"货泉\"悬针篆笔画纤细挺拔，\"货\"字\"化\"部撇画舒展，\"泉\"字中竖笔直。外廓规整，好廓清晰。最为常见",
+        "variant": "标准版（普品）",
+        "description": "面文\"货泉\"，二字对读。直径约2.3cm，重约3—5g",
         "grade": "十级（多泛） 普品",
-        "priceRange": "10—30元",
-        "notes": "最常见的新莽钱币"
+        "priceRange": "3—10元",
+        "notes": "新莽晚期铸量最大的铜钱"
       },
       {
-        "variant": "标准型货泉（美品）",
-        "description": "直径2.2—2.4cm。面文\"货泉\"悬针篆笔画纤细挺拔，\"货\"字\"化\"部撇画舒展，\"泉\"字中竖笔直。外廓规整，好廓清晰。最为常见",
+        "variant": "标准版（美品）",
+        "description": "品相精美",
         "grade": "十级（多泛） 美品",
-        "priceRange": "30—80元",
-        "notes": "文字清晰"
+        "priceRange": "10—30元",
+        "notes": "美品价格较高"
       },
       {
-        "variant": "背星纹型",
-        "description": "背面铸有凸起星纹（圆点），位于穿孔上方或下方。较为少见",
-        "grade": "七级（较少） 美品",
-        "priceRange": "50—200元",
-        "notes": "较少见"
+        "variant": "大字版",
+        "description": "面文字体较大",
+        "grade": "八级（较多）",
+        "priceRange": "20—100元",
+        "notes": "大字版较少见"
       },
       {
-        "variant": "铁质货泉",
-        "description": "以铁铸造，呈黑褐色，面文较铜钱粗放。铸量较少",
-        "grade": "七级（较少） 普品",
-        "priceRange": "30—100元",
-        "notes": "较少见"
+        "variant": "合背版",
+        "description": "两面均为面文，极为罕见",
+        "grade": "三级（罕）",
+        "priceRange": "5,000—30,000元",
+        "notes": "合背极罕见"
       },
       {
-        "variant": "大型货泉",
-        "description": "直径2.4cm以上。钱体厚重，面文字体较大，笔画深峻。铜质精良。较少见",
-        "grade": "七级（较少） 美品",
-        "priceRange": "50—150元",
-        "notes": "体型较大，较常见"
-      },
-      {
-        "variant": "合背型",
-        "description": "两面均为面文\"货泉\"，为合范时误用两面母范所致。较少见",
-        "grade": "七级（较少） 美品",
-        "priceRange": "500—2,000元",
-        "notes": "背面合背，较少见"
-      },
-      {
-        "variant": "阔缘型",
-        "description": "外廓较标准型宽厚，钱面平坦。较少见",
-        "grade": "八级（较多） 美品",
-        "priceRange": "200—800元",
-        "notes": "外缘较宽，较少见"
-      },
-      {
-        "variant": "传形型",
-        "description": "面文\"货泉\"二字左右反置，为合范时范模倒置所致。罕见",
-        "grade": "七级（甚少） 美品",
-        "priceRange": "500—2,000元",
-        "notes": "面文左右反置，较少见"
+        "variant": "铁钱",
+        "description": "以铁铸造",
+        "grade": "七级（甚少）",
+        "priceRange": "50—300元",
+        "notes": "铁钱较少见"
       }
     ]
   },
@@ -871,30 +696,23 @@
       "variants": [
         {
           "src": "/images/coins/d-新莽钱币/布泉-新莽/variant_1.jpg",
-          "alt": "布泉-新莽 - 标准型布泉（普品）",
-          "label": "标准型布泉（普品）"
+          "alt": "布泉-新莽 - 标准型布泉",
+          "label": "标准型布泉"
         },
         {
           "src": "/images/coins/d-新莽钱币/布泉-新莽/variant_2.jpg",
-          "alt": "布泉-新莽 - 标准型布泉（美品）",
-          "label": "标准型布泉（美品）"
+          "alt": "布泉-新莽 - 大字型",
+          "label": "大字型"
         }
       ]
     },
     "variantsTable": [
       {
-        "variant": "标准型布泉（普品）",
-        "description": "直径2.5—2.6cm，铸工精整",
-        "grade": "八级（较多） 普品",
-        "priceRange": "200—500元",
-        "notes": "较常见"
-      },
-      {
-        "variant": "标准型布泉（美品）",
-        "description": "直径2.5—2.6cm，铸工精整",
-        "grade": "八级（较多） 美品",
-        "priceRange": "500—1,500元",
-        "notes": "文字清晰"
+        "variant": "标准型布泉",
+        "description": "直径2.5—2.6cm。面文\"布泉\"悬针篆笔画纤细挺拔，铸工精整",
+        "grade": "八级（较多）",
+        "priceRange": "200—1,500元",
+        "notes": "较常见，品相决定价格"
       },
       {
         "variant": "大字型",

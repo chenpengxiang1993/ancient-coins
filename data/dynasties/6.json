@@ -32,30 +32,23 @@
           "variants": [
             {
               "src": "/images/coins/g-南朝钱币/元嘉四铢/variant_1.jpg",
-              "alt": "元嘉四铢 - 标准型元嘉四铢（普品）",
-              "label": "标准型元嘉四铢（普品）"
+              "alt": "元嘉四铢 - 标准型元嘉四铢",
+              "label": "标准型元嘉四铢"
             },
             {
               "src": "/images/coins/g-南朝钱币/元嘉四铢/variant_2.jpg",
-              "alt": "元嘉四铢 - 标准型元嘉四铢（美品）",
-              "label": "标准型元嘉四铢（美品）"
+              "alt": "元嘉四铢 - 版别2",
+              "label": "版别2"
             }
           ]
         },
         "variantsTable": [
           {
-            "variant": "标准型元嘉四铢（普品）",
-            "description": "直径2.2—2.4cm",
-            "grade": "八级（较多） 普品",
-            "priceRange": "100—300元",
-            "notes": "存世较少"
-          },
-          {
-            "variant": "标准型元嘉四铢（美品）",
-            "description": "直径2.2—2.4cm",
-            "grade": "八级（较多） 美品",
-            "priceRange": "300—1,000元",
-            "notes": "文字清晰"
+            "variant": "标准型元嘉四铢",
+            "description": "直径2.2—2.4cm。面文\"四铢\"笔画规整",
+            "grade": "八级（较多）",
+            "priceRange": "100—1,000元",
+            "notes": "存世较少，品相决定价格"
           }
         ]
       }
@@ -91,18 +84,11 @@
         },
         "variantsTable": [
           {
-            "variant": "标准型四铢钱（普品）",
-            "description": "直径2.2—2.4cm",
-            "grade": "八级（较多） 普品",
-            "priceRange": "50—150元",
-            "notes": "较常见"
-          },
-          {
-            "variant": "标准型四铢钱（美品）",
-            "description": "直径2.2—2.4cm",
-            "grade": "八级（较多） 美品",
-            "priceRange": "150—500元",
-            "notes": "文字清晰"
+            "variant": "标准型四铢钱",
+            "description": "直径2.2—2.4cm。面文\"四铢\"笔画规整",
+            "grade": "八级（较多）",
+            "priceRange": "50—500元",
+            "notes": "较常见，品相决定价格"
           }
         ]
       }
@@ -137,44 +123,44 @@
           "variants": [
             {
               "src": "/images/coins/g-南朝钱币/孝建四铢/variant_1.jpg",
-              "alt": "孝建四铢 - 光背版",
-              "label": "光背版"
+              "alt": "孝建四铢 - 四字面文版",
+              "label": "四字面文版"
             },
             {
               "src": "/images/coins/g-南朝钱币/孝建四铢/variant_2.jpg",
-              "alt": "孝建四铢 - 背\"四铢\"版",
-              "label": "背\"四铢\"版"
+              "alt": "孝建四铢 - 孝建面文版（去\"四铢\"）",
+              "label": "孝建面文版（去\"四铢\"）"
             }
           ]
         },
         "variantsTable": [
           {
-            "variant": "光背版",
-            "description": "背面平素无文，后期版",
-            "grade": "八级（较多） 普品",
-            "priceRange": "50—150元",
-            "notes": "较常见"
+            "variant": "四字面文版",
+            "description": "面文\"孝建四铢\"，四字旋读，薤叶篆。直径约2.2cm",
+            "grade": "七级（甚少）",
+            "priceRange": "500—3,000元",
+            "notes": "孝建四铢为南朝名钱"
           },
           {
-            "variant": "背\"四铢\"版",
-            "description": "背面铸有\"四铢\"二字，初铸版",
-            "grade": "七级（较少） 美品",
-            "priceRange": "200—800元",
-            "notes": "初铸版，较少见"
+            "variant": "孝建面文版（去\"四铢\"）",
+            "description": "面文仅\"孝建\"二字，背面无文。为减重铸行",
+            "grade": "七级（甚少）",
+            "priceRange": "500—3,000元",
+            "notes": "减重版"
           },
           {
-            "variant": "大字版",
-            "description": "面文字体较大",
-            "grade": "八级（较多） 美品",
-            "priceRange": "150—400元",
-            "notes": "文字较大"
+            "variant": "大样版",
+            "description": "直径较大，约2.3—2.4cm",
+            "grade": "六级（稀）",
+            "priceRange": "1,000—5,000元",
+            "notes": "大样较少见"
           },
           {
-            "variant": "小字版",
-            "description": "面文字体较小",
-            "grade": "八级（较多） 普品",
-            "priceRange": "1,000—3,000元",
-            "notes": "文字较小，较常见"
+            "variant": "小样版",
+            "description": "直径较小，约1.8—2.0cm，减重明显",
+            "grade": "七级（甚少）",
+            "priceRange": "500—2,000元",
+            "notes": "小样减重版"
           }
         ]
       }
@@ -209,13 +195,13 @@
           "variants": [
             {
               "src": "/images/coins/g-南朝钱币/大明四铢/variant_1.jpg",
-              "alt": "大明四铢 - 标准型大明四铢（普品）",
-              "label": "标准型大明四铢（普品）"
+              "alt": "大明四铢 - 标准型大明四铢",
+              "label": "标准型大明四铢"
             },
             {
               "src": "/images/coins/g-南朝钱币/大明四铢/variant_2.jpg",
-              "alt": "大明四铢 - 标准型大明四铢（美品）",
-              "label": "标准型大明四铢（美品）"
+              "alt": "大明四铢 - 版别2",
+              "label": "版别2"
             },
             {
               "src": "/images/coins/g-南朝钱币/大明四铢/variant_3.jpg",
@@ -226,18 +212,11 @@
         },
         "variantsTable": [
           {
-            "variant": "标准型大明四铢（普品）",
-            "description": "直径2.0—2.3cm",
-            "grade": "八级（较多） 普品",
-            "priceRange": "200—500元",
-            "notes": "存世较少"
-          },
-          {
-            "variant": "标准型大明四铢（美品）",
-            "description": "直径2.0—2.3cm",
-            "grade": "八级（较多） 美品",
-            "priceRange": "500—2,000元",
-            "notes": "文字清晰"
+            "variant": "标准型大明四铢",
+            "description": "直径2.0—2.3cm。面文\"大明四铢\"笔画纤细",
+            "grade": "八级（较多）",
+            "priceRange": "200—2,000元",
+            "notes": "存世较少，品相决定价格"
           }
         ]
       }
@@ -272,30 +251,23 @@
           "variants": [
             {
               "src": "/images/coins/g-南朝钱币/两铢钱/variant_1.jpg",
-              "alt": "两铢钱 - 标准型两铢钱（普品）",
-              "label": "标准型两铢钱（普品）"
+              "alt": "两铢钱 - 标准型两铢钱",
+              "label": "标准型两铢钱"
             },
             {
               "src": "/images/coins/g-南朝钱币/两铢钱/variant_2.jpg",
-              "alt": "两铢钱 - 标准型两铢钱（美品）",
-              "label": "标准型两铢钱（美品）"
+              "alt": "两铢钱 - 版别2",
+              "label": "版别2"
             }
           ]
         },
         "variantsTable": [
           {
-            "variant": "标准型两铢钱（普品）",
-            "description": "直径1.6—1.9cm",
-            "grade": "八级（较多） 普品",
-            "priceRange": "200—500元",
-            "notes": "存世较少"
-          },
-          {
-            "variant": "标准型两铢钱（美品）",
-            "description": "直径1.6—1.9cm",
-            "grade": "八级（较多） 美品",
-            "priceRange": "500—2,000元",
-            "notes": "文字清晰"
+            "variant": "标准型两铢钱",
+            "description": "直径1.6—1.9cm。面文\"两铢\"笔画纤细",
+            "grade": "八级（较多）",
+            "priceRange": "200—2,000元",
+            "notes": "存世较少，品相决定价格"
           }
         ]
       }
@@ -330,30 +302,23 @@
           "variants": [
             {
               "src": "/images/coins/g-南朝钱币/永光钱/variant_1.jpg",
-              "alt": "永光钱 - 标准型永光钱（普品）",
-              "label": "标准型永光钱（普品）"
+              "alt": "永光钱 - 标准版",
+              "label": "标准版"
             },
             {
               "src": "/images/coins/g-南朝钱币/永光钱/variant_2.jpg",
-              "alt": "永光钱 - 标准型永光钱（美品）",
-              "label": "标准型永光钱（美品）"
+              "alt": "永光钱 - 版别2",
+              "label": "版别2"
             }
           ]
         },
         "variantsTable": [
           {
-            "variant": "标准型永光钱（普品）",
-            "description": "直径1.8—2.0cm",
-            "grade": "七级（甚少） 普品",
-            "priceRange": "3,000—10,000元",
-            "notes": "存世稀少"
-          },
-          {
-            "variant": "标准型永光钱（美品）",
-            "description": "直径1.8—2.0cm",
-            "grade": "七级（甚少） 美品",
-            "priceRange": "10,000—30,000元",
-            "notes": "文字清晰"
+            "variant": "标准版",
+            "description": "面文\"永光\"，二字横读。直径约1.8cm。前废帝刘子业永光元年铸行",
+            "grade": "二级（珍）",
+            "priceRange": "50,000—200,000元",
+            "notes": "永光钱为南朝大珍，年号仅数月"
           }
         ]
       }
@@ -388,30 +353,23 @@
           "variants": [
             {
               "src": "/images/coins/g-南朝钱币/景和钱/variant_1.jpg",
-              "alt": "景和钱 - 标准型景和钱（普品）",
-              "label": "标准型景和钱（普品）"
+              "alt": "景和钱 - 标准版",
+              "label": "标准版"
             },
             {
               "src": "/images/coins/g-南朝钱币/景和钱/variant_2.jpg",
-              "alt": "景和钱 - 标准型景和钱（美品）",
-              "label": "标准型景和钱（美品）"
+              "alt": "景和钱 - 版别2",
+              "label": "版别2"
             }
           ]
         },
         "variantsTable": [
           {
-            "variant": "标准型景和钱（普品）",
-            "description": "直径1.8—2.0cm",
-            "grade": "七级（甚少） 普品",
-            "priceRange": "3,000—10,000元",
-            "notes": "存世稀少"
-          },
-          {
-            "variant": "标准型景和钱（美品）",
-            "description": "直径1.8—2.0cm",
-            "grade": "七级（甚少） 美品",
-            "priceRange": "10,000—30,000元",
-            "notes": "文字清晰"
+            "variant": "标准版",
+            "description": "面文\"景和\"，二字横读。直径约1.8cm。前废帝刘子业景和元年铸行",
+            "grade": "二级（珍）",
+            "priceRange": "50,000—200,000元",
+            "notes": "景和钱为南朝大珍，年号仅数月"
           }
         ]
       }
@@ -447,18 +405,11 @@
         },
         "variantsTable": [
           {
-            "variant": "标准型天监五铢（普品）",
-            "description": "直径2.4—2.5cm",
-            "grade": "八级（较多） 普品",
-            "priceRange": "30—80元",
-            "notes": "较常见"
-          },
-          {
-            "variant": "标准型天监五铢（美品）",
-            "description": "直径2.4—2.5cm",
-            "grade": "八级（较多） 美品",
-            "priceRange": "80—300元",
-            "notes": "文字清晰"
+            "variant": "标准型天监五铢",
+            "description": "直径2.4—2.5cm。面文\"五铢\"笔画规整，铸工较精",
+            "grade": "八级（较多）",
+            "priceRange": "30—300元",
+            "notes": "较常见，品相决定价格"
           }
         ]
       }
@@ -494,18 +445,11 @@
         },
         "variantsTable": [
           {
-            "variant": "标准型梁五铢（普品）",
-            "description": "直径2.3—2.5cm",
-            "grade": "八级（较多） 普品",
-            "priceRange": "20—50元",
-            "notes": "较常见"
-          },
-          {
-            "variant": "标准型梁五铢（美品）",
-            "description": "直径2.3—2.5cm",
-            "grade": "八级（较多） 美品",
-            "priceRange": "50—150元",
-            "notes": "文字清晰"
+            "variant": "标准型梁五铢",
+            "description": "直径2.3—2.5cm。面文\"五铢\"笔画规整",
+            "grade": "八级（较多）",
+            "priceRange": "20—150元",
+            "notes": "较常见，品相决定价格"
           },
           {
             "variant": "减重型",
@@ -547,30 +491,23 @@
           "variants": [
             {
               "src": "/images/coins/g-南朝钱币/铁五铢-梁/variant_1.jpg",
-              "alt": "铁五铢-梁 - 标准型铁五铢（普品）",
-              "label": "标准型铁五铢（普品）"
+              "alt": "铁五铢-梁 - 标准型铁五铢",
+              "label": "标准型铁五铢"
             },
             {
               "src": "/images/coins/g-南朝钱币/铁五铢-梁/variant_2.jpg",
-              "alt": "铁五铢-梁 - 标准型铁五铢（美品）",
-              "label": "标准型铁五铢（美品）"
+              "alt": "铁五铢-梁 - 大字版",
+              "label": "大字版"
             }
           ]
         },
         "variantsTable": [
           {
-            "variant": "标准型铁五铢（普品）",
-            "description": "直径2.3—2.5cm",
-            "grade": "八级（较多） 普品",
-            "priceRange": "20—50元",
-            "notes": "较常见，锈蚀普遍"
-          },
-          {
-            "variant": "标准型铁五铢（美品）",
-            "description": "直径2.3—2.5cm",
-            "grade": "八级（较多） 美品",
-            "priceRange": "50—200元",
-            "notes": "锈蚀较轻"
+            "variant": "标准型铁五铢",
+            "description": "直径2.3—2.5cm。以铁铸造，呈黑褐色，面文\"五铢\"较粗放",
+            "grade": "八级（较多）",
+            "priceRange": "20—200元",
+            "notes": "较常见，锈蚀普遍，品相决定价格"
           },
           {
             "variant": "大字版",
@@ -612,30 +549,23 @@
           "variants": [
             {
               "src": "/images/coins/g-南朝钱币/公式女钱/variant_1.jpg",
-              "alt": "公式女钱 - 标准型公式女钱（普品）",
-              "label": "标准型公式女钱（普品）"
+              "alt": "公式女钱 - 标准型公式女钱",
+              "label": "标准型公式女钱"
             },
             {
               "src": "/images/coins/g-南朝钱币/公式女钱/variant_2.jpg",
-              "alt": "公式女钱 - 标准型公式女钱（美品）",
-              "label": "标准型公式女钱（美品）"
+              "alt": "公式女钱 - 版别2",
+              "label": "版别2"
             }
           ]
         },
         "variantsTable": [
           {
-            "variant": "标准型公式女钱（普品）",
-            "description": "直径2.0—2.2cm",
-            "grade": "八级（较多） 普品",
-            "priceRange": "30—80元",
-            "notes": "较常见"
-          },
-          {
-            "variant": "标准型公式女钱（美品）",
-            "description": "直径2.0—2.2cm",
-            "grade": "八级（较多） 美品",
-            "priceRange": "80—300元",
-            "notes": "文字清晰"
+            "variant": "标准型公式女钱",
+            "description": "直径2.0—2.2cm。面文\"五铢\"无外廓（面无好廓），为私铸减重钱",
+            "grade": "八级（较多）",
+            "priceRange": "30—300元",
+            "notes": "较常见，品相决定价格"
           }
         ]
       }
@@ -670,30 +600,23 @@
           "variants": [
             {
               "src": "/images/coins/g-南朝钱币/太清丰乐/variant_1.jpg",
-              "alt": "太清丰乐 - 标准型太清丰乐（普品）",
-              "label": "标准型太清丰乐（普品）"
+              "alt": "太清丰乐 - 标准版",
+              "label": "标准版"
             },
             {
               "src": "/images/coins/g-南朝钱币/太清丰乐/variant_2.jpg",
-              "alt": "太清丰乐 - 标准型太清丰乐（美品）",
-              "label": "标准型太清丰乐（美品）"
+              "alt": "太清丰乐 - 版别2",
+              "label": "版别2"
             }
           ]
         },
         "variantsTable": [
           {
-            "variant": "标准型太清丰乐（普品）",
-            "description": "直径2.3—2.5cm",
-            "grade": "八级（较多） 普品",
-            "priceRange": "1,000—3,000元",
-            "notes": "存世较少"
-          },
-          {
-            "variant": "标准型太清丰乐（美品）",
-            "description": "直径2.3—2.5cm",
-            "grade": "八级（较多） 美品",
-            "priceRange": "3,000—10,000元",
-            "notes": "文字清晰"
+            "variant": "标准版",
+            "description": "面文\"太清丰乐\"，四字对读，篆书。直径约2.3cm。存世极罕",
+            "grade": "二级（珍）",
+            "priceRange": "50,000—200,000元",
+            "notes": "太清丰乐为南朝大珍"
           }
         ]
       }
@@ -729,18 +652,11 @@
         },
         "variantsTable": [
           {
-            "variant": "标准型两柱五铢（普品）",
+            "variant": "标准型两柱五铢",
             "description": "直径2.3—2.5cm。面文\"五铢\"，穿孔上下各有一道凸起短竖线（\"两柱\"），柱线位于\"五\"字下方与\"铢\"字上方。两柱清晰可辨。铸工尚可",
-            "grade": "八级（较多） 普品",
-            "priceRange": "50—150元",
-            "notes": "较常见"
-          },
-          {
-            "variant": "标准型两柱五铢（美品）",
-            "description": "直径2.3—2.5cm。面文\"五铢\"，穿孔上下各有一道凸起短竖线（\"两柱\"），柱线位于\"五\"字下方与\"铢\"字上方。两柱清晰可辨。铸工尚可",
-            "grade": "八级（较多） 美品",
-            "priceRange": "150—500元",
-            "notes": "两柱清晰"
+            "grade": "八级（较多）",
+            "priceRange": "50—500元",
+            "notes": "较常见，品相决定价格"
           },
           {
             "variant": "深柱型",
@@ -789,30 +705,23 @@
           "variants": [
             {
               "src": "/images/coins/g-南朝钱币/四柱五铢/variant_1.jpg",
-              "alt": "四柱五铢 - 标准型四柱五铢（普品）",
-              "label": "标准型四柱五铢（普品）"
+              "alt": "四柱五铢 - 标准型四柱五铢",
+              "label": "标准型四柱五铢"
             },
             {
               "src": "/images/coins/g-南朝钱币/四柱五铢/variant_2.jpg",
-              "alt": "四柱五铢 - 标准型四柱五铢（美品）",
-              "label": "标准型四柱五铢（美品）"
+              "alt": "四柱五铢 - 版别2",
+              "label": "版别2"
             }
           ]
         },
         "variantsTable": [
           {
-            "variant": "标准型四柱五铢（普品）",
-            "description": "直径2.3—2.5cm，四柱清晰",
-            "grade": "八级（较多） 普品",
-            "priceRange": "100—300元",
-            "notes": "存世较少"
-          },
-          {
-            "variant": "标准型四柱五铢（美品）",
-            "description": "直径2.3—2.5cm，四柱清晰",
-            "grade": "八级（较多） 美品",
-            "priceRange": "300—1,000元",
-            "notes": "四柱清晰"
+            "variant": "标准型四柱五铢",
+            "description": "直径2.3—2.5cm。面文\"五铢\"，穿孔四角各有一道凸起短竖线（\"四柱\"）",
+            "grade": "八级（较多）",
+            "priceRange": "100—1,000元",
+            "notes": "存世较少，品相决定价格"
           }
         ]
       }
@@ -847,13 +756,13 @@
           "variants": [
             {
               "src": "/images/coins/g-南朝钱币/天嘉五铢/variant_1.jpg",
-              "alt": "天嘉五铢 - 标准型天嘉五铢（普品）",
-              "label": "标准型天嘉五铢（普品）"
+              "alt": "天嘉五铢 - 标准型天嘉五铢",
+              "label": "标准型天嘉五铢"
             },
             {
               "src": "/images/coins/g-南朝钱币/天嘉五铢/variant_2.jpg",
-              "alt": "天嘉五铢 - 标准型天嘉五铢（美品）",
-              "label": "标准型天嘉五铢（美品）"
+              "alt": "天嘉五铢 - 版别2",
+              "label": "版别2"
             },
             {
               "src": "/images/coins/g-南朝钱币/天嘉五铢/variant_3.jpg",
@@ -864,18 +773,11 @@
         },
         "variantsTable": [
           {
-            "variant": "标准型天嘉五铢（普品）",
-            "description": "直径2.4—2.5cm",
-            "grade": "八级（较多） 普品",
-            "priceRange": "30—80元",
-            "notes": "较常见"
-          },
-          {
-            "variant": "标准型天嘉五铢（美品）",
-            "description": "直径2.4—2.5cm",
-            "grade": "八级（较多） 美品",
-            "priceRange": "80—300元",
-            "notes": "文字清晰"
+            "variant": "标准型天嘉五铢",
+            "description": "直径2.4—2.5cm。面文\"五铢\"笔画规整",
+            "grade": "八级（较多）",
+            "priceRange": "30—300元",
+            "notes": "较常见，品相决定价格"
           }
         ]
       }
@@ -911,18 +813,11 @@
         },
         "variantsTable": [
           {
-            "variant": "标准型太货五铢（普品）",
-            "description": "直径约2.5cm，铸工极精",
-            "grade": "八级（较多） 普品",
-            "priceRange": "200—500元",
-            "notes": "存世较少"
-          },
-          {
-            "variant": "标准型太货五铢（美品）",
-            "description": "直径约2.5cm，铸工极精",
-            "grade": "八级（较多） 美品",
-            "priceRange": "500—2,000元",
-            "notes": "文字清晰"
+            "variant": "标准型太货五铢",
+            "description": "直径约2.5cm。面文\"五铢\"笔画端庄，铸工极精",
+            "grade": "八级（较多）",
+            "priceRange": "200—2,000元",
+            "notes": "存世较少，品相决定价格"
           },
           {
             "variant": "大字版",

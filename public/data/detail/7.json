@@ -65,30 +65,23 @@
       "variants": [
         {
           "src": "/images/coins/h-北朝钱币/永平五铢/variant_1.jpg",
-          "alt": "永平五铢 - 标准型永平五铢（普品）",
-          "label": "标准型永平五铢（普品）"
+          "alt": "永平五铢 - 标准型永平五铢",
+          "label": "标准型永平五铢"
         },
         {
           "src": "/images/coins/h-北朝钱币/永平五铢/variant_2.jpg",
-          "alt": "永平五铢 - 标准型永平五铢（美品）",
-          "label": "标准型永平五铢（美品）"
+          "alt": "永平五铢 - 版别2",
+          "label": "版别2"
         }
       ]
     },
     "variantsTable": [
       {
-        "variant": "标准型永平五铢（普品）",
-        "description": "直径2.4—2.5cm",
-        "grade": "八级（较多） 普品",
-        "priceRange": "50—150元",
-        "notes": "较常见"
-      },
-      {
-        "variant": "标准型永平五铢（美品）",
-        "description": "直径2.4—2.5cm",
-        "grade": "八级（较多） 美品",
-        "priceRange": "150—500元",
-        "notes": "文字清晰"
+        "variant": "标准型永平五铢",
+        "description": "直径2.4—2.5cm。面文\"五铢\"笔画规整",
+        "grade": "八级（较多）",
+        "priceRange": "50—500元",
+        "notes": "较常见，品相决定价格"
       }
     ]
   },
@@ -108,30 +101,23 @@
       "variants": [
         {
           "src": "/images/coins/h-北朝钱币/永安五铢/variant_1.jpg",
-          "alt": "永安五铢 - 标准型永安五铢（普品）",
-          "label": "标准型永安五铢（普品）"
+          "alt": "永安五铢 - 标准型永安五铢",
+          "label": "标准型永安五铢"
         },
         {
           "src": "/images/coins/h-北朝钱币/永安五铢/variant_2.jpg",
-          "alt": "永安五铢 - 标准型永安五铢（美品）",
-          "label": "标准型永安五铢（美品）"
+          "alt": "永安五铢 - 背四出纹版",
+          "label": "背四出纹版"
         }
       ]
     },
     "variantsTable": [
       {
-        "variant": "标准型永安五铢（普品）",
-        "description": "直径2.4—2.5cm",
-        "grade": "八级（较多） 普品",
-        "priceRange": "50—150元",
-        "notes": "较常见"
-      },
-      {
-        "variant": "标准型永安五铢（美品）",
-        "description": "直径2.4—2.5cm",
-        "grade": "八级（较多） 美品",
-        "priceRange": "150—400元",
-        "notes": "文字清晰"
+        "variant": "标准型永安五铢",
+        "description": "直径2.4—2.5cm。面文\"五铢\"笔画规整",
+        "grade": "八级（较多）",
+        "priceRange": "50—400元",
+        "notes": "较常见，品相决定价格"
       },
       {
         "variant": "背四出纹版",
@@ -166,18 +152,11 @@
     },
     "variantsTable": [
       {
-        "variant": "标准型东魏五铢（普品）",
-        "description": "直径2.3—2.5cm",
-        "grade": "八级（较多） 普品",
-        "priceRange": "30—80元",
-        "notes": "较常见"
-      },
-      {
-        "variant": "标准型东魏五铢（美品）",
-        "description": "直径2.3—2.5cm",
-        "grade": "八级（较多） 美品",
-        "priceRange": "80—300元",
-        "notes": "文字清晰"
+        "variant": "标准型东魏五铢",
+        "description": "直径2.3—2.5cm。面文\"五铢\"笔画规整",
+        "grade": "八级（较多）",
+        "priceRange": "30—300元",
+        "notes": "较常见，品相决定价格"
       }
     ]
   },
@@ -198,18 +177,11 @@
     },
     "variantsTable": [
       {
-        "variant": "标准型大统五铢（普品）",
-        "description": "直径2.4—2.5cm",
-        "grade": "八级（较多） 普品",
-        "priceRange": "50—150元",
-        "notes": "较常见"
-      },
-      {
-        "variant": "标准型大统五铢（美品）",
-        "description": "直径2.4—2.5cm",
-        "grade": "八级（较多） 美品",
-        "priceRange": "150—500元",
-        "notes": "文字清晰"
+        "variant": "标准型大统五铢",
+        "description": "直径2.4—2.5cm。面文\"五铢\"笔画规整",
+        "grade": "八级（较多）",
+        "priceRange": "50—500元",
+        "notes": "较常见，品相决定价格"
       }
     ]
   },
@@ -229,44 +201,37 @@
       "variants": [
         {
           "src": "/images/coins/h-北朝钱币/常平五铢/variant_1.jpg",
-          "alt": "常平五铢 - 标准型常平五铢（普品）",
-          "label": "标准型常平五铢（普品）"
+          "alt": "常平五铢 - 标准版（普品）",
+          "label": "标准版（普品）"
         },
         {
           "src": "/images/coins/h-北朝钱币/常平五铢/variant_2.jpg",
-          "alt": "常平五铢 - 标准型常平五铢（美品）",
-          "label": "标准型常平五铢（美品）"
+          "alt": "常平五铢 - 标准版（美品）",
+          "label": "标准版（美品）"
         }
       ]
     },
     "variantsTable": [
       {
-        "variant": "标准型常平五铢（普品）",
-        "description": "直径2.4—2.5cm，铸工极精",
-        "grade": "八级（较多） 普品",
-        "priceRange": "50—150元",
-        "notes": "较常见"
+        "variant": "标准版（普品）",
+        "description": "面文\"常平五铢\"，四字对读，篆书。直径约2.4cm，铸工精整",
+        "grade": "七级（甚少） 普品",
+        "priceRange": "200—800元",
+        "notes": "北齐铸币，铸工较精"
       },
       {
-        "variant": "标准型常平五铢（美品）",
-        "description": "直径2.4—2.5cm，铸工极精",
-        "grade": "八级（较多） 美品",
-        "priceRange": "150—400元",
-        "notes": "文字清晰"
-      },
-      {
-        "variant": "合背版",
-        "description": "两面均为面文",
-        "grade": "七级（较少） 美品",
-        "priceRange": "300—800元",
-        "notes": "较少见"
+        "variant": "标准版（美品）",
+        "description": "品相精美，文字清晰",
+        "grade": "七级（甚少） 美品",
+        "priceRange": "800—3,000元",
+        "notes": "美品较珍贵"
       },
       {
         "variant": "大字版",
         "description": "面文字体较大",
-        "grade": "八级（较多） 美品",
-        "priceRange": "200—500元",
-        "notes": "文字较大"
+        "grade": "六级（稀）",
+        "priceRange": "1,000—5,000元",
+        "notes": "大字版较少见"
       }
     ]
   },
@@ -287,25 +252,18 @@
     },
     "variantsTable": [
       {
-        "variant": "标准型布泉（普品）",
-        "description": "直径2.5—2.6cm，铸工极精",
+        "variant": "标准版（普品）",
+        "description": "面文\"布泉\"，二字对读，玉箸篆。直径约2.4cm，铸工精整",
         "grade": "八级（较多） 普品",
-        "priceRange": "200—500元",
-        "notes": "较常见"
+        "priceRange": "30—100元",
+        "notes": "北周布泉，与新莽布泉区分"
       },
       {
-        "variant": "标准型布泉（美品）",
-        "description": "直径2.5—2.6cm，铸工极精",
+        "variant": "标准版（美品）",
+        "description": "品相精美，玉箸篆文字圆润",
         "grade": "八级（较多） 美品",
-        "priceRange": "500—1,500元",
-        "notes": "文字清晰"
-      },
-      {
-        "variant": "大字版",
-        "description": "面文字体较大",
-        "grade": "七级（较少） 极美品",
-        "priceRange": "1,000—2,000元",
-        "notes": "较少见"
+        "priceRange": "100—300元",
+        "notes": "美品价格较高"
       }
     ]
   },
@@ -325,49 +283,42 @@
       "variants": [
         {
           "src": "/images/coins/h-北朝钱币/五行大布/variant_1.jpg",
-          "alt": "五行大布 - 标准型五行大布（普品）",
-          "label": "标准型五行大布（普品）"
+          "alt": "五行大布 - 小平版（普品）",
+          "label": "小平版（普品）"
         },
         {
           "src": "/images/coins/h-北朝钱币/五行大布/variant_2.jpg",
-          "alt": "五行大布 - 标准型五行大布（美品）",
-          "label": "标准型五行大布（美品）"
+          "alt": "五行大布 - 小平版（美品）",
+          "label": "小平版（美品）"
         },
         {
           "src": "/images/coins/h-北朝钱币/五行大布/variant_3.jpg",
-          "alt": "五行大布 - 合背版",
-          "label": "合背版"
+          "alt": "五行大布 - 大样版",
+          "label": "大样版"
         }
       ]
     },
     "variantsTable": [
       {
-        "variant": "标准型五行大布（普品）",
-        "description": "直径2.7—2.8cm",
-        "grade": "十级（多泛） 普品",
-        "priceRange": "50—150元",
-        "notes": "北周三品中最常见"
+        "variant": "小平版（普品）",
+        "description": "面文\"五行大布\"，四字对读，玉箸篆。直径约2.4cm",
+        "grade": "八级（较多） 普品",
+        "priceRange": "50—200元",
+        "notes": "北周三大美泉之一"
       },
       {
-        "variant": "标准型五行大布（美品）",
-        "description": "直径2.7—2.8cm",
+        "variant": "小平版（美品）",
+        "description": "品相精美，文字清晰",
         "grade": "八级（较多） 美品",
-        "priceRange": "150—400元",
-        "notes": "文字清晰"
+        "priceRange": "200—500元",
+        "notes": "美品价格较高"
       },
       {
-        "variant": "合背版",
-        "description": "两面均为面文",
-        "grade": "七级（较少） 美品",
-        "priceRange": "300—800元",
-        "notes": "较少见"
-      },
-      {
-        "variant": "大字版",
-        "description": "面文字体较大",
-        "grade": "七级（较少） 美品",
-        "priceRange": "500—1,500元",
-        "notes": "文字较大，较少见"
+        "variant": "大样版",
+        "description": "直径较大，约2.6—2.7cm",
+        "grade": "七级（甚少）",
+        "priceRange": "500—3,000元",
+        "notes": "大样较少见"
       }
     ]
   },
@@ -387,13 +338,13 @@
       "variants": [
         {
           "src": "/images/coins/h-北朝钱币/永通万国/variant_1.jpg",
-          "alt": "永通万国 - 标准型永通万国（普品）",
-          "label": "标准型永通万国（普品）"
+          "alt": "永通万国 - 小平版（普品）",
+          "label": "小平版（普品）"
         },
         {
           "src": "/images/coins/h-北朝钱币/永通万国/variant_2.jpg",
-          "alt": "永通万国 - 标准型永通万国（美品）",
-          "label": "标准型永通万国（美品）"
+          "alt": "永通万国 - 小平版（美品）",
+          "label": "小平版（美品）"
         },
         {
           "src": "/images/coins/h-北朝钱币/永通万国/variant_3.jpg",
@@ -404,32 +355,25 @@
     },
     "variantsTable": [
       {
-        "variant": "标准型永通万国（普品）",
-        "description": "直径约3.0cm，铸工极精",
-        "grade": "八级（较多） 普品",
-        "priceRange": "200—500元",
-        "notes": "存世较少"
+        "variant": "小平版（普品）",
+        "description": "面文\"永通万国\"，四字对读，玉箸篆。直径约2.4cm，铸工精整",
+        "grade": "七级（甚少） 普品",
+        "priceRange": "500—2,000元",
+        "notes": "北周三大美泉之一"
       },
       {
-        "variant": "标准型永通万国（美品）",
-        "description": "直径约3.0cm，铸工极精",
-        "grade": "八级（较多） 美品",
-        "priceRange": "500—2,000元",
-        "notes": "文字清晰"
+        "variant": "小平版（美品）",
+        "description": "品相精美，玉箸篆文字圆润流畅",
+        "grade": "七级（甚少） 美品",
+        "priceRange": "2,000—5,000元",
+        "notes": "美品较珍贵"
       },
       {
         "variant": "大字版",
-        "description": "面文字体较大",
-        "grade": "七级（较少） 极美品",
-        "priceRange": "1,500—5,000元",
-        "notes": "较少见"
-      },
-      {
-        "variant": "合背版",
-        "description": "两面均为面文",
-        "grade": "六级（少） 美品",
-        "priceRange": "1,000—3,000元",
-        "notes": "较为少见"
+        "description": "面文字体较大，笔画粗壮",
+        "grade": "六级（稀）",
+        "priceRange": "2,000—8,000元",
+        "notes": "大字版较少见"
       }
     ]
   }

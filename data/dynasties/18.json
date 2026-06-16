@@ -33,32 +33,32 @@
         },
         "variantsTable": [
           {
-            "variant": "小平光背（普品）",
-            "description": "背面无文，直径约2.5厘米，重约3—3.5克",
-            "grade": "八级（较多） 普品",
-            "priceRange": "500—1000元",
-            "notes": "铸主：李自成"
+            "variant": "小平楷书版（普品）",
+            "description": "楷书面文\"大顺通宝\"，四字对读。直径约2.5cm。张献忠铸行",
+            "grade": "七级（甚少） 普品",
+            "priceRange": "500—2,000元",
+            "notes": "大顺通宝较少见"
           },
           {
-            "variant": "小平光背（美品）",
-            "description": "背面无文，直径约2.5厘米，重约3—3.5克",
-            "grade": "八级（较多） 美品",
-            "priceRange": "1000—3000元",
-            "notes": "小平光背"
+            "variant": "小平楷书版（美品）",
+            "description": "品相精美",
+            "grade": "七级（甚少） 美品",
+            "priceRange": "2,000—5,000元",
+            "notes": "美品较珍贵"
           },
           {
-            "variant": "小平光背（极美品）",
-            "description": "背面无文，直径约2.5厘米，重约3—3.5克",
-            "grade": "八级（较多） 极美品",
-            "priceRange": "3000—5000元",
-            "notes": "小平光背"
+            "variant": "背\"川\"版",
+            "description": "背面铸\"川\"字，标明四川铸行",
+            "grade": "六级（稀）",
+            "priceRange": "2,000—8,000元",
+            "notes": "背\"川\"较少见"
           },
           {
-            "variant": "小平背星版",
-            "description": "背面铸星纹，直径约2.5厘米，重约3—3.5克",
-            "grade": "八级（较多） 美品",
-            "priceRange": "200—500元",
-            "notes": "背有星纹"
+            "variant": "背\"帅\"版",
+            "description": "背面铸\"帅\"字",
+            "grade": "五级（稀贵）",
+            "priceRange": "5,000—20,000元",
+            "notes": "背\"帅\"较珍贵"
           }
         ]
       }
@@ -159,39 +159,25 @@
         },
         "variantsTable": [
           {
-            "variant": "小平（普品）",
-            "description": "楷书直读\"永昌通宝\"，\"永\"字撇捺舒展，\"昌\"字\"日\"部端正。光背。最为常见，直径：约2.5厘米，重约3—3.5克",
-            "grade": "九级（多） 普品",
-            "priceRange": "100—200元",
-            "notes": "铸主：李自成"
+            "variant": "小平楷书版",
+            "description": "楷书面文\"永昌通宝\"，四字对读。直径约2.4cm。李自成铸行",
+            "grade": "七级（甚少）",
+            "priceRange": "200—1,000元",
+            "notes": "永昌通宝较少见"
           },
           {
-            "variant": "小平（美品）",
-            "description": "楷书直读\"永昌通宝\"，\"永\"字撇捺舒展，\"昌\"字\"日\"部端正。光背。最为常见，直径：约2.5厘米，重约3—3.5克",
-            "grade": "九级（多） 美品",
-            "priceRange": "200—500元",
-            "notes": "小平"
+            "variant": "折五型",
+            "description": "折五型，直径约3.4cm",
+            "grade": "六级（稀）",
+            "priceRange": "500—3,000元",
+            "notes": "折五型较少见"
           },
           {
-            "variant": "小平（极美品）",
-            "description": "楷书直读\"永昌通宝\"，\"永\"字撇捺舒展，\"昌\"字\"日\"部端正。光背。最为常见，直径：约2.5厘米，重约3—3.5克",
-            "grade": "九级（多） 极美品",
-            "priceRange": "500—1000元",
-            "notes": "小平"
-          },
-          {
-            "variant": "折五",
-            "description": "直径约3.5cm，面文规整。较少见，重约10—15g",
-            "grade": "七级（较少） 美品",
-            "priceRange": "500—1500元",
-            "notes": "折五"
-          },
-          {
-            "variant": "折十",
-            "description": "直径约4.0cm，钱体厚重。较少见，重约15—25g",
-            "grade": "七级（较少） 美品",
-            "priceRange": "1000—2000元",
-            "notes": "折十"
+            "variant": "折十型",
+            "description": "折十型大钱，直径约4.5cm",
+            "grade": "六级（稀）",
+            "priceRange": "1,000—5,000元",
+            "notes": "折十型大钱"
           }
         ]
       }
@@ -227,39 +213,25 @@
         },
         "variantsTable": [
           {
-            "variant": "小平（普品）",
-            "description": "背\"五厘\"，直径：约2.5厘米，重约3—3.5克",
-            "grade": "八级（较多） 普品",
-            "priceRange": "100—200元",
-            "notes": "铸主：孙可望"
+            "variant": "小平楷书版",
+            "description": "楷书面文\"兴朝通宝\"，四字对读。直径约2.5cm。孙可望铸行",
+            "grade": "七级（甚少）",
+            "priceRange": "200—1,000元",
+            "notes": "兴朝通宝较少见"
           },
           {
-            "variant": "小平（美品）",
-            "description": "背\"五厘\"，直径：约2.5厘米，重约3—3.5克",
-            "grade": "八级（较多） 美品",
-            "priceRange": "200—500元",
-            "notes": "小平"
+            "variant": "折五型背\"五厘\"",
+            "description": "折五型，背面铸\"五厘\"。直径约3.4cm",
+            "grade": "七级（甚少）",
+            "priceRange": "300—1,500元",
+            "notes": "背\"五厘\"纪重"
           },
           {
-            "variant": "小平（极美品）",
-            "description": "背\"五厘\"，直径：约2.5厘米，重约3—3.5克",
-            "grade": "八级（较多） 极美品",
-            "priceRange": "500—1000元",
-            "notes": "小平"
-          },
-          {
-            "variant": "折五",
-            "description": "背\"一分\"，直径：约3.5厘米，重约10—15g",
-            "grade": "八级（较多） 美品",
-            "priceRange": "300—800元",
-            "notes": "折五"
-          },
-          {
-            "variant": "折十",
-            "description": "背\"一分\"，直径：约4.5厘米，重约15—25g",
-            "grade": "八级（较多） 美品",
-            "priceRange": "500—1500元",
-            "notes": "折十"
+            "variant": "折十型背\"壹分\"",
+            "description": "折十型大钱，背面铸\"壹分\"。直径约4.5cm",
+            "grade": "六级（稀）",
+            "priceRange": "500—3,000元",
+            "notes": "背\"壹分\"纪重"
           }
         ]
       }

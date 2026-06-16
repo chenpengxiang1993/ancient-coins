@@ -139,84 +139,77 @@
           "variants": [
             {
               "src": "/images/coins/r-明朝钱币/洪武通宝/variant_1.jpg",
-              "alt": "洪武通宝 - 小平光背（普品）",
-              "label": "小平光背（普品）"
+              "alt": "洪武通宝 - 小平钱",
+              "label": "小平钱"
             },
             {
               "src": "/images/coins/r-明朝钱币/洪武通宝/variant_2.jpg",
-              "alt": "洪武通宝 - 小平光背（美品）",
-              "label": "小平光背（美品）"
+              "alt": "洪武通宝 - 折二型",
+              "label": "折二型"
             },
             {
               "src": "/images/coins/r-明朝钱币/洪武通宝/variant_3.jpg",
-              "alt": "洪武通宝 - 小平光背（极美品）",
-              "label": "小平光背（极美品）"
+              "alt": "洪武通宝 - 折三型",
+              "label": "折三型"
             }
           ]
         },
         "variantsTable": [
           {
-            "variant": "小平光背（普品）",
-            "description": "背面无文，直径：2.4—2.5厘米，单枚重3.5—4克",
-            "grade": "八级（较多） 普品",
-            "priceRange": "20—50元",
-            "notes": "小平光背"
+            "variant": "小平钱",
+            "description": "面文\"洪武通宝\"，四字对读，楷书。直径约2.4cm，重约3—4g",
+            "grade": "九级（多）",
+            "priceRange": "10—50元",
+            "notes": "小平钱较常见"
           },
           {
-            "variant": "小平光背（美品）",
-            "description": "背面无文，直径：2.4—2.5厘米，单枚重3.5—4克",
-            "grade": "八级（较多） 美品",
-            "priceRange": "50—150元",
-            "notes": "小平光背"
+            "variant": "折二型",
+            "description": "折二型，直径约2.8cm",
+            "grade": "八级（较多）",
+            "priceRange": "50—200元",
+            "notes": "折二型"
           },
           {
-            "variant": "小平光背（极美品）",
-            "description": "背面无文，直径：2.4—2.5厘米，单枚重3.5—4克",
-            "grade": "八级（较多） 极美品",
-            "priceRange": "150—300元",
-            "notes": "小平光背"
-          },
-          {
-            "variant": "小平背纪重",
-            "description": "背铸\"一钱\"等纪重文字，直径：2.4—2.5厘米，单枚重3.5—4克",
-            "grade": "八级（较多） 美品",
-            "priceRange": "100—300元",
-            "notes": "小平背纪重"
-          },
-          {
-            "variant": "折二",
-            "description": "背铸\"二钱\"，直径：约2.8厘米，重约5—7g",
-            "grade": "八级（较多） 美品",
-            "priceRange": "100—300元",
-            "notes": "折二"
-          },
-          {
-            "variant": "折三",
-            "description": "背铸\"三钱\"，直径：约3.1厘米，重约8—10g",
-            "grade": "八级（较多） 美品",
-            "priceRange": "150—400元",
-            "notes": "折三"
-          },
-          {
-            "variant": "折五",
-            "description": "背铸\"五钱\"，直径：约3.8厘米，重约10—15g",
-            "grade": "八级（较多） 美品",
-            "priceRange": "300—800元",
-            "notes": "折五"
-          },
-          {
-            "variant": "折十",
-            "description": "背铸\"十两\"或纪地，直径：4.4—4.5厘米，单枚重20—25克",
-            "grade": "八级（较多） 美品",
-            "priceRange": "500—2000元",
-            "notes": "纪地版较高"
-          },
-          {
-            "variant": "纪地版系列",
-            "description": "背铸各省铸局名称，共九局（京、北平、鄂、浙、济、桂、福、豫、广），各有五等面值。其中背桂小平钱有穿上桂和穿上下\"桂一\"两种。据《武陵藏珍》记载，洪武通宝钱有四类六十一种，纪地版实共四十六种",
-            "grade": "八级（较多） 美品",
+            "variant": "折三型",
+            "description": "折三型，直径约3.1cm",
+            "grade": "七级（甚少）",
             "priceRange": "100—500元",
-            "notes": "背铸地名，各局价格差异大"
+            "notes": "折三型较少见"
+          },
+          {
+            "variant": "折五型",
+            "description": "折五型，直径约3.4cm",
+            "grade": "七级（甚少）",
+            "priceRange": "200—800元",
+            "notes": "折五型较少见"
+          },
+          {
+            "variant": "折十型",
+            "description": "折十型大钱，直径约4.5cm",
+            "grade": "六级（稀）",
+            "priceRange": "500—3,000元",
+            "notes": "折十型大钱"
+          },
+          {
+            "variant": "背\"浙\"版",
+            "description": "背面铸\"浙\"字，为浙江铸行",
+            "grade": "七级（甚少）",
+            "priceRange": "200—1,000元",
+            "notes": "背纪局较少见"
+          },
+          {
+            "variant": "背\"京\"版",
+            "description": "背面铸\"京\"字，为京师铸行",
+            "grade": "六级（稀）",
+            "priceRange": "500—3,000元",
+            "notes": "背\"京\"较少见"
+          },
+          {
+            "variant": "背\"桂\"版",
+            "description": "背面铸\"桂\"字，为广西铸行",
+            "grade": "六级（稀）",
+            "priceRange": "500—3,000元",
+            "notes": "背\"桂\"较少见"
           }
         ]
       }
@@ -298,51 +291,51 @@
           "variants": [
             {
               "src": "/images/coins/r-明朝钱币/永乐通宝/variant_1.jpg",
-              "alt": "永乐通宝 - 普通版（普品）",
-              "label": "普通版（普品）"
+              "alt": "永乐通宝 - 小平楷书版",
+              "label": "小平楷书版"
             },
             {
               "src": "/images/coins/r-明朝钱币/永乐通宝/variant_2.jpg",
-              "alt": "永乐通宝 - 普通版（美品）",
-              "label": "普通版（美品）"
+              "alt": "永乐通宝 - 折三型",
+              "label": "折三型"
             }
           ]
         },
         "variantsTable": [
           {
-            "variant": "普通版（普品）",
-            "description": "楷书对读，光背，标准型制",
-            "grade": "八级（较多） 普品",
-            "priceRange": "10—30元",
-            "notes": "普通版"
+            "variant": "小平楷书版",
+            "description": "楷书面文\"永乐通宝\"，四字对读。直径约2.4cm",
+            "grade": "九级（多）",
+            "priceRange": "5—30元",
+            "notes": "永乐通宝铸量大"
           },
           {
-            "variant": "普通版（美品）",
-            "description": "楷书对读，光背，标准型制",
-            "grade": "八级（较多） 美品",
-            "priceRange": "30—80元",
-            "notes": "普通版"
+            "variant": "折三型",
+            "description": "折三型，直径约3.1cm。较少见",
+            "grade": "六级（稀）",
+            "priceRange": "500—3,000元",
+            "notes": "折三型较少见"
           },
           {
-            "variant": "普通版（极美品）",
-            "description": "楷书对读，光背，标准型制",
-            "grade": "八级（较多） 极美品",
-            "priceRange": "80—200元",
-            "notes": "普通版"
+            "variant": "大钱型",
+            "description": "大钱型，直径约4.0cm。罕见",
+            "grade": "四级（罕）",
+            "priceRange": "10,000—50,000元",
+            "notes": "大钱型极罕见"
           },
           {
-            "variant": "大字版",
-            "description": "钱文字体较大",
-            "grade": "八级（较多） 美品",
-            "priceRange": "50—150元",
-            "notes": "大字版"
+            "variant": "日本仿铸版",
+            "description": "日本室町幕府仿铸，铸工较粗",
+            "grade": "八级（较多）",
+            "priceRange": "10—50元",
+            "notes": "日本仿铸版较常见"
           },
           {
-            "variant": "细字版",
-            "description": "钱文字体较细",
-            "grade": "八级（较多） 美品",
-            "priceRange": "50—150元",
-            "notes": "细字版"
+            "variant": "安南仿铸版",
+            "description": "越南仿铸，文字风格略有差异",
+            "grade": "八级（较多）",
+            "priceRange": "10—50元",
+            "notes": "安南仿铸版较常见"
           }
         ]
       }
@@ -377,51 +370,51 @@
           "variants": [
             {
               "src": "/images/coins/r-明朝钱币/宣德通宝/variant_1.jpg",
-              "alt": "宣德通宝 - 普通版（普品）",
-              "label": "普通版（普品）"
+              "alt": "宣德通宝 - 小平楷书版（普品）",
+              "label": "小平楷书版（普品）"
             },
             {
               "src": "/images/coins/r-明朝钱币/宣德通宝/variant_2.jpg",
-              "alt": "宣德通宝 - 普通版（美品）",
-              "label": "普通版（美品）"
+              "alt": "宣德通宝 - 小平楷书版（美品）",
+              "label": "小平楷书版（美品）"
             }
           ]
         },
         "variantsTable": [
           {
-            "variant": "普通版（普品）",
-            "description": "楷书直读，光背",
+            "variant": "小平楷书版（普品）",
+            "description": "楷书面文\"宣德通宝\"，四字对读。直径约2.4cm",
             "grade": "八级（较多） 普品",
-            "priceRange": "30—80元",
-            "notes": "普通版"
+            "priceRange": "10—50元",
+            "notes": "宣德通宝铸量较少"
           },
           {
-            "variant": "普通版（美品）",
-            "description": "楷书直读，光背",
+            "variant": "小平楷书版（美品）",
+            "description": "楷书面文，品相精美",
             "grade": "八级（较多） 美品",
-            "priceRange": "80—200元",
-            "notes": "普通版"
-          },
-          {
-            "variant": "普通版（极美品）",
-            "description": "楷书直读，光背",
-            "grade": "八级（较多） 极美品",
-            "priceRange": "200—500元",
-            "notes": "普通版"
+            "priceRange": "50—200元",
+            "notes": "美品价格较高"
           },
           {
             "variant": "大字版",
-            "description": "钱文字体较大",
-            "grade": "八级（较多） 美品",
-            "priceRange": "100—300元",
-            "notes": "大字版"
+            "description": "面文字体较大",
+            "grade": "七级（甚少）",
+            "priceRange": "200—800元",
+            "notes": "大字版较少见"
           },
           {
-            "variant": "小字版",
-            "description": "钱文字体较小",
-            "grade": "八级（较多） 普品",
-            "priceRange": "30—80元",
-            "notes": "文字较小"
+            "variant": "阔缘版",
+            "description": "外廓较宽",
+            "grade": "七级（甚少）",
+            "priceRange": "200—800元",
+            "notes": "阔缘版较少见"
+          },
+          {
+            "variant": "省德版",
+            "description": "\"德\"字省笔写法，为宣德通宝名誉品",
+            "grade": "六级（稀）",
+            "priceRange": "1,000—5,000元",
+            "notes": "省德版为名誉品"
           }
         ]
       }
@@ -535,86 +528,86 @@
           "variants": [
             {
               "src": "/images/coins/r-明朝钱币/嘉靖通宝/variant_1.jpg",
-              "alt": "嘉靖通宝 - 小平光背（普品）",
-              "label": "小平光背（普品）"
+              "alt": "嘉靖通宝 - 小平楷书版",
+              "label": "小平楷书版"
             },
             {
               "src": "/images/coins/r-明朝钱币/嘉靖通宝/variant_2.jpg",
-              "alt": "嘉靖通宝 - 小平光背（美品）",
-              "label": "小平光背（美品）"
+              "alt": "嘉靖通宝 - 折二型",
+              "label": "折二型"
             }
           ]
         },
         "variantsTable": [
           {
-            "variant": "小平光背（普品）",
-            "description": "楷书直读，光背，直径：2.3—2.5厘米，重3—4.5克",
-            "grade": "八级（较多） 普品",
-            "priceRange": "10—30元",
-            "notes": "小平光背"
+            "variant": "小平楷书版",
+            "description": "楷书面文\"嘉靖通宝\"，四字对读。直径约2.4cm",
+            "grade": "八级（较多）",
+            "priceRange": "20—100元",
+            "notes": "嘉靖通宝铸量较大"
           },
           {
-            "variant": "小平光背（美品）",
-            "description": "楷书直读，光背，直径：2.3—2.5厘米，重3—4.5克",
-            "grade": "八级（较多） 美品",
-            "priceRange": "30—100元",
-            "notes": "小平光背"
+            "variant": "折二型",
+            "description": "折二型，直径约2.8cm。较少见",
+            "grade": "七级（甚少）",
+            "priceRange": "200—800元",
+            "notes": "折二型较少见"
           },
           {
-            "variant": "小平光背（极美品）",
-            "description": "楷书直读，光背，直径：2.3—2.5厘米，重3—4.5克",
-            "grade": "八级（较多） 极美品",
-            "priceRange": "100—200元",
-            "notes": "小平光背"
+            "variant": "折三型",
+            "description": "折三型，直径约3.1cm。较少见",
+            "grade": "六级（稀）",
+            "priceRange": "500—3,000元",
+            "notes": "折三型较少见"
           },
           {
-            "variant": "折二",
-            "description": "背铸纪重文字，直径：2.7—2.9厘米，重约5—7g",
-            "grade": "八级（较多） 美品",
-            "priceRange": "200—500元",
-            "notes": "折二"
+            "variant": "折五型",
+            "description": "折五型，直径约3.4cm。较少见",
+            "grade": "六级（稀）",
+            "priceRange": "500—3,000元",
+            "notes": "折五型较少见"
           },
           {
-            "variant": "折三",
-            "description": "背铸\"三钱\"，直径：3—3.3厘米（国博藏品折三钱直径3.3厘米，重10.4克）",
-            "grade": "八级（较多） 美品",
-            "priceRange": "500—1500元",
-            "notes": "折三"
+            "variant": "折十大钱",
+            "description": "折十型大钱，直径约4.5cm。罕见",
+            "grade": "四级（罕）",
+            "priceRange": "10,000—50,000元",
+            "notes": "折十大钱极罕见"
           },
           {
-            "variant": "折五",
-            "description": "背铸纪重文字，直径：3.8—4厘米，重约10—15g",
-            "grade": "八级（较多） 美品",
-            "priceRange": "1000—3000元",
-            "notes": "折五"
+            "variant": "大字版",
+            "description": "面文字体较大",
+            "grade": "七级（甚少）",
+            "priceRange": "200—800元",
+            "notes": "大字版较少见"
           },
           {
-            "variant": "折十",
-            "description": "背铸纪重文字，直径：4.3—4.5厘米，重约15—25g",
-            "grade": "八级（较多） 美品",
-            "priceRange": "2000—5000元",
-            "notes": "折十"
+            "variant": "背星月版",
+            "description": "背面铸有星纹或月纹",
+            "grade": "七级（甚少）",
+            "priceRange": "200—1,000元",
+            "notes": "背星月较少见"
           },
           {
-            "variant": "阔缘版",
-            "description": "外缘较宽",
-            "grade": "八级（较多） 美品",
-            "priceRange": "100—300元",
-            "notes": "边缘较宽"
+            "variant": "金背版",
+            "description": "铜质精良，背面光滑如金",
+            "grade": "六级（稀）",
+            "priceRange": "500—3,000元",
+            "notes": "金背版较少见"
           },
           {
-            "variant": "窄缘版",
-            "description": "外缘较窄",
-            "grade": "八级（较多） 美品",
-            "priceRange": "50—150元",
-            "notes": "边缘较窄"
+            "variant": "火漆版",
+            "description": "背面涂有火漆标识",
+            "grade": "七级（甚少）",
+            "priceRange": "200—1,000元",
+            "notes": "火漆版较少见"
           },
           {
-            "variant": "斜立靖版",
-            "description": "\"靖\"字略斜",
-            "grade": "七级（较少） 美品",
-            "priceRange": "100—300元",
-            "notes": "\"靖\"字斜立，较少见"
+            "variant": "镟边版",
+            "description": "边缘经车镟加工，规整光滑",
+            "grade": "七级（甚少）",
+            "priceRange": "200—1,000元",
+            "notes": "镟边版较少见"
           }
         ]
       }
@@ -650,32 +643,32 @@
         },
         "variantsTable": [
           {
-            "variant": "普通版（普品）",
-            "description": "楷书直读，光背",
-            "grade": "八级（较多） 普品",
-            "priceRange": "500—1000元",
-            "notes": "普通版"
+            "variant": "小平楷书版（普品）",
+            "description": "楷书面文\"隆庆通宝\"，四字对读。直径约2.4cm，重约3—4g",
+            "grade": "六级（稀） 普品",
+            "priceRange": "500—2,000元",
+            "notes": "隆庆通宝铸量少"
           },
           {
-            "variant": "普通版（美品）",
-            "description": "楷书直读，光背",
-            "grade": "八级（较多） 美品",
-            "priceRange": "1000—3000元",
-            "notes": "普通版"
-          },
-          {
-            "variant": "普通版（极美品）",
-            "description": "楷书直读，光背",
-            "grade": "八级（较多） 极美品",
-            "priceRange": "3000—5000元",
-            "notes": "普通版"
+            "variant": "小平楷书版（美品）",
+            "description": "品相精美，铸工规整",
+            "grade": "六级（稀） 美品",
+            "priceRange": "2,000—5,000元",
+            "notes": "美品较珍贵"
           },
           {
             "variant": "大字版",
-            "description": "钱文字体较大",
-            "grade": "八级（较多） 美品",
-            "priceRange": "200—500元",
-            "notes": "文字较大"
+            "description": "面文字体较大",
+            "grade": "五级（稀贵）",
+            "priceRange": "3,000—10,000元",
+            "notes": "大字版较少见"
+          },
+          {
+            "variant": "金背版",
+            "description": "铜质精良，背面光滑如金",
+            "grade": "五级（稀贵）",
+            "priceRange": "3,000—10,000元",
+            "notes": "金背版较少见"
           }
         ]
       }
@@ -710,58 +703,51 @@
           "variants": [
             {
               "src": "/images/coins/r-明朝钱币/万历通宝/variant_1.jpg",
-              "alt": "万历通宝 - 小平光背（普品）",
-              "label": "小平光背（普品）"
+              "alt": "万历通宝 - 小平楷书版（普品）",
+              "label": "小平楷书版（普品）"
             },
             {
               "src": "/images/coins/r-明朝钱币/万历通宝/variant_2.jpg",
-              "alt": "万历通宝 - 小平光背（美品）",
-              "label": "小平光背（美品）"
+              "alt": "万历通宝 - 小平楷书版（美品）",
+              "label": "小平楷书版（美品）"
             }
           ]
         },
         "variantsTable": [
           {
-            "variant": "小平光背（普品）",
-            "description": "背面无文，直径：2.4—2.5厘米，单枚重3.5—4克",
-            "grade": "八级（较多） 普品",
-            "priceRange": "5—15元",
-            "notes": "小平光背"
+            "variant": "小平楷书版（普品）",
+            "description": "楷书面文\"万历通宝\"，四字对读。直径约2.4cm",
+            "grade": "九级（多）",
+            "priceRange": "5—30元",
+            "notes": "万历通宝铸量大"
           },
           {
-            "variant": "小平光背（美品）",
-            "description": "背面无文，直径：2.4—2.5厘米，单枚重3.5—4克",
-            "grade": "八级（较多） 美品",
-            "priceRange": "15—50元",
-            "notes": "小平光背"
+            "variant": "小平楷书版（美品）",
+            "description": "品相精美",
+            "grade": "九级（多） 美品",
+            "priceRange": "30—100元",
+            "notes": "美品价格较高"
           },
           {
-            "variant": "小平光背（极美品）",
-            "description": "背面无文，直径：2.4—2.5厘米，单枚重3.5—4克",
-            "grade": "八级（较多） 极美品",
-            "priceRange": "50—100元",
-            "notes": "小平光背"
+            "variant": "折二型",
+            "description": "折二型，直径约2.8cm",
+            "grade": "七级（甚少）",
+            "priceRange": "200—1,000元",
+            "notes": "折二型较少见"
           },
           {
-            "variant": "小平背星月",
-            "description": "背面铸星纹或月纹，直径：2.4—2.5厘米，单枚重3.5—4克",
-            "grade": "八级（较多） 美品",
-            "priceRange": "30—80元",
-            "notes": "小平背星月"
+            "variant": "大字版",
+            "description": "面文字体较大",
+            "grade": "八级（较多）",
+            "priceRange": "20—100元",
+            "notes": "大字版"
           },
           {
-            "variant": "小平背纪局",
-            "description": "背面铸纪局文字（如\"工\"\"公\"），直径：2.4—2.5厘米，单枚重3.5—4克",
-            "grade": "八级（较多） 美品",
-            "priceRange": "50—150元",
-            "notes": "小平背纪局"
-          },
-          {
-            "variant": "折二",
-            "description": "较少见，直径：2.7—2.8厘米，单枚重5.5—6.5克",
-            "grade": "七级（较少） 美品",
-            "priceRange": "100—500元",
-            "notes": "较少见"
+            "variant": "背星月版",
+            "description": "背面铸有星纹或月纹",
+            "grade": "七级（甚少）",
+            "priceRange": "200—1,000元",
+            "notes": "背星月较少见"
           }
         ]
       }
@@ -937,53 +923,53 @@
         },
         "variantsTable": [
           {
-            "variant": "小平光背（普品）",
-            "description": "背面无文，直径：约2.4厘米，重2.6—3.6克",
-            "grade": "八级（较多） 普品",
-            "priceRange": "5—15元",
-            "notes": "小平光背"
+            "variant": "小平楷书版",
+            "description": "楷书面文\"天启通宝\"，四字对读。直径约2.4cm",
+            "grade": "八级（较多）",
+            "priceRange": "10—50元",
+            "notes": "天启通宝铸量较大"
           },
           {
-            "variant": "小平光背（美品）",
-            "description": "背面无文，直径：约2.4厘米，重2.6—3.6克",
-            "grade": "八级（较多） 美品",
-            "priceRange": "15—50元",
-            "notes": "小平光背"
+            "variant": "小平篆书版",
+            "description": "篆书面文，较少见",
+            "grade": "七级（甚少）",
+            "priceRange": "200—800元",
+            "notes": "篆书版较少见"
           },
           {
-            "variant": "小平光背（极美品）",
-            "description": "背面无文，直径：约2.4厘米，重2.6—3.6克",
-            "grade": "八级（较多） 极美品",
-            "priceRange": "50—100元",
-            "notes": "小平光背"
+            "variant": "折二型",
+            "description": "折二型，直径约2.8cm",
+            "grade": "七级（甚少）",
+            "priceRange": "100—500元",
+            "notes": "折二型较少见"
           },
           {
-            "variant": "小平背纪局",
-            "description": "背铸纪局文字，直径：约2.4厘米，重2.6—3.6克",
-            "grade": "八级（较多） 美品",
-            "priceRange": "30—100元",
-            "notes": "小平背纪局"
+            "variant": "折十型",
+            "description": "折十型大钱，直径约4.5cm",
+            "grade": "七级（甚少）",
+            "priceRange": "200—1,000元",
+            "notes": "折十型"
           },
           {
-            "variant": "折十（普通版）",
-            "description": "背有\"十一两\"\"府\"\"密\"等多种版别，直径：4.5—4.8厘米，重18—30克",
-            "grade": "八级（较多） 美品",
-            "priceRange": "200—500元",
-            "notes": "折十（普通版）"
+            "variant": "背\"工\"版",
+            "description": "背面铸\"工\"字，为工部铸行",
+            "grade": "七级（甚少）",
+            "priceRange": "200—1,000元",
+            "notes": "背\"工\"较少见"
           },
           {
-            "variant": "折十（少见版）",
-            "description": "背有\"十一两\"\"府\"\"密\"等多种版别，直径：4.5—4.8厘米，重18—30克",
-            "grade": "六级（少） 美品",
-            "priceRange": "500—1000元",
-            "notes": "折十（少见版）"
+            "variant": "背\"浙\"版",
+            "description": "背面铸\"浙\"字",
+            "grade": "六级（稀）",
+            "priceRange": "500—3,000元",
+            "notes": "背\"浙\"较少见"
           },
           {
-            "variant": "合背版",
-            "description": "两面均为面文",
-            "grade": "七级（较少） 极美品",
-            "priceRange": "500—2,000元",
-            "notes": "双面均铸面文，较少见"
+            "variant": "密十一两",
+            "description": "背面铸\"密\"\"十一两\"，为密云局折十钱",
+            "grade": "五级（稀贵）",
+            "priceRange": "3,000—15,000元",
+            "notes": "密十一两较珍贵"
           }
         ]
       }
@@ -1018,324 +1004,100 @@
           "variants": [
             {
               "src": "/images/coins/r-明朝钱币/崇祯通宝/variant_1.jpg",
-              "alt": "崇祯通宝 - 光背版",
-              "label": "光背版"
+              "alt": "崇祯通宝 - 小平楷书版",
+              "label": "小平楷书版"
             },
             {
               "src": "/images/coins/r-明朝钱币/崇祯通宝/variant_2.jpg",
-              "alt": "崇祯通宝 - 小平光背（普品）",
-              "label": "小平光背（普品）"
+              "alt": "崇祯通宝 - 小平隶书版",
+              "label": "小平隶书版"
             }
           ]
         },
         "variantsTable": [
           {
-            "variant": "光背版",
-            "description": "背面无文，为较常见的版式",
-            "grade": "十级（多泛） 普品",
-            "priceRange": "10—30元",
-            "notes": "背面无文，最常见"
+            "variant": "小平楷书版",
+            "description": "楷书面文\"崇祯通宝\"，四字对读。直径约2.4cm",
+            "grade": "九级（多）",
+            "priceRange": "5—30元",
+            "notes": "崇祯通宝铸量大，版别繁多"
           },
           {
-            "variant": "小平光背（普品）",
-            "description": "背面无文，为较常见的版式，直径：2.4—2.5厘米，单枚重2.5—3.5克",
-            "grade": "八级（较多） 普品",
-            "priceRange": "5—15元",
-            "notes": "较常见"
+            "variant": "小平隶书版",
+            "description": "隶书面文。较少见",
+            "grade": "八级（较多）",
+            "priceRange": "20—100元",
+            "notes": "隶书版较少见"
           },
           {
-            "variant": "小平光背（美品）",
-            "description": "背面无文，为较常见的版式，直径：2.4—2.5厘米，单枚重2.5—3.5克",
-            "grade": "八级（较多） 美品",
-            "priceRange": "15—50元",
-            "notes": "小平光背"
-          },
-          {
-            "variant": "小平光背（极美品）",
-            "description": "背面无文，为较常见的版式，直径：2.4—2.5厘米，单枚重2.5—3.5克",
-            "grade": "八级（较多） 极美品",
-            "priceRange": "50—100元",
-            "notes": "小平光背"
-          },
-          {
-            "variant": "背纪局版",
-            "description": "背面铸纪局文字，如\"工\"\"户\"\"兵\"\"监\"\"院\"\"局\"等",
-            "grade": "八级（较多） 普品",
-            "priceRange": "20—80元",
-            "notes": "背铸铸局名"
-          },
-          {
-            "variant": "背\"工\"",
-            "description": "背面铸\"工\"",
-            "grade": "八级（较多） 美品",
-            "priceRange": "20—60元",
-            "notes": "背\"工\""
-          },
-          {
-            "variant": "背\"户\"",
-            "description": "背面铸\"户\"",
-            "grade": "八级（较多） 美品",
-            "priceRange": "20—60元",
-            "notes": "背\"户\""
-          },
-          {
-            "variant": "背\"兵\"",
-            "description": "背面铸\"兵\"",
-            "grade": "八级（较多） 美品",
-            "priceRange": "30—80元",
-            "notes": "背\"兵\""
-          },
-          {
-            "variant": "背\"监\"",
-            "description": "背面铸\"监\"",
-            "grade": "七级（较少） 美品",
-            "priceRange": "30—100元",
-            "notes": "较少见"
-          },
-          {
-            "variant": "背\"院\"",
-            "description": "背面铸\"院\"",
-            "grade": "七级（较少） 美品",
-            "priceRange": "30—100元",
-            "notes": "较少见"
-          },
-          {
-            "variant": "背纪重版",
-            "description": "背面铸纪重文字，如\"一分\"\"八厘\"\"一钱\"\"五厘\"等",
-            "grade": "八级（较多） 美品",
-            "priceRange": "30—100元",
-            "notes": "背铸纪重文字"
-          },
-          {
-            "variant": "背\"一分\"",
-            "description": "背面铸\"一分\"",
-            "grade": "八级（较多） 美品",
-            "priceRange": "30—100元",
-            "notes": "背\"一分\""
-          },
-          {
-            "variant": "背\"八厘\"",
-            "description": "背面铸\"八厘\"",
-            "grade": "八级（较多） 美品",
-            "priceRange": "30—100元",
-            "notes": "背\"八厘\""
-          },
-          {
-            "variant": "背\"一钱\"",
-            "description": "背面铸\"一钱\"",
-            "grade": "七级（较少） 美品",
-            "priceRange": "50—150元",
-            "notes": "较少见"
-          },
-          {
-            "variant": "背\"五厘\"",
-            "description": "背面铸\"五厘\"",
-            "grade": "八级（较多） 美品",
-            "priceRange": "30—80元",
-            "notes": "背\"五厘\""
-          },
-          {
-            "variant": "背星月版",
-            "description": "背面铸星纹或月纹，有背上星、背下星、穿左星、穿右星、背月纹等多种位置",
-            "grade": "八级（较多） 美品",
-            "priceRange": "100—500元",
-            "notes": "背有星月纹"
-          },
-          {
-            "variant": "背星",
-            "description": "背面铸星纹或月纹，有背上星、背下星、穿左星、穿右星、背月纹等多种位置",
-            "grade": "八级（较多） 美品",
-            "priceRange": "20—80元",
-            "notes": "背星"
-          },
-          {
-            "variant": "背月",
-            "description": "背面月",
-            "grade": "八级（较多） 美品",
-            "priceRange": "20—80元",
-            "notes": "背月"
-          },
-          {
-            "variant": "背天干地支版",
-            "description": "背面铸天干（如\"甲\"\"乙\"\"丙\"\"丁\"）或地支文字",
-            "grade": "八级（较多） 美品",
-            "priceRange": "100—500元",
-            "notes": "背铸天干地支"
-          },
-          {
-            "variant": "常见天干",
-            "description": "背面铸常见天干纪年",
-            "grade": "九级（多） 美品",
-            "priceRange": "30—100元",
-            "notes": "常见天干"
-          },
-          {
-            "variant": "少见天干",
-            "description": "背面铸少见天干纪年",
-            "grade": "七级（甚少） 美品",
-            "priceRange": "100—300元",
-            "notes": "少见天干"
-          },
-          {
-            "variant": "跑马崇祯（美品）",
-            "description": "背面铸奔马图案，因民间附会\"一马乱天下\"的谶语而著名，为崇祯通宝中的名誉品",
-            "grade": "八级（较多） 美品",
-            "priceRange": "500—3,000元",
-            "notes": "背铸奔马图，名誉品"
-          },
-          {
-            "variant": "跑马崇祯（极美品）",
-            "description": "背面铸奔马图案，因民间附会\"一马乱天下\"的谶语而著名，为崇祯通宝中的名誉品",
-            "grade": "八级（较多） 极美品",
-            "priceRange": "500—1500元",
-            "notes": "跑马崇祯"
-          },
-          {
-            "variant": "折二版",
-            "description": "折二钱较少见，直径约2.8厘米，重约5—7g",
-            "grade": "七级（较少） 美品",
-            "priceRange": "200—800元",
+            "variant": "折二型",
+            "description": "折二型，直径约2.8cm",
+            "grade": "八级（较多）",
+            "priceRange": "20—100元",
             "notes": "折二型"
           },
           {
-            "variant": "折二光背",
-            "description": "背面无文，为较常见的版式，直径：约2.8厘米，重约5—7g",
-            "grade": "七级（较少） 美品",
+            "variant": "折五型",
+            "description": "折五型，直径约3.4cm",
+            "grade": "七级（甚少）",
+            "priceRange": "200—1,000元",
+            "notes": "折五型较少见"
+          },
+          {
+            "variant": "折十型",
+            "description": "折十型大钱，直径约4.5cm",
+            "grade": "七级（甚少）",
+            "priceRange": "200—1,000元",
+            "notes": "折十型"
+          },
+          {
+            "variant": "背\"工\"版",
+            "description": "背面铸\"工\"字",
+            "grade": "八级（较多）",
+            "priceRange": "20—100元",
+            "notes": "背\"工\"较常见"
+          },
+          {
+            "variant": "背\"户\"版",
+            "description": "背面铸\"户\"字",
+            "grade": "八级（较多）",
+            "priceRange": "20—100元",
+            "notes": "背\"户\"较常见"
+          },
+          {
+            "variant": "背星月版",
+            "description": "背面铸有星纹或月纹",
+            "grade": "七级（甚少）",
             "priceRange": "100—500元",
-            "notes": "较少见"
+            "notes": "背星月较少见"
           },
           {
-            "variant": "折二背纪局",
-            "description": "背面铸纪局文字，如\"工\"\"户\"\"兵\"\"监\"\"院\"\"局\"等，直径：约2.8厘米，重约5—7g",
-            "grade": "七级（较少） 美品",
-            "priceRange": "200—800元",
-            "notes": "较少见"
+            "variant": "跑马版",
+            "description": "背面铸有奔马图案，为崇祯通宝名誉品",
+            "grade": "六级（稀）",
+            "priceRange": "1,000—5,000元",
+            "notes": "跑马版为名誉品"
           },
           {
-            "variant": "特殊品类",
-            "description": "特殊版别，存世较少",
-            "grade": "七级（较少） 美品",
-            "priceRange": "500—5,000元",
-            "notes": "特殊品类，较少见"
+            "variant": "背\"制\"版",
+            "description": "背面铸\"制\"字",
+            "grade": "七级（甚少）",
+            "priceRange": "100—500元",
+            "notes": "背\"制\"较少见"
           },
           {
-            "variant": "母钱",
-            "description": "母钱，铸工精整，用于翻制子钱",
-            "grade": "八级（较多） 美品以上",
-            "priceRange": "3000—10000元",
-            "notes": "存世极少"
+            "variant": "背\"清\"版",
+            "description": "背面铸\"清\"字",
+            "grade": "六级（稀）",
+            "priceRange": "500—3,000元",
+            "notes": "背\"清\"较少见"
           },
           {
-            "variant": "雕母（祖钱）",
-            "description": "雕母（祖钱），手工雕刻，存世极罕",
-            "grade": "七级（甚少） 美品以上",
-            "priceRange": "50000—150000元",
-            "notes": "仅见数枚"
-          },
-          {
-            "variant": "背纪值版",
-            "description": "背面铸纪值文字",
-            "grade": "八级（较多） 美品",
-            "priceRange": "30—100元",
-            "notes": "背铸纪值文字"
-          },
-          {
-            "variant": "背奔马版",
-            "description": "与跑马崇祯同类，马形姿态各异",
-            "grade": "八级（较多） 美品",
-            "priceRange": "100—300元",
-            "notes": "背铸奔马"
-          },
-          {
-            "variant": "按背面纹饰和文字分",
-            "description": "崇祯通宝版别极为复杂，据《中国钱币大辞典》记载，已知版别达数百种，主要分为以下系列",
-            "grade": "八级（较多） 美品",
-            "priceRange": "30—100元",
-            "notes": "按背文区分"
-          },
-          {
-            "variant": "按面文风格分",
-            "description": "按类别细分的版别",
-            "grade": "八级（较多） 美品",
-            "priceRange": "20—50元",
-            "notes": "按面文风格区分"
-          },
-          {
-            "variant": "大字版",
-            "description": "面文字体较大",
-            "grade": "八级（较多） 美品",
-            "priceRange": "30—80元",
-            "notes": "文字较大"
-          },
-          {
-            "variant": "小字版",
-            "description": "面文字体较小",
-            "grade": "八级（较多） 普品",
-            "priceRange": "10—30元",
-            "notes": "文字较小"
-          },
-          {
-            "variant": "阔缘版",
-            "description": "外缘较宽",
-            "grade": "八级（较多） 美品",
-            "priceRange": "30—80元",
-            "notes": "边缘较宽"
-          },
-          {
-            "variant": "窄缘版",
-            "description": "外缘较窄",
-            "grade": "八级（较多） 美品",
-            "priceRange": "20—50元",
-            "notes": "边缘较窄"
-          },
-          {
-            "variant": "粗字版",
-            "description": "笔画粗壮",
-            "grade": "八级（较多） 普品",
-            "priceRange": "10—30元",
-            "notes": "文字粗壮"
-          },
-          {
-            "variant": "细字版",
-            "description": "笔画纤细",
-            "grade": "八级（较多） 美品",
-            "priceRange": "20—50元",
-            "notes": "文字纤细"
-          },
-          {
-            "variant": "阔\"崇\"版",
-            "description": "\"崇\"字较宽",
-            "grade": "八级（较多） 美品",
-            "priceRange": "30—80元",
-            "notes": "\"崇\"字较宽"
-          },
-          {
-            "variant": "狭\"崇\"版",
-            "description": "\"崇\"字较窄",
-            "grade": "八级（较多） 美品",
-            "priceRange": "30—80元",
-            "notes": "\"崇\"字较窄"
-          },
-          {
-            "variant": "长\"祯\"版",
-            "description": "\"祯\"字较长",
-            "grade": "八级（较多） 美品",
-            "priceRange": "30—80元",
-            "notes": "\"祯\"字较长"
-          },
-          {
-            "variant": "短\"祯\"版",
-            "description": "\"祯\"字较短",
-            "grade": "八级（较多） 美品",
-            "priceRange": "20—50元",
-            "notes": "\"祯\"字较短"
-          },
-          {
-            "variant": "按铸地分",
-            "description": "明末各地纷纷铸钱，据《中国钱币大辞典》记载，主要铸地有南京（南铸）、北京（北铸），各省亦有铸行，不同铸地的钱币在文字风格、铜质、铸工等方面均有差异",
-            "grade": "八级（较多） 美品",
-            "priceRange": "30—100元",
-            "notes": "按铸地区分"
+            "variant": "奔马版",
+            "description": "背面铸奔马图案",
+            "grade": "五级（稀贵）",
+            "priceRange": "3,000—15,000元",
+            "notes": "奔马版为名誉品"
           }
         ]
       }

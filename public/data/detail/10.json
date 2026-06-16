@@ -81,37 +81,23 @@
       "variants": [
         {
           "src": "/images/coins/k-五代十国钱币/天成元宝/variant_1.jpg",
-          "alt": "天成元宝 - 小平钱（普品）",
-          "label": "小平钱（普品）"
+          "alt": "天成元宝 - 小平钱",
+          "label": "小平钱"
         },
         {
           "src": "/images/coins/k-五代十国钱币/天成元宝/variant_2.jpg",
-          "alt": "天成元宝 - 小平钱（美品）",
-          "label": "小平钱（美品）"
+          "alt": "天成元宝 - 版别2",
+          "label": "版别2"
         }
       ]
     },
     "variantsTable": [
       {
-        "variant": "小平钱（普品）",
-        "description": "仅见小平钱一种型制 存世稀少，版别变化不大，直径约2.3—2.5cm，重约3—4g",
-        "grade": "一级（孤品） 普品",
+        "variant": "小平钱",
+        "description": "仅见小平钱一种型制，存世稀少。直径约2.3—2.5cm，重约3—4g",
+        "grade": "一级（孤品）",
         "priceRange": "100,000—300,000元",
-        "notes": "存世稀少"
-      },
-      {
-        "variant": "小平钱（美品）",
-        "description": "仅见小平钱一种型制 存世稀少，版别变化不大，直径约2.3—2.5cm，重约3—4g",
-        "grade": "一级（孤品） 美品",
-        "priceRange": "100,000—300,000元",
-        "notes": "小平钱"
-      },
-      {
-        "variant": "小平钱（极美品）",
-        "description": "仅见小平钱一种型制 存世稀少，版别变化不大，直径约2.3—2.5cm，重约3—4g",
-        "grade": "一级（孤品） 极美品",
-        "priceRange": "100,000—300,000元",
-        "notes": "小平钱"
+        "notes": "存世稀少，品相决定价格"
       }
     ]
   },
@@ -131,58 +117,44 @@
       "variants": [
         {
           "src": "/images/coins/k-五代十国钱币/天福元宝/variant_1.jpg",
-          "alt": "天福元宝 - 民铸版（普品）",
-          "label": "民铸版（普品）"
+          "alt": "天福元宝 - 官铸版（普品）",
+          "label": "官铸版（普品）"
         },
         {
           "src": "/images/coins/k-五代十国钱币/天福元宝/variant_2.jpg",
-          "alt": "天福元宝 - 民铸版",
-          "label": "民铸版"
+          "alt": "天福元宝 - 官铸版（美品）",
+          "label": "官铸版（美品）"
         }
       ]
     },
     "variantsTable": [
       {
-        "variant": "民铸版（普品）",
-        "description": "铸工粗率，文字潦草，铜质参差，较为多见",
-        "grade": "八级（较多） 普品",
-        "priceRange": "300—800元",
-        "notes": "铸工粗率"
-      },
-      {
-        "variant": "民铸版",
-        "description": "铸工粗率，文字潦草，铜质参差，较为多见",
-        "grade": "八级（较多） 美品",
-        "priceRange": "800—1500元",
-        "notes": "民铸版"
+        "variant": "官铸版（普品）",
+        "description": "官炉铸行，面文\"天福元宝\"，楷书含隶意。铸工较精，文字规整。直径约2.4cm",
+        "grade": "七级（甚少） 普品",
+        "priceRange": "500—2,000元",
+        "notes": "官铸版较少见"
       },
       {
         "variant": "官铸版（美品）",
-        "description": "铸工精整，文字规整，铜质较好，较为少见",
-        "grade": "七级（较少） 美品",
-        "priceRange": "1500—3000元",
-        "notes": "铸工精整，较少见"
+        "description": "官炉铸行，铸工精整，文字清晰",
+        "grade": "七级（甚少） 美品",
+        "priceRange": "2,000—5,000元",
+        "notes": "美品较珍贵"
       },
       {
-        "variant": "官铸版（极美品）",
-        "description": "铸工精整，文字规整，铜质较好，较为少见",
-        "grade": "六级（少） 极美品",
-        "priceRange": "3000—5000元",
-        "notes": "官铸版"
+        "variant": "私铸版",
+        "description": "民间私铸，铸工粗率，文字模糊，铜质粗劣，轻重不一。为天福元宝铸量最大的品种",
+        "grade": "九级（多）",
+        "priceRange": "50—200元",
+        "notes": "私铸版较常见"
       },
       {
         "variant": "大字版",
-        "description": "面文字体较大",
-        "grade": "八级（较多） 美品",
-        "priceRange": "200—500元",
-        "notes": "文字较大"
-      },
-      {
-        "variant": "小字版",
-        "description": "面文字体较小",
-        "grade": "八级（较多） 普品",
-        "priceRange": "50—150元",
-        "notes": "文字较小"
+        "description": "面文字体较大，为官铸版之变体。较少见",
+        "grade": "六级（稀）",
+        "priceRange": "1,000—5,000元",
+        "notes": "大字官铸版较少见"
       }
     ]
   },
@@ -202,44 +174,51 @@
       "variants": [
         {
           "src": "/images/coins/k-五代十国钱币/汉元通宝/variant_1.jpg",
-          "alt": "汉元通宝 - 光背（普品）",
-          "label": "光背（普品）"
+          "alt": "汉元通宝 - 小平楷书版（普品）",
+          "label": "小平楷书版（普品）"
         },
         {
           "src": "/images/coins/k-五代十国钱币/汉元通宝/variant_2.jpg",
-          "alt": "汉元通宝 - 光背（美品）",
-          "label": "光背（美品）"
+          "alt": "汉元通宝 - 小平楷书版（美品）",
+          "label": "小平楷书版（美品）"
         }
       ]
     },
     "variantsTable": [
       {
-        "variant": "光背（普品）",
-        "description": "背面无文无纹",
+        "variant": "小平楷书版（普品）",
+        "description": "楷书面文\"汉元通宝\"，四字对读。直径约2.4cm，重约3—4g",
         "grade": "八级（较多） 普品",
+        "priceRange": "30—100元",
+        "notes": "较常见"
+      },
+      {
+        "variant": "小平楷书版（美品）",
+        "description": "楷书面文，品相精美。直径约2.4cm",
+        "grade": "八级（较多） 美品",
         "priceRange": "100—300元",
-        "notes": "光背"
-      },
-      {
-        "variant": "光背（美品）",
-        "description": "背面无文无纹",
-        "grade": "八级（较多） 美品",
-        "priceRange": "300—600元",
-        "notes": "光背"
-      },
-      {
-        "variant": "背星月",
-        "description": "背面铸有星纹或月纹，位置各异",
-        "grade": "八级（较多） 美品",
-        "priceRange": "500—1000元",
-        "notes": "背星月"
+        "notes": "美品价格较高"
       },
       {
         "variant": "大字版",
-        "description": "面文字体较大",
-        "grade": "八级（较多） 美品",
-        "priceRange": "50—150元",
-        "notes": "文字较大"
+        "description": "面文字体较大，笔画舒展",
+        "grade": "七级（甚少）",
+        "priceRange": "300—1,000元",
+        "notes": "大字版较少见"
+      },
+      {
+        "variant": "阔缘版",
+        "description": "外廓较宽",
+        "grade": "七级（甚少）",
+        "priceRange": "300—1,000元",
+        "notes": "阔缘版较少见"
+      },
+      {
+        "variant": "铁钱",
+        "description": "以铁铸造，存世较少",
+        "grade": "六级（稀）",
+        "priceRange": "500—3,000元",
+        "notes": "铁钱较少见"
       }
     ]
   },
@@ -259,84 +238,84 @@
       "variants": [
         {
           "src": "/images/coins/k-五代十国钱币/周元通宝/variant_1.jpg",
-          "alt": "周元通宝 - 光背（普品）",
-          "label": "光背（普品）"
+          "alt": "周元通宝 - 小平楷书版（普品）",
+          "label": "小平楷书版（普品）"
         },
         {
           "src": "/images/coins/k-五代十国钱币/周元通宝/variant_2.jpg",
-          "alt": "周元通宝 - 光背（美品）",
-          "label": "光背（美品）"
+          "alt": "周元通宝 - 小平楷书版（美品）",
+          "label": "小平楷书版（美品）"
         },
         {
           "src": "/images/coins/k-五代十国钱币/周元通宝/variant_3.jpg",
-          "alt": "周元通宝 - 光背（极美品）",
-          "label": "光背（极美品）"
+          "alt": "周元通宝 - 大字版",
+          "label": "大字版"
         }
       ]
     },
     "variantsTable": [
       {
-        "variant": "光背（普品）",
-        "description": "背面无文无纹",
-        "grade": "八级（较多） 普品",
-        "priceRange": "30—80元",
-        "notes": "五代铸量最大者"
+        "variant": "小平楷书版（普品）",
+        "description": "楷书面文\"周元通宝\"，四字对读。直径约2.4—2.5cm，重约3—4g",
+        "grade": "十级（多泛） 普品",
+        "priceRange": "20—80元",
+        "notes": "五代铸量最大的铜钱"
       },
       {
-        "variant": "光背（美品）",
-        "description": "背面无文无纹",
-        "grade": "八级（较多） 美品",
-        "priceRange": "80—200元",
-        "notes": "光背"
-      },
-      {
-        "variant": "光背（极美品）",
-        "description": "背面无文无纹",
-        "grade": "八级（较多） 极美品",
-        "priceRange": "200—500元",
-        "notes": "光背"
-      },
-      {
-        "variant": "背星月（美品）",
-        "description": "背面铸有星纹",
-        "grade": "八级（较多） 美品",
-        "priceRange": "200—500元",
-        "notes": "背星月"
-      },
-      {
-        "variant": "背星月（极美品）",
-        "description": "背面铸有星纹",
-        "grade": "八级（较多） 极美品",
-        "priceRange": "500—1000元",
-        "notes": "背星月"
+        "variant": "小平楷书版（美品）",
+        "description": "楷书面文\"周元通宝\"，四字对读。直径约2.4—2.5cm",
+        "grade": "十级（多泛） 美品",
+        "priceRange": "80—300元",
+        "notes": "美品价格较高"
       },
       {
         "variant": "大字版",
-        "description": "面文字体较大",
-        "grade": "七级（较少） 极美品",
-        "priceRange": "800—1500元",
-        "notes": "较少见"
+        "description": "面文字体较大，笔画粗壮舒展，\"周\"字\"口\"部宽大",
+        "grade": "八级（较多） 极美品",
+        "priceRange": "300—800元",
+        "notes": "大字版较少见"
       },
       {
-        "variant": "背月版",
-        "description": "背面铸有月纹，分仰月、俯月",
-        "grade": "八级（较多） 美品",
-        "priceRange": "100—300元",
-        "notes": "背有月纹"
-      },
-      {
-        "variant": "背星月版",
-        "description": "背面铸有星纹",
-        "grade": "七级（较少） 美品",
-        "priceRange": "500—1,500元",
-        "notes": "八级（较多），背有星月纹，较少见"
+        "variant": "小字版",
+        "description": "面文字体较小，笔画纤细紧凑",
+        "grade": "九级（多）",
+        "priceRange": "20—100元",
+        "notes": "小字版较常见"
       },
       {
         "variant": "阔缘版",
-        "description": "外廓较宽",
+        "description": "外廓较宽，内廓规整",
         "grade": "八级（较多） 美品",
-        "priceRange": "100—300元",
-        "notes": "边缘较宽"
+        "priceRange": "100—500元",
+        "notes": "阔缘版较少见"
+      },
+      {
+        "variant": "背星月版",
+        "description": "背面铸有星纹或月纹，星月纹位置各异",
+        "grade": "七级（甚少）",
+        "priceRange": "200—1,000元",
+        "notes": "背星月较少见"
+      },
+      {
+        "variant": "背龙凤纹版",
+        "description": "背面铸有龙纹或凤纹，为周世宗毁佛铸钱的传说反映",
+        "grade": "四级（罕）",
+        "priceRange": "3,000—20,000元",
+        "notes": "背龙凤纹极珍贵"
+      },
+      {
+        "variant": "合背版",
+        "description": "两面均为面文，极为罕见",
+        "grade": "三级（罕）",
+        "priceRange": "5,000—30,000元",
+        "notes": "合背极罕见"
+      },
+      {
+        "variant": "铁钱",
+        "description": "以铁铸造，直径约2.4cm。存世较少",
+        "grade": "六级（稀）",
+        "priceRange": "500—3,000元",
+        "notes": "铁钱较少见"
       }
     ]
   },
@@ -356,37 +335,23 @@
       "variants": [
         {
           "src": "/images/coins/k-五代十国钱币/永平元宝/variant_1.jpg",
-          "alt": "永平元宝 - 小平钱（普品）",
-          "label": "小平钱（普品）"
+          "alt": "永平元宝 - 小平钱",
+          "label": "小平钱"
         },
         {
           "src": "/images/coins/k-五代十国钱币/永平元宝/variant_2.jpg",
-          "alt": "永平元宝 - 小平钱（美品）",
-          "label": "小平钱（美品）"
+          "alt": "永平元宝 - 版别2",
+          "label": "版别2"
         }
       ]
     },
     "variantsTable": [
       {
-        "variant": "小平钱（普品）",
-        "description": "仅见小平钱一种型制 存世稀少，版别变化不大，直径约2.3—2.5cm，重约3—4g",
-        "grade": "三级（罕贵） 普品",
-        "priceRange": "5000—10000元",
-        "notes": "存世稀少"
-      },
-      {
-        "variant": "小平钱（美品）",
-        "description": "仅见小平钱一种型制 存世稀少，版别变化不大，直径约2.3—2.5cm，重约3—4g",
-        "grade": "三级（罕贵） 美品",
-        "priceRange": "10000—20000元",
-        "notes": "小平钱"
-      },
-      {
-        "variant": "小平钱（极美品）",
-        "description": "仅见小平钱一种型制 存世稀少，版别变化不大，直径约2.3—2.5cm，重约3—4g",
-        "grade": "三级（罕贵） 极美品",
-        "priceRange": "20000—30000元",
-        "notes": "小平钱"
+        "variant": "小平钱",
+        "description": "仅见小平钱一种型制，存世稀少。直径约2.3—2.5cm，重约3—4g",
+        "grade": "三级（罕贵）",
+        "priceRange": "5,000—30,000元",
+        "notes": "存世稀少，品相决定价格"
       }
     ]
   },
@@ -406,37 +371,23 @@
       "variants": [
         {
           "src": "/images/coins/k-五代十国钱币/通正元宝/variant_1.jpg",
-          "alt": "通正元宝 - 小平钱（普品）",
-          "label": "小平钱（普品）"
+          "alt": "通正元宝 - 小平钱",
+          "label": "小平钱"
         },
         {
           "src": "/images/coins/k-五代十国钱币/通正元宝/variant_2.jpg",
-          "alt": "通正元宝 - 小平钱（美品）",
-          "label": "小平钱（美品）"
+          "alt": "通正元宝 - 版别2",
+          "label": "版别2"
         }
       ]
     },
     "variantsTable": [
       {
-        "variant": "小平钱（普品）",
-        "description": "仅见小平钱一种型制 存世较少，版别单一，直径约2.3—2.5cm，重约3—4g",
-        "grade": "五级（稀贵） 普品",
-        "priceRange": "500—1500元",
-        "notes": "小平钱"
-      },
-      {
-        "variant": "小平钱（美品）",
-        "description": "仅见小平钱一种型制 存世较少，版别单一，直径约2.3—2.5cm，重约3—4g",
-        "grade": "五级（稀贵） 美品",
-        "priceRange": "1500—3000元",
-        "notes": "小平钱"
-      },
-      {
-        "variant": "小平钱（极美品）",
-        "description": "仅见小平钱一种型制 存世较少，版别单一，直径约2.3—2.5cm，重约3—4g",
-        "grade": "五级（稀贵） 极美品",
-        "priceRange": "3000—5000元",
-        "notes": "小平钱"
+        "variant": "小平钱",
+        "description": "仅见小平钱一种型制，存世较少。直径约2.3—2.5cm，重约3—4g",
+        "grade": "五级（稀贵）",
+        "priceRange": "500—5,000元",
+        "notes": "品相决定价格"
       }
     ]
   },
@@ -456,37 +407,23 @@
       "variants": [
         {
           "src": "/images/coins/k-五代十国钱币/天汉元宝/variant_1.jpg",
-          "alt": "天汉元宝 - 小平钱（普品）",
-          "label": "小平钱（普品）"
+          "alt": "天汉元宝 - 小平钱",
+          "label": "小平钱"
         },
         {
           "src": "/images/coins/k-五代十国钱币/天汉元宝/variant_2.jpg",
-          "alt": "天汉元宝 - 小平钱（美品）",
-          "label": "小平钱（美品）"
+          "alt": "天汉元宝 - 版别2",
+          "label": "版别2"
         }
       ]
     },
     "variantsTable": [
       {
-        "variant": "小平钱（普品）",
-        "description": "仅见小平钱一种型制 版别变化不大，直径约2.3—2.5cm，重约3—4g",
-        "grade": "六级（稀） 普品",
-        "priceRange": "200—500元",
-        "notes": "小平钱"
-      },
-      {
-        "variant": "小平钱（美品）",
-        "description": "仅见小平钱一种型制 版别变化不大，直径约2.3—2.5cm，重约3—4g",
-        "grade": "六级（稀） 美品",
-        "priceRange": "500—1500元",
-        "notes": "小平钱"
-      },
-      {
-        "variant": "小平钱（极美品）",
-        "description": "仅见小平钱一种型制 版别变化不大，直径约2.3—2.5cm，重约3—4g",
-        "grade": "六级（稀） 极美品",
-        "priceRange": "1500—2000元",
-        "notes": "小平钱"
+        "variant": "小平钱",
+        "description": "仅见小平钱一种型制。直径约2.3—2.5cm，重约3—4g",
+        "grade": "六级（稀）",
+        "priceRange": "200—2,000元",
+        "notes": "品相决定价格"
       }
     ]
   },
@@ -506,37 +443,23 @@
       "variants": [
         {
           "src": "/images/coins/k-五代十国钱币/光天元宝/variant_1.jpg",
-          "alt": "光天元宝 - 小平钱（普品）",
-          "label": "小平钱（普品）"
+          "alt": "光天元宝 - 小平钱",
+          "label": "小平钱"
         },
         {
           "src": "/images/coins/k-五代十国钱币/光天元宝/variant_2.jpg",
-          "alt": "光天元宝 - 小平钱（美品）",
-          "label": "小平钱（美品）"
+          "alt": "光天元宝 - 版别2",
+          "label": "版别2"
         }
       ]
     },
     "variantsTable": [
       {
-        "variant": "小平钱（普品）",
-        "description": "仅见小平钱一种型制 版别变化不大，直径约2.3—2.5cm，重约3—4g",
-        "grade": "六级（稀） 普品",
-        "priceRange": "200—500元",
-        "notes": "小平钱"
-      },
-      {
-        "variant": "小平钱（美品）",
-        "description": "仅见小平钱一种型制 版别变化不大，直径约2.3—2.5cm，重约3—4g",
-        "grade": "六级（稀） 美品",
-        "priceRange": "500—1500元",
-        "notes": "小平钱"
-      },
-      {
-        "variant": "小平钱（极美品）",
-        "description": "仅见小平钱一种型制 版别变化不大，直径约2.3—2.5cm，重约3—4g",
-        "grade": "六级（稀） 极美品",
-        "priceRange": "1500—2000元",
-        "notes": "小平钱"
+        "variant": "小平钱",
+        "description": "仅见小平钱一种型制。直径约2.3—2.5cm，重约3—4g",
+        "grade": "六级（稀）",
+        "priceRange": "200—2,000元",
+        "notes": "品相决定价格"
       }
     ]
   },
@@ -556,56 +479,42 @@
       "variants": [
         {
           "src": "/images/coins/k-五代十国钱币/乾德元宝/variant_1.jpg",
-          "alt": "乾德元宝 - 小平钱（普品）",
-          "label": "小平钱（普品）"
+          "alt": "乾德元宝 - 小平楷书版",
+          "label": "小平楷书版"
         },
         {
           "src": "/images/coins/k-五代十国钱币/乾德元宝/variant_2.jpg",
-          "alt": "乾德元宝 - 小平钱（美品）",
-          "label": "小平钱（美品）"
+          "alt": "乾德元宝 - 小平篆书版",
+          "label": "小平篆书版"
         },
         {
           "src": "/images/coins/k-五代十国钱币/乾德元宝/variant_3.jpg",
-          "alt": "乾德元宝 - 小平钱（极美品）",
-          "label": "小平钱（极美品）"
+          "alt": "乾德元宝 - 铁钱",
+          "label": "铁钱"
         }
       ]
     },
     "variantsTable": [
       {
-        "variant": "小平钱（普品）",
-        "description": "直径约2.3—2.5cm，重约3—4g",
-        "grade": "八级（较多） 普品",
-        "priceRange": "100—300元",
-        "notes": "前蜀较常见品种"
+        "variant": "小平楷书版",
+        "description": "楷书面文\"乾德元宝\"，四字旋读。直径约2.3—2.4cm",
+        "grade": "八级（较多）",
+        "priceRange": "30—200元",
+        "notes": "楷书版较常见"
       },
       {
-        "variant": "小平钱（美品）",
-        "description": "直径约2.3—2.5cm，重约3—4g",
-        "grade": "八级（较多） 美品",
-        "priceRange": "300—600元",
-        "notes": "小平钱"
+        "variant": "小平篆书版",
+        "description": "篆书面文，四字旋读。较少见",
+        "grade": "七级（甚少）",
+        "priceRange": "100—500元",
+        "notes": "篆书版较少见"
       },
       {
-        "variant": "小平钱（极美品）",
-        "description": "直径约2.3—2.5cm，重约3—4g",
-        "grade": "八级（较多） 极美品",
-        "priceRange": "600—1000元",
-        "notes": "小平钱"
-      },
-      {
-        "variant": "大字版",
-        "description": "面文字体较大",
-        "grade": "八级（较多） 美品",
-        "priceRange": "200—500元",
-        "notes": "文字较大"
-      },
-      {
-        "variant": "小字版",
-        "description": "面文字体较小",
-        "grade": "八级（较多） 普品",
-        "priceRange": "100—300元",
-        "notes": "文字较小"
+        "variant": "铁钱",
+        "description": "以铁铸造，存世较少",
+        "grade": "六级（稀）",
+        "priceRange": "200—1,000元",
+        "notes": "铁钱较少见"
       }
     ]
   },
@@ -625,37 +534,23 @@
       "variants": [
         {
           "src": "/images/coins/k-五代十国钱币/咸康元宝/variant_1.jpg",
-          "alt": "咸康元宝 - 小平钱（普品）",
-          "label": "小平钱（普品）"
+          "alt": "咸康元宝 - 小平钱",
+          "label": "小平钱"
         },
         {
           "src": "/images/coins/k-五代十国钱币/咸康元宝/variant_2.jpg",
-          "alt": "咸康元宝 - 小平钱（美品）",
-          "label": "小平钱（美品）"
+          "alt": "咸康元宝 - 版别2",
+          "label": "版别2"
         }
       ]
     },
     "variantsTable": [
       {
-        "variant": "小平钱（普品）",
-        "description": "仅见小平钱一种型制 版别变化不大，直径约2.3—2.5cm，重约3—4g",
-        "grade": "六级（稀） 普品",
-        "priceRange": "100—300元",
-        "notes": "小平钱"
-      },
-      {
-        "variant": "小平钱（美品）",
-        "description": "仅见小平钱一种型制 版别变化不大，直径约2.3—2.5cm，重约3—4g",
-        "grade": "六级（稀） 美品",
-        "priceRange": "300—600元",
-        "notes": "小平钱"
-      },
-      {
-        "variant": "小平钱（极美品）",
-        "description": "仅见小平钱一种型制 版别变化不大，直径约2.3—2.5cm，重约3—4g",
-        "grade": "六级（稀） 极美品",
-        "priceRange": "600—1000元",
-        "notes": "小平钱"
+        "variant": "小平钱",
+        "description": "仅见小平钱一种型制。直径约2.3—2.5cm，重约3—4g",
+        "grade": "六级（稀）",
+        "priceRange": "100—1,000元",
+        "notes": "品相决定价格"
       }
     ]
   },
@@ -688,31 +583,31 @@
     "variantsTable": [
       {
         "variant": "铁钱光背",
-        "description": "背面无文",
+        "description": "铁质，背面无文。直径约2.4cm",
         "grade": "八级（较多） 普品",
-        "priceRange": "500—1000元",
-        "notes": "铁钱光背"
+        "priceRange": "500—1,000元",
+        "notes": "铁钱光背较常见"
       },
       {
         "variant": "铁钱背\"闽\"",
-        "description": "背面铸\"闽\"字",
+        "description": "铁质，背面铸\"闽\"字，标明铸地。直径约2.4cm",
         "grade": "八级（较多） 美品",
-        "priceRange": "1000—3000元",
-        "notes": "铁钱背\"闽\""
+        "priceRange": "1,000—3,000元",
+        "notes": "背\"闽\"为闽国铸币特征"
       },
       {
         "variant": "铁钱背星月",
-        "description": "背面铸星纹或月纹",
+        "description": "铁质，背面铸星纹或月纹",
         "grade": "八级（较多） 美品",
-        "priceRange": "800—2000元",
-        "notes": "铁钱背星月"
+        "priceRange": "800—2,000元",
+        "notes": "背星月纹"
       },
       {
         "variant": "铜品",
-        "description": "极罕见",
-        "grade": "四级（罕见） 美品以上",
-        "priceRange": "30000—80000元",
-        "notes": "极罕见"
+        "description": "铜质永隆通宝极罕见，铸工较精。直径约2.4cm",
+        "grade": "四级（罕见）",
+        "priceRange": "30,000—80,000元",
+        "notes": "铜品极罕见"
       }
     ]
   },
@@ -732,35 +627,28 @@
       "variants": [
         {
           "src": "/images/coins/k-五代十国钱币/天德重宝/variant_1.jpg",
-          "alt": "天德重宝 - 铁品背\"殷\"（普品）",
-          "label": "铁品背\"殷\"（普品）"
+          "alt": "天德重宝 - 铁品背\"殷\"",
+          "label": "铁品背\"殷\""
         },
         {
           "src": "/images/coins/k-五代十国钱币/天德重宝/variant_2.jpg",
-          "alt": "天德重宝 - 铁品背\"殷\"（美品）",
-          "label": "铁品背\"殷\"（美品）"
+          "alt": "天德重宝 - 铜品背\"殷\"",
+          "label": "铜品背\"殷\""
         },
         {
           "src": "/images/coins/k-五代十国钱币/天德重宝/variant_3.jpg",
-          "alt": "天德重宝 - 铜品背\"殷\"",
-          "label": "铜品背\"殷\""
+          "alt": "天德重宝 - 版别3",
+          "label": "版别3"
         }
       ]
     },
     "variantsTable": [
       {
-        "variant": "铁品背\"殷\"（普品）",
-        "description": "铁质，铸工稍粗，较少见",
-        "grade": "四级（罕见） 普品",
-        "priceRange": "1000—3000元",
-        "notes": "铁品背\"殷\""
-      },
-      {
-        "variant": "铁品背\"殷\"（美品）",
-        "description": "铁质，铸工稍粗，较少见",
-        "grade": "四级（罕见） 美品",
-        "priceRange": "3000—5000元",
-        "notes": "铁品背\"殷\""
+        "variant": "铁品背\"殷\"",
+        "description": "铁质，背面穿上有\"殷\"字，铸工稍粗，较少见",
+        "grade": "四级（罕）",
+        "priceRange": "1,000—5,000元",
+        "notes": "铁品背\"殷\"，品相决定价格"
       },
       {
         "variant": "铜品背\"殷\"",
@@ -828,44 +716,44 @@
       "variants": [
         {
           "src": "/images/coins/k-五代十国钱币/天策府宝/variant_1.jpg",
-          "alt": "天策府宝 - 铁品（普品）",
-          "label": "铁品（普品）"
+          "alt": "天策府宝 - 铜品（普品）",
+          "label": "铜品（普品）"
         },
         {
           "src": "/images/coins/k-五代十国钱币/天策府宝/variant_2.jpg",
-          "alt": "天策府宝 - 铁品（美品）",
-          "label": "铁品（美品）"
+          "alt": "天策府宝 - 铜品（美品）",
+          "label": "铜品（美品）"
         }
       ]
     },
     "variantsTable": [
       {
-        "variant": "铁品（普品）",
-        "description": "铁质，铸工稍粗，较少见",
-        "grade": "四级（罕见） 普品",
-        "priceRange": "2000—5000元",
-        "notes": "铁品"
+        "variant": "铜品（普品）",
+        "description": "铜质，面文\"天策府宝\"，四字对读，楷书含隶意。直径约4.3cm（大钱型），重约30—40g",
+        "grade": "三级（罕） 普品",
+        "priceRange": "50,000—150,000元",
+        "notes": "铜品极珍贵"
       },
       {
-        "variant": "铁品（美品）",
-        "description": "铁质，铸工稍粗，较少见",
-        "grade": "四级（罕见） 美品",
-        "priceRange": "5000—10000元",
-        "notes": "铁品"
+        "variant": "铜品（美品）",
+        "description": "铜质，铸工精整，文字深峻清晰",
+        "grade": "三级（罕） 美品",
+        "priceRange": "150,000—300,000元",
+        "notes": "美品极珍贵"
       },
       {
-        "variant": "铜品",
-        "description": "青铜铸造，铸工精整，极罕见",
-        "grade": "二级（极罕） 美品以上",
-        "priceRange": "50000—200000元",
-        "notes": "存世极罕"
+        "variant": "铁品",
+        "description": "铁质，以铁铸造。直径约4.3cm。存世较铜品稍多",
+        "grade": "五级（稀贵）",
+        "priceRange": "5,000—30,000元",
+        "notes": "铁品较铜品稍多"
       },
       {
         "variant": "鎏金铜品",
-        "description": "青铜铸造，铸工精整，极罕见",
-        "grade": "二级（极罕） 极美品",
-        "priceRange": "50,000—150,000元",
-        "notes": "二级（极罕），鎏金铜质，极为罕见"
+        "description": "铜质表面鎏金，极为罕见，或为赏赐用币",
+        "grade": "一级（大珍）",
+        "priceRange": "500,000元以上",
+        "notes": "鎏金品极珍"
       }
     ]
   },
@@ -886,32 +774,32 @@
     },
     "variantsTable": [
       {
-        "variant": "铁钱光背",
-        "description": "背面无文",
-        "grade": "八级（较多） 普品",
-        "priceRange": "200—500元",
-        "notes": "铁钱光背"
+        "variant": "铁钱小平背\"天\"",
+        "description": "铁质，背面铸\"天\"字。直径约2.4cm",
+        "grade": "七级（甚少）",
+        "priceRange": "500—2,000元",
+        "notes": "背\"天\"较常见"
       },
       {
-        "variant": "铁钱背\"天策\"",
-        "description": "背面铸\"天策\"二字",
-        "grade": "八级（较多） 美品",
-        "priceRange": "500—1500元",
-        "notes": "铁钱背\"天策\""
+        "variant": "铁钱小平背\"天府\"",
+        "description": "铁质，背面铸\"天府\"二字。直径约2.4cm",
+        "grade": "六级（稀）",
+        "priceRange": "1,000—5,000元",
+        "notes": "背\"天府\"较少见"
       },
       {
-        "variant": "铁钱背\"天府\"",
-        "description": "背面铸\"天府\"二字",
-        "grade": "七级（较少） 美品",
-        "priceRange": "800—2000元",
-        "notes": "较少见"
+        "variant": "铁钱大样",
+        "description": "铁质大样，直径约2.5—2.6cm。铸工较精",
+        "grade": "六级（稀）",
+        "priceRange": "1,000—3,000元",
+        "notes": "大样较少见"
       },
       {
         "variant": "铜品",
-        "description": "直径：约2.5—2.7厘米，厚度：约0.1—0.15厘米，单枚重量：约3.0—5.0克（铜质）",
-        "grade": "四级（罕见） 美品以上",
-        "priceRange": "20000—50000元",
-        "notes": "极罕见"
+        "description": "铜质乾封泉宝极罕见",
+        "grade": "三级（罕）",
+        "priceRange": "30,000—100,000元",
+        "notes": "铜品极罕见"
       }
     ]
   },
@@ -931,44 +819,30 @@
       "variants": [
         {
           "src": "/images/coins/k-五代十国钱币/广政通宝/variant_1.jpg",
-          "alt": "广政通宝 - 铁品（普品）",
-          "label": "铁品（普品）"
+          "alt": "广政通宝 - 铜品",
+          "label": "铜品"
         },
         {
           "src": "/images/coins/k-五代十国钱币/广政通宝/variant_2.jpg",
-          "alt": "广政通宝 - 铁品（美品）",
-          "label": "铁品（美品）"
+          "alt": "广政通宝 - 铁品",
+          "label": "铁品"
         }
       ]
     },
     "variantsTable": [
       {
-        "variant": "铁品（普品）",
-        "description": "铁质，相对稍多",
-        "grade": "六级（稀） 普品",
-        "priceRange": "500—1500元",
-        "notes": "铁品"
+        "variant": "铜品",
+        "description": "铜质，面文\"广政通宝\"，四字对读，楷书。直径约2.4cm",
+        "grade": "四级（罕）",
+        "priceRange": "20,000—80,000元",
+        "notes": "铜品极罕见"
       },
       {
-        "variant": "铁品（美品）",
-        "description": "铁质，相对稍多",
-        "grade": "六级（稀） 美品",
-        "priceRange": "1500—3000元",
-        "notes": "铁品"
-      },
-      {
-        "variant": "铜品（美品）",
-        "description": "青铜铸造，较少见",
-        "grade": "六级（稀） 美品",
-        "priceRange": "3000—10000元",
-        "notes": "较少见"
-      },
-      {
-        "variant": "铜品（极美品）",
-        "description": "青铜铸造，较少见",
-        "grade": "六级（稀） 极美品",
-        "priceRange": "10000—20000元",
-        "notes": "铜品"
+        "variant": "铁品",
+        "description": "铁质，以铁铸造。直径约2.4cm。存世较铜品稍多",
+        "grade": "六级（稀）",
+        "priceRange": "1,000—5,000元",
+        "notes": "铁品较铜品稍多"
       }
     ]
   },
@@ -1024,37 +898,23 @@
       "variants": [
         {
           "src": "/images/coins/k-五代十国钱币/保大元宝/variant_1.jpg",
-          "alt": "保大元宝 - 小平钱（普品）",
-          "label": "小平钱（普品）"
+          "alt": "保大元宝 - 小平钱",
+          "label": "小平钱"
         },
         {
           "src": "/images/coins/k-五代十国钱币/保大元宝/variant_2.jpg",
-          "alt": "保大元宝 - 小平钱（美品）",
-          "label": "小平钱（美品）"
+          "alt": "保大元宝 - 版别2",
+          "label": "版别2"
         }
       ]
     },
     "variantsTable": [
       {
-        "variant": "小平钱（普品）",
-        "description": "仅见小平钱一种型制 版别变化不大，直径约2.3—2.5cm，重约3—4g",
-        "grade": "三级（罕贵） 普品",
-        "priceRange": "2000—5000元",
-        "notes": "小平钱"
-      },
-      {
-        "variant": "小平钱（美品）",
-        "description": "仅见小平钱一种型制 版别变化不大，直径约2.3—2.5cm，重约3—4g",
-        "grade": "三级（罕贵） 美品",
-        "priceRange": "5000—10000元",
-        "notes": "小平钱"
-      },
-      {
-        "variant": "小平钱（极美品）",
-        "description": "仅见小平钱一种型制 版别变化不大，直径约2.3—2.5cm，重约3—4g",
-        "grade": "三级（罕贵） 极美品",
-        "priceRange": "10000—15000元",
-        "notes": "小平钱"
+        "variant": "小平钱",
+        "description": "仅见小平钱一种型制。直径约2.3—2.5cm，重约3—4g",
+        "grade": "三级（罕贵）",
+        "priceRange": "2,000—15,000元",
+        "notes": "品相决定价格"
       }
     ]
   },
@@ -1074,37 +934,23 @@
       "variants": [
         {
           "src": "/images/coins/k-五代十国钱币/永通泉货/variant_1.jpg",
-          "alt": "永通泉货 - 当十大钱（普品）",
-          "label": "当十大钱（普品）"
+          "alt": "永通泉货 - 当十大钱",
+          "label": "当十大钱"
         },
         {
           "src": "/images/coins/k-五代十国钱币/永通泉货/variant_2.jpg",
-          "alt": "永通泉货 - 当十大钱（美品）",
-          "label": "当十大钱（美品）"
+          "alt": "永通泉货 - 版别2",
+          "label": "版别2"
         }
       ]
     },
     "variantsTable": [
       {
-        "variant": "当十大钱（普品）",
-        "description": "仅见当十大钱一种型制 存世较少，版别变化不大，直径约3.8—4.5cm，重约15—25g",
-        "grade": "二级（极罕） 普品",
-        "priceRange": "30,000—80,000元",
-        "notes": "当十大钱"
-      },
-      {
-        "variant": "当十大钱（美品）",
-        "description": "仅见当十大钱一种型制 存世较少，版别变化不大，直径约3.8—4.5cm，重约15—25g",
-        "grade": "二级（极罕） 美品",
-        "priceRange": "80,000—150,000元",
-        "notes": "当十大钱"
-      },
-      {
-        "variant": "当十大钱（极美品）",
-        "description": "仅见当十大钱一种型制 存世较少，版别变化不大，直径约3.8—4.5cm，重约15—25g",
-        "grade": "二级（极罕） 极美品",
-        "priceRange": "150,000—300,000元",
-        "notes": "当十大钱"
+        "variant": "当十大钱",
+        "description": "仅见当十大钱一种型制，存世较少。直径约3.8—4.5cm，重约15—25g",
+        "grade": "二级（珍）",
+        "priceRange": "30,000—300,000元",
+        "notes": "古泉名珍，品相决定价格"
       }
     ]
   },
@@ -1124,37 +970,23 @@
       "variants": [
         {
           "src": "/images/coins/k-五代十国钱币/大唐通宝/variant_1.jpg",
-          "alt": "大唐通宝 - 小平钱（普品）",
-          "label": "小平钱（普品）"
+          "alt": "大唐通宝 - 小平钱",
+          "label": "小平钱"
         },
         {
           "src": "/images/coins/k-五代十国钱币/大唐通宝/variant_2.jpg",
-          "alt": "大唐通宝 - 小平钱（美品）",
-          "label": "小平钱（美品）"
+          "alt": "大唐通宝 - 版别2",
+          "label": "版别2"
         }
       ]
     },
     "variantsTable": [
       {
-        "variant": "小平钱（普品）",
-        "description": "仅见小平钱一种型制 版别变化不大，直径约2.3—2.5cm，重约3—4g",
-        "grade": "五级（稀贵） 普品",
-        "priceRange": "100—300元",
-        "notes": "小平钱"
-      },
-      {
-        "variant": "小平钱（美品）",
-        "description": "仅见小平钱一种型制 版别变化不大，直径约2.3—2.5cm，重约3—4g",
-        "grade": "五级（稀贵） 美品",
-        "priceRange": "300—600元",
-        "notes": "小平钱"
-      },
-      {
-        "variant": "小平钱（极美品）",
-        "description": "仅见小平钱一种型制 版别变化不大，直径约2.3—2.5cm，重约3—4g",
-        "grade": "五级（稀贵） 极美品",
-        "priceRange": "600—1000元",
-        "notes": "小平钱"
+        "variant": "小平钱",
+        "description": "仅见小平钱一种型制。直径约2.3—2.5cm，重约3—4g",
+        "grade": "五级（稀贵）",
+        "priceRange": "100—1,000元",
+        "notes": "品相决定价格"
       }
     ]
   },
@@ -1174,81 +1006,60 @@
       "variants": [
         {
           "src": "/images/coins/k-五代十国钱币/唐国通宝/variant_1.jpg",
-          "alt": "唐国通宝 - 楷书版（普品）",
-          "label": "楷书版（普品）"
+          "alt": "唐国通宝 - 楷书版",
+          "label": "楷书版"
         },
         {
           "src": "/images/coins/k-五代十国钱币/唐国通宝/variant_2.jpg",
-          "alt": "唐国通宝 - 篆书版（普品）",
-          "label": "篆书版（普品）"
+          "alt": "唐国通宝 - 篆书版",
+          "label": "篆书版"
         },
         {
           "src": "/images/coins/k-五代十国钱币/唐国通宝/variant_3.jpg",
-          "alt": "唐国通宝 - 隶书版（普品）",
-          "label": "隶书版（普品）"
+          "alt": "唐国通宝 - 隶书版",
+          "label": "隶书版"
         }
       ]
     },
     "variantsTable": [
       {
-        "variant": "楷书版（普品）",
-        "description": "面文\"永隆通宝\"为楷书，笔画规整端庄，\"永\"字竖画笔直，\"通\"字\"辶\"部舒展",
-        "grade": "十级（多泛） 普品",
-        "priceRange": "20—50元",
-        "notes": "最常见版"
+        "variant": "楷书版",
+        "description": "面文\"唐国通宝\"为楷书，笔画规整端庄，\"唐\"字横画舒展，\"国\"字方框端正，\"通\"字\"辶\"部流畅，\"宝\"字\"贝\"部方正",
+        "grade": "十级（多泛）",
+        "priceRange": "20—200元",
+        "notes": "最常见版，品相决定价格"
       },
       {
-        "variant": "篆书版（普品）",
-        "description": "面文\"永隆通宝\"为篆书，笔画圆润流畅，\"永\"字点画分明，\"隆\"字结构繁复端正",
-        "grade": "八级（较多） 普品",
-        "priceRange": "20—50元",
-        "notes": "篆书版"
+        "variant": "篆书版",
+        "description": "面文\"唐国通宝\"为篆书，笔画圆润流畅，\"唐\"字上宽下窄，\"国\"字外框圆转，\"通\"字\"辶\"部婉转，\"宝\"字结构匀称",
+        "grade": "八级（较多）",
+        "priceRange": "20—200元",
+        "notes": "篆书版，品相决定价格"
       },
       {
-        "variant": "隶书版（普品）",
-        "description": "面文\"永隆通宝\"为隶书，笔画古朴方折，\"隆\"字横画平直，\"宝\"字\"贝\"部方正",
-        "grade": "六级（少） 普品",
-        "priceRange": "30—80元",
-        "notes": "稍少见"
-      },
-      {
-        "variant": "楷书版（美品）",
-        "description": "面文\"永隆通宝\"为楷书，笔画规整端庄，\"永\"字竖画笔直，\"通\"字\"辶\"部舒展",
-        "grade": "八级（较多） 美品",
-        "priceRange": "80—200元",
-        "notes": "楷书版"
-      },
-      {
-        "variant": "篆书版（美品）",
-        "description": "面文\"永隆通宝\"为篆书，笔画圆润流畅，\"永\"字点画分明，\"隆\"字结构繁复端正",
-        "grade": "八级（较多） 美品",
-        "priceRange": "80—200元",
-        "notes": "篆书版"
-      },
-      {
-        "variant": "隶书版（美品）",
-        "description": "面文\"永隆通宝\"为隶书，笔画古朴方折，\"隆\"字横画平直，\"宝\"字\"贝\"部方正",
-        "grade": "八级（较多） 美品",
-        "priceRange": "150—300元",
-        "notes": "隶书版"
+        "variant": "隶书版",
+        "description": "面文\"唐国通宝\"为隶书，笔画古朴方折，\"唐\"字横画蚕头燕尾，\"国\"字方折有力，\"宝\"字\"贝\"部方正",
+        "grade": "六级（少）",
+        "priceRange": "30—300元",
+        "notes": "稍少见，品相决定价格"
       },
       {
         "variant": "大字版",
-        "description": "面文字体较大",
+        "description": "面文字体较大，笔画粗壮，布局舒展",
         "grade": "七级（较少） 极美品",
-        "priceRange": "500—1000元",
+        "priceRange": "500—1,000元",
         "notes": "较少见"
       },
       {
         "variant": "小字版",
-        "description": "面文字体较小",
-        "grade": "八级（较多） 普品",
+        "description": "面文字体较小，笔画纤细",
+        "grade": "八级（较多）",
         "priceRange": "50—150元",
         "notes": "文字较小"
       },
       {
         "variant": "阔缘版",
-        "description": "外廓较宽",
+        "description": "外廓较宽，铸工较精",
         "grade": "八级（较多） 美品",
         "priceRange": "100—300元",
         "notes": "边缘较宽"
@@ -1321,37 +1132,30 @@
       "variants": [
         {
           "src": "/images/coins/k-五代十国钱币/乾亨通宝-南汉/variant_1.jpg",
-          "alt": "乾亨通宝-南汉 - 铅钱（普品）",
-          "label": "铅钱（普品）"
+          "alt": "乾亨通宝-南汉 - 铜品",
+          "label": "铜品"
         },
         {
           "src": "/images/coins/k-五代十国钱币/乾亨通宝-南汉/variant_2.jpg",
-          "alt": "乾亨通宝-南汉 - 铅钱（美品）",
-          "label": "铅钱（美品）"
+          "alt": "乾亨通宝-南汉 - 铅品",
+          "label": "铅品"
         }
       ]
     },
     "variantsTable": [
       {
-        "variant": "铅钱（普品）",
-        "description": "最为常见，但铅质易损，保存完好者不多",
-        "grade": "八级（较多） 普品",
-        "priceRange": "20—80元",
-        "notes": "铅质易损"
-      },
-      {
-        "variant": "铅钱（美品）",
-        "description": "最为常见，但铅质易损，保存完好者不多",
-        "grade": "八级（较多） 美品",
-        "priceRange": "80—200元",
-        "notes": "铅钱"
-      },
-      {
         "variant": "铜品",
-        "description": "极罕见",
-        "grade": "四级（罕见） 美品以上",
-        "priceRange": "500—5000元",
-        "notes": "极罕见"
+        "description": "铜质，面文\"乾亨通宝\"，四字对读，楷书。直径约2.3—2.4cm",
+        "grade": "七级（甚少）",
+        "priceRange": "1,000—5,000元",
+        "notes": "铜品较少见"
+      },
+      {
+        "variant": "铅品",
+        "description": "铅质，南汉大量铸行铅钱。直径约2.3—2.4cm，质软色灰",
+        "grade": "八级（较多）",
+        "priceRange": "100—500元",
+        "notes": "铅品较常见"
       }
     ]
   },
@@ -1371,51 +1175,37 @@
       "variants": [
         {
           "src": "/images/coins/k-五代十国钱币/乾亨重宝/variant_1.jpg",
-          "alt": "乾亨重宝 - 铅品（普品）",
-          "label": "铅品（普品）"
+          "alt": "乾亨重宝 - 铜品",
+          "label": "铜品"
         },
         {
           "src": "/images/coins/k-五代十国钱币/乾亨重宝/variant_2.jpg",
-          "alt": "乾亨重宝 - 铅品（美品）",
-          "label": "铅品（美品）"
+          "alt": "乾亨重宝 - 铅品（普品）",
+          "label": "铅品（普品）"
         }
       ]
     },
     "variantsTable": [
       {
+        "variant": "铜品",
+        "description": "铜质，面文\"乾亨重宝\"，四字对读。直径约2.4cm",
+        "grade": "六级（稀）",
+        "priceRange": "2,000—10,000元",
+        "notes": "铜品较少见"
+      },
+      {
         "variant": "铅品（普品）",
-        "description": "铅质，最为多见",
-        "grade": "九级（多） 普品",
-        "priceRange": "20—80元",
-        "notes": "最为常见"
+        "description": "铅质，南汉大量铸行铅钱。直径约2.4cm，质软色灰",
+        "grade": "八级（较多） 普品",
+        "priceRange": "50—200元",
+        "notes": "铅品较常见"
       },
       {
         "variant": "铅品（美品）",
-        "description": "铅质，最为多见",
+        "description": "铅质，品相较好。直径约2.4cm",
         "grade": "八级（较多） 美品",
-        "priceRange": "80—200元",
-        "notes": "铅品"
-      },
-      {
-        "variant": "铜品（美品）",
-        "description": "青铜铸造，较少见",
-        "grade": "七级（较少） 美品",
-        "priceRange": "500—3000元",
-        "notes": "较少见"
-      },
-      {
-        "variant": "铜品（极美品）",
-        "description": "青铜铸造，较少见",
-        "grade": "七级（较少） 极美品",
-        "priceRange": "3000—5000元",
-        "notes": "铜品"
-      },
-      {
-        "variant": "铁品",
-        "description": "铁质，较少见",
-        "grade": "七级（较少） 普品",
-        "priceRange": "50—200元",
-        "notes": "铁质铸行"
+        "priceRange": "200—500元",
+        "notes": "美品铅钱"
       }
     ]
   },
@@ -1461,25 +1251,11 @@
     },
     "variantsTable": [
       {
-        "variant": "小平钱（普品）",
-        "description": "仅见小平钱一种型制 存世较少，版别难以细分，直径约2.3—2.5cm，重约3—4g",
-        "grade": "三级（罕贵） 普品",
-        "priceRange": "3000—8000元",
-        "notes": "存世较少"
-      },
-      {
-        "variant": "小平钱（美品）",
-        "description": "仅见小平钱一种型制 存世较少，版别难以细分，直径约2.3—2.5cm，重约3—4g",
-        "grade": "三级（罕贵） 美品",
-        "priceRange": "8000—15000元",
-        "notes": "小平钱"
-      },
-      {
-        "variant": "小平钱（极美品）",
-        "description": "仅见小平钱一种型制 存世较少，版别难以细分，直径约2.3—2.5cm，重约3—4g",
-        "grade": "三级（罕贵） 极美品",
-        "priceRange": "15000—20000元",
-        "notes": "小平钱"
+        "variant": "小平钱",
+        "description": "仅见小平钱一种型制，存世较少。直径约2.3—2.5cm，重约3—4g",
+        "grade": "三级（罕贵）",
+        "priceRange": "3,000—20,000元",
+        "notes": "存世较少，品相决定价格"
       }
     ]
   }

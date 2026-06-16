@@ -16,39 +16,39 @@
     },
     "variantsTable": [
       {
-        "variant": "小平光背（普品）",
-        "description": "背面无文，直径：约2.5厘米，重约3—3.5克",
+        "variant": "小平楷书版（普品）",
+        "description": "楷书面文\"利用通宝\"，四字对读。直径约2.4cm。吴三桂铸行",
         "grade": "八级（较多） 普品",
-        "priceRange": "100—200元",
-        "notes": "铸主：吴三桂"
+        "priceRange": "20—100元",
+        "notes": "三藩之乱时期铸币"
       },
       {
-        "variant": "小平光背（美品）",
-        "description": "背面无文，直径：约2.5厘米，重约3—3.5克",
+        "variant": "小平楷书版（美品）",
+        "description": "品相精美",
         "grade": "八级（较多） 美品",
-        "priceRange": "200—500元",
-        "notes": "小平光背"
+        "priceRange": "100—300元",
+        "notes": "美品价格较高"
       },
       {
-        "variant": "折二",
-        "description": "较少见，直径：约2.8厘米，重约5—7g",
-        "grade": "七级（较少） 美品",
-        "priceRange": "300—800元",
-        "notes": "折二"
+        "variant": "折二型",
+        "description": "折二型，直径约2.8cm",
+        "grade": "七级（甚少）",
+        "priceRange": "100—500元",
+        "notes": "折二型较少见"
       },
       {
-        "variant": "折五",
-        "description": "背面铸\"一分\"，直径：约3.3厘米，重约10—15g",
-        "grade": "八级（较多） 美品",
-        "priceRange": "500—1500元",
-        "notes": "折五"
+        "variant": "折五型背\"厘\"",
+        "description": "折五型，背面铸\"厘\"字。直径约3.4cm",
+        "grade": "七级（甚少）",
+        "priceRange": "200—800元",
+        "notes": "背\"厘\"纪重"
       },
       {
-        "variant": "折十",
-        "description": "背面铸\"一钱\"，直径：约4.0厘米，重约15—25g",
-        "grade": "八级（较多） 美品",
-        "priceRange": "500—1000元",
-        "notes": "折十"
+        "variant": "折十型背\"一分\"",
+        "description": "折十型大钱，背面铸\"一分\"。直径约4.5cm",
+        "grade": "六级（稀）",
+        "priceRange": "500—3,000元",
+        "notes": "折十型大钱"
       }
     ]
   },
@@ -69,32 +69,18 @@
     },
     "variantsTable": [
       {
-        "variant": "楷书小平（美品）",
-        "description": "面文楷书，光背，直径：约2.5厘米，重约3—4g",
-        "grade": "八级（较多） 美品",
-        "priceRange": "300—800元",
-        "notes": "铸主：吴三桂"
+        "variant": "小平楷书版",
+        "description": "楷书面文\"昭武通宝\"，四字对读。直径约2.4cm。吴三桂称帝后铸行",
+        "grade": "七级（甚少）",
+        "priceRange": "200—1,000元",
+        "notes": "昭武年号仅数月"
       },
       {
-        "variant": "楷书小平（极美品）",
-        "description": "面文楷书，光背，直径：约2.5厘米，重约3—4g",
-        "grade": "八级（较多） 极美品",
-        "priceRange": "800—1500元",
-        "notes": "楷书小平"
-      },
-      {
-        "variant": "篆书小平",
-        "description": "面文篆书，较少见，直径：约2.5厘米，重约3—4g",
-        "grade": "七级（较少） 美品",
-        "priceRange": "1000—3000元",
-        "notes": "较少见"
-      },
-      {
-        "variant": "折十",
-        "description": "较少见，直径：约3.5厘米，重约15—25g",
-        "grade": "七级（较少） 美品",
-        "priceRange": "1000—3000元",
-        "notes": "折十"
+        "variant": "折十型",
+        "description": "折十型大钱，直径约4.5cm",
+        "grade": "六级（稀）",
+        "priceRange": "500—3,000元",
+        "notes": "折十型大钱"
       }
     ]
   },
