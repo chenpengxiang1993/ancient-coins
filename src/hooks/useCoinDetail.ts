@@ -100,13 +100,5 @@ export function useCoinDetail(dynastyIndex: number, coinId: string, hasDetail: b
       });
   }, [dynastyIndex, coinId]);
 
-  const prefetchDynasty = useCallback(async (idx: number) => {
-    try {
-      await fetchDynastyDetail(idx);
-    } catch {
-      // prefetch failure is non-critical
-    }
-  }, []);
-
-  return { detail, loading, error, retry, prefetchDynasty };
+  return { detail, loading, error, retry };
 }

@@ -20,3 +20,6 @@ unpackage/
 # 部署配置（含敏感信息，勿提交）
 .env.deploy
 .env.deploy.local
+
+# 前端运行时数据（由 data/dynasties/ 构建时生成，禁止提交）
+public/data/

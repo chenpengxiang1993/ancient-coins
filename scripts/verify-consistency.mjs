@@ -8,7 +8,7 @@ import { readFileSync } from 'fs';
 import { join } from 'path';
 
 const DATA_DIR = 'data/dynasties';
-const DYNASTY_COUNT = 26;
+const DYNASTY_COUNT = 20;
 
 // 马定祥十级制等级映射
 const RARITY_LEVELS = {

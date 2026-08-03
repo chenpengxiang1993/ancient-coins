@@ -1,12 +1,12 @@
 {
   "dynasty": "三国钱币",
-  "dynastyIndex": 3,
+  "dynastyIndex": 4,
   "coins": [
     {
-      "id": "3-0",
+      "id": "4-0",
       "name": "魏五铢",
       "dynasty": "三国钱币",
-      "dynastyIndex": 3,
+      "dynastyIndex": 4,
       "summary": {
         "name": "魏五铢",
         "historicalPeriod": "曹魏（约220年—265年）",
@@ -50,10 +50,10 @@
       }
     },
     {
-      "id": "3-1",
+      "id": "4-1",
       "name": "蜀五铢",
       "dynasty": "三国钱币",
-      "dynastyIndex": 3,
+      "dynastyIndex": 4,
       "summary": {
         "name": "蜀五铢",
         "historicalPeriod": "蜀汉（约214年—263年）",
@@ -97,10 +97,10 @@
       }
     },
     {
-      "id": "3-2",
+      "id": "4-2",
       "name": "直百五铢",
       "dynasty": "三国钱币",
-      "dynastyIndex": 3,
+      "dynastyIndex": 4,
       "summary": {
         "name": "直百五铢",
         "historicalPeriod": "蜀汉建安十九年（214年）",
@@ -183,10 +183,10 @@
       }
     },
     {
-      "id": "3-3",
+      "id": "4-3",
       "name": "太平百钱",
       "dynasty": "三国钱币",
-      "dynastyIndex": 3,
+      "dynastyIndex": 4,
       "summary": {
         "name": "太平百钱",
         "historicalPeriod": "蜀汉（约214年—250年）",
@@ -253,10 +253,10 @@
       }
     },
     {
-      "id": "3-4",
+      "id": "4-4",
       "name": "世平百钱",
       "dynasty": "三国钱币",
-      "dynastyIndex": 3,
+      "dynastyIndex": 4,
       "summary": {
         "name": "世平百钱",
         "historicalPeriod": "蜀汉时期",
@@ -293,10 +293,10 @@
       }
     },
     {
-      "id": "3-5",
+      "id": "4-5",
       "name": "直一钱",
       "dynasty": "三国钱币",
-      "dynastyIndex": 3,
+      "dynastyIndex": 4,
       "summary": {
         "name": "直一钱",
         "historicalPeriod": "蜀汉时期",
@@ -351,10 +351,10 @@
       }
     },
     {
-      "id": "3-6",
+      "id": "4-6",
       "name": "直百钱",
       "dynasty": "三国钱币",
-      "dynastyIndex": 3,
+      "dynastyIndex": 4,
       "summary": {
         "name": "直百钱",
         "historicalPeriod": "蜀汉时期",
@@ -409,10 +409,10 @@
       }
     },
     {
-      "id": "3-7",
+      "id": "4-7",
       "name": "定平一百",
       "dynasty": "三国钱币",
-      "dynastyIndex": 3,
+      "dynastyIndex": 4,
       "summary": {
         "name": "定平一百",
         "historicalPeriod": "蜀汉时期",
@@ -465,10 +465,10 @@
       }
     },
     {
-      "id": "3-8",
+      "id": "4-8",
       "name": "大泉五百",
       "dynasty": "三国钱币",
-      "dynastyIndex": 3,
+      "dynastyIndex": 4,
       "summary": {
         "name": "大泉五百",
         "historicalPeriod": "东吴嘉禾五年（236年）",
@@ -530,10 +530,10 @@
       }
     },
     {
-      "id": "3-9",
+      "id": "4-9",
       "name": "大泉当千",
       "dynasty": "三国钱币",
-      "dynastyIndex": 3,
+      "dynastyIndex": 4,
       "summary": {
         "name": "大泉当千",
         "historicalPeriod": "东吴赤乌元年（238年）",
@@ -602,10 +602,10 @@
       }
     },
     {
-      "id": "3-10",
+      "id": "4-10",
       "name": "大泉二千",
       "dynasty": "三国钱币",
-      "dynastyIndex": 3,
+      "dynastyIndex": 4,
       "summary": {
         "name": "大泉二千",
         "historicalPeriod": "东吴赤乌年间（238—251年）",
@@ -653,10 +653,10 @@
       }
     },
     {
-      "id": "3-11",
+      "id": "4-11",
       "name": "大泉五千",
       "dynasty": "三国钱币",
-      "dynastyIndex": 3,
+      "dynastyIndex": 4,
       "summary": {
         "name": "大泉五千",
         "historicalPeriod": "东吴赤乌年间（238—251年）",

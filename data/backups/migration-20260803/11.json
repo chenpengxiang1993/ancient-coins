@@ -1,12 +1,12 @@
 {
   "dynasty": "辽朝钱币",
-  "dynastyIndex": 12,
+  "dynastyIndex": 11,
   "coins": [
     {
-      "id": "12-0",
+      "id": "11-0",
       "name": "通行泉货",
       "dynasty": "辽朝钱币",
-      "dynastyIndex": 12,
+      "dynastyIndex": 11,
       "summary": {
         "name": "通行泉货",
         "historicalPeriod": "辽早期（约907年）",
@@ -61,10 +61,10 @@
       }
     },
     {
-      "id": "12-1",
+      "id": "11-1",
       "name": "神册通宝",
       "dynasty": "辽朝钱币",
-      "dynastyIndex": 12,
+      "dynastyIndex": 11,
       "summary": {
         "name": "神册通宝",
         "historicalPeriod": "辽（916年）",
@@ -108,10 +108,10 @@
       }
     },
     {
-      "id": "12-2",
+      "id": "11-2",
       "name": "天赞通宝",
       "dynasty": "辽朝钱币",
-      "dynastyIndex": 12,
+      "dynastyIndex": 11,
       "summary": {
         "name": "天赞通宝",
         "historicalPeriod": "辽（922年）",
@@ -171,10 +171,10 @@
       }
     },
     {
-      "id": "12-3",
+      "id": "11-3",
       "name": "天显通宝",
       "dynasty": "辽朝钱币",
-      "dynastyIndex": 12,
+      "dynastyIndex": 11,
       "summary": {
         "name": "天显通宝",
         "historicalPeriod": "辽（926年）",
@@ -229,10 +229,10 @@
       }
     },
     {
-      "id": "12-4",
+      "id": "11-4",
       "name": "会同通宝",
       "dynasty": "辽朝钱币",
-      "dynastyIndex": 12,
+      "dynastyIndex": 11,
       "summary": {
         "name": "会同通宝",
         "historicalPeriod": "辽（938年）",
@@ -276,10 +276,10 @@
       }
     },
     {
-      "id": "12-5",
+      "id": "11-5",
       "name": "天禄通宝",
       "dynasty": "辽朝钱币",
-      "dynastyIndex": 12,
+      "dynastyIndex": 11,
       "summary": {
         "name": "天禄通宝",
         "historicalPeriod": "辽（947年）",
@@ -316,10 +316,10 @@
       }
     },
     {
-      "id": "12-6",
+      "id": "11-6",
       "name": "应历通宝",
       "dynasty": "辽朝钱币",
-      "dynastyIndex": 12,
+      "dynastyIndex": 11,
       "summary": {
         "name": "应历通宝",
         "historicalPeriod": "辽（951年）",
@@ -367,10 +367,10 @@
       }
     },
     {
-      "id": "12-7",
+      "id": "11-7",
       "name": "保宁通宝",
       "dynasty": "辽朝钱币",
-      "dynastyIndex": 12,
+      "dynastyIndex": 11,
       "summary": {
         "name": "保宁通宝",
         "historicalPeriod": "辽（969年）",
@@ -430,10 +430,10 @@
       }
     },
     {
-      "id": "12-8",
+      "id": "11-8",
       "name": "乾亨通宝-辽",
       "dynasty": "辽朝钱币",
-      "dynastyIndex": 12,
+      "dynastyIndex": 11,
       "summary": {
         "name": "乾亨通宝-辽",
         "historicalPeriod": "辽（979年）",
@@ -470,10 +470,10 @@
       }
     },
     {
-      "id": "12-9",
+      "id": "11-9",
       "name": "统和元宝",
       "dynasty": "辽朝钱币",
-      "dynastyIndex": 12,
+      "dynastyIndex": 11,
       "summary": {
         "name": "统和元宝",
         "historicalPeriod": "辽（983年）",
@@ -535,10 +535,10 @@
       }
     },
     {
-      "id": "12-10",
+      "id": "11-10",
       "name": "开泰元宝",
       "dynasty": "辽朝钱币",
-      "dynastyIndex": 12,
+      "dynastyIndex": 11,
       "summary": {
         "name": "开泰元宝",
         "historicalPeriod": "辽（1012年）",
@@ -575,10 +575,10 @@
       }
     },
     {
-      "id": "12-11",
+      "id": "11-11",
       "name": "太平元宝",
       "dynasty": "辽朝钱币",
-      "dynastyIndex": 12,
+      "dynastyIndex": 11,
       "summary": {
         "name": "太平元宝",
         "historicalPeriod": "辽（1021年）",
@@ -615,10 +615,10 @@
       }
     },
     {
-      "id": "12-12",
+      "id": "11-12",
       "name": "景福通宝",
       "dynasty": "辽朝钱币",
-      "dynastyIndex": 12,
+      "dynastyIndex": 11,
       "summary": {
         "name": "景福通宝",
         "historicalPeriod": "辽（1031年）",
@@ -655,10 +655,10 @@
       }
     },
     {
-      "id": "12-13",
+      "id": "11-13",
       "name": "重熙通宝",
       "dynasty": "辽朝钱币",
-      "dynastyIndex": 12,
+      "dynastyIndex": 11,
       "summary": {
         "name": "重熙通宝",
         "historicalPeriod": "辽（1032年）",
@@ -720,10 +720,10 @@
       }
     },
     {
-      "id": "12-14",
+      "id": "11-14",
       "name": "清宁通宝",
       "dynasty": "辽朝钱币",
-      "dynastyIndex": 12,
+      "dynastyIndex": 11,
       "summary": {
         "name": "清宁通宝",
         "historicalPeriod": "辽（1055年）",
@@ -783,10 +783,10 @@
       }
     },
     {
-      "id": "12-15",
+      "id": "11-15",
       "name": "清宁元宝",
       "dynasty": "辽朝钱币",
-      "dynastyIndex": 12,
+      "dynastyIndex": 11,
       "summary": {
         "name": "清宁元宝",
         "historicalPeriod": "辽（1055年）",
@@ -834,10 +834,10 @@
       }
     },
     {
-      "id": "12-16",
+      "id": "11-16",
       "name": "咸雍通宝",
       "dynasty": "辽朝钱币",
-      "dynastyIndex": 12,
+      "dynastyIndex": 11,
       "summary": {
         "name": "咸雍通宝",
         "historicalPeriod": "辽（1065年）",
@@ -897,10 +897,10 @@
       }
     },
     {
-      "id": "12-17",
+      "id": "11-17",
       "name": "大康通宝",
       "dynasty": "辽朝钱币",
-      "dynastyIndex": 12,
+      "dynastyIndex": 11,
       "summary": {
         "name": "大康通宝",
         "historicalPeriod": "辽（1075年）",
@@ -944,10 +944,10 @@
       }
     },
     {
-      "id": "12-18",
+      "id": "11-18",
       "name": "大康元宝",
       "dynasty": "辽朝钱币",
-      "dynastyIndex": 12,
+      "dynastyIndex": 11,
       "summary": {
         "name": "大康元宝",
         "historicalPeriod": "辽（1075年）",
@@ -1007,10 +1007,10 @@
       }
     },
     {
-      "id": "12-19",
+      "id": "11-19",
       "name": "大安元宝",
       "dynasty": "辽朝钱币",
-      "dynastyIndex": 12,
+      "dynastyIndex": 11,
       "summary": {
         "name": "大安元宝",
         "historicalPeriod": "辽（1085年）",
@@ -1070,10 +1070,10 @@
       }
     },
     {
-      "id": "12-20",
+      "id": "11-20",
       "name": "寿昌元宝",
       "dynasty": "辽朝钱币",
-      "dynastyIndex": 12,
+      "dynastyIndex": 11,
       "summary": {
         "name": "寿昌元宝",
         "historicalPeriod": "辽（1095年）",
@@ -1128,10 +1128,10 @@
       }
     },
     {
-      "id": "12-21",
+      "id": "11-21",
       "name": "乾统元宝",
       "dynasty": "辽朝钱币",
-      "dynastyIndex": 12,
+      "dynastyIndex": 11,
       "summary": {
         "name": "乾统元宝",
         "historicalPeriod": "辽（1101年）",
@@ -1186,10 +1186,10 @@
       }
     },
     {
-      "id": "12-22",
+      "id": "11-22",
       "name": "天庆元宝-辽",
       "dynasty": "辽朝钱币",
-      "dynastyIndex": 12,
+      "dynastyIndex": 11,
       "summary": {
         "name": "天庆元宝-辽",
         "historicalPeriod": "辽（1111年）",
@@ -1249,10 +1249,10 @@
       }
     },
     {
-      "id": "12-23",
+      "id": "11-23",
       "name": "天朝万顺",
       "dynasty": "辽朝钱币",
-      "dynastyIndex": 12,
+      "dynastyIndex": 11,
       "summary": {
         "name": "天朝万顺",
         "historicalPeriod": "辽（年代不详）",
@@ -1296,10 +1296,10 @@
       }
     },
     {
-      "id": "12-24",
+      "id": "11-24",
       "name": "助国元宝",
       "dynasty": "辽朝钱币",
-      "dynastyIndex": 12,
+      "dynastyIndex": 11,
       "summary": {
         "name": "助国元宝",
         "historicalPeriod": "辽（年代不详）",
@@ -1354,10 +1354,10 @@
       }
     },
     {
-      "id": "12-25",
+      "id": "11-25",
       "name": "壮国元宝",
       "dynasty": "辽朝钱币",
-      "dynastyIndex": 12,
+      "dynastyIndex": 11,
       "summary": {
         "name": "壮国元宝",
         "historicalPeriod": "辽（年代不详）",
@@ -1401,10 +1401,10 @@
       }
     },
     {
-      "id": "12-26",
+      "id": "11-26",
       "name": "千秋万岁",
       "dynasty": "辽朝钱币",
-      "dynastyIndex": 12,
+      "dynastyIndex": 11,
       "summary": {
         "name": "千秋万岁",
         "historicalPeriod": "辽（年代不详）",
@@ -1464,10 +1464,10 @@
       }
     },
     {
-      "id": "12-27",
+      "id": "11-27",
       "name": "大辽天庆",
       "dynasty": "辽朝钱币",
-      "dynastyIndex": 12,
+      "dynastyIndex": 11,
       "summary": {
         "name": "大辽天庆",
         "historicalPeriod": "辽（1111年）",

@@ -23,7 +23,8 @@
 .coinListItems {
   flex: 1;
   overflow-y: auto;
-  padding: 8px;
+  /* 无顶部内边距：吸顶子标题与上方「共 N 枚」栏无缝贴合，不留漏出币名的间隙 */
+  padding: 0 8px 8px;
   @include thin-scrollbar;
 }
 
@@ -35,6 +36,38 @@
   color: var(--text-muted);
   font-family: $font-sans;
   font-size: 14px;
+}
+
+.coinSubGroup {
+  margin-bottom: 8px;
+}
+
+.coinSubGroupHeader {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 6px 10px;
+  margin-bottom: 4px;
+  border-left: 3px solid var(--accent);
+  background: var(--bg-secondary);
+  border-radius: 0 6px 6px 0;
+  position: sticky;
+  top: 0;
+  z-index: 2;
+}
+
+.coinSubGroupName {
+  font-family: $font-serif;
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--text-secondary);
+  letter-spacing: 0.5px;
+}
+
+.coinSubGroupCount {
+  font-size: 11px;
+  color: var(--text-muted);
+  font-family: $font-sans;
 }
 
 .coinItem {

@@ -1,12 +1,12 @@
 {
   "dynasty": "南宋钱币",
-  "dynastyIndex": 11,
+  "dynastyIndex": 15,
   "coins": [
     {
-      "id": "11-0",
+      "id": "15-0",
       "name": "建炎通宝",
       "dynasty": "南宋钱币",
-      "dynastyIndex": 11,
+      "dynastyIndex": 15,
       "summary": {
         "name": "建炎通宝",
         "historicalPeriod": "南宋（1127年）",
@@ -75,10 +75,10 @@
       }
     },
     {
-      "id": "11-1",
+      "id": "15-1",
       "name": "建炎元宝",
       "dynasty": "南宋钱币",
-      "dynastyIndex": 11,
+      "dynastyIndex": 15,
       "summary": {
         "name": "建炎元宝",
         "historicalPeriod": "南宋（1127年）",
@@ -126,10 +126,10 @@
       }
     },
     {
-      "id": "11-2",
+      "id": "15-2",
       "name": "建炎重宝",
       "dynasty": "南宋钱币",
-      "dynastyIndex": 11,
+      "dynastyIndex": 15,
       "summary": {
         "name": "建炎重宝",
         "historicalPeriod": "南宋（1127年）",
@@ -189,10 +189,10 @@
       }
     },
     {
-      "id": "11-3",
+      "id": "15-3",
       "name": "绍兴通宝",
       "dynasty": "南宋钱币",
-      "dynastyIndex": 11,
+      "dynastyIndex": 15,
       "summary": {
         "name": "绍兴通宝",
         "historicalPeriod": "南宋（1131年）",
@@ -254,10 +254,10 @@
       }
     },
     {
-      "id": "11-4",
+      "id": "15-4",
       "name": "绍兴元宝",
       "dynasty": "南宋钱币",
-      "dynastyIndex": 11,
+      "dynastyIndex": 15,
       "summary": {
         "name": "绍兴元宝",
         "historicalPeriod": "南宋（1131年）",
@@ -338,10 +338,10 @@
       }
     },
     {
-      "id": "11-5",
+      "id": "15-5",
       "name": "隆兴元宝",
       "dynasty": "南宋钱币",
-      "dynastyIndex": 11,
+      "dynastyIndex": 15,
       "summary": {
         "name": "隆兴元宝",
         "historicalPeriod": "南宋（1163年）",
@@ -415,10 +415,10 @@
       }
     },
     {
-      "id": "11-6",
+      "id": "15-6",
       "name": "隆兴通宝",
       "dynasty": "南宋钱币",
-      "dynastyIndex": 11,
+      "dynastyIndex": 15,
       "summary": {
         "name": "隆兴通宝",
         "historicalPeriod": "南宋（1163年）",
@@ -455,10 +455,10 @@
       }
     },
     {
-      "id": "11-7",
+      "id": "15-7",
       "name": "隆兴重宝",
       "dynasty": "南宋钱币",
-      "dynastyIndex": 11,
+      "dynastyIndex": 15,
       "summary": {
         "name": "隆兴重宝",
         "historicalPeriod": "南宋（1163年）",
@@ -495,10 +495,10 @@
       }
     },
     {
-      "id": "11-8",
+      "id": "15-8",
       "name": "乾道元宝",
       "dynasty": "南宋钱币",
-      "dynastyIndex": 11,
+      "dynastyIndex": 15,
       "summary": {
         "name": "乾道元宝",
         "historicalPeriod": "南宋（1165年）",
@@ -574,10 +574,10 @@
       }
     },
     {
-      "id": "11-9",
+      "id": "15-9",
       "name": "乾道通宝",
       "dynasty": "南宋钱币",
-      "dynastyIndex": 11,
+      "dynastyIndex": 15,
       "summary": {
         "name": "乾道通宝",
         "historicalPeriod": "南宋（1165年）",
@@ -614,10 +614,10 @@
       }
     },
     {
-      "id": "11-10",
+      "id": "15-10",
       "name": "乾道重宝",
       "dynasty": "南宋钱币",
-      "dynastyIndex": 11,
+      "dynastyIndex": 15,
       "summary": {
         "name": "乾道重宝",
         "historicalPeriod": "南宋（1165年）",
@@ -654,10 +654,10 @@
       }
     },
     {
-      "id": "11-11",
+      "id": "15-11",
       "name": "纯熙元宝",
       "dynasty": "南宋钱币",
-      "dynastyIndex": 11,
+      "dynastyIndex": 15,
       "summary": {
         "name": "纯熙元宝",
         "historicalPeriod": "南宋（1174年）",
@@ -694,10 +694,10 @@
       }
     },
     {
-      "id": "11-12",
+      "id": "15-12",
       "name": "淳熙元宝",
       "dynasty": "南宋钱币",
-      "dynastyIndex": 11,
+      "dynastyIndex": 15,
       "summary": {
         "name": "淳熙元宝",
         "historicalPeriod": "南宋（1174年）",
@@ -862,10 +862,10 @@
       }
     },
     {
-      "id": "11-13",
+      "id": "15-13",
       "name": "淳熙通宝",
       "dynasty": "南宋钱币",
-      "dynastyIndex": 11,
+      "dynastyIndex": 15,
       "summary": {
         "name": "淳熙通宝",
         "historicalPeriod": "南宋（1174年）",
@@ -923,10 +923,10 @@
       }
     },
     {
-      "id": "11-14",
+      "id": "15-14",
       "name": "绍熙元宝",
       "dynasty": "南宋钱币",
-      "dynastyIndex": 11,
+      "dynastyIndex": 15,
       "summary": {
         "name": "绍熙元宝",
         "historicalPeriod": "南宋（1190年）",
@@ -1070,10 +1070,10 @@
       }
     },
     {
-      "id": "11-15",
+      "id": "15-15",
       "name": "绍熙通宝",
       "dynasty": "南宋钱币",
-      "dynastyIndex": 11,
+      "dynastyIndex": 15,
       "summary": {
         "name": "绍熙通宝",
         "historicalPeriod": "南宋（1190年）",
@@ -1152,10 +1152,10 @@
       }
     },
     {
-      "id": "11-16",
+      "id": "15-16",
       "name": "庆元通宝",
       "dynasty": "南宋钱币",
-      "dynastyIndex": 11,
+      "dynastyIndex": 15,
       "summary": {
         "name": "庆元通宝",
         "historicalPeriod": "南宋（1195年）",
@@ -1301,10 +1301,10 @@
       }
     },
     {
-      "id": "11-17",
+      "id": "15-17",
       "name": "庆元元宝",
       "dynasty": "南宋钱币",
-      "dynastyIndex": 11,
+      "dynastyIndex": 15,
       "summary": {
         "name": "庆元元宝",
         "historicalPeriod": "南宋（1195年）",
@@ -1341,10 +1341,10 @@
       }
     },
     {
-      "id": "11-18",
+      "id": "15-18",
       "name": "嘉泰通宝",
       "dynasty": "南宋钱币",
-      "dynastyIndex": 11,
+      "dynastyIndex": 15,
       "summary": {
         "name": "嘉泰通宝",
         "historicalPeriod": "南宋（1201年）",
@@ -1467,10 +1467,10 @@
       }
     },
     {
-      "id": "11-19",
+      "id": "15-19",
       "name": "嘉泰元宝",
       "dynasty": "南宋钱币",
-      "dynastyIndex": 11,
+      "dynastyIndex": 15,
       "summary": {
         "name": "嘉泰元宝",
         "historicalPeriod": "南宋（1201年）",
@@ -1507,10 +1507,10 @@
       }
     },
     {
-      "id": "11-20",
+      "id": "15-20",
       "name": "开禧通宝",
       "dynasty": "南宋钱币",
-      "dynastyIndex": 11,
+      "dynastyIndex": 15,
       "summary": {
         "name": "开禧通宝",
         "historicalPeriod": "南宋（1205年）",
@@ -1614,10 +1614,10 @@
       }
     },
     {
-      "id": "11-21",
+      "id": "15-21",
       "name": "开禧元宝",
       "dynasty": "南宋钱币",
-      "dynastyIndex": 11,
+      "dynastyIndex": 15,
       "summary": {
         "name": "开禧元宝",
         "historicalPeriod": "南宋（1205年）",
@@ -1670,10 +1670,10 @@
       }
     },
     {
-      "id": "11-22",
+      "id": "15-22",
       "name": "圣宋重宝",
       "dynasty": "南宋钱币",
-      "dynastyIndex": 11,
+      "dynastyIndex": 15,
       "summary": {
         "name": "圣宋重宝",
         "historicalPeriod": "南宋（1208年）",
@@ -1710,10 +1710,10 @@
       }
     },
     {
-      "id": "11-23",
+      "id": "15-23",
       "name": "嘉定通宝",
       "dynasty": "南宋钱币",
-      "dynastyIndex": 11,
+      "dynastyIndex": 15,
       "summary": {
         "name": "嘉定通宝",
         "historicalPeriod": "南宋（1208年）",
@@ -1803,10 +1803,10 @@
       }
     },
     {
-      "id": "11-24",
+      "id": "15-24",
       "name": "嘉定元宝",
       "dynasty": "南宋钱币",
-      "dynastyIndex": 11,
+      "dynastyIndex": 15,
       "summary": {
         "name": "嘉定元宝",
         "historicalPeriod": "南宋（1208年）",
@@ -1882,10 +1882,10 @@
       }
     },
     {
-      "id": "11-25",
+      "id": "15-25",
       "name": "嘉定重宝",
       "dynasty": "南宋钱币",
-      "dynastyIndex": 11,
+      "dynastyIndex": 15,
       "summary": {
         "name": "嘉定重宝",
         "historicalPeriod": "南宋（1208年）",
@@ -1922,10 +1922,10 @@
       }
     },
     {
-      "id": "11-26",
+      "id": "15-26",
       "name": "嘉定崇宝",
       "dynasty": "南宋钱币",
-      "dynastyIndex": 11,
+      "dynastyIndex": 15,
       "summary": {
         "name": "嘉定崇宝",
         "historicalPeriod": "南宋（1208年）",
@@ -1969,10 +1969,10 @@
       }
     },
     {
-      "id": "11-27",
+      "id": "15-27",
       "name": "嘉定正宝",
       "dynasty": "南宋钱币",
-      "dynastyIndex": 11,
+      "dynastyIndex": 15,
       "summary": {
         "name": "嘉定正宝",
         "historicalPeriod": "南宋（1208年）",
@@ -2016,10 +2016,10 @@
       }
     },
     {
-      "id": "11-28",
+      "id": "15-28",
       "name": "嘉定全宝",
       "dynasty": "南宋钱币",
-      "dynastyIndex": 11,
+      "dynastyIndex": 15,
       "summary": {
         "name": "嘉定全宝",
         "historicalPeriod": "南宋（1208年）",
@@ -2056,10 +2056,10 @@
       }
     },
     {
-      "id": "11-29",
+      "id": "15-29",
       "name": "嘉定永宝",
       "dynasty": "南宋钱币",
-      "dynastyIndex": 11,
+      "dynastyIndex": 15,
       "summary": {
         "name": "嘉定永宝",
         "historicalPeriod": "南宋（1208年）",
@@ -2096,10 +2096,10 @@
       }
     },
     {
-      "id": "11-30",
+      "id": "15-30",
       "name": "嘉定安宝",
       "dynasty": "南宋钱币",
-      "dynastyIndex": 11,
+      "dynastyIndex": 15,
       "summary": {
         "name": "嘉定安宝",
         "historicalPeriod": "南宋（1208年）",
@@ -2136,10 +2136,10 @@
       }
     },
     {
-      "id": "11-31",
+      "id": "15-31",
       "name": "嘉定真宝",
       "dynasty": "南宋钱币",
-      "dynastyIndex": 11,
+      "dynastyIndex": 15,
       "summary": {
         "name": "嘉定真宝",
         "historicalPeriod": "南宋（1208年）",
@@ -2176,10 +2176,10 @@
       }
     },
     {
-      "id": "11-32",
+      "id": "15-32",
       "name": "嘉定之宝",
       "dynasty": "南宋钱币",
-      "dynastyIndex": 11,
+      "dynastyIndex": 15,
       "summary": {
         "name": "嘉定之宝",
         "historicalPeriod": "南宋（1208年）",
@@ -2216,10 +2216,10 @@
       }
     },
     {
-      "id": "11-33",
+      "id": "15-33",
       "name": "嘉定万宝",
       "dynasty": "南宋钱币",
-      "dynastyIndex": 11,
+      "dynastyIndex": 15,
       "summary": {
         "name": "嘉定万宝",
         "historicalPeriod": "南宋（1208年）",
@@ -2256,10 +2256,10 @@
       }
     },
     {
-      "id": "11-34",
+      "id": "15-34",
       "name": "嘉定隆宝",
       "dynasty": "南宋钱币",
-      "dynastyIndex": 11,
+      "dynastyIndex": 15,
       "summary": {
         "name": "嘉定隆宝",
         "historicalPeriod": "南宋（1208年）",
@@ -2296,10 +2296,10 @@
       }
     },
     {
-      "id": "11-35",
+      "id": "15-35",
       "name": "嘉定洪宝",
       "dynasty": "南宋钱币",
-      "dynastyIndex": 11,
+      "dynastyIndex": 15,
       "summary": {
         "name": "嘉定洪宝",
         "historicalPeriod": "南宋（1208年）",
@@ -2336,10 +2336,10 @@
       }
     },
     {
-      "id": "11-36",
+      "id": "15-36",
       "name": "嘉定新宝",
       "dynasty": "南宋钱币",
-      "dynastyIndex": 11,
+      "dynastyIndex": 15,
       "summary": {
         "name": "嘉定新宝",
         "historicalPeriod": "南宋（1208年）",
@@ -2376,10 +2376,10 @@
       }
     },
     {
-      "id": "11-37",
+      "id": "15-37",
       "name": "嘉定泉宝",
       "dynasty": "南宋钱币",
-      "dynastyIndex": 11,
+      "dynastyIndex": 15,
       "summary": {
         "name": "嘉定泉宝",
         "historicalPeriod": "南宋（1208年）",
@@ -2416,10 +2416,10 @@
       }
     },
     {
-      "id": "11-38",
+      "id": "15-38",
       "name": "嘉定大宝",
       "dynasty": "南宋钱币",
-      "dynastyIndex": 11,
+      "dynastyIndex": 15,
       "summary": {
         "name": "嘉定大宝",
         "historicalPeriod": "南宋（1208年）",
@@ -2456,10 +2456,10 @@
       }
     },
     {
-      "id": "11-39",
+      "id": "15-39",
       "name": "嘉定珍宝",
       "dynasty": "南宋钱币",
-      "dynastyIndex": 11,
+      "dynastyIndex": 15,
       "summary": {
         "name": "嘉定珍宝",
         "historicalPeriod": "南宋（1208年）",
@@ -2496,10 +2496,10 @@
       }
     },
     {
-      "id": "11-40",
+      "id": "15-40",
       "name": "嘉定至宝",
       "dynasty": "南宋钱币",
-      "dynastyIndex": 11,
+      "dynastyIndex": 15,
       "summary": {
         "name": "嘉定至宝",
         "historicalPeriod": "南宋（1208年）",
@@ -2536,10 +2536,10 @@
       }
     },
     {
-      "id": "11-41",
+      "id": "15-41",
       "name": "嘉定兴宝",
       "dynasty": "南宋钱币",
-      "dynastyIndex": 11,
+      "dynastyIndex": 15,
       "summary": {
         "name": "嘉定兴宝",
         "historicalPeriod": "南宋（1208年）",
@@ -2576,10 +2576,10 @@
       }
     },
     {
-      "id": "11-42",
+      "id": "15-42",
       "name": "嘉定封宝",
       "dynasty": "南宋钱币",
-      "dynastyIndex": 11,
+      "dynastyIndex": 15,
       "summary": {
         "name": "嘉定封宝",
         "historicalPeriod": "南宋（1208年）",
@@ -2616,10 +2616,10 @@
       }
     },
     {
-      "id": "11-43",
+      "id": "15-43",
       "name": "大宋通宝",
       "dynasty": "南宋钱币",
-      "dynastyIndex": 11,
+      "dynastyIndex": 15,
       "summary": {
         "name": "大宋通宝",
         "historicalPeriod": "南宋（1225年）",
@@ -2667,10 +2667,10 @@
       }
     },
     {
-      "id": "11-44",
+      "id": "15-44",
       "name": "大宋元宝",
       "dynasty": "南宋钱币",
-      "dynastyIndex": 11,
+      "dynastyIndex": 15,
       "summary": {
         "name": "大宋元宝",
         "historicalPeriod": "南宋（1225年）",
@@ -2739,10 +2739,10 @@
       }
     },
     {
-      "id": "11-45",
+      "id": "15-45",
       "name": "宝庆元宝",
       "dynasty": "南宋钱币",
-      "dynastyIndex": 11,
+      "dynastyIndex": 15,
       "summary": {
         "name": "宝庆元宝",
         "historicalPeriod": "南宋（1225年）",
@@ -2804,10 +2804,10 @@
       }
     },
     {
-      "id": "11-46",
+      "id": "15-46",
       "name": "绍定通宝",
       "dynasty": "南宋钱币",
-      "dynastyIndex": 11,
+      "dynastyIndex": 15,
       "summary": {
         "name": "绍定通宝",
         "historicalPeriod": "南宋（1228年）",
@@ -2888,10 +2888,10 @@
       }
     },
     {
-      "id": "11-47",
+      "id": "15-47",
       "name": "绍定元宝",
       "dynasty": "南宋钱币",
-      "dynastyIndex": 11,
+      "dynastyIndex": 15,
       "summary": {
         "name": "绍定元宝",
         "historicalPeriod": "南宋（1228年）",
@@ -2956,10 +2956,10 @@
       }
     },
     {
-      "id": "11-48",
+      "id": "15-48",
       "name": "端平通宝",
       "dynasty": "南宋钱币",
-      "dynastyIndex": 11,
+      "dynastyIndex": 15,
       "summary": {
         "name": "端平通宝",
         "historicalPeriod": "南宋（1234年）",
@@ -3068,10 +3068,10 @@
       }
     },
     {
-      "id": "11-49",
+      "id": "15-49",
       "name": "端平元宝",
       "dynasty": "南宋钱币",
-      "dynastyIndex": 11,
+      "dynastyIndex": 15,
       "summary": {
         "name": "端平元宝",
         "historicalPeriod": "南宋（1234年）",
@@ -3152,10 +3152,10 @@
       }
     },
     {
-      "id": "11-50",
+      "id": "15-50",
       "name": "端平重宝",
       "dynasty": "南宋钱币",
-      "dynastyIndex": 11,
+      "dynastyIndex": 15,
       "summary": {
         "name": "端平重宝",
         "historicalPeriod": "南宋（1234年）",
@@ -3192,10 +3192,10 @@
       }
     },
     {
-      "id": "11-51",
+      "id": "15-51",
       "name": "嘉熙通宝",
       "dynasty": "南宋钱币",
-      "dynastyIndex": 11,
+      "dynastyIndex": 15,
       "summary": {
         "name": "嘉熙通宝",
         "historicalPeriod": "南宋（1237年）",
@@ -3311,10 +3311,10 @@
       }
     },
     {
-      "id": "11-52",
+      "id": "15-52",
       "name": "嘉熙重宝",
       "dynasty": "南宋钱币",
-      "dynastyIndex": 11,
+      "dynastyIndex": 15,
       "summary": {
         "name": "嘉熙重宝",
         "historicalPeriod": "南宋（1237年）",
@@ -3367,10 +3367,10 @@
       }
     },
     {
-      "id": "11-53",
+      "id": "15-53",
       "name": "淳佑通宝",
       "dynasty": "南宋钱币",
-      "dynastyIndex": 11,
+      "dynastyIndex": 15,
       "summary": {
         "name": "淳佑通宝",
         "historicalPeriod": "南宋（1241年）",
@@ -3407,10 +3407,10 @@
       }
     },
     {
-      "id": "11-54",
+      "id": "15-54",
       "name": "淳祐元宝",
       "dynasty": "南宋钱币",
-      "dynastyIndex": 11,
+      "dynastyIndex": 15,
       "summary": {
         "name": "淳祐元宝",
         "historicalPeriod": "南宋（1241年）",
@@ -3484,10 +3484,10 @@
       }
     },
     {
-      "id": "11-55",
+      "id": "15-55",
       "name": "淳祐通宝",
       "dynasty": "南宋钱币",
-      "dynastyIndex": 11,
+      "dynastyIndex": 15,
       "summary": {
         "name": "淳祐通宝",
         "historicalPeriod": "南宋（1241年）",
@@ -3568,10 +3568,10 @@
       }
     },
     {
-      "id": "11-56",
+      "id": "15-56",
       "name": "皇宋元宝",
       "dynasty": "南宋钱币",
-      "dynastyIndex": 11,
+      "dynastyIndex": 15,
       "summary": {
         "name": "皇宋元宝",
         "historicalPeriod": "南宋（1253年）",
@@ -3645,10 +3645,10 @@
       }
     },
     {
-      "id": "11-57",
+      "id": "15-57",
       "name": "开庆通宝",
       "dynasty": "南宋钱币",
-      "dynastyIndex": 11,
+      "dynastyIndex": 15,
       "summary": {
         "name": "开庆通宝",
         "historicalPeriod": "南宋（1259年）",
@@ -3717,10 +3717,10 @@
       }
     },
     {
-      "id": "11-58",
+      "id": "15-58",
       "name": "景定元宝",
       "dynasty": "南宋钱币",
-      "dynastyIndex": 11,
+      "dynastyIndex": 15,
       "summary": {
         "name": "景定元宝",
         "historicalPeriod": "南宋（1260年）",
@@ -3794,10 +3794,10 @@
       }
     },
     {
-      "id": "11-59",
+      "id": "15-59",
       "name": "咸淳元宝",
       "dynasty": "南宋钱币",
-      "dynastyIndex": 11,
+      "dynastyIndex": 15,
       "summary": {
         "name": "咸淳元宝",
         "historicalPeriod": "南宋（1265年）",
@@ -3964,10 +3964,10 @@
       }
     },
     {
-      "id": "11-60",
+      "id": "15-60",
       "name": "临安府钱牌",
       "dynasty": "南宋钱币",
-      "dynastyIndex": 11,
+      "dynastyIndex": 15,
       "summary": {
         "name": "临安府钱牌",
         "historicalPeriod": "南宋（约1200年）",

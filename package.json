@@ -7,10 +7,9 @@
     "dev": "vite",
     "build": "tsc -b && vite build",
     "preview": "vite preview",
-    "parse-data": "node scripts/backup-coins.mjs && node scripts/sync-images.mjs && node scripts/build-md-from-json.mjs && node scripts/split-coins-data.mjs && node scripts/validate-data.mjs",
-    "build-md": "node scripts/build-md-from-json.mjs",
+    "parse-data": "node scripts/sync-images.mjs && node scripts/generate-public-data.mjs && node scripts/validate-data.mjs && node scripts/verify-consistency.mjs",
     "sync-images": "node scripts/sync-images.mjs",
-    "validate": "node scripts/validate-data.mjs",
+    "validate": "node scripts/validate-data.mjs && node scripts/verify-consistency.mjs",
     "convert-images": "node scripts/convert-images.mjs"
   },
   "dependencies": {

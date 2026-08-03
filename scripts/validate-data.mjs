@@ -2,22 +2,17 @@
  * validate-data.mjs
  * JSON-first 架构下的数据校验：
  *   1. 校验 data/dynasties/*.json 结构（必需字段 / 多余字段 / 类型）
- *   2. 反向 MD 防篡改：在内存中由 JSON 重新生成 MD，与 docs/target/ 下文件做字节比对
- *      —— 若不一致，说明 MD 被手工修改或未重新构建
- *   3. 校验 public/data/coins-summary.json 与 public/data/detail/*.json 结构
+ *   2. 校验 public/data/coins-summary.json 与 public/data/detail/*.json 结构
+ *      （public/data/ 由 data/dynasties/ 构建时生成，缺失时仅提示）
  */
 
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
-import { buildMDFromDynasty } from './build-md-from-json.mjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, '..');
 const DYNASTIES_DIR = path.join(ROOT, 'data', 'dynasties');
-const TARGET_DIR = path.join(ROOT, 'docs', 'target');
-
-const PREFIXES = 'abcdefghijklmnopqrstuvwxyz';
 
 const COIN_DETAIL_REQUIRED_KEYS = [
   'castingTime', 'material', 'dimensions', 'featuresGroup',
@@ -143,25 +138,6 @@ function validateDynastyJSON(data, label) {
   }
 }
 
-function validateReverseMD(jsonPath, data, expectedContent) {
-  const prefix = PREFIXES[data.dynastyIndex];
-  const mdName = `${prefix}-${data.dynasty}.md`;
-  const mdPath = path.join(TARGET_DIR, mdName);
-  if (!fs.existsSync(mdPath)) {
-    console.error(`❌ MD 缺失: docs/target/${mdName} — 请运行 pnpm run parse-data`);
-    errors++;
-    return;
-  }
-  const actual = fs.readFileSync(mdPath, 'utf-8');
-  if (actual !== expectedContent) {
-    console.error(
-      `❌ MD 与源 JSON 不同步: docs/target/${mdName}\n` +
-        `   → 可能被手工修改或未重新构建；请运行 pnpm run parse-data 重新生成`
-    );
-    errors++;
-  }
-}
-
 function main() {
   console.log('=== 数据校验开始（JSON-first）===\n');
 
@@ -176,13 +152,10 @@ function main() {
     .sort((a, b) => parseInt(a) - parseInt(b));
 
   console.log(`--- 校验 data/dynasties/*.json (${files.length} 个文件) ---\n`);
-  const allData = [];
   for (const f of files) {
     const jsonPath = path.join(DYNASTIES_DIR, f);
-    const { data, content } = buildMDFromDynasty(jsonPath);
+    const data = JSON.parse(fs.readFileSync(jsonPath, 'utf-8'));
     validateDynastyJSON(data, `dynasties/${f}`);
-    validateReverseMD(jsonPath, data, content);
-    allData.push(data);
   }
 
   console.log('\n--- 校验 public/data/coins-summary.json ---\n');
@@ -215,8 +188,7 @@ function main() {
       }
     }
   } else {
-    console.error('❌ coins-summary.json 不存在');
-    errors++;
+    console.warn('⚠️  public/data/coins-summary.json 未生成（运行 pnpm run parse-data 或 pnpm dev 后自动生成）');
   }
 
   console.log('\n--- 校验 public/data/detail/*.json ---\n');
@@ -256,8 +228,7 @@ function main() {
       }
     }
   } else {
-    console.error('❌ public/data/detail/ 不存在');
-    errors++;
+    console.warn('⚠️  public/data/detail/ 未生成（运行 pnpm run parse-data 或 pnpm dev 后自动生成）');
   }
 
   console.log('\n=== 校验结果 ===');

@@ -1,15 +1,15 @@
 # 中国古代钱币图鉴
 
-先秦至清代金属铸币的交互式图鉴，涵盖 26 个历史时期、443 种钱币，支持按朝代浏览、全文搜索和稀有度评级。
+先秦至清代金属铸币的交互式图鉴，涵盖 20 个历史时期、443 种钱币，支持按朝代浏览、全文搜索和稀有度评级。
 
 ## 功能
 
-- **朝代浏览** — 26 个朝代/时期分类，横向标签快速切换
+- **朝代浏览** — 20 个历史时期分类，横向标签快速切换
 - **全文搜索** — 客户端即时搜索，支持钱币名称、朝代、材质等多字段匹配
 - **钱币详情** — 展示钱币图片、文字描述、版别信息、铸造工艺、稀有度评级
 - **稀有度评级** — 基于马定祥十级评级体系（一级大珍 → 十级多泛）
 - **响应式布局** — 适配桌面端、平板、手机，移动端侧边栏抽屉式交互
-- **按需加载** — 摘要数据异步加载 + 详情按朝代懒加载 + 预获取
+- **按需加载** — 摘要数据异步加载 + 详情按朝代懒加载
 - **图片优化** — WebP 格式 + 独立缩略图 + `<picture>` 元素渐进加载
 - **代码拆分** — CoinDetail 组件 React.lazy 懒加载，首屏 JS 仅 ~18 KB
 
@@ -30,7 +30,7 @@ pnpm install
 # 启动开发服务器（端口 3601）
 pnpm dev
 
-# 解析数据（从 data/dynasties/*.json 重新生成 MD 与前端 JSON）
+# 数据重建（sync-images → 生成前端数据 → schema 校验 → 一致性校验）
 pnpm run parse-data
 
 # 转换图片（JPG → WebP + 生成缩略图，需安装 cwebp）
@@ -46,19 +46,15 @@ pnpm run preview
 ## 数据流水线（JSON-first）
 
 ```
-data/dynasties/{0..25}.json (26 个朝代 JSON，单一数据源)
-  ├─► scripts/backup-coins.mjs           备份现有 JSON 快照
-  ├─► scripts/sync-images.mjs            同步 public/coin-images → JSON
-  ├─► scripts/build-md-from-json.mjs     生成 docs/target/*.md（只读视图）
-  ├─► scripts/split-coins-data.mjs
-  │     ├─► public/data/coins-summary.json (~230 KB, 首屏)
-  │     ├─► public/data/coins-detail-*.json (按朝代分片)
-  │     └─► public/data/dynasties.json (索引)
-  └─► scripts/validate-data.mjs          校验 + 反向 MD 哈希比对
+data/dynasties/{0..19}.json (20 个朝代 JSON，单一数据源)
+  └─► Vite 插件（vite.config.ts）在 dev/build 时自动生成
+        ├─► public/data/coins-summary.json (~230 KB, 首屏)
+        └─► public/data/detail/{0..19}.json (按朝代懒加载)
 ```
 
-- 唯一数据源：`data/dynasties/{0..25}.json`。**禁止手工编辑** `docs/target/*.md`，它由程序生成、pre-commit 反向哈希校验。
-- 执行 `pnpm run parse-data` 触发完整重建（backup → sync-images → build-md → split → validate）。
+- 唯一数据源：`data/dynasties/{0..19}.json`。`public/data/` 为构建产物（已 gitignore），禁止提交与手工编辑。
+- 修改 JSON 后，dev 下热更新即时重新生成；或运行 `pnpm run parse-data` 手动全量重建。
+- `pnpm run validate` 全量校验（schema + 逻辑一致性）。
 
 ## 图片流水线
 
@@ -73,11 +69,10 @@ public/images/coins/**/*.jpg  →  scripts/convert-images.mjs  →  *.webp + thu
 ## 项目结构
 
 ```
-├── data/dynasties/      # 26 个朝代 JSON 数据源（唯一可编辑入口）
-├── docs/target/         # 由 JSON 生成的只读 Markdown 视图
+├── data/dynasties/      # 20 个朝代 JSON 数据源（唯一可编辑入口）
 ├── public/
 │   ├── images/coins/     # 钱币图片（JPG + WebP + 缩略图，按朝代分目录）
-│   └── data/
+│   └── data/             # 前端运行时数据（构建时自动生成，gitignore）
 │       ├── coins-summary.json  # 摘要数据（运行时 fetch）
 │       └── detail/             # 朝代详情 JSON
 ├── src/
@@ -97,7 +92,7 @@ public/images/coins/**/*.jpg  →  scripts/convert-images.mjs  →  *.webp + thu
 │   │   └── format.ts    # 文本格式化
 │   ├── types/index.ts   # TypeScript 类型定义
 │   └── styles/          # 共享样式变量与 mixin
-├── scripts/              # 数据解析、拆分、图片转换等脚本
+├── scripts/              # 数据生成、校验、图片转换等脚本
 └── deploy/               # 部署配置（Nginx）
 ```
 
@@ -105,19 +100,16 @@ public/images/coins/**/*.jpg  →  scripts/convert-images.mjs  →  *.webp + thu
 
 | 时期 | 数量 | 时期 | 数量 |
 |---|---|---|---|
-| 先秦 | 29 | 金 | 15 |
-| 秦 | 4 | 西夏 | 14 |
-| 汉 | 18 | 元 | 33 |
-| 新莽 | 22 | 明 | 13 |
-| 三国 | 12 | 南明 | 4 |
-| 两晋十六国 | 5 | 明末农民起义 | 4 |
-| 南朝 | 17 | 清 | 21 |
-| 北朝 | 9 | 三藩 | 4 |
-| 隋 | 2 | 太平天国 | 11 |
-| 唐 | 11 | 晚清起义 | 8 |
-| 五代十国 | 29 | 花钱/压胜钱 | 11 |
-| 北宋 | 54 | 外国钱币 | 4 |
-| 南宋 | 61 | | |
+| 先秦 | 29 | 北宋 | 54 |
+| 秦 | 4 | 南宋 | 61 |
+| 汉（含新莽22） | 40 | 辽朝 | 28 |
+| 三国 | 12 | 金朝 | 15 |
+| 两晋十六国 | 5 | 西夏 | 14 |
+| 南朝 | 17 | 元朝 | 33 |
+| 北朝 | 9 | 明朝（含明末4、南明4） | 21 |
+| 隋朝 | 2 | 清朝（含三藩4、太平天国11、晚清起义8） | 44 |
+| 唐朝 | 11 | 花钱/压胜钱 | 11 |
+| 五代十国 | 29 | 外国铸币 | 4 |
 
 ## 部署
 

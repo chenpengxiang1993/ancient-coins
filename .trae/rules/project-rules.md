@@ -5,33 +5,16 @@ scene: project
 
 # 工程开发规范
 
-## 文档合并与导出
-
-```bash
-# 合并 docs/target/ 下26个分朝代文件为 Markdown
-node scripts/merge-and-export.mjs
-# 输出：docs/中国历代金属钱币全集.md
-
-# 导出为 Word（需 pandoc）
-pandoc "docs/中国历代金属钱币全集.md" -o "docs/中国历代金属钱币全集.docx" --from markdown --to docx --standalone
-# 输出：docs/中国历代金属钱币全集.docx
-```
-
-合并后文档结构：1.历代钱币汇总表（每朝代独立小表）→ 2.历代钱币详细介绍（每朝代下按钱币名称展开）
-
 ## 数据同步
 
-修改 `docs/target/` 下文件后，**必须使用完整流程**，禁止跳过任何步骤：
+数据唯一来源：`data/dynasties/*.json`（禁止手工编辑 `public/data/`，其为构建产物）。
 
 ```bash
-# 推荐：一条命令完成所有步骤（解析 → 迁移 → 拆分 → 校验）
+# 手动全量重建（sync-images → 生成前端数据 → schema 校验 → 一致性校验）
 pnpm run parse-data
 
-# 等效手动执行（禁止省略任何步骤）：
-node scripts/parse-coins-data.mjs
-node scripts/migrate-variants.mjs
-node scripts/split-coins-data.mjs
-node scripts/validate-data.mjs
+# 仅校验（schema + 逻辑一致性）
+pnpm run validate
 
 # 转换图片为 WebP 格式 + 生成缩略图（需安装 cwebp）
 node scripts/convert-images.mjs
@@ -40,50 +23,17 @@ node scripts/convert-images.mjs
 pnpm run build
 ```
 
-数据流向（三步流水线，缺一不可）：
+数据流向：
 
 ```
-步骤一：docs/target/*.md → parse-coins-data.mjs → data/coins.json
-  输出字段：castingTime、material、dimensions、obverseFeatures、reverseFeatures、castingCraft、coreBackground、variants（版别体系文本）、valueReference、valueTable（价值参考表格）
-
-步骤二：data/coins.json → migrate-variants.mjs → data/coins.json（原地更新）
-  职责：将 variants 文本与 valueTable 表格智能匹配，生成 variantsTable（含 description 字段），删除 variants、valueReference、valueTable
-
-步骤三：data/coins.json → split-coins-data.mjs → public/data/coins-summary.json + public/data/detail/0.json—25.json
+data/dynasties/*.json → [Vite 插件 / generate-public-data.mjs] → public/data/
+                     → [validate-data + verify-consistency]    → 校验报告
 ```
 
-图片流水线：
+- `public/data/` 由 Vite 插件在 dev/build 时自动生成，已 gitignore，禁止提交。
+- 修改 JSON 后，dev 下热更新即时重新生成；CI 构建前自动执行 `pnpm run parse-data`。
 
-```
-public/images/coins/**/*.jpg → convert-images.mjs → *.webp（原图）+ thumb.webp（150×150 缩略图）
-```
-
-## 前后端字段对照表
-
-前端 `CoinDetail` 类型（`src/types/index.ts`）与最终 JSON 必须完全匹配：
-
-| 前端类型字段 | JSON 字段 | 说明 |
-| --- | --- | --- |
-| `castingTime` | `castingTime` | 铸造时间 |
-| `material` | `material` | 材质成分 |
-| `dimensions` | `dimensions` | 尺寸重量 |
-| `obverseFeatures` | `obverseFeatures` | 面特征 |
-| `reverseFeatures` | `reverseFeatures` | 背特征 |
-| `castingCraft` | `castingCraft` | 铸造工艺 |
-| `coreBackground` | `coreBackground` | 核心背景 |
-| `variantsTable` | `variantsTable` | 版别体系表格（含特征描述、品相等级、参考价格） |
-| `images` | `images` | 钱币图片 |
-
-`VariantTableRow` 字段：variant、description、grade、priceRange、notes（五个字段缺一不可）
-
-## 数据校验
-
-- 每次数据同步后自动执行 `validate-data.mjs`，校验所有443枚钱币的字段完整性
-- 也可手动执行：`pnpm run validate`
-- 校验失败（错误 > 0）时构建必须中止，修复后重新执行完整流程
-- **禁止跳过 `migrate-variants.mjs`**：该步骤负责为 `variantsTable.grade` 添加稀有度等级
-
-## 原子写入与数据安全规范
+## 原子写入规范
 
 所有脚本写入 JSON 文件时**必须使用原子写入**（先写临时文件再重命名），禁止直接 `writeFileSync` 覆盖目标文件：
 
@@ -97,51 +47,30 @@ fs.renameSync(tmp, filePath);
 fs.writeFileSync(filePath, JSON.stringify(data, null, 2), 'utf-8');
 ```
 
-适用范围：
-- `parse-coins-data.mjs` → `data/coins.json`
-- `migrate-variants.mjs` → `data/coins.json` 和 `public/data/detail/*.json`
-- `split-coins-data.mjs` → `public/data/coins-summary.json` 和 `public/data/detail/*.json`
+适用范围：`generate-public-data.mjs` → `public/data/coins-summary.json` 和 `public/data/detail/*.json`。
 
-## 数据同步前备份规范
+## 数据校验
 
-每次执行 `pnpm run parse-data` 前，**必须自动备份** `data/coins.json`：
-
-```bash
-cp data/coins.json "data/coins.json.bak.$(date +%Y%m%d%H%M%S)"
-```
-
-可在 `parse-data` 脚本中自动加入备份步骤，确保数据丢失时可回溯。
-
-## 版别体系数据完整性校验增强
-
-除字段完整性校验外，`validate-data.mjs` 还应检查以下内容：
-
-| 校验项 | 说明 |
-| --- | --- |
-| `variantsTable` 非空 | 每枚钱币必须有版别表（至少1行） |
-| `variant` 非空 | 每行版别名不能为空 |
-| `description` 非空 | 每行描述不能为空 |
-| `grade` 格式 | 必须以等级前缀开头，如"八级（较多）" |
-| `coins.json` 与 `detail/*.json` 一致 | variantsTable 内容必须完全匹配 |
-| 钱币数量 | 每个朝代钱币数量必须与预期一致 |
+- `validate-data.mjs`：校验 443 枚钱币的字段完整性（schema），失败时 exit 1。
+- `verify-consistency.mjs`：跨字段逻辑一致性报告（稀有度/价格/版别关联）。
+- 合并命令：`pnpm run validate`。
+- 校验失败（错误 > 0）时构建必须中止，修复后重新执行完整流程。
 
 ## 常见错误与禁忌
 
 | 错误行为 | 后果 | 正确做法 |
 | --- | --- | --- |
-| 手动执行 `parse → split` 跳过 `migrate` | `variantsTable.grade` 缺少稀有度等级前缀 | 使用 `pnpm run parse-data` 完整流程 |
-| md文件中「版别体系」模块仍使用旧格式（纯文本子项） | `parse` 无法正确解析5列表格 | 使用 `scripts/merge-variants-value.mjs` 转换为表格格式 |
-| 单独重跑 `migrate-variants.mjs` | `detail/*.json` 与 `coins.json` 可能不一致 | 使用完整 `pnpm run parse-data` 流程 |
+| 直接编辑 `public/data/*.json` | 下次 build 被覆盖 | 修改源 JSON，运行 `pnpm run parse-data` 或 dev 自动生成 |
+| 使用脚本批量修改数据 | 变更不可追溯、质量不可控 | 逐朝代逐钱币手动 Edit |
 | 直接 `writeFileSync` 覆盖 JSON | 崩溃时文件损坏，数据不可恢复 | 使用原子写入（先写 `.tmp` 再 `renameSync`） |
-| 修改 `docs/target/` 后不执行完整流程 | 前端数据与源文件不一致 | 严格执行 `pnpm run parse-data` 完整四步流水线 |
+| 跳过 `sync-images.mjs` | JSON 中 images 字段陈旧 | 始终 `pnpm run parse-data` 完整流水线 |
 
 ## 数据恢复流程
 
-当数据丢失或损坏时，按以下优先级恢复：
+数据丢失或损坏时，从 Git 历史恢复：
 
-1. **最近备份**：检查 `data/coins.json.bak.*` 文件，取最新一份
-2. **重新解析**：从 `docs/target/*.md` 源文件重新执行 `pnpm run parse-data`
-3. **Git 历史**：通过 `git checkout` 恢复特定文件到已知良好版本
+1. **Git 历史**：`git log` 找到已知良好提交，`git checkout <commit> -- data/dynasties/`
+2. **重新生成**：运行 `pnpm run parse-data` 重建 `public/data/`
 
 验证恢复结果：
 ```bash

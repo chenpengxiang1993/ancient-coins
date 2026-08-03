@@ -1,8 +1,10 @@
 import { useState, useCallback, useEffect, useMemo, lazy, Suspense } from 'react';
 import type { Coin } from './types';
 import DynastyTabs from './components/DynastyTabs';
+import type { DynastyTabItem } from './components/DynastyTabs';
 import CoinList from './components/CoinList';
 import SearchBar from './components/SearchBar';
+import { DYNASTY_TAB_LABELS } from './constants/dynastyTabs';
 import { useCoinDetail } from './hooks/useCoinDetail';
 import { useSummaryData } from './hooks/useSummaryData';
 import { warmupSearchIndex } from './utils/search';
@@ -21,23 +23,26 @@ export default function App() {
     [allData, activeDynastyIndex]
   );
 
+  // 标签列表（label + 该文件钱币总数）
+  const tabs = useMemo<DynastyTabItem[]>(() => {
+    if (!allData) return [];
+    return allData.map((dynasty, idx) => ({
+      label: DYNASTY_TAB_LABELS[idx] ?? dynasty.dynasty,
+      count: dynasty.coins.length,
+    }));
+  }, [allData]);
+
   useEffect(() => {
     if (allData && !selectedCoin) {
       setSelectedCoin(allData[0].coins[0]);
     }
   }, [allData, selectedCoin]);
 
-  const { detail, loading, error, retry, prefetchDynasty } = useCoinDetail(
+  const { detail, loading, error, retry } = useCoinDetail(
     selectedCoin?.dynastyIndex ?? 0,
     selectedCoin?.id ?? '',
     Boolean(selectedCoin)
   );
-
-  useEffect(() => {
-    if (selectedCoin) {
-      prefetchDynasty(selectedCoin.dynastyIndex);
-    }
-  }, [selectedCoin, prefetchDynasty]);
 
   useEffect(() => {
     if (allData) {
@@ -59,8 +64,7 @@ export default function App() {
 
   const handleSearchSelect = useCallback((dynastyIndex: number, coinId: string) => {
     setActiveDynastyIndex(dynastyIndex);
-    const dynasty = allData?.[dynastyIndex];
-    const coin = dynasty?.coins.find(c => c.id === coinId);
+    const coin = allData?.[dynastyIndex]?.coins.find(c => c.id === coinId);
     if (coin) {
       setSelectedCoin(coin);
     }
@@ -95,8 +99,8 @@ export default function App() {
       </header>
 
       <DynastyTabs
-        dynasties={allData}
-        activeDynastyIndex={activeDynastyIndex}
+        tabs={tabs}
+        activeIndex={activeDynastyIndex}
         onSelect={handleDynastySelect}
       />
 

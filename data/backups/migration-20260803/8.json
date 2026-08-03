@@ -1,12 +1,12 @@
 {
   "dynasty": "隋朝钱币",
-  "dynastyIndex": 7,
+  "dynastyIndex": 8,
   "coins": [
     {
-      "id": "7-0",
+      "id": "8-0",
       "name": "隋五铢",
       "dynasty": "隋朝钱币",
-      "dynastyIndex": 7,
+      "dynastyIndex": 8,
       "summary": {
         "name": "隋五铢",
         "historicalPeriod": "隋开皇元年（581年）",
@@ -71,10 +71,10 @@
       }
     },
     {
-      "id": "7-1",
+      "id": "8-1",
       "name": "白钱-隋末",
       "dynasty": "隋朝钱币",
-      "dynastyIndex": 7,
+      "dynastyIndex": 8,
       "summary": {
         "name": "白钱-隋末",
         "historicalPeriod": "隋末（约610年—618年）",

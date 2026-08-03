@@ -1,12 +1,12 @@
 {
   "dynasty": "北宋钱币",
-  "dynastyIndex": 10,
+  "dynastyIndex": 12,
   "coins": [
     {
-      "id": "10-0",
+      "id": "12-0",
       "name": "宋元通宝",
       "dynasty": "北宋钱币",
-      "dynastyIndex": 10,
+      "dynastyIndex": 12,
       "summary": {
         "name": "宋元通宝",
         "historicalPeriod": "北宋（960年）",
@@ -80,10 +80,10 @@
       }
     },
     {
-      "id": "10-1",
+      "id": "12-1",
       "name": "太平通宝",
       "dynasty": "北宋钱币",
-      "dynastyIndex": 10,
+      "dynastyIndex": 12,
       "summary": {
         "name": "太平通宝",
         "historicalPeriod": "北宋（976年）",
@@ -145,10 +145,10 @@
       }
     },
     {
-      "id": "10-2",
+      "id": "12-2",
       "name": "淳化元宝",
       "dynasty": "北宋钱币",
-      "dynastyIndex": 10,
+      "dynastyIndex": 12,
       "summary": {
         "name": "淳化元宝",
         "historicalPeriod": "北宋（990年）",
@@ -241,10 +241,10 @@
       }
     },
     {
-      "id": "10-3",
+      "id": "12-3",
       "name": "至道元宝",
       "dynasty": "北宋钱币",
-      "dynastyIndex": 10,
+      "dynastyIndex": 12,
       "summary": {
         "name": "至道元宝",
         "historicalPeriod": "北宋（995年）",
@@ -330,10 +330,10 @@
       }
     },
     {
-      "id": "10-4",
+      "id": "12-4",
       "name": "咸平元宝",
       "dynasty": "北宋钱币",
-      "dynastyIndex": 10,
+      "dynastyIndex": 12,
       "summary": {
         "name": "咸平元宝",
         "historicalPeriod": "北宋（998年）",
@@ -395,10 +395,10 @@
       }
     },
     {
-      "id": "10-5",
+      "id": "12-5",
       "name": "景德元宝",
       "dynasty": "北宋钱币",
-      "dynastyIndex": 10,
+      "dynastyIndex": 12,
       "summary": {
         "name": "景德元宝",
         "historicalPeriod": "北宋（1004年）",
@@ -460,10 +460,10 @@
       }
     },
     {
-      "id": "10-6",
+      "id": "12-6",
       "name": "祥符通宝",
       "dynasty": "北宋钱币",
-      "dynastyIndex": 10,
+      "dynastyIndex": 12,
       "summary": {
         "name": "祥符通宝",
         "historicalPeriod": "北宋（1008年）",
@@ -514,10 +514,10 @@
       }
     },
     {
-      "id": "10-7",
+      "id": "12-7",
       "name": "祥符元宝",
       "dynasty": "北宋钱币",
-      "dynastyIndex": 10,
+      "dynastyIndex": 12,
       "summary": {
         "name": "祥符元宝",
         "historicalPeriod": "北宋（1008年）",
@@ -579,10 +579,10 @@
       }
     },
     {
-      "id": "10-8",
+      "id": "12-8",
       "name": "天禧通宝",
       "dynasty": "北宋钱币",
-      "dynastyIndex": 10,
+      "dynastyIndex": 12,
       "summary": {
         "name": "天禧通宝",
         "historicalPeriod": "北宋（1017年）",
@@ -644,10 +644,10 @@
       }
     },
     {
-      "id": "10-9",
+      "id": "12-9",
       "name": "天圣元宝",
       "dynasty": "北宋钱币",
-      "dynastyIndex": 10,
+      "dynastyIndex": 12,
       "summary": {
         "name": "天圣元宝",
         "historicalPeriod": "北宋（1023年）",
@@ -702,10 +702,10 @@
       }
     },
     {
-      "id": "10-10",
+      "id": "12-10",
       "name": "明道元宝",
       "dynasty": "北宋钱币",
-      "dynastyIndex": 10,
+      "dynastyIndex": 12,
       "summary": {
         "name": "明道元宝",
         "historicalPeriod": "北宋（1032年）",
@@ -760,10 +760,10 @@
       }
     },
     {
-      "id": "10-11",
+      "id": "12-11",
       "name": "景祐元宝",
       "dynasty": "北宋钱币",
-      "dynastyIndex": 10,
+      "dynastyIndex": 12,
       "summary": {
         "name": "景祐元宝",
         "historicalPeriod": "北宋（1034年）",
@@ -823,10 +823,10 @@
       }
     },
     {
-      "id": "10-12",
+      "id": "12-12",
       "name": "皇宋通宝",
       "dynasty": "北宋钱币",
-      "dynastyIndex": 10,
+      "dynastyIndex": 12,
       "summary": {
         "name": "皇宋通宝",
         "historicalPeriod": "北宋（1039年）",
@@ -884,10 +884,10 @@
       }
     },
     {
-      "id": "10-13",
+      "id": "12-13",
       "name": "康定元宝",
       "dynasty": "北宋钱币",
-      "dynastyIndex": 10,
+      "dynastyIndex": 12,
       "summary": {
         "name": "康定元宝",
         "historicalPeriod": "北宋（1040年）",
@@ -931,10 +931,10 @@
       }
     },
     {
-      "id": "10-14",
+      "id": "12-14",
       "name": "庆历重宝",
       "dynasty": "北宋钱币",
-      "dynastyIndex": 10,
+      "dynastyIndex": 12,
       "summary": {
         "name": "庆历重宝",
         "historicalPeriod": "北宋（1041年）",
@@ -1003,10 +1003,10 @@
       }
     },
     {
-      "id": "10-15",
+      "id": "12-15",
       "name": "至和元宝",
       "dynasty": "北宋钱币",
-      "dynastyIndex": 10,
+      "dynastyIndex": 12,
       "summary": {
         "name": "至和元宝",
         "historicalPeriod": "北宋（1054年）",
@@ -1061,10 +1061,10 @@
       }
     },
     {
-      "id": "10-16",
+      "id": "12-16",
       "name": "至和通宝",
       "dynasty": "北宋钱币",
-      "dynastyIndex": 10,
+      "dynastyIndex": 12,
       "summary": {
         "name": "至和通宝",
         "historicalPeriod": "北宋（1054年）",
@@ -1108,10 +1108,10 @@
       }
     },
     {
-      "id": "10-17",
+      "id": "12-17",
       "name": "至和重宝",
       "dynasty": "北宋钱币",
-      "dynastyIndex": 10,
+      "dynastyIndex": 12,
       "summary": {
         "name": "至和重宝",
         "historicalPeriod": "北宋（1054年）",
@@ -1178,10 +1178,10 @@
       }
     },
     {
-      "id": "10-18",
+      "id": "12-18",
       "name": "嘉祐元宝",
       "dynasty": "北宋钱币",
-      "dynastyIndex": 10,
+      "dynastyIndex": 12,
       "summary": {
         "name": "嘉祐元宝",
         "historicalPeriod": "北宋（1056年）",
@@ -1236,10 +1236,10 @@
       }
     },
     {
-      "id": "10-19",
+      "id": "12-19",
       "name": "嘉祐通宝",
       "dynasty": "北宋钱币",
-      "dynastyIndex": 10,
+      "dynastyIndex": 12,
       "summary": {
         "name": "嘉祐通宝",
         "historicalPeriod": "北宋（1056年）",
@@ -1294,10 +1294,10 @@
       }
     },
     {
-      "id": "10-20",
+      "id": "12-20",
       "name": "嘉祐重宝",
       "dynasty": "北宋钱币",
-      "dynastyIndex": 10,
+      "dynastyIndex": 12,
       "summary": {
         "name": "嘉祐重宝",
         "historicalPeriod": "北宋（1056年）",
@@ -1334,10 +1334,10 @@
       }
     },
     {
-      "id": "10-21",
+      "id": "12-21",
       "name": "治平元宝",
       "dynasty": "北宋钱币",
-      "dynastyIndex": 10,
+      "dynastyIndex": 12,
       "summary": {
         "name": "治平元宝",
         "historicalPeriod": "北宋（1064年）",
@@ -1397,10 +1397,10 @@
       }
     },
     {
-      "id": "10-22",
+      "id": "12-22",
       "name": "治平通宝",
       "dynasty": "北宋钱币",
-      "dynastyIndex": 10,
+      "dynastyIndex": 12,
       "summary": {
         "name": "治平通宝",
         "historicalPeriod": "北宋（1064年）",
@@ -1460,10 +1460,10 @@
       }
     },
     {
-      "id": "10-23",
+      "id": "12-23",
       "name": "熙宁元宝",
       "dynasty": "北宋钱币",
-      "dynastyIndex": 10,
+      "dynastyIndex": 12,
       "summary": {
         "name": "熙宁元宝",
         "historicalPeriod": "北宋（1068年）",
@@ -1532,10 +1532,10 @@
       }
     },
     {
-      "id": "10-24",
+      "id": "12-24",
       "name": "熙宁通宝",
       "dynasty": "北宋钱币",
-      "dynastyIndex": 10,
+      "dynastyIndex": 12,
       "summary": {
         "name": "熙宁通宝",
         "historicalPeriod": "北宋（1068年）",
@@ -1595,10 +1595,10 @@
       }
     },
     {
-      "id": "10-25",
+      "id": "12-25",
       "name": "熙宁重宝",
       "dynasty": "北宋钱币",
-      "dynastyIndex": 10,
+      "dynastyIndex": 12,
       "summary": {
         "name": "熙宁重宝",
         "historicalPeriod": "北宋（1068年）",
@@ -1665,10 +1665,10 @@
       }
     },
     {
-      "id": "10-26",
+      "id": "12-26",
       "name": "元丰通宝",
       "dynasty": "北宋钱币",
-      "dynastyIndex": 10,
+      "dynastyIndex": 12,
       "summary": {
         "name": "元丰通宝",
         "historicalPeriod": "北宋（1078年）",
@@ -1765,10 +1765,10 @@
       }
     },
     {
-      "id": "10-27",
+      "id": "12-27",
       "name": "元丰重宝",
       "dynasty": "北宋钱币",
-      "dynastyIndex": 10,
+      "dynastyIndex": 12,
       "summary": {
         "name": "元丰重宝",
         "historicalPeriod": "北宋（1078年）",
@@ -1805,10 +1805,10 @@
       }
     },
     {
-      "id": "10-28",
+      "id": "12-28",
       "name": "元祐通宝",
       "dynasty": "北宋钱币",
-      "dynastyIndex": 10,
+      "dynastyIndex": 12,
       "summary": {
         "name": "元祐通宝",
         "historicalPeriod": "北宋（1086年）",
@@ -1882,10 +1882,10 @@
       }
     },
     {
-      "id": "10-29",
+      "id": "12-29",
       "name": "绍圣元宝",
       "dynasty": "北宋钱币",
-      "dynastyIndex": 10,
+      "dynastyIndex": 12,
       "summary": {
         "name": "绍圣元宝",
         "historicalPeriod": "北宋（1094年）",
@@ -1961,10 +1961,10 @@
       }
     },
     {
-      "id": "10-30",
+      "id": "12-30",
       "name": "绍圣通宝",
       "dynasty": "北宋钱币",
-      "dynastyIndex": 10,
+      "dynastyIndex": 12,
       "summary": {
         "name": "绍圣通宝",
         "historicalPeriod": "北宋（1094年）",
@@ -2001,10 +2001,10 @@
       }
     },
     {
-      "id": "10-31",
+      "id": "12-31",
       "name": "绍圣重宝",
       "dynasty": "北宋钱币",
-      "dynastyIndex": 10,
+      "dynastyIndex": 12,
       "summary": {
         "name": "绍圣重宝",
         "historicalPeriod": "北宋（1094年）",
@@ -2041,10 +2041,10 @@
       }
     },
     {
-      "id": "10-32",
+      "id": "12-32",
       "name": "元符通宝",
       "dynasty": "北宋钱币",
-      "dynastyIndex": 10,
+      "dynastyIndex": 12,
       "summary": {
         "name": "元符通宝",
         "historicalPeriod": "北宋（1098年）",
@@ -2125,10 +2125,10 @@
       }
     },
     {
-      "id": "10-33",
+      "id": "12-33",
       "name": "元符重宝",
       "dynasty": "北宋钱币",
-      "dynastyIndex": 10,
+      "dynastyIndex": 12,
       "summary": {
         "name": "元符重宝",
         "historicalPeriod": "北宋（1098年）",
@@ -2176,10 +2176,10 @@
       }
     },
     {
-      "id": "10-34",
+      "id": "12-34",
       "name": "圣宋元宝",
       "dynasty": "北宋钱币",
-      "dynastyIndex": 10,
+      "dynastyIndex": 12,
       "summary": {
         "name": "圣宋元宝",
         "historicalPeriod": "北宋（1101年）",
@@ -2262,10 +2262,10 @@
       }
     },
     {
-      "id": "10-35",
+      "id": "12-35",
       "name": "圣宋通宝",
       "dynasty": "北宋钱币",
-      "dynastyIndex": 10,
+      "dynastyIndex": 12,
       "summary": {
         "name": "圣宋通宝",
         "historicalPeriod": "北宋（1101年）",
@@ -2313,10 +2313,10 @@
       }
     },
     {
-      "id": "10-36",
+      "id": "12-36",
       "name": "建国通宝",
       "dynasty": "北宋钱币",
-      "dynastyIndex": 10,
+      "dynastyIndex": 12,
       "summary": {
         "name": "建国通宝",
         "historicalPeriod": "北宋（1101年）",
@@ -2353,10 +2353,10 @@
       }
     },
     {
-      "id": "10-37",
+      "id": "12-37",
       "name": "崇宁通宝",
       "dynasty": "北宋钱币",
-      "dynastyIndex": 10,
+      "dynastyIndex": 12,
       "summary": {
         "name": "崇宁通宝",
         "historicalPeriod": "北宋（1102年）",
@@ -2458,10 +2458,10 @@
       }
     },
     {
-      "id": "10-38",
+      "id": "12-38",
       "name": "崇宁元宝",
       "dynasty": "北宋钱币",
-      "dynastyIndex": 10,
+      "dynastyIndex": 12,
       "summary": {
         "name": "崇宁元宝",
         "historicalPeriod": "北宋（1102年）",
@@ -2509,10 +2509,10 @@
       }
     },
     {
-      "id": "10-39",
+      "id": "12-39",
       "name": "崇宁重宝",
       "dynasty": "北宋钱币",
-      "dynastyIndex": 10,
+      "dynastyIndex": 12,
       "summary": {
         "name": "崇宁重宝",
         "historicalPeriod": "北宋（1102年）",
@@ -2565,10 +2565,10 @@
       }
     },
     {
-      "id": "10-40",
+      "id": "12-40",
       "name": "大观通宝",
       "dynasty": "北宋钱币",
-      "dynastyIndex": 10,
+      "dynastyIndex": 12,
       "summary": {
         "name": "大观通宝",
         "historicalPeriod": "北宋（1107年）",
@@ -2677,10 +2677,10 @@
       }
     },
     {
-      "id": "10-41",
+      "id": "12-41",
       "name": "政和通宝",
       "dynasty": "北宋钱币",
-      "dynastyIndex": 10,
+      "dynastyIndex": 12,
       "summary": {
         "name": "政和通宝",
         "historicalPeriod": "北宋（1111年）",
@@ -2749,10 +2749,10 @@
       }
     },
     {
-      "id": "10-42",
+      "id": "12-42",
       "name": "政和重宝",
       "dynasty": "北宋钱币",
-      "dynastyIndex": 10,
+      "dynastyIndex": 12,
       "summary": {
         "name": "政和重宝",
         "historicalPeriod": "北宋（1111年）",
@@ -2789,10 +2789,10 @@
       }
     },
     {
-      "id": "10-43",
+      "id": "12-43",
       "name": "重和通宝",
       "dynasty": "北宋钱币",
-      "dynastyIndex": 10,
+      "dynastyIndex": 12,
       "summary": {
         "name": "重和通宝",
         "historicalPeriod": "北宋（1118年）",
@@ -2854,10 +2854,10 @@
       }
     },
     {
-      "id": "10-44",
+      "id": "12-44",
       "name": "宣和通宝",
       "dynasty": "北宋钱币",
-      "dynastyIndex": 10,
+      "dynastyIndex": 12,
       "summary": {
         "name": "宣和通宝",
         "historicalPeriod": "北宋（1119年）",
@@ -2933,10 +2933,10 @@
       }
     },
     {
-      "id": "10-45",
+      "id": "12-45",
       "name": "宣和元宝",
       "dynasty": "北宋钱币",
-      "dynastyIndex": 10,
+      "dynastyIndex": 12,
       "summary": {
         "name": "宣和元宝",
         "historicalPeriod": "北宋（1119年）",
@@ -2998,10 +2998,10 @@
       }
     },
     {
-      "id": "10-46",
+      "id": "12-46",
       "name": "靖康通宝",
       "dynasty": "北宋钱币",
-      "dynastyIndex": 10,
+      "dynastyIndex": 12,
       "summary": {
         "name": "靖康通宝",
         "historicalPeriod": "北宋（1126年）",
@@ -3085,10 +3085,10 @@
       }
     },
     {
-      "id": "10-47",
+      "id": "12-47",
       "name": "靖康元宝",
       "dynasty": "北宋钱币",
-      "dynastyIndex": 10,
+      "dynastyIndex": 12,
       "summary": {
         "name": "靖康元宝",
         "historicalPeriod": "北宋（1126年）",
@@ -3136,10 +3136,10 @@
       }
     },
     {
-      "id": "10-48",
+      "id": "12-48",
       "name": "皇祐元宝",
       "dynasty": "北宋钱币",
-      "dynastyIndex": 10,
+      "dynastyIndex": 12,
       "summary": {
         "name": "皇祐元宝",
         "historicalPeriod": "北宋（1049年）",
@@ -3176,10 +3176,10 @@
       }
     },
     {
-      "id": "10-49",
+      "id": "12-49",
       "name": "庆历直十",
       "dynasty": "北宋钱币",
-      "dynastyIndex": 10,
+      "dynastyIndex": 12,
       "summary": {
         "name": "庆历直十",
         "historicalPeriod": "北宋（1041年）",
@@ -3216,10 +3216,10 @@
       }
     },
     {
-      "id": "10-50",
+      "id": "12-50",
       "name": "应运元宝",
       "dynasty": "北宋钱币",
-      "dynastyIndex": 10,
+      "dynastyIndex": 12,
       "summary": {
         "name": "应运元宝",
         "historicalPeriod": "北宋（994年）",
@@ -3267,10 +3267,10 @@
       }
     },
     {
-      "id": "10-51",
+      "id": "12-51",
       "name": "应运钱",
       "dynasty": "北宋钱币",
-      "dynastyIndex": 10,
+      "dynastyIndex": 12,
       "summary": {
         "name": "应运钱",
         "historicalPeriod": "北宋（994年）",
@@ -3314,10 +3314,10 @@
       }
     },
     {
-      "id": "10-52",
+      "id": "12-52",
       "name": "应感通宝",
       "dynasty": "北宋钱币",
-      "dynastyIndex": 10,
+      "dynastyIndex": 12,
       "summary": {
         "name": "应感通宝",
         "historicalPeriod": "北宋（994年）",
@@ -3365,10 +3365,10 @@
       }
     },
     {
-      "id": "10-53",
+      "id": "12-53",
       "name": "应感钱",
       "dynasty": "北宋钱币",
-      "dynastyIndex": 10,
+      "dynastyIndex": 12,
       "summary": {
         "name": "应感钱",
         "historicalPeriod": "北宋（994年）",

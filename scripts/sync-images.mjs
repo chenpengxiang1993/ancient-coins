@@ -18,7 +18,20 @@ const ROOT = path.resolve(__dirname, '..');
 const DYNASTIES_DIR = path.join(ROOT, 'data', 'dynasties');
 const IMAGES_DIR = path.join(ROOT, 'public', 'images', 'coins');
 
-const PREFIXES = 'abcdefghijklmnopqrstuvwxyz';
+// 图片目录前缀按「子朝代名称」映射（合并文件内各子朝代币指向各自图片目录）
+const DYNASTY_PREFIX_MAP = {
+  '先秦钱币': 'a', '秦钱币': 'b', '汉代钱币': 'c', '新莽钱币': 'd',
+  '三国钱币': 'e', '两晋十六国钱币': 'f', '南朝钱币': 'g', '北朝钱币': 'h',
+  '隋朝钱币': 'i', '唐朝钱币': 'j', '五代十国钱币': 'k', '辽朝钱币': 'l',
+  '北宋钱币': 'm', '西夏钱币': 'n', '金朝钱币': 'o', '南宋钱币': 'p',
+  '元朝钱币': 'q', '明朝钱币': 'r', '明末农民起义钱币': 's', '南明钱币': 't',
+  '清朝钱币': 'u', '三藩钱币': 'v', '太平天国钱币': 'w', '晚清起义钱币': 'x',
+  '花钱_压胜钱': 'y', '外国钱币': 'z',
+};
+
+function getDynastyPrefix(dynasty) {
+  return DYNASTY_PREFIX_MAP[dynasty] || '';
+}
 
 function sanitizeFileName(name) {
   return name.replace(/[\/\\:*?"<>|]/g, '-').replace(/\s+/g, '');
@@ -70,19 +83,21 @@ function main() {
   let updatedCoins = 0;
   let totalCoins = 0;
 
-  for (let i = 0; i < 26; i++) {
-    const filePath = path.join(DYNASTIES_DIR, `${i}.json`);
-    if (!fs.existsSync(filePath)) continue;
+  const files = fs
+    .readdirSync(DYNASTIES_DIR)
+    .filter((f) => /^\d+\.json$/.test(f))
+    .sort((a, b) => parseInt(a) - parseInt(b));
 
+  for (const f of files) {
+    const filePath = path.join(DYNASTIES_DIR, f);
     const data = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
-    const prefix = PREFIXES[data.dynastyIndex];
 
     for (const coin of data.coins) {
       totalCoins++;
       if (!coin.detail) continue;
       const images = scanCoinImages(
-        prefix,
-        data.dynasty,
+        getDynastyPrefix(coin.dynasty),
+        coin.dynasty,
         coin.name,
         coin.detail.variantsTable
       );
@@ -97,7 +112,7 @@ function main() {
     }
 
     atomicWriteJSON(filePath, data);
-    console.log(`✓ [${String(i).padStart(2, '0')}] ${data.dynasty} (${data.coins.length} 枚)`);
+    console.log(`✓ [${parseInt(f, 10).toString().padStart(2, '0')}] ${data.dynasty} (${data.coins.length} 枚)`);
   }
 
   console.log(`\n✅ 完成：扫描 ${totalCoins} 枚钱币，更新 ${updatedCoins} 枚的图片字段`);

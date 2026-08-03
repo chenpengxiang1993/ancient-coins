@@ -1,12 +1,12 @@
 {
   "dynasty": "唐朝钱币",
-  "dynastyIndex": 8,
+  "dynastyIndex": 9,
   "coins": [
     {
-      "id": "8-0",
+      "id": "9-0",
       "name": "开元通宝",
       "dynasty": "唐朝钱币",
-      "dynastyIndex": 8,
+      "dynastyIndex": 9,
       "summary": {
         "name": "开元通宝",
         "historicalPeriod": "唐高祖武德四年（公元621年）始铸，贯穿整个唐代",
@@ -124,10 +124,10 @@
       }
     },
     {
-      "id": "8-1",
+      "id": "9-1",
       "name": "乾封泉宝",
       "dynasty": "唐朝钱币",
-      "dynastyIndex": 8,
+      "dynastyIndex": 9,
       "summary": {
         "name": "乾封泉宝",
         "historicalPeriod": "唐高宗乾封元年（公元666年）",
@@ -222,10 +222,10 @@
       }
     },
     {
-      "id": "8-2",
+      "id": "9-2",
       "name": "乾元重宝",
       "dynasty": "唐朝钱币",
-      "dynastyIndex": 8,
+      "dynastyIndex": 9,
       "summary": {
         "name": "乾元重宝",
         "historicalPeriod": "唐肃宗乾元元年（公元758年）",
@@ -364,10 +364,10 @@
       }
     },
     {
-      "id": "8-3",
+      "id": "9-3",
       "name": "重轮乾元重宝",
       "dynasty": "唐朝钱币",
-      "dynastyIndex": 8,
+      "dynastyIndex": 9,
       "summary": {
         "name": "重轮乾元重宝",
         "historicalPeriod": "唐肃宗乾元二年（公元759年）",
@@ -453,10 +453,10 @@
       }
     },
     {
-      "id": "8-4",
+      "id": "9-4",
       "name": "大历元宝",
       "dynasty": "唐朝钱币",
-      "dynastyIndex": 8,
+      "dynastyIndex": 9,
       "summary": {
         "name": "大历元宝",
         "historicalPeriod": "唐代宗大历年间（公元766—779年）",
@@ -553,10 +553,10 @@
       }
     },
     {
-      "id": "8-5",
+      "id": "9-5",
       "name": "建中通宝",
       "dynasty": "唐朝钱币",
-      "dynastyIndex": 8,
+      "dynastyIndex": 9,
       "summary": {
         "name": "建中通宝",
         "historicalPeriod": "唐德宗建中年间（公元780—783年）",
@@ -646,10 +646,10 @@
       }
     },
     {
-      "id": "8-6",
+      "id": "9-6",
       "name": "会昌开元",
       "dynasty": "唐朝钱币",
-      "dynastyIndex": 8,
+      "dynastyIndex": 9,
       "summary": {
         "name": "会昌开元",
         "historicalPeriod": "唐武宗会昌五年（公元845年）",
@@ -735,10 +735,10 @@
       }
     },
     {
-      "id": "8-7",
+      "id": "9-7",
       "name": "咸通玄宝",
       "dynasty": "唐朝钱币",
-      "dynastyIndex": 8,
+      "dynastyIndex": 9,
       "summary": {
         "name": "咸通玄宝",
         "historicalPeriod": "唐懿宗咸通十一年（公元870年）",
@@ -826,10 +826,10 @@
       }
     },
     {
-      "id": "8-8",
+      "id": "9-8",
       "name": "得壹元宝-史思明",
       "dynasty": "唐朝钱币",
-      "dynastyIndex": 8,
+      "dynastyIndex": 9,
       "summary": {
         "name": "得壹元宝-史思明",
         "historicalPeriod": "唐肃宗至德二年（公元757年）",
@@ -922,10 +922,10 @@
       }
     },
     {
-      "id": "8-9",
+      "id": "9-9",
       "name": "顺天元宝-史思明",
       "dynasty": "唐朝钱币",
-      "dynastyIndex": 8,
+      "dynastyIndex": 9,
       "summary": {
         "name": "顺天元宝-史思明",
         "historicalPeriod": "唐肃宗乾元二年（公元759年）",
@@ -1032,10 +1032,10 @@
       }
     },
     {
-      "id": "8-10",
+      "id": "9-10",
       "name": "西域铸币",
       "dynasty": "唐朝钱币",
-      "dynastyIndex": 8,
+      "dynastyIndex": 9,
       "summary": {
         "name": "西域铸币",
         "historicalPeriod": "唐代（公元7世纪—9世纪）",

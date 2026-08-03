@@ -1,12 +1,12 @@
 {
   "dynasty": "两晋十六国钱币",
-  "dynastyIndex": 4,
+  "dynastyIndex": 5,
   "coins": [
     {
-      "id": "4-0",
+      "id": "5-0",
       "name": "沈郎五铢",
       "dynasty": "两晋十六国钱币",
-      "dynastyIndex": 4,
+      "dynastyIndex": 5,
       "summary": {
         "name": "沈郎五铢",
         "historicalPeriod": "东晋（约317年—420年）",
@@ -50,10 +50,10 @@
       }
     },
     {
-      "id": "4-1",
+      "id": "5-1",
       "name": "凉造新泉",
       "dynasty": "两晋十六国钱币",
-      "dynastyIndex": 4,
+      "dynastyIndex": 5,
       "summary": {
         "name": "凉造新泉",
         "historicalPeriod": "前凉（约317年—376年）",
@@ -113,10 +113,10 @@
       }
     },
     {
-      "id": "4-2",
+      "id": "5-2",
       "name": "汉兴钱",
       "dynasty": "两晋十六国钱币",
-      "dynastyIndex": 4,
+      "dynastyIndex": 5,
       "summary": {
         "name": "汉兴钱",
         "historicalPeriod": "成汉（338年—343年）",
@@ -171,10 +171,10 @@
       }
     },
     {
-      "id": "4-3",
+      "id": "5-3",
       "name": "丰货钱",
       "dynasty": "两晋十六国钱币",
-      "dynastyIndex": 4,
+      "dynastyIndex": 5,
       "summary": {
         "name": "丰货钱",
         "historicalPeriod": "后赵（319年—351年）",
@@ -234,10 +234,10 @@
       }
     },
     {
-      "id": "4-4",
+      "id": "5-4",
       "name": "太夏真兴",
       "dynasty": "两晋十六国钱币",
-      "dynastyIndex": 4,
+      "dynastyIndex": 5,
       "summary": {
         "name": "太夏真兴",
         "historicalPeriod": "夏国（419年—425年）",

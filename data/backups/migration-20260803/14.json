@@ -1,12 +1,12 @@
 {
   "dynasty": "金朝钱币",
-  "dynastyIndex": 13,
+  "dynastyIndex": 14,
   "coins": [
     {
-      "id": "13-0",
+      "id": "14-0",
       "name": "天辅元宝",
       "dynasty": "金朝钱币",
-      "dynastyIndex": 13,
+      "dynastyIndex": 14,
       "summary": {
         "name": "天辅元宝",
         "historicalPeriod": "金（1117年）",
@@ -50,10 +50,10 @@
       }
     },
     {
-      "id": "13-1",
+      "id": "14-1",
       "name": "天眷通宝",
       "dynasty": "金朝钱币",
-      "dynastyIndex": 13,
+      "dynastyIndex": 14,
       "summary": {
         "name": "天眷通宝",
         "historicalPeriod": "金（1138年）",
@@ -97,10 +97,10 @@
       }
     },
     {
-      "id": "13-2",
+      "id": "14-2",
       "name": "天眷元宝",
       "dynasty": "金朝钱币",
-      "dynastyIndex": 13,
+      "dynastyIndex": 14,
       "summary": {
         "name": "天眷元宝",
         "historicalPeriod": "金（1138年）",
@@ -144,10 +144,10 @@
       }
     },
     {
-      "id": "13-3",
+      "id": "14-3",
       "name": "天眷重宝",
       "dynasty": "金朝钱币",
-      "dynastyIndex": 13,
+      "dynastyIndex": 14,
       "summary": {
         "name": "天眷重宝",
         "historicalPeriod": "金（1138年）",
@@ -191,10 +191,10 @@
       }
     },
     {
-      "id": "13-4",
+      "id": "14-4",
       "name": "皇统元宝",
       "dynasty": "金朝钱币",
-      "dynastyIndex": 13,
+      "dynastyIndex": 14,
       "summary": {
         "name": "皇统元宝",
         "historicalPeriod": "金（1141年）",
@@ -249,10 +249,10 @@
       }
     },
     {
-      "id": "13-5",
+      "id": "14-5",
       "name": "皇统通宝",
       "dynasty": "金朝钱币",
-      "dynastyIndex": 13,
+      "dynastyIndex": 14,
       "summary": {
         "name": "皇统通宝",
         "historicalPeriod": "金（1141年）",
@@ -296,10 +296,10 @@
       }
     },
     {
-      "id": "13-6",
+      "id": "14-6",
       "name": "正隆元宝",
       "dynasty": "金朝钱币",
-      "dynastyIndex": 13,
+      "dynastyIndex": 14,
       "summary": {
         "name": "正隆元宝",
         "historicalPeriod": "金（1156年）",
@@ -361,10 +361,10 @@
       }
     },
     {
-      "id": "13-7",
+      "id": "14-7",
       "name": "大定通宝",
       "dynasty": "金朝钱币",
-      "dynastyIndex": 13,
+      "dynastyIndex": 14,
       "summary": {
         "name": "大定通宝",
         "historicalPeriod": "金（1161年）",
@@ -454,10 +454,10 @@
       }
     },
     {
-      "id": "13-8",
+      "id": "14-8",
       "name": "泰和通宝",
       "dynasty": "金朝钱币",
-      "dynastyIndex": 13,
+      "dynastyIndex": 14,
       "summary": {
         "name": "泰和通宝",
         "historicalPeriod": "金（1201年）",
@@ -531,10 +531,10 @@
       }
     },
     {
-      "id": "13-9",
+      "id": "14-9",
       "name": "泰和重宝",
       "dynasty": "金朝钱币",
-      "dynastyIndex": 13,
+      "dynastyIndex": 14,
       "summary": {
         "name": "泰和重宝",
         "historicalPeriod": "金（1204年）",
@@ -589,10 +589,10 @@
       }
     },
     {
-      "id": "13-10",
+      "id": "14-10",
       "name": "崇庆通宝",
       "dynasty": "金朝钱币",
-      "dynastyIndex": 13,
+      "dynastyIndex": 14,
       "summary": {
         "name": "崇庆通宝",
         "historicalPeriod": "金（1212年）",
@@ -652,10 +652,10 @@
       }
     },
     {
-      "id": "13-11",
+      "id": "14-11",
       "name": "崇庆元宝",
       "dynasty": "金朝钱币",
-      "dynastyIndex": 13,
+      "dynastyIndex": 14,
       "summary": {
         "name": "崇庆元宝",
         "historicalPeriod": "金（1212年）",
@@ -715,10 +715,10 @@
       }
     },
     {
-      "id": "13-12",
+      "id": "14-12",
       "name": "至宁元宝",
       "dynasty": "金朝钱币",
-      "dynastyIndex": 13,
+      "dynastyIndex": 14,
       "summary": {
         "name": "至宁元宝",
         "historicalPeriod": "金（1213年）",
@@ -773,10 +773,10 @@
       }
     },
     {
-      "id": "13-13",
+      "id": "14-13",
       "name": "贞祐通宝",
       "dynasty": "金朝钱币",
-      "dynastyIndex": 13,
+      "dynastyIndex": 14,
       "summary": {
         "name": "贞祐通宝",
         "historicalPeriod": "金（1213年）",
@@ -829,10 +829,10 @@
       }
     },
     {
-      "id": "13-14",
+      "id": "14-14",
       "name": "贞祐元宝",
       "dynasty": "金朝钱币",
-      "dynastyIndex": 13,
+      "dynastyIndex": 14,
       "summary": {
         "name": "贞祐元宝",
         "historicalPeriod": "金（1213年）",
