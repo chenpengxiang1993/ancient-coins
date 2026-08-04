@@ -30,8 +30,10 @@ function normalize(name) {
 
 // 双向子串匹配：清单关键词与版别名归一化后任一方向包含即算覆盖
 function coveredBy(rowVariant, keyword) {
-  const v = normalize(rowVariant);
-  const k = normalize(keyword);
+  let v = normalize(rowVariant);
+  if (!v) v = String(rowVariant || '').trim(); // 归一化后为空则回退原始名（如整行为「美品版」）
+  let k = normalize(keyword);
+  if (!k) k = String(keyword || '').trim(); // 关键词归一化后为空（如「美品」）同样回退原始值
   if (!v || !k) return false;
   return v.includes(k) || k.includes(v);
 }
