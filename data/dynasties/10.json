@@ -960,13 +960,13 @@
           "variants": [
             {
               "src": "/images/coins/m-北宋钱币/庆历重宝/variant_1.jpg",
-              "alt": "庆历重宝 - 铜品当十（直读版）",
-              "label": "铜品当十（直读版）"
+              "alt": "庆历重宝 - 铜品当十直读版",
+              "label": "铜品当十直读版"
             },
             {
               "src": "/images/coins/m-北宋钱币/庆历重宝/variant_2.jpg",
-              "alt": "庆历重宝 - 铜品当十（旋读版）",
-              "label": "铜品当十（旋读版）"
+              "alt": "庆历重宝 - 铜品当十旋读版",
+              "label": "铜品当十旋读版"
             }
           ]
         },
@@ -2389,8 +2389,8 @@
           "variants": [
             {
               "src": "/images/coins/m-北宋钱币/崇宁通宝/variant_1.jpg",
-              "alt": "崇宁通宝 - 小平楷书版（御书）",
-              "label": "小平楷书版（御书）"
+              "alt": "崇宁通宝 - 小平楷书御书版",
+              "label": "小平楷书御书版"
             },
             {
               "src": "/images/coins/m-北宋钱币/崇宁通宝/variant_2.jpg",
@@ -2399,8 +2399,8 @@
             },
             {
               "src": "/images/coins/m-北宋钱币/崇宁通宝/variant_3.jpg",
-              "alt": "崇宁通宝 - 折十楷书版（御书）",
-              "label": "折十楷书版（御书）"
+              "alt": "崇宁通宝 - 折十楷书御书版",
+              "label": "折十楷书御书版"
             }
           ]
         },
@@ -2608,8 +2608,8 @@
           "variants": [
             {
               "src": "/images/coins/m-北宋钱币/大观通宝/variant_1.jpg",
-              "alt": "大观通宝 - 小平楷书版（御书）",
-              "label": "小平楷书版（御书）"
+              "alt": "大观通宝 - 小平楷书御书版",
+              "label": "小平楷书御书版"
             },
             {
               "src": "/images/coins/m-北宋钱币/大观通宝/variant_2.jpg",
@@ -2618,8 +2618,8 @@
             },
             {
               "src": "/images/coins/m-北宋钱币/大观通宝/variant_3.jpg",
-              "alt": "大观通宝 - 折二楷书版（御书）",
-              "label": "折二楷书版（御书）"
+              "alt": "大观通宝 - 折二楷书御书版",
+              "label": "折二楷书御书版"
             }
           ]
         },
