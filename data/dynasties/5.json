@@ -37,8 +37,8 @@
             },
             {
               "src": "/images/coins/g-南朝钱币/元嘉四铢/variant_2.jpg",
-              "alt": "元嘉四铢 - 版别2",
-              "label": "版别2"
+              "alt": "元嘉四铢 - 美品版",
+              "label": "美品版"
             }
           ]
         },
@@ -228,13 +228,13 @@
             },
             {
               "src": "/images/coins/g-南朝钱币/大明四铢/variant_2.jpg",
-              "alt": "大明四铢 - 版别2",
-              "label": "版别2"
+              "alt": "大明四铢 - 美品版",
+              "label": "美品版"
             },
             {
               "src": "/images/coins/g-南朝钱币/大明四铢/variant_3.jpg",
-              "alt": "大明四铢 - 版别3",
-              "label": "版别3"
+              "alt": "大明四铢 - 大字版",
+              "label": "大字版"
             }
           ]
         },
@@ -298,8 +298,8 @@
             },
             {
               "src": "/images/coins/g-南朝钱币/两铢钱/variant_2.jpg",
-              "alt": "两铢钱 - 版别2",
-              "label": "版别2"
+              "alt": "两铢钱 - 美品版",
+              "label": "美品版"
             }
           ]
         },
@@ -363,8 +363,8 @@
             },
             {
               "src": "/images/coins/g-南朝钱币/永光钱/variant_2.jpg",
-              "alt": "永光钱 - 版别2",
-              "label": "版别2"
+              "alt": "永光钱 - 美品版",
+              "label": "美品版"
             }
           ]
         },
@@ -428,8 +428,8 @@
             },
             {
               "src": "/images/coins/g-南朝钱币/景和钱/variant_2.jpg",
-              "alt": "景和钱 - 版别2",
-              "label": "版别2"
+              "alt": "景和钱 - 美品版",
+              "label": "美品版"
             }
           ]
         },
@@ -652,8 +652,8 @@
             },
             {
               "src": "/images/coins/g-南朝钱币/公式女钱/variant_2.jpg",
-              "alt": "公式女钱 - 版别2",
-              "label": "版别2"
+              "alt": "公式女钱 - 美品版",
+              "label": "美品版"
             }
           ]
         },
@@ -717,8 +717,8 @@
             },
             {
               "src": "/images/coins/g-南朝钱币/太清丰乐/variant_2.jpg",
-              "alt": "太清丰乐 - 版别2",
-              "label": "版别2"
+              "alt": "太清丰乐 - 美品版",
+              "label": "美品版"
             }
           ]
         },
@@ -836,8 +836,8 @@
             },
             {
               "src": "/images/coins/g-南朝钱币/四柱五铢/variant_2.jpg",
-              "alt": "四柱五铢 - 版别2",
-              "label": "版别2"
+              "alt": "四柱五铢 - 美品版",
+              "label": "美品版"
             }
           ]
         },
@@ -901,13 +901,13 @@
             },
             {
               "src": "/images/coins/g-南朝钱币/天嘉五铢/variant_2.jpg",
-              "alt": "天嘉五铢 - 版别2",
-              "label": "版别2"
+              "alt": "天嘉五铢 - 美品版",
+              "label": "美品版"
             },
             {
               "src": "/images/coins/g-南朝钱币/天嘉五铢/variant_3.jpg",
-              "alt": "天嘉五铢 - 版别3",
-              "label": "版别3"
+              "alt": "天嘉五铢 - 大字版",
+              "label": "大字版"
             }
           ]
         },
@@ -948,7 +948,7 @@
         "coreFeatures": "面文\"太货六铢\"；玉箸篆；铸工极精；南朝名品",
         "estimatedValue": "200—5,000元",
         "rarity": "七级 甚少",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/g-南朝钱币/太货六铢/main.jpg"
       },
       "detail": {
         "castingTime": "南朝陈太建十一年（公元579年）。据《陈书·宣帝纪》记载，陈宣帝铸行太货六铢，以一当十枚五铢钱。",
@@ -962,8 +962,24 @@
           "reverse": "- 有外廓"
         },
         "images": {
-          "main": "",
-          "variants": []
+          "main": "/images/coins/g-南朝钱币/太货六铢/main.jpg",
+          "variants": [
+            {
+              "src": "/images/coins/g-南朝钱币/太货六铢/variant_1.jpg",
+              "alt": "太货六铢 - 标准型太货六铢",
+              "label": "标准型太货六铢"
+            },
+            {
+              "src": "/images/coins/g-南朝钱币/太货六铢/variant_2.jpg",
+              "alt": "太货六铢 - 大字版",
+              "label": "大字版"
+            },
+            {
+              "src": "/images/coins/g-南朝钱币/太货六铢/variant_3.jpg",
+              "alt": "太货六铢 - 精铸美品",
+              "label": "精铸美品"
+            }
+          ]
         },
         "variantsTable": [
           {
