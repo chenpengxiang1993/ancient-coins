@@ -88,15 +88,8 @@
   font-size: 12px;
   font-weight: 600;
   font-family: $font-sans;
-  color: #fff;
-
-  &[data-rarity="1"] { background: #8b0000; }
-  &[data-rarity="2"] { background: #a0522d; }
-  &[data-rarity="3"] { background: #b8860b; }
-  &[data-rarity="4"] { background: #9c7c38; }
-  &[data-rarity="5"] { background: #6b8e23; }
-  &[data-rarity="6"] { background: #5f9ea0; }
-  &[data-rarity="default"] { background: var(--text-muted); }
+  border: 1px solid transparent;
+  @include metal-level-skins(rarity);
 }
 
 .coinDetailTop50Badge {
@@ -107,7 +100,8 @@
   font-weight: 700;
   font-family: $font-sans;
   color: #fff;
-  background: linear-gradient(135deg, #c41230 0%, #8b0000 100%);
+  background: var(--tag-top50-bg);
+  border: 1px solid var(--tag-top50-border);
   letter-spacing: 1px;
 }
 
@@ -237,6 +231,65 @@
   .coinDetailGradeCell {
     white-space: nowrap;
   }
+}
+
+/* 品相等级标签组：稀有度等级（金属色阶 1-10）+ 品相（奖牌色）+ 五十大珍（朱金） */
+.coinDetailGradeTags {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  flex-wrap: wrap;
+}
+
+.coinDetailGradeTag {
+  display: inline-block;
+  padding: 1px 7px;
+  border-radius: 4px;
+  font-size: 11px;
+  font-weight: 600;
+  font-family: $font-sans;
+  line-height: 1.6;
+  white-space: nowrap;
+  border: 1px solid transparent;
+  letter-spacing: 0.3px;
+
+  @include metal-level-skins(level);
+
+  &[data-condition='supreme'] {
+    background: var(--medal-supreme-bg);
+    color: var(--medal-supreme-text);
+    border-color: var(--medal-supreme-border);
+  }
+  &[data-condition='fineplus'] {
+    background: var(--medal-fineplus-bg);
+    color: var(--medal-fineplus-text);
+    border-color: var(--medal-fineplus-border);
+  }
+  &[data-condition='fine'] {
+    background: var(--medal-fine-bg);
+    color: var(--medal-fine-text);
+    border-color: var(--medal-fine-border);
+  }
+  &[data-condition='common'] {
+    background: var(--medal-common-bg);
+    color: var(--medal-common-text);
+    border-color: var(--medal-common-border);
+  }
+}
+
+.coinDetailGradeTagTop50 {
+  display: inline-block;
+  padding: 1px 7px;
+  border-radius: 4px;
+  font-size: 11px;
+  font-weight: 700;
+  font-family: $font-sans;
+  line-height: 1.6;
+  white-space: nowrap;
+  color: #fff;
+  background: var(--tag-top50-bg);
+  border: 1px solid var(--tag-top50-border);
+  letter-spacing: 1px;
 }
 
 .coinDetailPrice {

@@ -2,6 +2,7 @@ import { memo, useState, useRef, useEffect, useCallback } from "react";
 import type { DynastyData, SearchResult } from "../../types";
 import { searchCoins } from "../../utils/search";
 import { getRarityLevel, isTop50Rare } from "../../utils/rarity";
+import { IRON_CATEGORY_INDEX } from "../../constants/dynastyTabs";
 import { useDebounce } from "../../hooks/useDebounce";
 import styles from "./index.module.scss";
 
@@ -151,7 +152,7 @@ export default memo(function SearchBar({
           aria-activedescendant={
             highlightIndex >= 0 ? `search-result-${highlightIndex}` : undefined
           }
-          placeholder="输入钱币名称、铸主进行搜索"
+          placeholder="输入名称、铸主或拼音（kytb）搜索"
           value={keyword}
           onChange={(e) => handleInputChange(e.target.value)}
           onFocus={() => {
@@ -201,6 +202,9 @@ export default memo(function SearchBar({
                 >
                   <div className={styles.searchBarResultName}>
                     {result.coin.name}
+                    {result.coin.dynastyIndex === IRON_CATEGORY_INDEX && (
+                      <span className={styles.searchBarResultIron}>铁钱</span>
+                    )}
                     {isTop50Rare(result.coin.id) && (
                       <span className={styles.searchBarResultTop50}>五十大珍</span>
                     )}

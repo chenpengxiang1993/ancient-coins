@@ -1,4 +1,7 @@
-export type RarityLevel = '1' | '2' | '3' | '4' | '5' | '6' | 'default';
+export type RarityLevel = '1' | '2' | '3' | '4' | '5' | '6' | '7' | '8' | '9' | '10' | 'default';
+
+/** 品相等级：极美品 / 美品以上 / 美品 / 普品（值与 data-condition 属性一致，小写） */
+export type ConditionLevel = 'supreme' | 'fineplus' | 'fine' | 'common';
 
 export interface CoinImage {
   src: string;
@@ -19,6 +22,18 @@ export interface CoinSummary {
   estimatedValue: string;
   rarity: string;
   thumbnail: string;
+}
+
+/** 构建期生成的拼音索引（拼音搜索用），旧缓存数据可能缺失 */
+export interface CoinPinyin {
+  /** 名称全拼，如 kaiyuantongbao */
+  name: string;
+  /** 名称首字母缩写，如 kytb */
+  nameAbbr: string;
+  /** 铸主全拼 */
+  ruler: string;
+  /** 铸主首字母缩写 */
+  rulerAbbr: string;
 }
 
 export interface VariantTableRow {
@@ -53,6 +68,8 @@ export interface Coin {
   dynastyIndex: number;
   summary: CoinSummary;
   detail: CoinDetail | null;
+  /** 拼音索引（生成于构建期），缺失时拼音搜索自动降级 */
+  pinyin?: CoinPinyin;
 }
 
 export interface DynastyData {

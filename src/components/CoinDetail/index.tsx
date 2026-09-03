@@ -1,6 +1,7 @@
 import { memo, useMemo } from 'react';
 import type { Coin, CoinDetail as CoinDetailType, FeaturesGroup, VariantTableRow } from '../../types';
 import { formatContent } from '../../utils/format';
+import { parseVariantGrade } from '../../utils/grade';
 import { getRarityLevel, isTop50Rare } from '../../utils/rarity';
 import styles from './index.module.scss';
 
@@ -72,7 +73,7 @@ export default memo(function CoinDetail({ coin, detail, loading, error, onRetry 
             <FeaturesGroupSection featuresGroup={detail.featuresGroup} />
             <DetailSection title="铸造工艺" content={detail.castingCraft} icon="⚒" />
             <DetailSection title="核心背景" content={detail.coreBackground} icon="📜" />
-            <VariantsSection table={detail.variantsTable} />
+            <VariantsSection table={detail.variantsTable} coinId={coin.id} />
           </>
         )}
 
@@ -147,14 +148,44 @@ const FeaturesGroupSection = memo(function FeaturesGroupSection({ featuresGroup 
   );
 });
 
-interface VariantsSectionProps {
-  table: VariantTableRow[];
+interface VariantGradeTagsProps {
+  grade: string;
+  isTop50: boolean;
 }
 
-const VariantsSection = memo(function VariantsSection({ table }: VariantsSectionProps) {
-  if (!table || table.length === 0) return null;
+/** 品相等级标签组：稀有度等级（金属色阶）+ 品相（奖牌色）+ 五十大珍（朱金） */
+const VariantGradeTags = memo(function VariantGradeTags({ grade, isTop50 }: VariantGradeTagsProps) {
+  const info = useMemo(() => parseVariantGrade(grade), [grade]);
+  if (!info) return null;
+
+  return (
+    <span className={styles.coinDetailGradeTags}>
+      {info.levelText && (
+        <span className={styles.coinDetailGradeTag} data-level={info.levelRank}>
+          {info.levelText}
+        </span>
+      )}
+      {info.conditionText && (
+        <span className={styles.coinDetailGradeTag} data-condition={info.conditionRank}>
+          {info.conditionText}
+        </span>
+      )}
+      {isTop50 && <span className={styles.coinDetailGradeTagTop50}>五十大珍</span>}
+    </span>
+  );
+});
+
+interface VariantsSectionProps {
+  table: VariantTableRow[];
+  coinId: string;
+}
+
+const VariantsSection = memo(function VariantsSection({ table, coinId }: VariantsSectionProps) {
+  const isTop50 = useMemo(() => isTop50Rare(coinId), [coinId]);
 
   const groupedRows = useMemo(() => {
+    if (!table || table.length === 0) return null;
+
     const groups: { variant: string; descriptionHtml: string; rows: { grade: string; priceRange: string; notes: string }[] }[] = [];
     for (const row of table) {
       const last = groups[groups.length - 1];
@@ -170,6 +201,8 @@ const VariantsSection = memo(function VariantsSection({ table }: VariantsSection
     }
     return groups;
   }, [table]);
+
+  if (!groupedRows) return null;
 
   return (
     <div className={styles.coinDetailSection}>
@@ -206,7 +239,9 @@ const VariantsSection = memo(function VariantsSection({ table }: VariantsSection
                       />
                     </>
                   )}
-                  <td className={styles.coinDetailGradeCell}>{row.grade}</td>
+                  <td className={styles.coinDetailGradeCell}>
+                    <VariantGradeTags grade={row.grade} isTop50={isTop50} />
+                  </td>
                   <td className={styles.coinDetailPrice}>{row.priceRange}</td>
                   <td>{row.notes}</td>
                 </tr>

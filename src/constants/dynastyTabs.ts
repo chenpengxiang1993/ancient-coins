@@ -26,3 +26,6 @@ export const DYNASTY_TAB_LABELS: string[] = [
   '外国铸币',   // 19
   '铁钱',       // 20 （历代铁钱专题）
 ];
+
+/** 历代铁钱专题类目的 dynastyIndex（搜索结果「铁钱」标签据此判断） */
+export const IRON_CATEGORY_INDEX = 20;

@@ -1,4 +1,5 @@
 import type { RarityLevel } from '../types';
+import { parseGradeLevel } from './grade';
 
 // 古泉五十大珍钱币 ID 集合（据百度百科"古泉五十珍"名录标注）
 const TOP_50_RARE_IDS = new Set<string>([
@@ -52,6 +53,11 @@ const TOP_50_RARE_IDS = new Set<string>([
   '15-21', // 至正之宝（权钞）
   '15-23', // 大元国宝
   '17-26',  // 天国通宝
+  // 铁钱类目（20）中与五十大珍同名的钱币
+  '20-2',   // 天策府宝（铁）
+  '20-5',   // 天德重宝（铁）
+  '20-29',  // 应运元宝（铁）
+  '20-30',  // 应感通宝（铁）
 ]);
 
 export function isTop50Rare(coinId: string): boolean {
@@ -59,11 +65,5 @@ export function isTop50Rare(coinId: string): boolean {
 }
 
 export function getRarityLevel(rarity: string): RarityLevel {
-  if (rarity.includes('一级')) return '1';
-  if (rarity.includes('二级')) return '2';
-  if (rarity.includes('三级')) return '3';
-  if (rarity.includes('四级')) return '4';
-  if (rarity.includes('五级')) return '5';
-  if (rarity.includes('六级')) return '6';
-  return 'default';
+  return parseGradeLevel(rarity);
 }

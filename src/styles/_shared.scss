@@ -19,3 +19,66 @@ $font-serif: 'Noto Serif SC', Georgia, serif;
     border-radius: 2px;
   }
 }
+
+/**
+ * 金属色阶标签皮肤：按稀有度级别（1-10 + default）套用金属渐变。
+ * 色值定义于 index.scss :root 的 --metal-* 设计令牌。
+ * $attr 为 data 属性名（rarity 或 level），与调用处的 data-* 对应。
+ */
+@mixin metal-level-skins($attr) {
+  &[data-#{$attr}='1'] {
+    background: var(--metal-1-bg);
+    color: var(--metal-1-text);
+    border-color: var(--metal-1-border);
+  }
+  &[data-#{$attr}='2'] {
+    background: var(--metal-2-bg);
+    color: var(--metal-2-text);
+    border-color: var(--metal-2-border);
+  }
+  &[data-#{$attr}='3'] {
+    background: var(--metal-3-bg);
+    color: var(--metal-3-text);
+    border-color: var(--metal-3-border);
+  }
+  &[data-#{$attr}='4'] {
+    background: var(--metal-4-bg);
+    color: var(--metal-4-text);
+    border-color: var(--metal-4-border);
+  }
+  &[data-#{$attr}='5'] {
+    background: var(--metal-5-bg);
+    color: var(--metal-5-text);
+    border-color: var(--metal-5-border);
+  }
+  &[data-#{$attr}='6'] {
+    background: var(--metal-6-bg);
+    color: var(--metal-6-text);
+    border-color: var(--metal-6-border);
+  }
+  &[data-#{$attr}='7'] {
+    background: var(--metal-7-bg);
+    color: var(--metal-7-text);
+    border-color: var(--metal-7-border);
+  }
+  &[data-#{$attr}='8'] {
+    background: var(--metal-8-bg);
+    color: var(--metal-8-text);
+    border-color: var(--metal-8-border);
+  }
+  &[data-#{$attr}='9'] {
+    background: var(--metal-9-bg);
+    color: var(--metal-9-text);
+    border-color: var(--metal-9-border);
+  }
+  &[data-#{$attr}='10'] {
+    background: var(--metal-10-bg);
+    color: var(--metal-10-text);
+    border-color: var(--metal-10-border);
+  }
+  &[data-#{$attr}='default'] {
+    background: var(--text-muted);
+    color: #ffffff;
+    border-color: transparent;
+  }
+}

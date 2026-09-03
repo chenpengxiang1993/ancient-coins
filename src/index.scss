@@ -14,6 +14,59 @@
   --border: #d4c5a9;
   --border-light: #e8dcc8;
   --shadow: rgba(44, 36, 23, 0.08);
+
+  /* 金属质感标签色阶（稀有度 1-10 级：金钻 → 珍珠灰，越珍稀越贵重） */
+  --metal-1-bg: linear-gradient(135deg, #f7e7a0 0%, #e0bd52 45%, #b8932c 100%);
+  --metal-1-text: #4a3608;
+  --metal-1-border: #b8932c;
+  --metal-2-bg: linear-gradient(135deg, #ffffff 0%, #e8ecf2 45%, #c3ccd6 100%);
+  --metal-2-text: #2f3945;
+  --metal-2-border: #aeb9c4;
+  --metal-3-bg: linear-gradient(135deg, #e9edf2 0%, #ccd4dd 45%, #a9b3bf 100%);
+  --metal-3-text: #333b46;
+  --metal-3-border: #9aa5b1;
+  --metal-4-bg: linear-gradient(135deg, #f6d9ce 0%, #e5b0a0 45%, #c98d7b 100%);
+  --metal-4-text: #5a2c20;
+  --metal-4-border: #c98d7b;
+  --metal-5-bg: linear-gradient(135deg, #ecd28f 0%, #c9a043 45%, #97701a 100%);
+  --metal-5-text: #3d2f08;
+  --metal-5-border: #97701a;
+  --metal-6-bg: linear-gradient(135deg, #4a6fa5 0%, #2f4f7f 55%, #1e3a5f 100%);
+  --metal-6-text: #ffffff;
+  --metal-6-border: #1e3a5f;
+  --metal-7-bg: linear-gradient(135deg, #cf9d6a 0%, #a5703d 55%, #7a4f26 100%);
+  --metal-7-text: #ffffff;
+  --metal-7-border: #7a4f26;
+  --metal-8-bg: linear-gradient(135deg, #6b7f95 0%, #4a5d73 55%, #33435a 100%);
+  --metal-8-text: #ffffff;
+  --metal-8-border: #33435a;
+  --metal-9-bg: linear-gradient(135deg, #7a7f85 0%, #5a6066 55%, #3f444a 100%);
+  --metal-9-text: #ffffff;
+  --metal-9-border: #3f444a;
+  --metal-10-bg: linear-gradient(135deg, #fafafa 0%, #eceff1 50%, #d9dee2 100%);
+  --metal-10-text: #4a5259;
+  --metal-10-border: #c6ccd1;
+
+  /* 品相奖牌色（极美品=金 / 美品以上=香槟金 / 美品=银 / 普品=铜） */
+  --medal-supreme-bg: linear-gradient(135deg, #f5df8e 0%, #d4af37 50%, #b8891b 100%);
+  --medal-supreme-text: #43320a;
+  --medal-supreme-border: #b8891b;
+  --medal-fineplus-bg: linear-gradient(135deg, #f2e3b2 0%, #d9c27a 50%, #b89c46 100%);
+  --medal-fineplus-text: #443710;
+  --medal-fineplus-border: #b89c46;
+  --medal-fine-bg: linear-gradient(135deg, #f8fafc 0%, #d7dde4 50%, #b7c0ca 100%);
+  --medal-fine-text: #37414c;
+  --medal-fine-border: #b7c0ca;
+  --medal-common-bg: linear-gradient(135deg, #e8b99b 0%, #c9885f 50%, #a2643c 100%);
+  --medal-common-text: #4a2a16;
+  --medal-common-border: #a2643c;
+
+  /* 专题标签（五十大珍=朱金 / 铁钱=玄铁） */
+  --tag-top50-bg: linear-gradient(135deg, #c41230 0%, #8b0000 100%);
+  --tag-top50-border: #e3c14d;
+  --tag-iron-bg: linear-gradient(135deg, #5b6672 0%, #3a434d 55%, #262d35 100%);
+  --tag-iron-text: #ffffff;
+  --tag-iron-border: #262d35;
 }
 
 * {
