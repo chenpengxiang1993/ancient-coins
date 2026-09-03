@@ -27,6 +27,7 @@ const DYNASTY_PREFIX_MAP = {
   '元朝钱币': 'q', '明朝钱币': 'r', '明末农民起义钱币': 's', '南明钱币': 't',
   '清朝钱币': 'u', '三藩钱币': 'v', '太平天国钱币': 'w', '晚清起义钱币': 'x',
   '花钱_压胜钱': 'y', '外国钱币': 'z',
+  '历代铁钱': 'aa',
 };
 
 function getDynastyPrefix(dynasty) {

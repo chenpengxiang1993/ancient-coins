@@ -1,10 +1,10 @@
 # 中国古代钱币图鉴
 
-先秦至清代金属铸币的交互式图鉴，涵盖 20 个历史时期、506 种钱币，支持按朝代浏览、全文搜索和稀有度评级。
+先秦至清代金属铸币的交互式图鉴，涵盖 21 个历史时期、512 种钱币，支持按朝代浏览、全文搜索和稀有度评级。
 
 ## 功能
 
-- **朝代浏览** — 20 个历史时期分类，横向标签快速切换
+- **朝代浏览** — 21 个历史时期分类，横向标签快速切换
 - **全文搜索** — 客户端即时搜索，支持钱币名称、朝代、材质等多字段匹配
 - **钱币详情** — 展示钱币图片、文字描述、版别信息、铸造工艺、稀有度评级
 - **稀有度评级** — 基于马定祥十级评级体系（一级大珍 → 十级多泛）
@@ -46,13 +46,13 @@ pnpm run preview
 ## 数据流水线（JSON-first）
 
 ```
-data/dynasties/{0..19}.json (20 个朝代 JSON，单一数据源)
+data/dynasties/{0..20}.json (21 个朝代 JSON，单一数据源)
   └─► Vite 插件（vite.config.ts）在 dev/build 时自动生成
         ├─► public/data/coins-summary.json (~230 KB, 首屏)
-        └─► public/data/detail/{0..19}.json (按朝代懒加载)
+        └─► public/data/detail/{0..20}.json (按朝代懒加载)
 ```
 
-- 唯一数据源：`data/dynasties/{0..19}.json`。`public/data/` 为构建产物（已 gitignore），禁止提交与手工编辑。
+- 唯一数据源：`data/dynasties/{0..20}.json`。`public/data/` 为构建产物（已 gitignore），禁止提交与手工编辑。
 - 修改 JSON 后，dev 下热更新即时重新生成；或运行 `pnpm run parse-data` 手动全量重建。
 - `pnpm run validate` 全量校验（schema + 逻辑一致性）。
 
@@ -69,7 +69,7 @@ public/images/coins/**/*.jpg  →  scripts/convert-images.mjs  →  *.webp + thu
 ## 项目结构
 
 ```
-├── data/dynasties/      # 20 个朝代 JSON 数据源（唯一可编辑入口）
+├── data/dynasties/      # 21 个朝代 JSON 数据源（唯一可编辑入口）
 ├── public/
 │   ├── images/coins/     # 钱币图片（JPG + WebP + 缩略图，按朝代分目录）
 │   └── data/             # 前端运行时数据（构建时自动生成，gitignore）
@@ -110,6 +110,7 @@ public/images/coins/**/*.jpg  →  scripts/convert-images.mjs  →  *.webp + thu
 | 隋朝 | 2 | 清朝（含三藩4、太平天国11、晚清起义8） | 44 |
 | 唐朝 | 11 | 花钱/压胜钱 | 11 |
 | 五代十国 | 29 | 外国铸币 | 67 |
+| 历代铁钱（专题） | 6 | | |
 
 ## 部署
 

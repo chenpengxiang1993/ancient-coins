@@ -76,6 +76,7 @@
 | 18 | 17 | 清朝钱币 | data/dynasties/17.json | 44 | 三藩钱币（4）、太平天国钱币（11）、晚清起义钱币（8） |
 | 19 | 18 | 花钱_压胜钱 | data/dynasties/18.json | 11 | |
 | 20 | 19 | 外国钱币 | data/dynasties/19.json | 4 | |
+| 21 | 20 | 历代铁钱 | data/dynasties/20.json | 6 | 跨朝代专题类目（南朝梁/五代十国/北宋/南宋/西夏/清咸丰六分期条目） |
 
 > 合并文件（2/16/17）内币种保留原子朝代名（如「新莽钱币」），用于前端子分组展示；`coin.id` 按 `{dynastyIndex}-{文件内位置}` 全局重编号。
 
@@ -409,7 +410,7 @@ pnpm run parse-data
 
 ## 10. 数据同步（JSON-first 架构）
 
-**唯一数据源**：`data/dynasties/0.json` … `data/dynasties/19.json`
+**唯一数据源**：`data/dynasties/0.json` … `data/dynasties/20.json`
 
 **生成产物（禁止提交、禁止手工编辑）**：
 

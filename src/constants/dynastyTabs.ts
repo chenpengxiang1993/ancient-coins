@@ -1,6 +1,6 @@
 /**
  * dynastyTabs.ts
- * 界面标签显示名，按 dynastyIndex 0-19 一一对应。
+ * 界面标签显示名，按 dynastyIndex 0-20 一一对应。
  * 数据文件 `data/dynasties/{index}.json` 与标签同序。
  */
 export const DYNASTY_TAB_LABELS: string[] = [
@@ -24,4 +24,5 @@ export const DYNASTY_TAB_LABELS: string[] = [
   '清朝',       // 17 （含 三藩、太平天国、晚清起义）
   '花钱/压胜钱', // 18
   '外国铸币',   // 19
+  '铁钱',       // 20 （历代铁钱专题）
 ];
