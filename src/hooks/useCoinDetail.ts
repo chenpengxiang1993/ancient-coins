@@ -11,7 +11,7 @@ async function fetchDynastyDetail(idx: number): Promise<Record<string, CoinDetai
   const inflight = inflightRequests.get(idx);
   if (inflight) return inflight;
 
-  const promise = fetch(`/data/detail/${idx}.json`)
+  const promise = fetch(`/data/detail/${idx}.json`, { cache: 'no-cache' })
     .then((res) => {
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
       return res.json();

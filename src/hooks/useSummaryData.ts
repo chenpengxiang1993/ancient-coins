@@ -8,7 +8,7 @@ async function fetchSummary(): Promise<DynastyData[]> {
   if (cachedData) return cachedData;
   if (fetchPromise) return fetchPromise;
 
-  fetchPromise = fetch('/data/coins-summary.json')
+  fetchPromise = fetch('/data/coins-summary.json', { cache: 'no-cache' })
     .then(res => {
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
       return res.json();

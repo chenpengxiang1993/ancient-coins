@@ -7,6 +7,8 @@ import SearchBar from './components/SearchBar';
 import { DYNASTY_TAB_LABELS } from './constants/dynastyTabs';
 import { useCoinDetail } from './hooks/useCoinDetail';
 import { useSummaryData } from './hooks/useSummaryData';
+import { useStaleAutoRefresh } from './hooks/useStaleAutoRefresh';
+import { encodeCoinPath, parseCoinPath } from './utils/coinRoute';
 import { warmupSearchIndex } from './utils/search';
 import styles from './App.module.scss';
 
@@ -17,6 +19,9 @@ export default function App() {
   const [activeDynastyIndex, setActiveDynastyIndex] = useState(0);
   const [selectedCoin, setSelectedCoin] = useState<Coin | null>(null);
   const [sidebarOpen, setSidebarOpen] = useState(false);
+
+  // 页面空闲超时后切回时自动刷新
+  useStaleAutoRefresh();
 
   const activeDynasty = useMemo(
     () => allData?.[activeDynastyIndex],
@@ -32,11 +37,25 @@ export default function App() {
     }));
   }, [allData]);
 
+  // 首次加载：优先从 URL 路径恢复刷新前的钱币页面，否则回退到首枚
   useEffect(() => {
     if (allData && !selectedCoin) {
-      setSelectedCoin(allData[0].coins[0]);
+      const restored = parseCoinPath(window.location.pathname, allData);
+      if (restored) {
+        setActiveDynastyIndex(restored.dynastyIndex);
+        setSelectedCoin(restored.coin);
+      } else {
+        setSelectedCoin(allData[0].coins[0]);
+      }
     }
   }, [allData, selectedCoin]);
+
+  // 选中钱币变化时同步到 URL 路径（replaceState 不污染历史记录）
+  useEffect(() => {
+    if (selectedCoin) {
+      window.history.replaceState(null, '', encodeCoinPath(selectedCoin));
+    }
+  }, [selectedCoin]);
 
   const { detail, loading, error, retry } = useCoinDetail(
     selectedCoin?.dynastyIndex ?? 0,
