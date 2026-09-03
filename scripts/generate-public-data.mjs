@@ -8,6 +8,7 @@
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
+import { pinyin } from 'pinyin-pro';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, '..');
@@ -19,6 +20,18 @@ function atomicWriteJSON(filePath, data) {
   const tmp = filePath + '.tmp';
   fs.writeFileSync(tmp, JSON.stringify(data, null, 2), 'utf-8');
   fs.renameSync(tmp, filePath);
+}
+
+/**
+ * 汉字文本 → 全拼 + 首字母缩写（无声调，忽略非汉字字符），
+ * 构建期写入 coins-summary.json 供拼音搜索，前端零运行时依赖。
+ */
+function buildPinyin(text) {
+  const syllables = pinyin(text, { toneType: 'none', type: 'array', nonZh: 'removed' });
+  return {
+    full: syllables.join(''),
+    abbr: syllables.map((s) => s[0]).join(''),
+  };
 }
 
 export function generatePublicData() {
@@ -41,13 +54,23 @@ export function generatePublicData() {
   const summaryList = data.map((dynasty) => ({
     dynasty: dynasty.dynasty,
     dynastyIndex: dynasty.dynastyIndex,
-    coins: dynasty.coins.map((coin) => ({
-      id: coin.id,
-      name: coin.name,
-      dynasty: coin.dynasty,
-      dynastyIndex: coin.dynastyIndex,
-      summary: coin.summary,
-    })),
+    coins: dynasty.coins.map((coin) => {
+      const namePinyin = buildPinyin(coin.name);
+      const rulerPinyin = buildPinyin(coin.summary.ruler);
+      return {
+        id: coin.id,
+        name: coin.name,
+        dynasty: coin.dynasty,
+        dynastyIndex: coin.dynastyIndex,
+        summary: coin.summary,
+        pinyin: {
+          name: namePinyin.full,
+          nameAbbr: namePinyin.abbr,
+          ruler: rulerPinyin.full,
+          rulerAbbr: rulerPinyin.abbr,
+        },
+      };
+    }),
   }));
 
   atomicWriteJSON(path.join(SUMMARY_OUT, 'coins-summary.json'), summaryList);
