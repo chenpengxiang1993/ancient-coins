@@ -46,14 +46,27 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
+  width: 100%;
   padding: 6px 10px;
   margin-bottom: 4px;
+  border: none;
   border-left: 3px solid var(--accent);
   background: var(--bg-secondary);
   border-radius: 0 6px 6px 0;
   position: sticky;
   top: 0;
   z-index: 2;
+  cursor: pointer;
+  font: inherit;
+  transition: background 0.2s ease;
+
+  &:hover {
+    background: var(--bg-card);
+
+    .coinSubGroupName {
+      color: var(--accent);
+    }
+  }
 }
 
 .coinSubGroupName {
@@ -62,12 +75,49 @@
   font-weight: 600;
   color: var(--text-secondary);
   letter-spacing: 0.5px;
+  transition: color 0.2s ease;
+}
+
+.coinSubGroupMeta {
+  display: flex;
+  align-items: center;
+  gap: 6px;
 }
 
 .coinSubGroupCount {
   font-size: 11px;
   color: var(--text-muted);
   font-family: $font-sans;
+}
+
+/* 手风琴指示箭头：CSS 三角，展开时旋转 90° */
+.coinSubGroupChevron {
+  width: 0;
+  height: 0;
+  border-top: 4px solid transparent;
+  border-bottom: 4px solid transparent;
+  border-left: 5px solid var(--text-muted);
+  transition: transform 0.25s ease;
+}
+
+.coinSubGroupChevronOpen {
+  transform: rotate(90deg);
+}
+
+/* 展开时条目淡入下移，强化手风琴节奏 */
+.coinSubGroup .coinItem {
+  animation: subGroupItemIn 0.22s ease both;
+}
+
+@keyframes subGroupItemIn {
+  from {
+    opacity: 0;
+    transform: translateY(-4px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
 }
 
 .coinItem {
