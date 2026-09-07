@@ -47,6 +47,11 @@
   --metal-10-text: #4a5259;
   --metal-10-border: #c6ccd1;
 
+  /* 谱外存疑警示档（琥珀色系，区别于 default 的「无法解析」灰） */
+  --doubt-bg: linear-gradient(135deg, #f8e3c0 0%, #e8b96a 50%, #c98f3d 100%);
+  --doubt-text: #4a3308;
+  --doubt-border: #c98f3d;
+
   /* 品相奖牌色（极美品=金 / 美品以上=香槟金 / 美品=银 / 普品=铜） */
   --medal-supreme-bg: linear-gradient(135deg, #f5df8e 0%, #d4af37 50%, #b8891b 100%);
   --medal-supreme-text: #43320a;

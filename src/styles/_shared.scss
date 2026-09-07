@@ -21,8 +21,8 @@ $font-serif: 'Noto Serif SC', Georgia, serif;
 }
 
 /**
- * 金属色阶标签皮肤：按稀有度级别（1-10 + default）套用金属渐变。
- * 色值定义于 index.scss :root 的 --metal-* 设计令牌。
+ * 金属色阶标签皮肤：按稀有度级别（1-10 + default + doubt）套用金属渐变。
+ * 色值定义于 index.scss :root 的 --metal-* / --doubt-* 设计令牌。
  * $attr 为 data 属性名（rarity 或 level），与调用处的 data-* 对应。
  */
 @mixin metal-level-skins($attr) {
@@ -80,5 +80,11 @@ $font-serif: 'Noto Serif SC', Georgia, serif;
     background: var(--text-muted);
     color: #ffffff;
     border-color: transparent;
+  }
+  /* 谱外存疑警示档：琥珀色系，区别于 default 的「无法解析」灰 */
+  &[data-#{$attr}='doubt'] {
+    background: var(--doubt-bg);
+    color: var(--doubt-text);
+    border-color: var(--doubt-border);
   }
 }

@@ -1,4 +1,4 @@
-export type RarityLevel = '1' | '2' | '3' | '4' | '5' | '6' | '7' | '8' | '9' | '10' | 'default';
+export type RarityLevel = '1' | '2' | '3' | '4' | '5' | '6' | '7' | '8' | '9' | '10' | 'default' | 'doubt';
 
 /** 品相等级：极美品 / 美品以上 / 美品 / 普品（值与 data-condition 属性一致，小写） */
 export type ConditionLevel = 'supreme' | 'fineplus' | 'fine' | 'common';

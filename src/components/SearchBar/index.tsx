@@ -2,6 +2,7 @@ import { memo, useState, useRef, useEffect, useCallback } from "react";
 import type { DynastyData, SearchResult } from "../../types";
 import { searchCoins } from "../../utils/search";
 import { getRarityLevel, isTop50Rare } from "../../utils/rarity";
+import { standardizeRarityText } from "../../utils/grade";
 import { IRON_CATEGORY_INDEX } from "../../constants/dynastyTabs";
 import { useDebounce } from "../../hooks/useDebounce";
 import styles from "./index.module.scss";
@@ -219,8 +220,8 @@ export default memo(function SearchBar({
                       </span>
                     </div>
                     <div className={styles.searchBarResultInfoBottom}>
-                      <span className={styles.searchBarResultRarity} data-rarity={getRarityLevel(result.coin.summary.rarity)}>
-                        {result.coin.summary.rarity}
+                      <span className={styles.searchBarResultRarity} data-rarity={getRarityLevel(result.coin.summary.rarity)} title={result.coin.summary.rarity}>
+                        {standardizeRarityText(result.coin.summary.rarity)}
                       </span>
                       <span className={styles.searchBarResultField}>
                         匹配：{result.matchField}
