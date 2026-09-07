@@ -95,8 +95,9 @@ interface DetailSectionProps {
 }
 
 const DetailSection = memo(function DetailSection({ title, content, icon }: DetailSectionProps) {
+  // Hook 须先于判空早退，避免条件 Hook
+  const html = useMemo(() => (content ? formatContent(content) : ''), [content]);
   if (!content) return null;
-  const html = useMemo(() => formatContent(content), [content]);
   return (
     <div className={styles.coinDetailSection}>
       <div className={styles.coinDetailSectionTitle}>
@@ -119,8 +120,17 @@ const FEATURES_GROUP_ITEMS: { key: keyof FeaturesGroup; label: string; icon: str
 ];
 
 const FeaturesGroupSection = memo(function FeaturesGroupSection({ featuresGroup }: FeaturesGroupSectionProps) {
-  const hasContent = FEATURES_GROUP_ITEMS.some(({ key }) => featuresGroup[key]);
-  if (!hasContent) return null;
+  // 一次遍历完成富文本转换并记忆化（早退判空在 Hook 之后）
+  const renderedItems = useMemo(
+    () =>
+      FEATURES_GROUP_ITEMS.flatMap(({ key, label, icon }) => {
+        const content = featuresGroup[key];
+        if (!content) return [];
+        return [{ key, label, icon, html: formatContent(content) }];
+      }),
+    [featuresGroup],
+  );
+  if (renderedItems.length === 0) return null;
 
   return (
     <div className={styles.coinDetailSection}>
@@ -129,23 +139,18 @@ const FeaturesGroupSection = memo(function FeaturesGroupSection({ featuresGroup 
         面背特征
       </div>
       <div className={styles.featuresGroupContainer}>
-        {FEATURES_GROUP_ITEMS.map(({ key, label, icon }) => {
-          const content = featuresGroup[key];
-          if (!content) return null;
-          const html = formatContent(content);
-          return (
-            <div key={key} className={styles.featuresSubSection}>
-              <div className={styles.featuresSubTitle}>
-                <span className={styles.featuresSubIcon}>{icon}</span>
-                {label}
-              </div>
-              <div
-                className={styles.featuresSubContent}
-                dangerouslySetInnerHTML={{ __html: html }}
-              />
+        {renderedItems.map(({ key, label, icon, html }) => (
+          <div key={key} className={styles.featuresSubSection}>
+            <div className={styles.featuresSubTitle}>
+              <span className={styles.featuresSubIcon}>{icon}</span>
+              {label}
             </div>
-          );
-        })}
+            <div
+              className={styles.featuresSubContent}
+              dangerouslySetInnerHTML={{ __html: html }}
+            />
+          </div>
+        ))}
       </div>
     </div>
   );
@@ -189,7 +194,7 @@ const VariantsSection = memo(function VariantsSection({ table, coinId }: Variant
   const groupedRows = useMemo(() => {
     if (!table || table.length === 0) return null;
 
-    const groups: { variant: string; descriptionHtml: string; rows: { grade: string; priceRange: string; notes: string }[] }[] = [];
+    const groups: { variant: string; variantHtml: string; descriptionHtml: string; rows: { grade: string; priceRange: string; notes: string }[] }[] = [];
     for (const row of table) {
       const last = groups[groups.length - 1];
       if (last && last.variant === row.variant) {
@@ -197,6 +202,7 @@ const VariantsSection = memo(function VariantsSection({ table, coinId }: Variant
       } else {
         groups.push({
           variant: row.variant,
+          variantHtml: formatContent(row.variant),
           descriptionHtml: formatContent(row.description),
           rows: [{ grade: row.grade, priceRange: row.priceRange, notes: row.notes }],
         });
@@ -233,7 +239,7 @@ const VariantsSection = memo(function VariantsSection({ table, coinId }: Variant
                       <td
                         className={styles.coinDetailVariantCell}
                         rowSpan={group.rows.length}
-                        dangerouslySetInnerHTML={{ __html: formatContent(group.variant) }}
+                        dangerouslySetInnerHTML={{ __html: group.variantHtml }}
                       />
                       <td
                         className={styles.coinDetailDescCell}
