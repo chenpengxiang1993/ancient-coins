@@ -58,7 +58,7 @@ const TOP_50_RARE_IDS = new Set<string>([
   '20-11',  // 天德重宝（铁）
   '20-47',  // 应运元宝（铁）
   '20-48',  // 应感通宝（铁）
-  '20-91',  // 大宋通宝（铁，当拾）
+  '20-93',  // 大宋通宝（铁卷，当拾）
 ]);
 
 export function isTop50Rare(coinId: string): boolean {
