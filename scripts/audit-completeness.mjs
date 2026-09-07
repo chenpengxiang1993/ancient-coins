@@ -78,7 +78,7 @@ const STANDARD = {
     '嘉定安宝', '嘉定真宝', '嘉定之宝', '嘉定万宝', '嘉定隆宝', '嘉定洪宝',
     '嘉定新宝', '嘉定泉宝', '嘉定大宝', '嘉定珍宝', '嘉定至宝', '嘉定兴宝',
     '嘉定封宝', '大宋通宝', '大宋元宝', '宝庆元宝', '绍定通宝', '绍定元宝',
-    '端平通宝', '端平元宝', '端平重宝', '嘉熙通宝', '嘉熙重宝', '淳佑通宝',
+    '端平通宝', '端平元宝', '端平重宝', '嘉熙通宝', '嘉熙重宝',
     '淳祐元宝', '淳祐通宝', '皇宋元宝', '开庆通宝', '景定元宝', '咸淳元宝',
     '临安府钱牌',
   ],
@@ -149,8 +149,8 @@ const STANDARD = {
 };
 
 function normalize(name) {
-  // 去除「-备注」后缀（如"乾亨通宝-南汉"→"乾亨通宝"），再去除常见通名后缀
-  return name.split('-')[0];
+  // 去除「-备注」后缀（如"乾亨通宝-南汉"→"乾亨通宝"），再统一异体字（祐→佑）
+  return name.split('-')[0].replace(/祐/g, '佑');
 }
 
 function main() {
@@ -166,6 +166,11 @@ function main() {
   for (const f of files) {
     const idx = parseInt(f);
     const data = JSON.parse(fs.readFileSync(path.join(DYNASTIES_DIR, f), 'utf-8'));
+    if (!STANDARD[idx]) {
+      console.log(`【${data.dynasty}】${data.coins.length}枚`);
+      console.log('  ⏭️ 无标准清单，跳过（铁钱专题卷以 docs/铁钱 为权威源，见 variant-standard 审计）\n');
+      continue;
+    }
     const names = data.coins.map((c) => normalize(c.name));
     const standard = (STANDARD[idx] || []).map(normalize);
 
