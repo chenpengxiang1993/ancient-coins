@@ -1,12 +1,11 @@
 /**
  * sync-images.mjs
  * 扫描 public/images/coins/{prefix}-{dynasty}/{coinName}/ 目录，
- * 将 main.jpg + variant_N.jpg 写回各 data/dynasties/*.json 的 detail.images 字段。
+ * 将 main.jpg 写回各 data/dynasties/*.json 的 detail.images 字段。
  *
- * - main.jpg → images.main
- * - variant_N.jpg → images.variants[N-1]（按文件名排序，与 variantsTable 顺序对齐）
+ * - main.jpg → images.main（缺失则置空）
+ * - images.variants 恒为 []（版别图 2026-09 已全部移除，仅保留字段供 schema 校验）
  * - summary.thumbnail 同步为 images.main
- * - 若钱币目录不存在则自动创建（保持后续放图友好）
  */
 
 import fs from 'fs';
@@ -47,7 +46,7 @@ function atomicWriteJSON(filePath, data) {
   fs.renameSync(tmp, filePath);
 }
 
-function scanCoinImages(prefix, dynasty, coinName, variantsTable) {
+function scanCoinImages(prefix, dynasty, coinName) {
   const basePath = `/images/coins/${prefix}-${sanitizeFileName(dynasty)}/${sanitizeFileName(coinName)}`;
   const coinDir = path.join(
     IMAGES_DIR,
@@ -55,27 +54,10 @@ function scanCoinImages(prefix, dynasty, coinName, variantsTable) {
     sanitizeFileName(coinName)
   );
 
-  fs.mkdirSync(coinDir, { recursive: true });
-
   const mainExists = fs.existsSync(path.join(coinDir, 'main.jpg'));
   const main = mainExists ? `${basePath}/main.jpg` : '';
 
-  const variants = [];
-  const files = fs.readdirSync(coinDir).sort();
-  for (const file of files) {
-    const m = file.match(/^variant_(\d+)\.jpg$/);
-    if (!m) continue;
-    const idx = parseInt(m[1], 10);
-    const row = variantsTable && variantsTable[idx - 1];
-    const label = row?.variant || `版别${idx}`;
-    variants.push({
-      src: `${basePath}/${file}`,
-      alt: `${coinName} - ${label}`,
-      label,
-    });
-  }
-
-  return { main, variants };
+  return { main, variants: [] };
 }
 
 function main() {
@@ -102,8 +84,7 @@ function main() {
       const images = scanCoinImages(
         getDynastyPrefix(coin.dynasty),
         coin.dynasty,
-        coin.name,
-        coin.detail.variantsTable
+        coin.name
       );
       const prev = coin.detail.images || {};
       const changed =

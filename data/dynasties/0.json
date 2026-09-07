@@ -1493,18 +1493,7 @@
         },
         "images": {
           "main": "/images/coins/a-先秦钱币/明刀钱/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/a-先秦钱币/明刀钱/variant_1.jpg",
-              "alt": "明刀钱 - 磬折明刀",
-              "label": "磬折明刀"
-            },
-            {
-              "src": "/images/coins/a-先秦钱币/明刀钱/variant_2.jpg",
-              "alt": "明刀钱 - 弧背明刀",
-              "label": "弧背明刀"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -2336,18 +2325,7 @@
         },
         "images": {
           "main": "/images/coins/a-先秦钱币/半两钱/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/a-先秦钱币/半两钱/variant_1.jpg",
-              "alt": "半两钱 - 中型半两",
-              "label": "中型半两"
-            },
-            {
-              "src": "/images/coins/a-先秦钱币/半两钱/variant_2.jpg",
-              "alt": "半两钱 - 小型半两",
-              "label": "小型半两"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {

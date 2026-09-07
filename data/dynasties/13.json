@@ -196,18 +196,7 @@
         },
         "images": {
           "main": "/images/coins/o-金朝钱币/皇统元宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/o-金朝钱币/皇统元宝/variant_1.jpg",
-              "alt": "皇统元宝 - 小平篆书",
-              "label": "小平篆书"
-            },
-            {
-              "src": "/images/coins/o-金朝钱币/皇统元宝/variant_2.jpg",
-              "alt": "皇统元宝 - 版别2",
-              "label": "版别2"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -294,18 +283,7 @@
         },
         "images": {
           "main": "/images/coins/o-金朝钱币/正隆元宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/o-金朝钱币/正隆元宝/variant_1.jpg",
-              "alt": "正隆元宝 - 小平钱（四笔\"正\"）",
-              "label": "小平钱（四笔\"正\"）"
-            },
-            {
-              "src": "/images/coins/o-金朝钱币/正隆元宝/variant_2.jpg",
-              "alt": "正隆元宝 - 五笔\"正\"版",
-              "label": "五笔\"正\"版"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -366,18 +344,7 @@
         },
         "images": {
           "main": "/images/coins/o-金朝钱币/大定通宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/o-金朝钱币/大定通宝/variant_1.jpg",
-              "alt": "大定通宝 - 小平光背",
-              "label": "小平光背"
-            },
-            {
-              "src": "/images/coins/o-金朝钱币/大定通宝/variant_2.jpg",
-              "alt": "大定通宝 - 背\"申\"版",
-              "label": "背\"申\"版"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -466,23 +433,7 @@
         },
         "images": {
           "main": "/images/coins/o-金朝钱币/泰和通宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/o-金朝钱币/泰和通宝/variant_1.jpg",
-              "alt": "泰和通宝 - 小平楷书",
-              "label": "小平楷书"
-            },
-            {
-              "src": "/images/coins/o-金朝钱币/泰和通宝/variant_2.jpg",
-              "alt": "泰和通宝 - 折二楷书",
-              "label": "折二楷书"
-            },
-            {
-              "src": "/images/coins/o-金朝钱币/泰和通宝/variant_3.jpg",
-              "alt": "泰和通宝 - 折三楷书",
-              "label": "折三楷书"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -543,18 +494,7 @@
         },
         "images": {
           "main": "/images/coins/o-金朝钱币/泰和重宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/o-金朝钱币/泰和重宝/variant_1.jpg",
-              "alt": "泰和重宝 - 折十篆书（光背）",
-              "label": "折十篆书（光背）"
-            },
-            {
-              "src": "/images/coins/o-金朝钱币/泰和重宝/variant_2.jpg",
-              "alt": "泰和重宝 - 折三篆书（试铸样钱）",
-              "label": "折三篆书（试铸样钱）"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -601,23 +541,7 @@
         },
         "images": {
           "main": "/images/coins/o-金朝钱币/崇庆通宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/o-金朝钱币/崇庆通宝/variant_1.jpg",
-              "alt": "崇庆通宝 - 小平楷书",
-              "label": "小平楷书"
-            },
-            {
-              "src": "/images/coins/o-金朝钱币/崇庆通宝/variant_2.jpg",
-              "alt": "崇庆通宝 - 折二楷书",
-              "label": "折二楷书"
-            },
-            {
-              "src": "/images/coins/o-金朝钱币/崇庆通宝/variant_3.jpg",
-              "alt": "崇庆通宝 - 版别3",
-              "label": "版别3"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -664,23 +588,7 @@
         },
         "images": {
           "main": "/images/coins/o-金朝钱币/崇庆元宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/o-金朝钱币/崇庆元宝/variant_1.jpg",
-              "alt": "崇庆元宝 - 折五篆书",
-              "label": "折五篆书"
-            },
-            {
-              "src": "/images/coins/o-金朝钱币/崇庆元宝/variant_2.jpg",
-              "alt": "崇庆元宝 - 版别2",
-              "label": "版别2"
-            },
-            {
-              "src": "/images/coins/o-金朝钱币/崇庆元宝/variant_3.jpg",
-              "alt": "崇庆元宝 - 版别3",
-              "label": "版别3"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -720,18 +628,7 @@
         },
         "images": {
           "main": "/images/coins/o-金朝钱币/至宁元宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/o-金朝钱币/至宁元宝/variant_1.jpg",
-              "alt": "至宁元宝 - 折五（孤品）",
-              "label": "折五（孤品）"
-            },
-            {
-              "src": "/images/coins/o-金朝钱币/至宁元宝/variant_2.jpg",
-              "alt": "至宁元宝 - 版别2",
-              "label": "版别2"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -771,23 +668,7 @@
         },
         "images": {
           "main": "/images/coins/o-金朝钱币/贞祐通宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/o-金朝钱币/贞祐通宝/variant_1.jpg",
-              "alt": "贞祐通宝 - 小平楷书",
-              "label": "小平楷书"
-            },
-            {
-              "src": "/images/coins/o-金朝钱币/贞祐通宝/variant_2.jpg",
-              "alt": "贞祐通宝 - 版别2",
-              "label": "版别2"
-            },
-            {
-              "src": "/images/coins/o-金朝钱币/贞祐通宝/variant_3.jpg",
-              "alt": "贞祐通宝 - 版别3",
-              "label": "版别3"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {

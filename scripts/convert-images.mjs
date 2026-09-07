@@ -10,7 +10,7 @@ const WEBP_QUALITY = 80;
 const THUMB_QUALITY = 70;
 const THUMB_SIZE = 150;
 
-const result = execSync(`find "${IMAGES_DIR}" -name "*.jpg" -type f`, { encoding: 'utf8', maxBuffer: 10 * 1024 * 1024 });
+const result = execSync(`find "${IMAGES_DIR}" -name "main.jpg" -type f`, { encoding: 'utf8', maxBuffer: 10 * 1024 * 1024 });
 const jpgFiles = result.trim().split('\n').filter(Boolean);
 
 let converted = 0;
@@ -39,21 +39,14 @@ for (const jpg of jpgFiles) {
     skipped++;
   }
 
-  // Generate thumbnail (only for main.jpg and variant_N.jpg)
-  const isMainOrVariant = /\/(main|variant_\d+)\.jpg$/.test(jpg);
-  if (isMainOrVariant) {
-    const thumb = jpg
-      .replace('/main.jpg', '/thumb.webp')
-      .replace('/variant_', '/thumb_variant_')
-      .replace(/\.jpg$/, '.webp');
-
-    if (!existsSync(thumb) || statSync(jpg).mtimeMs > statSync(thumb).mtimeMs) {
-      try {
-        execSync(`cwebp -q ${THUMB_QUALITY} -m 4 -resize ${THUMB_SIZE} ${THUMB_SIZE} "${jpg}" -o "${thumb}"`, { stdio: 'pipe' });
-        thumbsGenerated++;
-      } catch {
-        // thumbnail failure is non-critical
-      }
+  // Generate thumbnail (main only; variant images were removed 2026-09)
+  const thumb = jpg.replace('/main.jpg', '/thumb.webp');
+  if (!existsSync(thumb) || statSync(jpg).mtimeMs > statSync(thumb).mtimeMs) {
+    try {
+      execSync(`cwebp -q ${THUMB_QUALITY} -m 4 -resize ${THUMB_SIZE} ${THUMB_SIZE} "${jpg}" -o "${thumb}"`, { stdio: 'pipe' });
+      thumbsGenerated++;
+    } catch {
+      // thumbnail failure is non-critical
     }
   }
 }

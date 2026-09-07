@@ -137,18 +137,7 @@
         },
         "images": {
           "main": "/images/coins/e-三国钱币/直百五铢/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/e-三国钱币/直百五铢/variant_1.jpg",
-              "alt": "直百五铢 - 光背版",
-              "label": "光背版"
-            },
-            {
-              "src": "/images/coins/e-三国钱币/直百五铢/variant_2.jpg",
-              "alt": "直百五铢 - 背\"为\"版",
-              "label": "背\"为\"版"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -216,23 +205,7 @@
         },
         "images": {
           "main": "/images/coins/e-三国钱币/太平百钱/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/e-三国钱币/太平百钱/variant_1.jpg",
-              "alt": "太平百钱 - 标准版",
-              "label": "标准版"
-            },
-            {
-              "src": "/images/coins/e-三国钱币/太平百钱/variant_2.jpg",
-              "alt": "太平百钱 - 水波纹版",
-              "label": "水波纹版"
-            },
-            {
-              "src": "/images/coins/e-三国钱币/太平百钱/variant_3.jpg",
-              "alt": "太平百钱 - 减重型",
-              "label": "减重型"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -333,18 +306,7 @@
         },
         "images": {
           "main": "/images/coins/e-三国钱币/直一钱/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/e-三国钱币/直一钱/variant_1.jpg",
-              "alt": "直一钱 - 标准型直一钱",
-              "label": "标准型直一钱"
-            },
-            {
-              "src": "/images/coins/e-三国钱币/直一钱/variant_2.jpg",
-              "alt": "直一钱 - 有廓型",
-              "label": "有廓型"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -391,18 +353,7 @@
         },
         "images": {
           "main": "/images/coins/e-三国钱币/直百钱/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/e-三国钱币/直百钱/variant_1.jpg",
-              "alt": "直百钱 - 标准型直百钱",
-              "label": "标准型直百钱"
-            },
-            {
-              "src": "/images/coins/e-三国钱币/直百钱/variant_2.jpg",
-              "alt": "直百钱 - 大字型",
-              "label": "大字型"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -449,23 +400,7 @@
         },
         "images": {
           "main": "/images/coins/e-三国钱币/定平一百/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/e-三国钱币/定平一百/variant_1.jpg",
-              "alt": "定平一百 - 标准型定平一百",
-              "label": "标准型定平一百"
-            },
-            {
-              "src": "/images/coins/e-三国钱币/定平一百/variant_2.jpg",
-              "alt": "定平一百 - 美品版",
-              "label": "美品版"
-            },
-            {
-              "src": "/images/coins/e-三国钱币/定平一百/variant_3.jpg",
-              "alt": "定平一百 - 大字版",
-              "label": "大字版"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -519,18 +454,7 @@
         },
         "images": {
           "main": "/images/coins/e-三国钱币/大泉五百/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/e-三国钱币/大泉五百/variant_1.jpg",
-              "alt": "大泉五百 - 标准型大泉五百",
-              "label": "标准型大泉五百"
-            },
-            {
-              "src": "/images/coins/e-三国钱币/大泉五百/variant_2.jpg",
-              "alt": "大泉五百 - 合背型",
-              "label": "合背型"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -584,18 +508,7 @@
         },
         "images": {
           "main": "/images/coins/e-三国钱币/大泉当千/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/e-三国钱币/大泉当千/variant_1.jpg",
-              "alt": "大泉当千 - 标准型大泉当千",
-              "label": "标准型大泉当千"
-            },
-            {
-              "src": "/images/coins/e-三国钱币/大泉当千/variant_2.jpg",
-              "alt": "大泉当千 - 大型大泉当千",
-              "label": "大型大泉当千"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -656,18 +569,7 @@
         },
         "images": {
           "main": "/images/coins/e-三国钱币/大泉二千/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/e-三国钱币/大泉二千/variant_1.jpg",
-              "alt": "大泉二千 - 标准型大泉二千",
-              "label": "标准型大泉二千"
-            },
-            {
-              "src": "/images/coins/e-三国钱币/大泉二千/variant_2.jpg",
-              "alt": "大泉二千 - 精铸美品",
-              "label": "精铸美品"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -714,18 +616,7 @@
         },
         "images": {
           "main": "/images/coins/e-三国钱币/大泉五千/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/e-三国钱币/大泉五千/variant_1.jpg",
-              "alt": "大泉五千 - 标准型大泉五千",
-              "label": "标准型大泉五千"
-            },
-            {
-              "src": "/images/coins/e-三国钱币/大泉五千/variant_2.jpg",
-              "alt": "大泉五千 - 精铸美品",
-              "label": "精铸美品"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {

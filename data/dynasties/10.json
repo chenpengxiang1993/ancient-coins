@@ -29,23 +29,7 @@
         },
         "images": {
           "main": "/images/coins/m-北宋钱币/宋元通宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/m-北宋钱币/宋元通宝/variant_1.jpg",
-              "alt": "宋元通宝 - 小平楷书版",
-              "label": "小平楷书版"
-            },
-            {
-              "src": "/images/coins/m-北宋钱币/宋元通宝/variant_2.jpg",
-              "alt": "宋元通宝 - 背星月版",
-              "label": "背星月版"
-            },
-            {
-              "src": "/images/coins/m-北宋钱币/宋元通宝/variant_3.jpg",
-              "alt": "宋元通宝 - 铁钱",
-              "label": "铁钱"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -99,18 +83,7 @@
         },
         "images": {
           "main": "/images/coins/m-北宋钱币/太平通宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/m-北宋钱币/太平通宝/variant_1.jpg",
-              "alt": "太平通宝 - 小平楷书版",
-              "label": "小平楷书版"
-            },
-            {
-              "src": "/images/coins/m-北宋钱币/太平通宝/variant_2.jpg",
-              "alt": "太平通宝 - 铁钱",
-              "label": "铁钱"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -157,28 +130,7 @@
         },
         "images": {
           "main": "/images/coins/m-北宋钱币/淳化元宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/m-北宋钱币/淳化元宝/variant_1.jpg",
-              "alt": "淳化元宝 - 小平楷书版",
-              "label": "小平楷书版"
-            },
-            {
-              "src": "/images/coins/m-北宋钱币/淳化元宝/variant_2.jpg",
-              "alt": "淳化元宝 - 小平行书版",
-              "label": "小平行书版"
-            },
-            {
-              "src": "/images/coins/m-北宋钱币/淳化元宝/variant_3.jpg",
-              "alt": "淳化元宝 - 小平草书版",
-              "label": "小平草书版"
-            },
-            {
-              "src": "/images/coins/m-北宋钱币/淳化元宝/variant_4.jpg",
-              "alt": "淳化元宝 - 缩水淳化",
-              "label": "缩水淳化"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -253,28 +205,7 @@
         },
         "images": {
           "main": "/images/coins/m-北宋钱币/至道元宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/m-北宋钱币/至道元宝/variant_1.jpg",
-              "alt": "至道元宝 - 小平楷书版",
-              "label": "小平楷书版"
-            },
-            {
-              "src": "/images/coins/m-北宋钱币/至道元宝/variant_2.jpg",
-              "alt": "至道元宝 - 小平行书版",
-              "label": "小平行书版"
-            },
-            {
-              "src": "/images/coins/m-北宋钱币/至道元宝/variant_3.jpg",
-              "alt": "至道元宝 - 小平草书版",
-              "label": "小平草书版"
-            },
-            {
-              "src": "/images/coins/m-北宋钱币/至道元宝/variant_4.jpg",
-              "alt": "至道元宝 - 铁钱",
-              "label": "铁钱"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -342,18 +273,7 @@
         },
         "images": {
           "main": "/images/coins/m-北宋钱币/咸平元宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/m-北宋钱币/咸平元宝/variant_1.jpg",
-              "alt": "咸平元宝 - 小平楷书版",
-              "label": "小平楷书版"
-            },
-            {
-              "src": "/images/coins/m-北宋钱币/咸平元宝/variant_2.jpg",
-              "alt": "咸平元宝 - 阔缘版",
-              "label": "阔缘版"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -407,18 +327,7 @@
         },
         "images": {
           "main": "/images/coins/m-北宋钱币/景德元宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/m-北宋钱币/景德元宝/variant_1.jpg",
-              "alt": "景德元宝 - 小平楷书版",
-              "label": "小平楷书版"
-            },
-            {
-              "src": "/images/coins/m-北宋钱币/景德元宝/variant_2.jpg",
-              "alt": "景德元宝 - 阔缘版",
-              "label": "阔缘版"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -526,18 +435,7 @@
         },
         "images": {
           "main": "/images/coins/m-北宋钱币/祥符元宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/m-北宋钱币/祥符元宝/variant_1.jpg",
-              "alt": "祥符元宝 - 小平楷书版",
-              "label": "小平楷书版"
-            },
-            {
-              "src": "/images/coins/m-北宋钱币/祥符元宝/variant_2.jpg",
-              "alt": "祥符元宝 - 大字版",
-              "label": "大字版"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -591,18 +489,7 @@
         },
         "images": {
           "main": "/images/coins/m-北宋钱币/天禧通宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/m-北宋钱币/天禧通宝/variant_1.jpg",
-              "alt": "天禧通宝 - 小平楷书版",
-              "label": "小平楷书版"
-            },
-            {
-              "src": "/images/coins/m-北宋钱币/天禧通宝/variant_2.jpg",
-              "alt": "天禧通宝 - 大字版",
-              "label": "大字版"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -656,18 +543,7 @@
         },
         "images": {
           "main": "/images/coins/m-北宋钱币/天圣元宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/m-北宋钱币/天圣元宝/variant_1.jpg",
-              "alt": "天圣元宝 - 小平楷书版",
-              "label": "小平楷书版"
-            },
-            {
-              "src": "/images/coins/m-北宋钱币/天圣元宝/variant_2.jpg",
-              "alt": "天圣元宝 - 小平篆书版",
-              "label": "小平篆书版"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -714,18 +590,7 @@
         },
         "images": {
           "main": "/images/coins/m-北宋钱币/明道元宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/m-北宋钱币/明道元宝/variant_1.jpg",
-              "alt": "明道元宝 - 小平楷书版",
-              "label": "小平楷书版"
-            },
-            {
-              "src": "/images/coins/m-北宋钱币/明道元宝/variant_2.jpg",
-              "alt": "明道元宝 - 小平篆书版",
-              "label": "小平篆书版"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -772,23 +637,7 @@
         },
         "images": {
           "main": "/images/coins/m-北宋钱币/景祐元宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/m-北宋钱币/景祐元宝/variant_1.jpg",
-              "alt": "景祐元宝 - 小平楷书版",
-              "label": "小平楷书版"
-            },
-            {
-              "src": "/images/coins/m-北宋钱币/景祐元宝/variant_2.jpg",
-              "alt": "景祐元宝 - 小平篆书版",
-              "label": "小平篆书版"
-            },
-            {
-              "src": "/images/coins/m-北宋钱币/景祐元宝/variant_3.jpg",
-              "alt": "景祐元宝 - 版别3",
-              "label": "版别3"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -943,18 +792,7 @@
         },
         "images": {
           "main": "/images/coins/m-北宋钱币/庆历重宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/m-北宋钱币/庆历重宝/variant_1.jpg",
-              "alt": "庆历重宝 - 铜品当十直读版",
-              "label": "铜品当十直读版"
-            },
-            {
-              "src": "/images/coins/m-北宋钱币/庆历重宝/variant_2.jpg",
-              "alt": "庆历重宝 - 铜品当十旋读版",
-              "label": "铜品当十旋读版"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -1015,18 +853,7 @@
         },
         "images": {
           "main": "/images/coins/m-北宋钱币/至和元宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/m-北宋钱币/至和元宝/variant_1.jpg",
-              "alt": "至和元宝 - 小平楷书版",
-              "label": "小平楷书版"
-            },
-            {
-              "src": "/images/coins/m-北宋钱币/至和元宝/variant_2.jpg",
-              "alt": "至和元宝 - 小平篆书版",
-              "label": "小平篆书版"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -1120,23 +947,7 @@
         },
         "images": {
           "main": "/images/coins/m-北宋钱币/至和重宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/m-北宋钱币/至和重宝/variant_1.jpg",
-              "alt": "至和重宝 - 铁钱折二（光背）",
-              "label": "铁钱折二（光背）"
-            },
-            {
-              "src": "/images/coins/m-北宋钱币/至和重宝/variant_2.jpg",
-              "alt": "至和重宝 - 铁钱背纪地（坊、虢）",
-              "label": "铁钱背纪地（坊、虢）"
-            },
-            {
-              "src": "/images/coins/m-北宋钱币/至和重宝/variant_3.jpg",
-              "alt": "至和重宝 - 铜品（多作铁母）",
-              "label": "铜品（多作铁母）"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -1190,18 +1001,7 @@
         },
         "images": {
           "main": "/images/coins/m-北宋钱币/嘉祐元宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/m-北宋钱币/嘉祐元宝/variant_1.jpg",
-              "alt": "嘉祐元宝 - 小平楷书版",
-              "label": "小平楷书版"
-            },
-            {
-              "src": "/images/coins/m-北宋钱币/嘉祐元宝/variant_2.jpg",
-              "alt": "嘉祐元宝 - 小平篆书版",
-              "label": "小平篆书版"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -1248,18 +1048,7 @@
         },
         "images": {
           "main": "/images/coins/m-北宋钱币/嘉祐通宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/m-北宋钱币/嘉祐通宝/variant_1.jpg",
-              "alt": "嘉祐通宝 - 小平楷书版",
-              "label": "小平楷书版"
-            },
-            {
-              "src": "/images/coins/m-北宋钱币/嘉祐通宝/variant_2.jpg",
-              "alt": "嘉祐通宝 - 小平篆书版",
-              "label": "小平篆书版"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -1346,23 +1135,7 @@
         },
         "images": {
           "main": "/images/coins/m-北宋钱币/治平元宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/m-北宋钱币/治平元宝/variant_1.jpg",
-              "alt": "治平元宝 - 小平楷书版",
-              "label": "小平楷书版"
-            },
-            {
-              "src": "/images/coins/m-北宋钱币/治平元宝/variant_2.jpg",
-              "alt": "治平元宝 - 小平篆书版",
-              "label": "小平篆书版"
-            },
-            {
-              "src": "/images/coins/m-北宋钱币/治平元宝/variant_3.jpg",
-              "alt": "治平元宝 - 版别3",
-              "label": "版别3"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -1409,23 +1182,7 @@
         },
         "images": {
           "main": "/images/coins/m-北宋钱币/治平通宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/m-北宋钱币/治平通宝/variant_1.jpg",
-              "alt": "治平通宝 - 小平楷书版",
-              "label": "小平楷书版"
-            },
-            {
-              "src": "/images/coins/m-北宋钱币/治平通宝/variant_2.jpg",
-              "alt": "治平通宝 - 小平篆书版",
-              "label": "小平篆书版"
-            },
-            {
-              "src": "/images/coins/m-北宋钱币/治平通宝/variant_3.jpg",
-              "alt": "治平通宝 - 版别3",
-              "label": "版别3"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -1472,18 +1229,7 @@
         },
         "images": {
           "main": "/images/coins/m-北宋钱币/熙宁元宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/m-北宋钱币/熙宁元宝/variant_1.jpg",
-              "alt": "熙宁元宝 - 小平楷书版",
-              "label": "小平楷书版"
-            },
-            {
-              "src": "/images/coins/m-北宋钱币/熙宁元宝/variant_2.jpg",
-              "alt": "熙宁元宝 - 小平篆书版",
-              "label": "小平篆书版"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -1530,23 +1276,7 @@
         },
         "images": {
           "main": "/images/coins/m-北宋钱币/熙宁通宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/m-北宋钱币/熙宁通宝/variant_1.jpg",
-              "alt": "熙宁通宝 - 折二铁钱",
-              "label": "折二铁钱"
-            },
-            {
-              "src": "/images/coins/m-北宋钱币/熙宁通宝/variant_2.jpg",
-              "alt": "熙宁通宝 - 小平铁钱",
-              "label": "小平铁钱"
-            },
-            {
-              "src": "/images/coins/m-北宋钱币/熙宁通宝/variant_3.jpg",
-              "alt": "熙宁通宝 - 铜品（存世极罕）",
-              "label": "铜品（存世极罕）"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -1600,23 +1330,7 @@
         },
         "images": {
           "main": "/images/coins/m-北宋钱币/熙宁重宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/m-北宋钱币/熙宁重宝/variant_1.jpg",
-              "alt": "熙宁重宝 - 折二楷书版",
-              "label": "折二楷书版"
-            },
-            {
-              "src": "/images/coins/m-北宋钱币/熙宁重宝/variant_2.jpg",
-              "alt": "熙宁重宝 - 折二篆书版",
-              "label": "折二篆书版"
-            },
-            {
-              "src": "/images/coins/m-北宋钱币/熙宁重宝/variant_3.jpg",
-              "alt": "熙宁重宝 - 铁钱",
-              "label": "铁钱"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -1670,18 +1384,7 @@
         },
         "images": {
           "main": "/images/coins/m-北宋钱币/元丰通宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/m-北宋钱币/元丰通宝/variant_1.jpg",
-              "alt": "元丰通宝 - 小平隶书版",
-              "label": "小平隶书版"
-            },
-            {
-              "src": "/images/coins/m-北宋钱币/元丰通宝/variant_2.jpg",
-              "alt": "元丰通宝 - 小平篆书版",
-              "label": "小平篆书版"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -1803,23 +1506,7 @@
         },
         "images": {
           "main": "/images/coins/m-北宋钱币/元祐通宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/m-北宋钱币/元祐通宝/variant_1.jpg",
-              "alt": "元祐通宝 - 小平行书版",
-              "label": "小平行书版"
-            },
-            {
-              "src": "/images/coins/m-北宋钱币/元祐通宝/variant_2.jpg",
-              "alt": "元祐通宝 - 小平篆书版",
-              "label": "小平篆书版"
-            },
-            {
-              "src": "/images/coins/m-北宋钱币/元祐通宝/variant_3.jpg",
-              "alt": "元祐通宝 - 折二行书版",
-              "label": "折二行书版"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -1887,18 +1574,7 @@
         },
         "images": {
           "main": "/images/coins/m-北宋钱币/绍圣元宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/m-北宋钱币/绍圣元宝/variant_1.jpg",
-              "alt": "绍圣元宝 - 小平行书版",
-              "label": "小平行书版"
-            },
-            {
-              "src": "/images/coins/m-北宋钱币/绍圣元宝/variant_2.jpg",
-              "alt": "绍圣元宝 - 小平篆书版",
-              "label": "小平篆书版"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -2046,23 +1722,7 @@
         },
         "images": {
           "main": "/images/coins/m-北宋钱币/元符通宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/m-北宋钱币/元符通宝/variant_1.jpg",
-              "alt": "元符通宝 - 小平行书版",
-              "label": "小平行书版"
-            },
-            {
-              "src": "/images/coins/m-北宋钱币/元符通宝/variant_2.jpg",
-              "alt": "元符通宝 - 小平篆书版",
-              "label": "小平篆书版"
-            },
-            {
-              "src": "/images/coins/m-北宋钱币/元符通宝/variant_3.jpg",
-              "alt": "元符通宝 - 折二行书版",
-              "label": "折二行书版"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -2130,18 +1790,7 @@
         },
         "images": {
           "main": "/images/coins/m-北宋钱币/元符重宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/m-北宋钱币/元符重宝/variant_1.jpg",
-              "alt": "元符重宝 - 铁钱折三型",
-              "label": "铁钱折三型"
-            },
-            {
-              "src": "/images/coins/m-北宋钱币/元符重宝/variant_2.jpg",
-              "alt": "元符重宝 - 版别2",
-              "label": "版别2"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -2181,18 +1830,7 @@
         },
         "images": {
           "main": "/images/coins/m-北宋钱币/圣宋元宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/m-北宋钱币/圣宋元宝/variant_1.jpg",
-              "alt": "圣宋元宝 - 小平行书版",
-              "label": "小平行书版"
-            },
-            {
-              "src": "/images/coins/m-北宋钱币/圣宋元宝/variant_2.jpg",
-              "alt": "圣宋元宝 - 小平篆书版",
-              "label": "小平篆书版"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -2267,18 +1905,7 @@
         },
         "images": {
           "main": "/images/coins/m-北宋钱币/圣宋通宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/m-北宋钱币/圣宋通宝/variant_1.jpg",
-              "alt": "圣宋通宝 - 小平行书光背",
-              "label": "小平行书光背"
-            },
-            {
-              "src": "/images/coins/m-北宋钱币/圣宋通宝/variant_2.jpg",
-              "alt": "圣宋通宝 - 小平背\"当伍\"",
-              "label": "小平背\"当伍\""
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -2372,23 +1999,7 @@
         },
         "images": {
           "main": "/images/coins/m-北宋钱币/崇宁通宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/m-北宋钱币/崇宁通宝/variant_1.jpg",
-              "alt": "崇宁通宝 - 折十楷书御书版",
-              "label": "折十楷书御书版"
-            },
-            {
-              "src": "/images/coins/m-北宋钱币/崇宁通宝/variant_2.jpg",
-              "alt": "崇宁通宝 - 折十大字版",
-              "label": "折十大字版"
-            },
-            {
-              "src": "/images/coins/m-北宋钱币/崇宁通宝/variant_3.jpg",
-              "alt": "崇宁通宝 - 折十狭穿版",
-              "label": "折十狭穿版"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -2470,18 +2081,7 @@
         },
         "images": {
           "main": "/images/coins/m-北宋钱币/崇宁元宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/m-北宋钱币/崇宁元宝/variant_1.jpg",
-              "alt": "崇宁元宝 - 小平钱",
-              "label": "小平钱"
-            },
-            {
-              "src": "/images/coins/m-北宋钱币/崇宁元宝/variant_2.jpg",
-              "alt": "崇宁元宝 - 版别2",
-              "label": "版别2"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -2521,23 +2121,7 @@
         },
         "images": {
           "main": "/images/coins/m-北宋钱币/崇宁重宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/m-北宋钱币/崇宁重宝/variant_1.jpg",
-              "alt": "崇宁重宝 - 光背",
-              "label": "光背"
-            },
-            {
-              "src": "/images/coins/m-北宋钱币/崇宁重宝/variant_2.jpg",
-              "alt": "崇宁重宝 - 版别2",
-              "label": "版别2"
-            },
-            {
-              "src": "/images/coins/m-北宋钱币/崇宁重宝/variant_3.jpg",
-              "alt": "崇宁重宝 - 版别3",
-              "label": "版别3"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -2577,23 +2161,7 @@
         },
         "images": {
           "main": "/images/coins/m-北宋钱币/大观通宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/m-北宋钱币/大观通宝/variant_1.jpg",
-              "alt": "大观通宝 - 小平楷书御书版",
-              "label": "小平楷书御书版"
-            },
-            {
-              "src": "/images/coins/m-北宋钱币/大观通宝/variant_2.jpg",
-              "alt": "大观通宝 - 小平大字版",
-              "label": "小平大字版"
-            },
-            {
-              "src": "/images/coins/m-北宋钱币/大观通宝/variant_3.jpg",
-              "alt": "大观通宝 - 折二楷书御书版",
-              "label": "折二楷书御书版"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -2689,18 +2257,7 @@
         },
         "images": {
           "main": "/images/coins/m-北宋钱币/政和通宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/m-北宋钱币/政和通宝/variant_1.jpg",
-              "alt": "政和通宝 - 小平隶书版",
-              "label": "小平隶书版"
-            },
-            {
-              "src": "/images/coins/m-北宋钱币/政和通宝/variant_2.jpg",
-              "alt": "政和通宝 - 小平篆书版",
-              "label": "小平篆书版"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -2801,18 +2358,7 @@
         },
         "images": {
           "main": "/images/coins/m-北宋钱币/重和通宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/m-北宋钱币/重和通宝/variant_1.jpg",
-              "alt": "重和通宝 - 小平隶书版",
-              "label": "小平隶书版"
-            },
-            {
-              "src": "/images/coins/m-北宋钱币/重和通宝/variant_2.jpg",
-              "alt": "重和通宝 - 小平篆书版",
-              "label": "小平篆书版"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -2859,18 +2405,7 @@
         },
         "images": {
           "main": "/images/coins/m-北宋钱币/宣和通宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/m-北宋钱币/宣和通宝/variant_1.jpg",
-              "alt": "宣和通宝 - 小平隶书版",
-              "label": "小平隶书版"
-            },
-            {
-              "src": "/images/coins/m-北宋钱币/宣和通宝/variant_2.jpg",
-              "alt": "宣和通宝 - 小平篆书版",
-              "label": "小平篆书版"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -2938,18 +2473,7 @@
         },
         "images": {
           "main": "/images/coins/m-北宋钱币/宣和元宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/m-北宋钱币/宣和元宝/variant_1.jpg",
-              "alt": "宣和元宝 - 小平隶书版",
-              "label": "小平隶书版"
-            },
-            {
-              "src": "/images/coins/m-北宋钱币/宣和元宝/variant_2.jpg",
-              "alt": "宣和元宝 - 小平篆书版",
-              "label": "小平篆书版"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -3003,33 +2527,7 @@
         },
         "images": {
           "main": "/images/coins/m-北宋钱币/靖康通宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/m-北宋钱币/靖康通宝/variant_1.jpg",
-              "alt": "靖康通宝 - 小平楷书版",
-              "label": "小平楷书版"
-            },
-            {
-              "src": "/images/coins/m-北宋钱币/靖康通宝/variant_2.jpg",
-              "alt": "靖康通宝 - 小平篆书版",
-              "label": "小平篆书版"
-            },
-            {
-              "src": "/images/coins/m-北宋钱币/靖康通宝/variant_3.jpg",
-              "alt": "靖康通宝 - 折二楷书版",
-              "label": "折二楷书版"
-            },
-            {
-              "src": "/images/coins/m-北宋钱币/靖康通宝/variant_4.jpg",
-              "alt": "靖康通宝 - 折二篆书版",
-              "label": "折二篆书版"
-            },
-            {
-              "src": "/images/coins/m-北宋钱币/靖康通宝/variant_5.jpg",
-              "alt": "靖康通宝 - 版别5",
-              "label": "版别5"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -3090,18 +2588,7 @@
         },
         "images": {
           "main": "/images/coins/m-北宋钱币/靖康元宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/m-北宋钱币/靖康元宝/variant_1.jpg",
-              "alt": "靖康元宝 - 小平钱",
-              "label": "小平钱"
-            },
-            {
-              "src": "/images/coins/m-北宋钱币/靖康元宝/variant_2.jpg",
-              "alt": "靖康元宝 - 美品版",
-              "label": "美品版"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -3228,18 +2715,7 @@
         },
         "images": {
           "main": "/images/coins/m-北宋钱币/应运元宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/m-北宋钱币/应运元宝/variant_1.jpg",
-              "alt": "应运元宝 - 小平钱",
-              "label": "小平钱"
-            },
-            {
-              "src": "/images/coins/m-北宋钱币/应运元宝/variant_2.jpg",
-              "alt": "应运元宝 - 美品版",
-              "label": "美品版"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -3326,18 +2802,7 @@
         },
         "images": {
           "main": "/images/coins/m-北宋钱币/应感通宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/m-北宋钱币/应感通宝/variant_1.jpg",
-              "alt": "应感通宝 - 小平钱（铜品）",
-              "label": "小平钱（铜品）"
-            },
-            {
-              "src": "/images/coins/m-北宋钱币/应感通宝/variant_2.jpg",
-              "alt": "应感通宝 - 小平钱（铁钱）",
-              "label": "小平钱（铁钱）"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {

@@ -172,18 +172,7 @@
         },
         "images": {
           "main": "/images/coins/b-秦钱币/文信钱/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/b-秦钱币/文信钱/variant_1.jpg",
-              "alt": "文信钱 - 标准型文信钱",
-              "label": "标准型文信钱"
-            },
-            {
-              "src": "/images/coins/b-秦钱币/文信钱/variant_2.jpg",
-              "alt": "文信钱 - 小型文信钱",
-              "label": "小型文信钱"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {

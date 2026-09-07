@@ -29,18 +29,7 @@
         },
         "images": {
           "main": "/images/coins/h-北朝钱币/太和五铢/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/h-北朝钱币/太和五铢/variant_1.jpg",
-              "alt": "太和五铢 - 小字版",
-              "label": "小字版"
-            },
-            {
-              "src": "/images/coins/h-北朝钱币/太和五铢/variant_2.jpg",
-              "alt": "太和五铢 - 标准型太和五铢",
-              "label": "标准型太和五铢"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -94,18 +83,7 @@
         },
         "images": {
           "main": "/images/coins/h-北朝钱币/永平五铢/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/h-北朝钱币/永平五铢/variant_1.jpg",
-              "alt": "永平五铢 - 标准型永平五铢",
-              "label": "标准型永平五铢"
-            },
-            {
-              "src": "/images/coins/h-北朝钱币/永平五铢/variant_2.jpg",
-              "alt": "永平五铢 - 美品版",
-              "label": "美品版"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -159,18 +137,7 @@
         },
         "images": {
           "main": "/images/coins/h-北朝钱币/永安五铢/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/h-北朝钱币/永安五铢/variant_1.jpg",
-              "alt": "永安五铢 - 标准型永安五铢",
-              "label": "标准型永安五铢"
-            },
-            {
-              "src": "/images/coins/h-北朝钱币/永安五铢/variant_2.jpg",
-              "alt": "永安五铢 - 背四出纹版",
-              "label": "背四出纹版"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -332,18 +299,7 @@
         },
         "images": {
           "main": "/images/coins/h-北朝钱币/常平五铢/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/h-北朝钱币/常平五铢/variant_1.jpg",
-              "alt": "常平五铢 - 标准版（普品）",
-              "label": "标准版（普品）"
-            },
-            {
-              "src": "/images/coins/h-北朝钱币/常平五铢/variant_2.jpg",
-              "alt": "常平五铢 - 标准版（美品）",
-              "label": "标准版（美品）"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -451,23 +407,7 @@
         },
         "images": {
           "main": "/images/coins/h-北朝钱币/五行大布/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/h-北朝钱币/五行大布/variant_1.jpg",
-              "alt": "五行大布 - 标准版（普品）",
-              "label": "标准版（普品）"
-            },
-            {
-              "src": "/images/coins/h-北朝钱币/五行大布/variant_2.jpg",
-              "alt": "五行大布 - 标准版（美品）",
-              "label": "标准版（美品）"
-            },
-            {
-              "src": "/images/coins/h-北朝钱币/五行大布/variant_3.jpg",
-              "alt": "五行大布 - 大样版",
-              "label": "大样版"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -521,23 +461,7 @@
         },
         "images": {
           "main": "/images/coins/h-北朝钱币/永通万国/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/h-北朝钱币/永通万国/variant_1.jpg",
-              "alt": "永通万国 - 标准版（普品）",
-              "label": "标准版（普品）"
-            },
-            {
-              "src": "/images/coins/h-北朝钱币/永通万国/variant_2.jpg",
-              "alt": "永通万国 - 标准版（美品）",
-              "label": "标准版（美品）"
-            },
-            {
-              "src": "/images/coins/h-北朝钱币/永通万国/variant_3.jpg",
-              "alt": "永通万国 - 大字大样版",
-              "label": "大字大样版"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {

@@ -29,18 +29,7 @@
         },
         "images": {
           "main": "/images/coins/c-汉代钱币/榆荚半两/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/c-汉代钱币/榆荚半两/variant_1.jpg",
-              "alt": "榆荚半两 - 极小型榆荚钱",
-              "label": "极小型榆荚钱"
-            },
-            {
-              "src": "/images/coins/c-汉代钱币/榆荚半两/variant_2.jpg",
-              "alt": "榆荚半两 - 有文榆荚钱",
-              "label": "有文榆荚钱"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -94,18 +83,7 @@
         },
         "images": {
           "main": "/images/coins/c-汉代钱币/八铢半两/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/c-汉代钱币/八铢半两/variant_1.jpg",
-              "alt": "八铢半两 - 标准型八铢半两",
-              "label": "标准型八铢半两"
-            },
-            {
-              "src": "/images/coins/c-汉代钱币/八铢半两/variant_2.jpg",
-              "alt": "八铢半两 - 大型八铢半两",
-              "label": "大型八铢半两"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -206,23 +184,7 @@
         },
         "images": {
           "main": "/images/coins/c-汉代钱币/四铢半两/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/c-汉代钱币/四铢半两/variant_1.jpg",
-              "alt": "四铢半两 - 标准版",
-              "label": "标准版"
-            },
-            {
-              "src": "/images/coins/c-汉代钱币/四铢半两/variant_2.jpg",
-              "alt": "四铢半两 - 大样版",
-              "label": "大样版"
-            },
-            {
-              "src": "/images/coins/c-汉代钱币/四铢半两/variant_3.jpg",
-              "alt": "四铢半两 - 有廓版",
-              "label": "有廓版"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -283,18 +245,7 @@
         },
         "images": {
           "main": "/images/coins/c-汉代钱币/三铢钱/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/c-汉代钱币/三铢钱/variant_1.jpg",
-              "alt": "三铢钱 - 标准型三铢钱",
-              "label": "标准型三铢钱"
-            },
-            {
-              "src": "/images/coins/c-汉代钱币/三铢钱/variant_2.jpg",
-              "alt": "三铢钱 - 大字型",
-              "label": "大字型"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -402,18 +353,7 @@
         },
         "images": {
           "main": "/images/coins/c-汉代钱币/郡国五铢/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/c-汉代钱币/郡国五铢/variant_1.jpg",
-              "alt": "郡国五铢 - 标准版",
-              "label": "标准版"
-            },
-            {
-              "src": "/images/coins/c-汉代钱币/郡国五铢/variant_2.jpg",
-              "alt": "郡国五铢 - 大字版",
-              "label": "大字版"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -622,18 +562,7 @@
         },
         "images": {
           "main": "/images/coins/c-汉代钱币/宣帝五铢/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/c-汉代钱币/宣帝五铢/variant_1.jpg",
-              "alt": "宣帝五铢 - 标准型宣帝五铢",
-              "label": "标准型宣帝五铢"
-            },
-            {
-              "src": "/images/coins/c-汉代钱币/宣帝五铢/variant_2.jpg",
-              "alt": "宣帝五铢 - 背星纹型",
-              "label": "背星纹型"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -701,18 +630,7 @@
         },
         "images": {
           "main": "/images/coins/c-汉代钱币/小五铢/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/c-汉代钱币/小五铢/variant_1.jpg",
-              "alt": "小五铢 - 标准型小五铢",
-              "label": "标准型小五铢"
-            },
-            {
-              "src": "/images/coins/c-汉代钱币/小五铢/variant_2.jpg",
-              "alt": "小五铢 - 有廓型",
-              "label": "有廓型"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -888,18 +806,7 @@
         },
         "images": {
           "main": "/images/coins/c-汉代钱币/中平四出五铢/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/c-汉代钱币/中平四出五铢/variant_1.jpg",
-              "alt": "中平四出五铢 - 标准型四出五铢",
-              "label": "标准型四出五铢"
-            },
-            {
-              "src": "/images/coins/c-汉代钱币/中平四出五铢/variant_2.jpg",
-              "alt": "中平四出五铢 - 深纹型",
-              "label": "深纹型"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -1183,18 +1090,7 @@
         },
         "images": {
           "main": "/images/coins/d-新莽钱币/契刀五百/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/d-新莽钱币/契刀五百/variant_1.jpg",
-              "alt": "契刀五百 - 标准版",
-              "label": "标准版"
-            },
-            {
-              "src": "/images/coins/d-新莽钱币/契刀五百/variant_2.jpg",
-              "alt": "契刀五百 - 大字版",
-              "label": "大字版"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -1241,18 +1137,7 @@
         },
         "images": {
           "main": "/images/coins/d-新莽钱币/一刀平五千/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/d-新莽钱币/一刀平五千/variant_1.jpg",
-              "alt": "一刀平五千 - 错金版",
-              "label": "错金版"
-            },
-            {
-              "src": "/images/coins/d-新莽钱币/一刀平五千/variant_2.jpg",
-              "alt": "一刀平五千 - 未错金版",
-              "label": "未错金版"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -1971,18 +1856,7 @@
         },
         "images": {
           "main": "/images/coins/d-新莽钱币/大布黄千/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/d-新莽钱币/大布黄千/variant_1.jpg",
-              "alt": "大布黄千 - 标准型大布黄千",
-              "label": "标准型大布黄千"
-            },
-            {
-              "src": "/images/coins/d-新莽钱币/大布黄千/variant_2.jpg",
-              "alt": "大布黄千 - 大型大布黄千",
-              "label": "大型大布黄千"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -2043,18 +1917,7 @@
         },
         "images": {
           "main": "/images/coins/d-新莽钱币/货布钱/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/d-新莽钱币/货布钱/variant_1.jpg",
-              "alt": "货布钱 - 标准版（普品）",
-              "label": "标准版（普品）"
-            },
-            {
-              "src": "/images/coins/d-新莽钱币/货布钱/variant_2.jpg",
-              "alt": "货布钱 - 标准版（美品）",
-              "label": "标准版（美品）"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -2115,18 +1978,7 @@
         },
         "images": {
           "main": "/images/coins/d-新莽钱币/货泉钱/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/d-新莽钱币/货泉钱/variant_1.jpg",
-              "alt": "货泉钱 - 标准版（普品）",
-              "label": "标准版（普品）"
-            },
-            {
-              "src": "/images/coins/d-新莽钱币/货泉钱/variant_2.jpg",
-              "alt": "货泉钱 - 标准版（美品）",
-              "label": "标准版（美品）"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -2201,18 +2053,7 @@
         },
         "images": {
           "main": "/images/coins/d-新莽钱币/布泉-新莽/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/d-新莽钱币/布泉-新莽/variant_1.jpg",
-              "alt": "布泉-新莽 - 标准型布泉",
-              "label": "标准型布泉"
-            },
-            {
-              "src": "/images/coins/d-新莽钱币/布泉-新莽/variant_2.jpg",
-              "alt": "布泉-新莽 - 大字型",
-              "label": "大字型"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {

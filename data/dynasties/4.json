@@ -76,23 +76,7 @@
         },
         "images": {
           "main": "/images/coins/f-两晋十六国钱币/凉造新泉/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/f-两晋十六国钱币/凉造新泉/variant_1.jpg",
-              "alt": "凉造新泉 - 标准型凉造新泉",
-              "label": "标准型凉造新泉"
-            },
-            {
-              "src": "/images/coins/f-两晋十六国钱币/凉造新泉/variant_2.jpg",
-              "alt": "凉造新泉 - 大字型",
-              "label": "大字型"
-            },
-            {
-              "src": "/images/coins/f-两晋十六国钱币/凉造新泉/variant_3.jpg",
-              "alt": "凉造新泉 - 版别3",
-              "label": "版别3"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -139,18 +123,7 @@
         },
         "images": {
           "main": "/images/coins/f-两晋十六国钱币/汉兴钱/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/f-两晋十六国钱币/汉兴钱/variant_1.jpg",
-              "alt": "汉兴钱 - 直读型",
-              "label": "直读型"
-            },
-            {
-              "src": "/images/coins/f-两晋十六国钱币/汉兴钱/variant_2.jpg",
-              "alt": "汉兴钱 - 横读型",
-              "label": "横读型"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -197,23 +170,7 @@
         },
         "images": {
           "main": "/images/coins/f-两晋十六国钱币/丰货钱/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/f-两晋十六国钱币/丰货钱/variant_1.jpg",
-              "alt": "丰货钱 - 隶书丰货",
-              "label": "隶书丰货"
-            },
-            {
-              "src": "/images/coins/f-两晋十六国钱币/丰货钱/variant_2.jpg",
-              "alt": "丰货钱 - 篆书丰货",
-              "label": "篆书丰货"
-            },
-            {
-              "src": "/images/coins/f-两晋十六国钱币/丰货钱/variant_3.jpg",
-              "alt": "丰货钱 - 版别3",
-              "label": "版别3"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -260,18 +217,7 @@
         },
         "images": {
           "main": "/images/coins/f-两晋十六国钱币/太夏真兴/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/f-两晋十六国钱币/太夏真兴/variant_1.jpg",
-              "alt": "太夏真兴 - 标准型太夏真兴",
-              "label": "标准型太夏真兴"
-            },
-            {
-              "src": "/images/coins/f-两晋十六国钱币/太夏真兴/variant_2.jpg",
-              "alt": "太夏真兴 - 精铸美品",
-              "label": "精铸美品"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {

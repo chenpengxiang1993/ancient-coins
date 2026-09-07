@@ -29,18 +29,7 @@
         },
         "images": {
           "main": "/images/coins/g-南朝钱币/元嘉四铢/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/g-南朝钱币/元嘉四铢/variant_1.jpg",
-              "alt": "元嘉四铢 - 标准型元嘉四铢",
-              "label": "标准型元嘉四铢"
-            },
-            {
-              "src": "/images/coins/g-南朝钱币/元嘉四铢/variant_2.jpg",
-              "alt": "元嘉四铢 - 美品版",
-              "label": "美品版"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -148,18 +137,7 @@
         },
         "images": {
           "main": "/images/coins/g-南朝钱币/孝建四铢/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/g-南朝钱币/孝建四铢/variant_1.jpg",
-              "alt": "孝建四铢 - 四字面文版",
-              "label": "四字面文版"
-            },
-            {
-              "src": "/images/coins/g-南朝钱币/孝建四铢/variant_2.jpg",
-              "alt": "孝建四铢 - 孝建面文版（去\"四铢\"）",
-              "label": "孝建面文版（去\"四铢\"）"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -227,23 +205,7 @@
         },
         "images": {
           "main": "/images/coins/g-南朝钱币/大明四铢/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/g-南朝钱币/大明四铢/variant_1.jpg",
-              "alt": "大明四铢 - 标准型大明四铢",
-              "label": "标准型大明四铢"
-            },
-            {
-              "src": "/images/coins/g-南朝钱币/大明四铢/variant_2.jpg",
-              "alt": "大明四铢 - 美品版",
-              "label": "美品版"
-            },
-            {
-              "src": "/images/coins/g-南朝钱币/大明四铢/variant_3.jpg",
-              "alt": "大明四铢 - 版别3",
-              "label": "版别3"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -290,18 +252,7 @@
         },
         "images": {
           "main": "/images/coins/g-南朝钱币/两铢钱/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/g-南朝钱币/两铢钱/variant_1.jpg",
-              "alt": "两铢钱 - 标准型两铢钱",
-              "label": "标准型两铢钱"
-            },
-            {
-              "src": "/images/coins/g-南朝钱币/两铢钱/variant_2.jpg",
-              "alt": "两铢钱 - 美品版",
-              "label": "美品版"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -348,18 +299,7 @@
         },
         "images": {
           "main": "/images/coins/g-南朝钱币/永光钱/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/g-南朝钱币/永光钱/variant_1.jpg",
-              "alt": "永光钱 - 标准版",
-              "label": "标准版"
-            },
-            {
-              "src": "/images/coins/g-南朝钱币/永光钱/variant_2.jpg",
-              "alt": "永光钱 - 美品版",
-              "label": "美品版"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -406,18 +346,7 @@
         },
         "images": {
           "main": "/images/coins/g-南朝钱币/景和钱/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/g-南朝钱币/景和钱/variant_1.jpg",
-              "alt": "景和钱 - 标准版",
-              "label": "标准版"
-            },
-            {
-              "src": "/images/coins/g-南朝钱币/景和钱/variant_2.jpg",
-              "alt": "景和钱 - 美品版",
-              "label": "美品版"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -565,18 +494,7 @@
         },
         "images": {
           "main": "/images/coins/g-南朝钱币/铁五铢-梁/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/g-南朝钱币/铁五铢-梁/variant_1.jpg",
-              "alt": "铁五铢-梁 - 标准型铁五铢",
-              "label": "标准型铁五铢"
-            },
-            {
-              "src": "/images/coins/g-南朝钱币/铁五铢-梁/variant_2.jpg",
-              "alt": "铁五铢-梁 - 大字版",
-              "label": "大字版"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -623,18 +541,7 @@
         },
         "images": {
           "main": "/images/coins/g-南朝钱币/公式女钱/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/g-南朝钱币/公式女钱/variant_1.jpg",
-              "alt": "公式女钱 - 标准型公式女钱",
-              "label": "标准型公式女钱"
-            },
-            {
-              "src": "/images/coins/g-南朝钱币/公式女钱/variant_2.jpg",
-              "alt": "公式女钱 - 美品版",
-              "label": "美品版"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -688,18 +595,7 @@
         },
         "images": {
           "main": "/images/coins/g-南朝钱币/太清丰乐/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/g-南朝钱币/太清丰乐/variant_1.jpg",
-              "alt": "太清丰乐 - 背四出版",
-              "label": "背四出版"
-            },
-            {
-              "src": "/images/coins/g-南朝钱币/太清丰乐/variant_2.jpg",
-              "alt": "太清丰乐 - 光背版",
-              "label": "光背版"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -786,18 +682,7 @@
         },
         "images": {
           "main": "/images/coins/g-南朝钱币/四柱五铢/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/g-南朝钱币/四柱五铢/variant_1.jpg",
-              "alt": "四柱五铢 - 标准型四柱五铢",
-              "label": "标准型四柱五铢"
-            },
-            {
-              "src": "/images/coins/g-南朝钱币/四柱五铢/variant_2.jpg",
-              "alt": "四柱五铢 - 美品版",
-              "label": "美品版"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -851,23 +736,7 @@
         },
         "images": {
           "main": "/images/coins/g-南朝钱币/天嘉五铢/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/g-南朝钱币/天嘉五铢/variant_1.jpg",
-              "alt": "天嘉五铢 - 标准型天嘉五铢",
-              "label": "标准型天嘉五铢"
-            },
-            {
-              "src": "/images/coins/g-南朝钱币/天嘉五铢/variant_2.jpg",
-              "alt": "天嘉五铢 - 美品版",
-              "label": "美品版"
-            },
-            {
-              "src": "/images/coins/g-南朝钱币/天嘉五铢/variant_3.jpg",
-              "alt": "天嘉五铢 - 大字版",
-              "label": "大字版"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -921,23 +790,7 @@
         },
         "images": {
           "main": "/images/coins/g-南朝钱币/太货六铢/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/g-南朝钱币/太货六铢/variant_1.jpg",
-              "alt": "太货六铢 - 标准型太货六铢",
-              "label": "标准型太货六铢"
-            },
-            {
-              "src": "/images/coins/g-南朝钱币/太货六铢/variant_2.jpg",
-              "alt": "太货六铢 - 大字版",
-              "label": "大字版"
-            },
-            {
-              "src": "/images/coins/g-南朝钱币/太货六铢/variant_3.jpg",
-              "alt": "太货六铢 - 精铸美品",
-              "label": "精铸美品"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -991,18 +844,7 @@
         },
         "images": {
           "main": "/images/coins/g-南朝钱币/鹅眼钱/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/g-南朝钱币/鹅眼钱/variant_1.jpg",
-              "alt": "鹅眼钱 - 无文鹅眼钱",
-              "label": "无文鹅眼钱"
-            },
-            {
-              "src": "/images/coins/g-南朝钱币/鹅眼钱/variant_2.jpg",
-              "alt": "鹅眼钱 - 有文鹅眼钱",
-              "label": "有文鹅眼钱"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {

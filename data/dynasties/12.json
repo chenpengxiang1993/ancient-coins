@@ -29,18 +29,7 @@
         },
         "images": {
           "main": "/images/coins/l-辽朝钱币/通行泉货/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/l-辽朝钱币/通行泉货/variant_1.jpg",
-              "alt": "通行泉货 - 小平钱",
-              "label": "小平钱"
-            },
-            {
-              "src": "/images/coins/l-辽朝钱币/通行泉货/variant_2.jpg",
-              "alt": "通行泉货 - 版别2",
-              "label": "版别2"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -120,23 +109,7 @@
         },
         "images": {
           "main": "/images/coins/l-辽朝钱币/天赞通宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/l-辽朝钱币/天赞通宝/variant_1.jpg",
-              "alt": "天赞通宝 - 小平钱（虎尾通）",
-              "label": "小平钱（虎尾通）"
-            },
-            {
-              "src": "/images/coins/l-辽朝钱币/天赞通宝/variant_2.jpg",
-              "alt": "天赞通宝 - 版别2",
-              "label": "版别2"
-            },
-            {
-              "src": "/images/coins/l-辽朝钱币/天赞通宝/variant_3.jpg",
-              "alt": "天赞通宝 - 版别3",
-              "label": "版别3"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -176,18 +149,7 @@
         },
         "images": {
           "main": "/images/coins/l-辽朝钱币/天显通宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/l-辽朝钱币/天显通宝/variant_1.jpg",
-              "alt": "天显通宝 - 小平钱",
-              "label": "小平钱"
-            },
-            {
-              "src": "/images/coins/l-辽朝钱币/天显通宝/variant_2.jpg",
-              "alt": "天显通宝 - 版别2",
-              "label": "版别2"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -307,18 +269,7 @@
         },
         "images": {
           "main": "/images/coins/l-辽朝钱币/应历通宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/l-辽朝钱币/应历通宝/variant_1.jpg",
-              "alt": "应历通宝 - 小平钱",
-              "label": "小平钱"
-            },
-            {
-              "src": "/images/coins/l-辽朝钱币/应历通宝/variant_2.jpg",
-              "alt": "应历通宝 - 版别2",
-              "label": "版别2"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -358,23 +309,7 @@
         },
         "images": {
           "main": "/images/coins/l-辽朝钱币/保宁通宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/l-辽朝钱币/保宁通宝/variant_1.jpg",
-              "alt": "保宁通宝 - 小平钱",
-              "label": "小平钱"
-            },
-            {
-              "src": "/images/coins/l-辽朝钱币/保宁通宝/variant_2.jpg",
-              "alt": "保宁通宝 - 大字版",
-              "label": "大字版"
-            },
-            {
-              "src": "/images/coins/l-辽朝钱币/保宁通宝/variant_3.jpg",
-              "alt": "保宁通宝 - 版别3",
-              "label": "版别3"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -461,18 +396,7 @@
         },
         "images": {
           "main": "/images/coins/l-辽朝钱币/统和元宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/l-辽朝钱币/统和元宝/variant_1.jpg",
-              "alt": "统和元宝 - 小平钱",
-              "label": "小平钱"
-            },
-            {
-              "src": "/images/coins/l-辽朝钱币/统和元宝/variant_2.jpg",
-              "alt": "统和元宝 - 大字版",
-              "label": "大字版"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -646,18 +570,7 @@
         },
         "images": {
           "main": "/images/coins/l-辽朝钱币/重熙通宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/l-辽朝钱币/重熙通宝/variant_1.jpg",
-              "alt": "重熙通宝 - 小平钱",
-              "label": "小平钱"
-            },
-            {
-              "src": "/images/coins/l-辽朝钱币/重熙通宝/variant_2.jpg",
-              "alt": "重熙通宝 - 大字版",
-              "label": "大字版"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -711,23 +624,7 @@
         },
         "images": {
           "main": "/images/coins/l-辽朝钱币/清宁通宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/l-辽朝钱币/清宁通宝/variant_1.jpg",
-              "alt": "清宁通宝 - 小平钱",
-              "label": "小平钱"
-            },
-            {
-              "src": "/images/coins/l-辽朝钱币/清宁通宝/variant_2.jpg",
-              "alt": "清宁通宝 - 大字版",
-              "label": "大字版"
-            },
-            {
-              "src": "/images/coins/l-辽朝钱币/清宁通宝/variant_3.jpg",
-              "alt": "清宁通宝 - 版别3",
-              "label": "版别3"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -774,18 +671,7 @@
         },
         "images": {
           "main": "/images/coins/l-辽朝钱币/清宁元宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/l-辽朝钱币/清宁元宝/variant_1.jpg",
-              "alt": "清宁元宝 - 小平钱",
-              "label": "小平钱"
-            },
-            {
-              "src": "/images/coins/l-辽朝钱币/清宁元宝/variant_2.jpg",
-              "alt": "清宁元宝 - 版别2",
-              "label": "版别2"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -825,23 +711,7 @@
         },
         "images": {
           "main": "/images/coins/l-辽朝钱币/咸雍通宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/l-辽朝钱币/咸雍通宝/variant_1.jpg",
-              "alt": "咸雍通宝 - 小平钱",
-              "label": "小平钱"
-            },
-            {
-              "src": "/images/coins/l-辽朝钱币/咸雍通宝/variant_2.jpg",
-              "alt": "咸雍通宝 - 大字版",
-              "label": "大字版"
-            },
-            {
-              "src": "/images/coins/l-辽朝钱币/咸雍通宝/variant_3.jpg",
-              "alt": "咸雍通宝 - 版别3",
-              "label": "版别3"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -935,23 +805,7 @@
         },
         "images": {
           "main": "/images/coins/l-辽朝钱币/大康元宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/l-辽朝钱币/大康元宝/variant_1.jpg",
-              "alt": "大康元宝 - 小平钱",
-              "label": "小平钱"
-            },
-            {
-              "src": "/images/coins/l-辽朝钱币/大康元宝/variant_2.jpg",
-              "alt": "大康元宝 - 长康版",
-              "label": "长康版"
-            },
-            {
-              "src": "/images/coins/l-辽朝钱币/大康元宝/variant_3.jpg",
-              "alt": "大康元宝 - 版别3",
-              "label": "版别3"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -998,23 +852,7 @@
         },
         "images": {
           "main": "/images/coins/l-辽朝钱币/大安元宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/l-辽朝钱币/大安元宝/variant_1.jpg",
-              "alt": "大安元宝 - 短安版",
-              "label": "短安版"
-            },
-            {
-              "src": "/images/coins/l-辽朝钱币/大安元宝/variant_2.jpg",
-              "alt": "大安元宝 - 长安版",
-              "label": "长安版"
-            },
-            {
-              "src": "/images/coins/l-辽朝钱币/大安元宝/variant_3.jpg",
-              "alt": "大安元宝 - 版别3",
-              "label": "版别3"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -1061,18 +899,7 @@
         },
         "images": {
           "main": "/images/coins/l-辽朝钱币/寿昌元宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/l-辽朝钱币/寿昌元宝/variant_1.jpg",
-              "alt": "寿昌元宝 - 小平钱",
-              "label": "小平钱"
-            },
-            {
-              "src": "/images/coins/l-辽朝钱币/寿昌元宝/variant_2.jpg",
-              "alt": "寿昌元宝 - 大字版",
-              "label": "大字版"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -1119,18 +946,7 @@
         },
         "images": {
           "main": "/images/coins/l-辽朝钱币/乾统元宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/l-辽朝钱币/乾统元宝/variant_1.jpg",
-              "alt": "乾统元宝 - 小平钱",
-              "label": "小平钱"
-            },
-            {
-              "src": "/images/coins/l-辽朝钱币/乾统元宝/variant_2.jpg",
-              "alt": "乾统元宝 - 大字版",
-              "label": "大字版"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -1177,23 +993,7 @@
         },
         "images": {
           "main": "/images/coins/l-辽朝钱币/天庆元宝-辽/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/l-辽朝钱币/天庆元宝-辽/variant_1.jpg",
-              "alt": "天庆元宝-辽 - 小平钱",
-              "label": "小平钱"
-            },
-            {
-              "src": "/images/coins/l-辽朝钱币/天庆元宝-辽/variant_2.jpg",
-              "alt": "天庆元宝-辽 - 大字版",
-              "label": "大字版"
-            },
-            {
-              "src": "/images/coins/l-辽朝钱币/天庆元宝-辽/variant_3.jpg",
-              "alt": "天庆元宝-辽 - 版别3",
-              "label": "版别3"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -1280,18 +1080,7 @@
         },
         "images": {
           "main": "/images/coins/l-辽朝钱币/助国元宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/l-辽朝钱币/助国元宝/variant_1.jpg",
-              "alt": "助国元宝 - 小平钱",
-              "label": "小平钱"
-            },
-            {
-              "src": "/images/coins/l-辽朝钱币/助国元宝/variant_2.jpg",
-              "alt": "助国元宝 - 版别2",
-              "label": "版别2"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -1371,23 +1160,7 @@
         },
         "images": {
           "main": "/images/coins/l-辽朝钱币/千秋万岁/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/l-辽朝钱币/千秋万岁/variant_1.jpg",
-              "alt": "千秋万岁 - 小平钱",
-              "label": "小平钱"
-            },
-            {
-              "src": "/images/coins/l-辽朝钱币/千秋万岁/variant_2.jpg",
-              "alt": "千秋万岁 - 版别2",
-              "label": "版别2"
-            },
-            {
-              "src": "/images/coins/l-辽朝钱币/千秋万岁/variant_3.jpg",
-              "alt": "千秋万岁 - 版别3",
-              "label": "版别3"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -1427,18 +1200,7 @@
         },
         "images": {
           "main": "/images/coins/l-辽朝钱币/大辽天庆/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/l-辽朝钱币/大辽天庆/variant_1.jpg",
-              "alt": "大辽天庆 - 折十型大钱（青铜）",
-              "label": "折十型大钱（青铜）"
-            },
-            {
-              "src": "/images/coins/l-辽朝钱币/大辽天庆/variant_2.jpg",
-              "alt": "大辽天庆 - 版别2",
-              "label": "版别2"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {

@@ -29,18 +29,7 @@
         },
         "images": {
           "main": "/images/coins/r-明朝钱币/大中通宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/r-明朝钱币/大中通宝/variant_1.jpg",
-              "alt": "大中通宝 - 小平光背",
-              "label": "小平光背"
-            },
-            {
-              "src": "/images/coins/r-明朝钱币/大中通宝/variant_2.jpg",
-              "alt": "大中通宝 - 小平背\"浙\"版",
-              "label": "小平背\"浙\"版"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -171,23 +160,7 @@
         },
         "images": {
           "main": "/images/coins/r-明朝钱币/洪武通宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/r-明朝钱币/洪武通宝/variant_1.jpg",
-              "alt": "洪武通宝 - 小平钱",
-              "label": "小平钱"
-            },
-            {
-              "src": "/images/coins/r-明朝钱币/洪武通宝/variant_2.jpg",
-              "alt": "洪武通宝 - 折二型",
-              "label": "折二型"
-            },
-            {
-              "src": "/images/coins/r-明朝钱币/洪武通宝/variant_3.jpg",
-              "alt": "洪武通宝 - 折三型",
-              "label": "折三型"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -351,18 +324,7 @@
         },
         "images": {
           "main": "/images/coins/r-明朝钱币/永乐通宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/r-明朝钱币/永乐通宝/variant_1.jpg",
-              "alt": "永乐通宝 - 小平楷书版",
-              "label": "小平楷书版"
-            },
-            {
-              "src": "/images/coins/r-明朝钱币/永乐通宝/variant_2.jpg",
-              "alt": "永乐通宝 - 折三背\"三钱\"试铸样钱",
-              "label": "折三背\"三钱\"试铸样钱"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -423,18 +385,7 @@
         },
         "images": {
           "main": "/images/coins/r-明朝钱币/宣德通宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/r-明朝钱币/宣德通宝/variant_1.jpg",
-              "alt": "宣德通宝 - 小平楷书版",
-              "label": "小平楷书版"
-            },
-            {
-              "src": "/images/coins/r-明朝钱币/宣德通宝/variant_2.jpg",
-              "alt": "宣德通宝 - 大字版",
-              "label": "大字版"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -495,18 +446,7 @@
         },
         "images": {
           "main": "/images/coins/r-明朝钱币/弘治通宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/r-明朝钱币/弘治通宝/variant_1.jpg",
-              "alt": "弘治通宝 - 普通版",
-              "label": "普通版"
-            },
-            {
-              "src": "/images/coins/r-明朝钱币/弘治通宝/variant_2.jpg",
-              "alt": "弘治通宝 - 分水治版",
-              "label": "分水治版"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -567,18 +507,7 @@
         },
         "images": {
           "main": "/images/coins/r-明朝钱币/嘉靖通宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/r-明朝钱币/嘉靖通宝/variant_1.jpg",
-              "alt": "嘉靖通宝 - 小平楷书版",
-              "label": "小平楷书版"
-            },
-            {
-              "src": "/images/coins/r-明朝钱币/嘉靖通宝/variant_2.jpg",
-              "alt": "嘉靖通宝 - 折二背\"二钱\"",
-              "label": "折二背\"二钱\""
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -721,18 +650,7 @@
         },
         "images": {
           "main": "/images/coins/r-明朝钱币/万历通宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/r-明朝钱币/万历通宝/variant_1.jpg",
-              "alt": "万历通宝 - 小平楷书版",
-              "label": "小平楷书版"
-            },
-            {
-              "src": "/images/coins/r-明朝钱币/万历通宝/variant_2.jpg",
-              "alt": "万历通宝 - 折二光背",
-              "label": "折二光背"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -847,18 +765,7 @@
         },
         "images": {
           "main": "/images/coins/r-明朝钱币/泰昌通宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/r-明朝钱币/泰昌通宝/variant_1.jpg",
-              "alt": "泰昌通宝 - 小平光背",
-              "label": "小平光背"
-            },
-            {
-              "src": "/images/coins/r-明朝钱币/泰昌通宝/variant_2.jpg",
-              "alt": "泰昌通宝 - 小平背星月",
-              "label": "小平背星月"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -1022,18 +929,7 @@
         },
         "images": {
           "main": "/images/coins/r-明朝钱币/崇祯通宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/r-明朝钱币/崇祯通宝/variant_1.jpg",
-              "alt": "崇祯通宝 - 小平楷书版",
-              "label": "小平楷书版"
-            },
-            {
-              "src": "/images/coins/r-明朝钱币/崇祯通宝/variant_2.jpg",
-              "alt": "崇祯通宝 - 京版大样",
-              "label": "京版大样"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -1295,18 +1191,7 @@
         },
         "images": {
           "main": "/images/coins/s-明末农民起义钱币/西王赏功/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/s-明末农民起义钱币/西王赏功/variant_1.jpg",
-              "alt": "西王赏功 - 金质",
-              "label": "金质"
-            },
-            {
-              "src": "/images/coins/s-明末农民起义钱币/西王赏功/variant_2.jpg",
-              "alt": "西王赏功 - 银质",
-              "label": "银质"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {

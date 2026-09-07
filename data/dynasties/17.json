@@ -29,18 +29,7 @@
         },
         "images": {
           "main": "/images/coins/u-清朝钱币/天命通宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/u-清朝钱币/天命通宝/variant_1.jpg",
-              "alt": "天命通宝 - 汉文小平",
-              "label": "汉文小平"
-            },
-            {
-              "src": "/images/coins/u-清朝钱币/天命通宝/variant_2.jpg",
-              "alt": "天命通宝 - 满文小平",
-              "label": "满文小平"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -127,23 +116,7 @@
         },
         "images": {
           "main": "/images/coins/u-清朝钱币/顺治通宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/u-清朝钱币/顺治通宝/variant_1.jpg",
-              "alt": "顺治通宝 - 光背版（仿明式）",
-              "label": "光背版（仿明式）"
-            },
-            {
-              "src": "/images/coins/u-清朝钱币/顺治通宝/variant_2.jpg",
-              "alt": "顺治通宝 - 背汉字\"户\"版",
-              "label": "背汉字\"户\"版"
-            },
-            {
-              "src": "/images/coins/u-清朝钱币/顺治通宝/variant_3.jpg",
-              "alt": "顺治通宝 - 背汉字\"工\"版",
-              "label": "背汉字\"工\"版"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -442,18 +415,7 @@
         },
         "images": {
           "main": "/images/coins/u-清朝钱币/康熙通宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/u-清朝钱币/康熙通宝/variant_1.jpg",
-              "alt": "康熙通宝 - 背满文\"宝泉\"版",
-              "label": "背满文\"宝泉\"版"
-            },
-            {
-              "src": "/images/coins/u-清朝钱币/康熙通宝/variant_2.jpg",
-              "alt": "康熙通宝 - 背满文\"宝源\"版",
-              "label": "背满文\"宝源\"版"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -661,18 +623,7 @@
         },
         "images": {
           "main": "/images/coins/u-清朝钱币/雍正通宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/u-清朝钱币/雍正通宝/variant_1.jpg",
-              "alt": "雍正通宝 - 背满文\"宝泉\"版",
-              "label": "背满文\"宝泉\"版"
-            },
-            {
-              "src": "/images/coins/u-清朝钱币/雍正通宝/variant_2.jpg",
-              "alt": "雍正通宝 - 背满文\"宝源\"版",
-              "label": "背满文\"宝源\"版"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -1116,18 +1067,7 @@
         },
         "images": {
           "main": "/images/coins/u-清朝钱币/嘉庆通宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/u-清朝钱币/嘉庆通宝/variant_1.jpg",
-              "alt": "嘉庆通宝 - 标准版",
-              "label": "标准版"
-            },
-            {
-              "src": "/images/coins/u-清朝钱币/嘉庆通宝/variant_2.jpg",
-              "alt": "嘉庆通宝 - 大样版",
-              "label": "大样版"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -1300,18 +1240,7 @@
         },
         "images": {
           "main": "/images/coins/u-清朝钱币/道光通宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/u-清朝钱币/道光通宝/variant_1.jpg",
-              "alt": "道光通宝 - 标准版",
-              "label": "标准版"
-            },
-            {
-              "src": "/images/coins/u-清朝钱币/道光通宝/variant_2.jpg",
-              "alt": "道光通宝 - 大样版",
-              "label": "大样版"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -1456,18 +1385,7 @@
         },
         "images": {
           "main": "/images/coins/u-清朝钱币/咸丰通宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/u-清朝钱币/咸丰通宝/variant_1.jpg",
-              "alt": "咸丰通宝 - 标准版",
-              "label": "标准版"
-            },
-            {
-              "src": "/images/coins/u-清朝钱币/咸丰通宝/variant_2.jpg",
-              "alt": "咸丰通宝 - 大字版",
-              "label": "大字版"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -1619,18 +1537,7 @@
         },
         "images": {
           "main": "/images/coins/u-清朝钱币/咸丰重宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/u-清朝钱币/咸丰重宝/variant_1.jpg",
-              "alt": "咸丰重宝 - 宝泉局当五",
-              "label": "宝泉局当五"
-            },
-            {
-              "src": "/images/coins/u-清朝钱币/咸丰重宝/variant_2.jpg",
-              "alt": "咸丰重宝 - 宝源局当五",
-              "label": "宝源局当五"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -1782,18 +1689,7 @@
         },
         "images": {
           "main": "/images/coins/u-清朝钱币/咸丰元宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/u-清朝钱币/咸丰元宝/variant_1.jpg",
-              "alt": "咸丰元宝 - 宝泉局当百",
-              "label": "宝泉局当百"
-            },
-            {
-              "src": "/images/coins/u-清朝钱币/咸丰元宝/variant_2.jpg",
-              "alt": "咸丰元宝 - 宝源局当百",
-              "label": "宝源局当百"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -2032,18 +1928,7 @@
         },
         "images": {
           "main": "/images/coins/u-清朝钱币/同治通宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/u-清朝钱币/同治通宝/variant_1.jpg",
-              "alt": "同治通宝 - 宝泉局",
-              "label": "宝泉局"
-            },
-            {
-              "src": "/images/coins/u-清朝钱币/同治通宝/variant_2.jpg",
-              "alt": "同治通宝 - 宝源局",
-              "label": "宝源局"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -2151,18 +2036,7 @@
         },
         "images": {
           "main": "/images/coins/u-清朝钱币/光绪通宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/u-清朝钱币/光绪通宝/variant_1.jpg",
-              "alt": "光绪通宝 - 宝泉局（翻砂）",
-              "label": "宝泉局（翻砂）"
-            },
-            {
-              "src": "/images/coins/u-清朝钱币/光绪通宝/variant_2.jpg",
-              "alt": "光绪通宝 - 宝源局（翻砂）",
-              "label": "宝源局（翻砂）"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -2270,23 +2144,7 @@
         },
         "images": {
           "main": "/images/coins/u-清朝钱币/宣统通宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/u-清朝钱币/宣统通宝/variant_1.jpg",
-              "alt": "宣统通宝 - 宝泉局（翻砂）",
-              "label": "宝泉局（翻砂）"
-            },
-            {
-              "src": "/images/coins/u-清朝钱币/宣统通宝/variant_2.jpg",
-              "alt": "宣统通宝 - 机制版",
-              "label": "机制版"
-            },
-            {
-              "src": "/images/coins/u-清朝钱币/宣统通宝/variant_3.jpg",
-              "alt": "宣统通宝 - 宝源局版",
-              "label": "宝源局版"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -2408,18 +2266,7 @@
         },
         "images": {
           "main": "/images/coins/u-清朝钱币/大清银币/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/u-清朝钱币/大清银币/variant_1.jpg",
-              "alt": "大清银币 - 长须龙（美品）",
-              "label": "长须龙（美品）"
-            },
-            {
-              "src": "/images/coins/u-清朝钱币/大清银币/variant_2.jpg",
-              "alt": "大清银币 - 长须龙（极美品）",
-              "label": "长须龙（极美品）"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -2494,23 +2341,7 @@
         },
         "images": {
           "main": "/images/coins/u-清朝钱币/光绪元宝铜币/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/u-清朝钱币/光绪元宝铜币/variant_1.jpg",
-              "alt": "光绪元宝铜币 - 户部当十",
-              "label": "户部当十"
-            },
-            {
-              "src": "/images/coins/u-清朝钱币/光绪元宝铜币/variant_2.jpg",
-              "alt": "光绪元宝铜币 - 广东省造当十",
-              "label": "广东省造当十"
-            },
-            {
-              "src": "/images/coins/u-清朝钱币/光绪元宝铜币/variant_3.jpg",
-              "alt": "光绪元宝铜币 - 湖北省造当十",
-              "label": "湖北省造当十"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -3348,18 +3179,7 @@
         },
         "images": {
           "main": "/images/coins/w-太平天国钱币/太平天国钱/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/w-太平天国钱币/太平天国钱/variant_1.jpg",
-              "alt": "太平天国钱 - 当十",
-              "label": "当十"
-            },
-            {
-              "src": "/images/coins/w-太平天国钱币/太平天国钱/variant_2.jpg",
-              "alt": "太平天国钱 - 当五十",
-              "label": "当五十"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {

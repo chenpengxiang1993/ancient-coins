@@ -29,18 +29,7 @@
         },
         "images": {
           "main": "/images/coins/j-唐朝钱币/开元通宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/j-唐朝钱币/开元通宝/variant_1.jpg",
-              "alt": "开元通宝 - 早期版（武德至贞观，621—649年）",
-              "label": "早期版（武德至贞观，621—649年）"
-            },
-            {
-              "src": "/images/coins/j-唐朝钱币/开元通宝/variant_2.jpg",
-              "alt": "开元通宝 - 正样版",
-              "label": "正样版"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -213,23 +202,7 @@
         },
         "images": {
           "main": "/images/coins/j-唐朝钱币/乾封泉宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/j-唐朝钱币/乾封泉宝/variant_1.jpg",
-              "alt": "乾封泉宝 - 普通版（流通品）",
-              "label": "普通版（流通品）"
-            },
-            {
-              "src": "/images/coins/j-唐朝钱币/乾封泉宝/variant_2.jpg",
-              "alt": "乾封泉宝 - 普通版（美品）",
-              "label": "普通版（美品）"
-            },
-            {
-              "src": "/images/coins/j-唐朝钱币/乾封泉宝/variant_3.jpg",
-              "alt": "乾封泉宝 - 普通版（极美品）",
-              "label": "普通版（极美品）"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -311,18 +284,7 @@
         },
         "images": {
           "main": "/images/coins/j-唐朝钱币/乾元重宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/j-唐朝钱币/乾元重宝/variant_1.jpg",
-              "alt": "乾元重宝 - 小平光背（流通品）",
-              "label": "小平光背（流通品）"
-            },
-            {
-              "src": "/images/coins/j-唐朝钱币/乾元重宝/variant_2.jpg",
-              "alt": "乾元重宝 - 小平光背（美品）",
-              "label": "小平光背（美品）"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -563,18 +525,7 @@
         },
         "images": {
           "main": "/images/coins/j-唐朝钱币/大历元宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/j-唐朝钱币/大历元宝/variant_1.jpg",
-              "alt": "大历元宝 - 普通版（流通品）",
-              "label": "普通版（流通品）"
-            },
-            {
-              "src": "/images/coins/j-唐朝钱币/大历元宝/variant_2.jpg",
-              "alt": "大历元宝 - 普通版（美品）",
-              "label": "普通版（美品）"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -663,18 +614,7 @@
         },
         "images": {
           "main": "/images/coins/j-唐朝钱币/建中通宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/j-唐朝钱币/建中通宝/variant_1.jpg",
-              "alt": "建中通宝 - 普通版（流通品）",
-              "label": "普通版（流通品）"
-            },
-            {
-              "src": "/images/coins/j-唐朝钱币/建中通宝/variant_2.jpg",
-              "alt": "建中通宝 - 普通版（美品）",
-              "label": "普通版（美品）"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -950,23 +890,7 @@
         },
         "images": {
           "main": "/images/coins/j-唐朝钱币/咸通玄宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/j-唐朝钱币/咸通玄宝/variant_1.jpg",
-              "alt": "咸通玄宝 - 普通版（流通品）",
-              "label": "普通版（流通品）"
-            },
-            {
-              "src": "/images/coins/j-唐朝钱币/咸通玄宝/variant_2.jpg",
-              "alt": "咸通玄宝 - 普通版（美品）",
-              "label": "普通版（美品）"
-            },
-            {
-              "src": "/images/coins/j-唐朝钱币/咸通玄宝/variant_3.jpg",
-              "alt": "咸通玄宝 - 普通版（极美品）",
-              "label": "普通版（极美品）"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {

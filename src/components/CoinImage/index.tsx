@@ -1,4 +1,4 @@
-import { memo, useState, useCallback, useMemo, useEffect } from 'react';
+import { memo, useState, useCallback, useEffect } from 'react';
 import type { CoinImages } from '../../types';
 import styles from './index.module.scss';
 
@@ -6,11 +6,9 @@ function getWebpSrc(src: string): string {
   return src.replace(/\.jpg$/, '.webp');
 }
 
-function getThumbSrc(src: string): string {
-  return src
-    .replace('/main.jpg', '/thumb.webp')
-    .replace('/variant_', '/thumb_variant_')
-    .replace(/\.jpg$/, '.webp');
+/** 缩略图地址（thumb.webp），后续列表接入缩略图时使用 */
+export function getThumbSrc(src: string): string {
+  return src.replace('/main.jpg', '/thumb.webp');
 }
 
 interface PictureImgProps {
@@ -21,18 +19,15 @@ interface PictureImgProps {
   onLoad?: () => void;
   onError?: () => void;
   onClick?: () => void;
-  useThumb?: boolean;
 }
 
-function PictureImg({ src, alt, className, loading, onLoad, onError, onClick, useThumb }: PictureImgProps) {
-  const imgSrc = useThumb ? getThumbSrc(src) : src;
-  const webpSrc = useThumb ? getThumbSrc(src) : getWebpSrc(src);
+function PictureImg({ src, alt, className, loading, onLoad, onError, onClick }: PictureImgProps) {
   return (
     <picture>
-      <source srcSet={webpSrc} type="image/webp" />
-      <source srcSet={imgSrc} type="image/jpeg" />
+      <source srcSet={getWebpSrc(src)} type="image/webp" />
+      <source srcSet={src} type="image/jpeg" />
       <img
-        src={imgSrc}
+        src={src}
         alt={alt}
         className={className}
         loading={loading}
@@ -49,29 +44,18 @@ interface CoinImageProps {
   images: CoinImages;
 }
 
+/** 钱币主图：webp 优先（jpg 回退）、懒加载、点击放大（版别图已移除，仅展示主图） */
 export default memo(function CoinImage({ coinName, images }: CoinImageProps) {
   const hasMainImage = Boolean(images.main);
-  const [activeSrc, setActiveSrc] = useState<string>(images.main);
   const [mainLoaded, setMainLoaded] = useState(false);
   const [mainError, setMainError] = useState(!hasMainImage);
-  const [variantErrors, setVariantErrors] = useState<Set<number>>(new Set());
   const [zoomed, setZoomed] = useState(false);
 
   useEffect(() => {
-    setActiveSrc(images.main);
     setMainLoaded(false);
     setMainError(!Boolean(images.main));
-    setVariantErrors(new Set());
     setZoomed(false);
   }, [images.main]);
-
-  const allImages = useMemo(() => {
-    const list = hasMainImage ? [{ src: images.main, alt: coinName, label: '主图' }] : [];
-    for (const v of images.variants) {
-      list.push({ src: v.src, alt: v.alt, label: v.label ?? v.alt });
-    }
-    return list;
-  }, [images, coinName, hasMainImage]);
 
   const handleMainLoad = useCallback(() => {
     setMainLoaded(true);
@@ -81,16 +65,6 @@ export default memo(function CoinImage({ coinName, images }: CoinImageProps) {
   const handleMainError = useCallback(() => {
     setMainError(true);
     setMainLoaded(true);
-  }, []);
-
-  const handleVariantError = useCallback((idx: number) => {
-    setVariantErrors(prev => new Set(prev).add(idx));
-  }, []);
-
-  const handleThumbClick = useCallback((src: string) => {
-    setActiveSrc(src);
-    setMainLoaded(false);
-    setMainError(false);
   }, []);
 
   const handleImageClick = useCallback(() => {
@@ -109,14 +83,7 @@ export default memo(function CoinImage({ coinName, images }: CoinImageProps) {
     }
   }, []);
 
-  const activeLabel = useMemo(
-    () => allImages.find(img => img.src === activeSrc)?.label || '主图',
-    [allImages, activeSrc]
-  );
-
-  const hasVariantImages = images.variants.length > 0;
   const showPlaceholder = mainError || !hasMainImage;
-  const isVariant = activeSrc !== images.main;
 
   return (
     <div className={styles.coinImage}>
@@ -135,8 +102,8 @@ export default memo(function CoinImage({ coinName, images }: CoinImageProps) {
               </div>
             )}
             <PictureImg
-              src={activeSrc}
-              alt={activeLabel}
+              src={images.main}
+              alt={coinName}
               className={`${styles.coinImageImg} ${mainLoaded ? styles.coinImageImgVisible : ''}`}
               onLoad={handleMainLoad}
               onError={handleMainError}
@@ -152,52 +119,19 @@ export default memo(function CoinImage({ coinName, images }: CoinImageProps) {
         )}
       </div>
 
-      {hasVariantImages && (
-        <div className={styles.coinImageLabel}>
-          {isVariant ? `${coinName}·${activeLabel}` : activeLabel}
-        </div>
-      )}
-
-      {hasVariantImages && (
-        <div className={styles.coinImageThumbs}>
-          {allImages.map((img, idx) => {
-            const variantIdx = hasMainImage ? idx - 1 : idx;
-            if (idx > 0 && variantIdx >= 0 && variantErrors.has(variantIdx)) return null;
-            return (
-              <button
-                key={img.src}
-                className={`${styles.coinImageThumb} ${activeSrc === img.src ? styles.coinImageThumbActive : ''}`}
-                onClick={() => handleThumbClick(img.src)}
-                title={img.label}
-              >
-                <PictureImg
-                  src={img.src}
-                  alt={img.alt}
-                  className={styles.coinImageThumbImg}
-                  onError={variantIdx >= 0 ? () => handleVariantError(variantIdx) : undefined}
-                  loading="lazy"
-                  useThumb
-                />
-                <span className={styles.coinImageThumbLabel}>{img.label}</span>
-              </button>
-            );
-          })}
-        </div>
-      )}
-
       {zoomed && (
         <div
           className={styles.coinImageOverlay}
           onClick={handleZoomClose}
           onKeyDown={handleZoomKeyDown}
           role="dialog"
-          aria-label={`${coinName} ${activeLabel} 放大查看`}
+          aria-label={`${coinName} 主图放大查看`}
           tabIndex={-1}
         >
           <div className={styles.coinImageOverlayContent} onClick={e => e.stopPropagation()}>
             <PictureImg
-              src={activeSrc}
-              alt={activeLabel}
+              src={images.main}
+              alt={coinName}
               className={styles.coinImageOverlayImg}
             />
             <button className={styles.coinImageOverlayClose} onClick={handleZoomClose} aria-label="关闭">

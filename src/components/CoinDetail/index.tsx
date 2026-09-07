@@ -1,5 +1,6 @@
 import { memo, useMemo } from 'react';
 import type { Coin, CoinDetail as CoinDetailType, FeaturesGroup, VariantTableRow } from '../../types';
+import CoinImage from '../CoinImage';
 import { formatContent } from '../../utils/format';
 import { parseVariantGrade, standardizeRarityText } from '../../utils/grade';
 import { getRarityLevel, isTop50Rare } from '../../utils/rarity';
@@ -68,6 +69,7 @@ export default memo(function CoinDetail({ coin, detail, loading, error, onRetry 
 
         {detail && (
           <>
+            {detail.images.main && <CoinImage coinName={coin.name} images={detail.images} />}
             <DetailSection title="铸造时间" content={detail.castingTime} icon="🕐" />
             <DetailSection title="材质成分" content={detail.material} icon="⚗" />
             <DetailSection title="尺寸重量" content={detail.dimensions} icon="📏" />

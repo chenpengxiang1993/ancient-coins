@@ -69,18 +69,7 @@
         },
         "images": {
           "main": "/images/coins/n-西夏钱币/大安宝钱/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/n-西夏钱币/大安宝钱/variant_1.jpg",
-              "alt": "大安宝钱 - 西夏文（光背）",
-              "label": "西夏文（光背）"
-            },
-            {
-              "src": "/images/coins/n-西夏钱币/大安宝钱/variant_2.jpg",
-              "alt": "大安宝钱 - 西夏文背月版",
-              "label": "西夏文背月版"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -167,18 +156,7 @@
         },
         "images": {
           "main": "/images/coins/n-西夏钱币/贞观宝钱/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/n-西夏钱币/贞观宝钱/variant_1.jpg",
-              "alt": "贞观宝钱 - 西夏文（旋读）",
-              "label": "西夏文（旋读）"
-            },
-            {
-              "src": "/images/coins/n-西夏钱币/贞观宝钱/variant_2.jpg",
-              "alt": "贞观宝钱 - 版别2",
-              "label": "版别2"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -218,18 +196,7 @@
         },
         "images": {
           "main": "/images/coins/n-西夏钱币/元德通宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/n-西夏钱币/元德通宝/variant_1.jpg",
-              "alt": "元德通宝 - 小平楷书（真书）",
-              "label": "小平楷书（真书）"
-            },
-            {
-              "src": "/images/coins/n-西夏钱币/元德通宝/variant_2.jpg",
-              "alt": "元德通宝 - 小平隶书",
-              "label": "小平隶书"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -276,18 +243,7 @@
         },
         "images": {
           "main": "/images/coins/n-西夏钱币/元德重宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/n-西夏钱币/元德重宝/variant_1.jpg",
-              "alt": "元德重宝 - 折二楷书",
-              "label": "折二楷书"
-            },
-            {
-              "src": "/images/coins/n-西夏钱币/元德重宝/variant_2.jpg",
-              "alt": "元德重宝 - 版别2",
-              "label": "版别2"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -327,23 +283,7 @@
         },
         "images": {
           "main": "/images/coins/n-西夏钱币/天盛元宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/n-西夏钱币/天盛元宝/variant_1.jpg",
-              "alt": "天盛元宝 - 小平铜钱（楷书）",
-              "label": "小平铜钱（楷书）"
-            },
-            {
-              "src": "/images/coins/n-西夏钱币/天盛元宝/variant_2.jpg",
-              "alt": "天盛元宝 - 铁钱",
-              "label": "铁钱"
-            },
-            {
-              "src": "/images/coins/n-西夏钱币/天盛元宝/variant_3.jpg",
-              "alt": "天盛元宝 - 背\"西\"铁母（铜质母钱）",
-              "label": "背\"西\"铁母（铜质母钱）"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -397,18 +337,7 @@
         },
         "images": {
           "main": "/images/coins/n-西夏钱币/乾祐元宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/n-西夏钱币/乾祐元宝/variant_1.jpg",
-              "alt": "乾祐元宝 - 小平铜钱（楷书、行书对钱）",
-              "label": "小平铜钱（楷书、行书对钱）"
-            },
-            {
-              "src": "/images/coins/n-西夏钱币/乾祐元宝/variant_2.jpg",
-              "alt": "乾祐元宝 - 铁钱",
-              "label": "铁钱"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -462,18 +391,7 @@
         },
         "images": {
           "main": "/images/coins/n-西夏钱币/乾祐宝钱/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/n-西夏钱币/乾祐宝钱/variant_1.jpg",
-              "alt": "乾祐宝钱 - 西夏文（旋读）",
-              "label": "西夏文（旋读）"
-            },
-            {
-              "src": "/images/coins/n-西夏钱币/乾祐宝钱/variant_2.jpg",
-              "alt": "乾祐宝钱 - 母钱",
-              "label": "母钱"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -520,18 +438,7 @@
         },
         "images": {
           "main": "/images/coins/n-西夏钱币/天庆宝钱/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/n-西夏钱币/天庆宝钱/variant_1.jpg",
-              "alt": "天庆宝钱 - 西夏文（旋读）",
-              "label": "西夏文（旋读）"
-            },
-            {
-              "src": "/images/coins/n-西夏钱币/天庆宝钱/variant_2.jpg",
-              "alt": "天庆宝钱 - 版别2",
-              "label": "版别2"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -618,18 +525,7 @@
         },
         "images": {
           "main": "/images/coins/n-西夏钱币/皇建元宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/n-西夏钱币/皇建元宝/variant_1.jpg",
-              "alt": "皇建元宝 - 小平楷书",
-              "label": "小平楷书"
-            },
-            {
-              "src": "/images/coins/n-西夏钱币/皇建元宝/variant_2.jpg",
-              "alt": "皇建元宝 - 小字大样版",
-              "label": "小字大样版"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -676,23 +572,7 @@
         },
         "images": {
           "main": "/images/coins/n-西夏钱币/光定元宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/n-西夏钱币/光定元宝/variant_1.jpg",
-              "alt": "光定元宝 - 小平楷书（光背）",
-              "label": "小平楷书（光背）"
-            },
-            {
-              "src": "/images/coins/n-西夏钱币/光定元宝/variant_2.jpg",
-              "alt": "光定元宝 - 小平楷书（宽缘）",
-              "label": "小平楷书（宽缘）"
-            },
-            {
-              "src": "/images/coins/n-西夏钱币/光定元宝/variant_3.jpg",
-              "alt": "光定元宝 - 小平篆书（孤品）",
-              "label": "小平篆书（孤品）"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {

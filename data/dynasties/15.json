@@ -29,18 +29,7 @@
         },
         "images": {
           "main": "/images/coins/q-元朝钱币/大朝通宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/q-元朝钱币/大朝通宝/variant_1.jpg",
-              "alt": "大朝通宝 - 铜质小平",
-              "label": "铜质小平"
-            },
-            {
-              "src": "/images/coins/q-元朝钱币/大朝通宝/variant_2.jpg",
-              "alt": "大朝通宝 - 银质小平",
-              "label": "银质小平"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -141,23 +130,7 @@
         },
         "images": {
           "main": "/images/coins/q-元朝钱币/中统元宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/q-元朝钱币/中统元宝/variant_1.jpg",
-              "alt": "中统元宝 - 楷书光背",
-              "label": "楷书光背"
-            },
-            {
-              "src": "/images/coins/q-元朝钱币/中统元宝/variant_2.jpg",
-              "alt": "中统元宝 - 楷书背四星",
-              "label": "楷书背四星"
-            },
-            {
-              "src": "/images/coins/q-元朝钱币/中统元宝/variant_3.jpg",
-              "alt": "中统元宝 - 篆书（旋读）",
-              "label": "篆书（旋读）"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -218,23 +191,7 @@
         },
         "images": {
           "main": "/images/coins/q-元朝钱币/元贞通宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/q-元朝钱币/元贞通宝/variant_1.jpg",
-              "alt": "元贞通宝 - 汉文小平",
-              "label": "汉文小平"
-            },
-            {
-              "src": "/images/coins/q-元朝钱币/元贞通宝/variant_2.jpg",
-              "alt": "元贞通宝 - 汉文折二",
-              "label": "汉文折二"
-            },
-            {
-              "src": "/images/coins/q-元朝钱币/元贞通宝/variant_3.jpg",
-              "alt": "元贞通宝 - 蒙文折三",
-              "label": "蒙文折三"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -295,18 +252,7 @@
         },
         "images": {
           "main": "/images/coins/q-元朝钱币/大德通宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/q-元朝钱币/大德通宝/variant_1.jpg",
-              "alt": "大德通宝 - 汉文小平",
-              "label": "汉文小平"
-            },
-            {
-              "src": "/images/coins/q-元朝钱币/大德通宝/variant_2.jpg",
-              "alt": "大德通宝 - 汉文折二",
-              "label": "汉文折二"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -367,23 +313,7 @@
         },
         "images": {
           "main": "/images/coins/q-元朝钱币/至大通宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/q-元朝钱币/至大通宝/variant_1.jpg",
-              "alt": "至大通宝 - 小平（光背）",
-              "label": "小平（光背）"
-            },
-            {
-              "src": "/images/coins/q-元朝钱币/至大通宝/variant_2.jpg",
-              "alt": "至大通宝 - 折二",
-              "label": "折二"
-            },
-            {
-              "src": "/images/coins/q-元朝钱币/至大通宝/variant_3.jpg",
-              "alt": "至大通宝 - 版别3",
-              "label": "版别3"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -430,18 +360,7 @@
         },
         "images": {
           "main": "/images/coins/q-元朝钱币/至大元宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/q-元朝钱币/至大元宝/variant_1.jpg",
-              "alt": "至大元宝 - 供养钱（小型）",
-              "label": "供养钱（小型）"
-            },
-            {
-              "src": "/images/coins/q-元朝钱币/至大元宝/variant_2.jpg",
-              "alt": "至大元宝 - 版别2",
-              "label": "版别2"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -942,18 +861,7 @@
         },
         "images": {
           "main": "/images/coins/q-元朝钱币/至元通宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/q-元朝钱币/至元通宝/variant_1.jpg",
-              "alt": "至元通宝 - 小平楷书版",
-              "label": "小平楷书版"
-            },
-            {
-              "src": "/images/coins/q-元朝钱币/至元通宝/variant_2.jpg",
-              "alt": "至元通宝 - 折二楷书版",
-              "label": "折二楷书版"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -1054,23 +962,7 @@
         },
         "images": {
           "main": "/images/coins/q-元朝钱币/至正通宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/q-元朝钱币/至正通宝/variant_1.jpg",
-              "alt": "至正通宝 - 小平楷书背\"卯\"（至正十一年，1351年）",
-              "label": "小平楷书背\"卯\"（至正十一年，1351年）"
-            },
-            {
-              "src": "/images/coins/q-元朝钱币/至正通宝/variant_2.jpg",
-              "alt": "至正通宝 - 小平楷书背\"辰\"（至正十二年，1352年）",
-              "label": "小平楷书背\"辰\"（至正十二年，1352年）"
-            },
-            {
-              "src": "/images/coins/q-元朝钱币/至正通宝/variant_3.jpg",
-              "alt": "至正通宝 - 小平楷书背\"巳\"（至正十三年，1353年）",
-              "label": "小平楷书背\"巳\"（至正十三年，1353年）"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -1166,18 +1058,7 @@
         },
         "images": {
           "main": "/images/coins/q-元朝钱币/至正之宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/q-元朝钱币/至正之宝/variant_1.jpg",
-              "alt": "至正之宝 - 权钞伍分",
-              "label": "权钞伍分"
-            },
-            {
-              "src": "/images/coins/q-元朝钱币/至正之宝/variant_2.jpg",
-              "alt": "至正之宝 - 权钞壹钱",
-              "label": "权钞壹钱"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {

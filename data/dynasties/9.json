@@ -29,23 +29,7 @@
         },
         "images": {
           "main": "/images/coins/k-五代十国钱币/开平通宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/k-五代十国钱币/开平通宝/variant_1.jpg",
-              "alt": "开平通宝 - 折十大钱",
-              "label": "折十大钱"
-            },
-            {
-              "src": "/images/coins/k-五代十国钱币/开平通宝/variant_2.jpg",
-              "alt": "开平通宝 - 美品版",
-              "label": "美品版"
-            },
-            {
-              "src": "/images/coins/k-五代十国钱币/开平通宝/variant_3.jpg",
-              "alt": "开平通宝 - 版别3",
-              "label": "版别3"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -132,18 +116,7 @@
         },
         "images": {
           "main": "/images/coins/k-五代十国钱币/天成元宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/k-五代十国钱币/天成元宝/variant_1.jpg",
-              "alt": "天成元宝 - 小平钱",
-              "label": "小平钱"
-            },
-            {
-              "src": "/images/coins/k-五代十国钱币/天成元宝/variant_2.jpg",
-              "alt": "天成元宝 - 版别2",
-              "label": "版别2"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -183,18 +156,7 @@
         },
         "images": {
           "main": "/images/coins/k-五代十国钱币/天福元宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/k-五代十国钱币/天福元宝/variant_1.jpg",
-              "alt": "天福元宝 - 官铸版（普品）",
-              "label": "官铸版（普品）"
-            },
-            {
-              "src": "/images/coins/k-五代十国钱币/天福元宝/variant_2.jpg",
-              "alt": "天福元宝 - 官铸版（美品）",
-              "label": "官铸版（美品）"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -255,18 +217,7 @@
         },
         "images": {
           "main": "/images/coins/k-五代十国钱币/汉元通宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/k-五代十国钱币/汉元通宝/variant_1.jpg",
-              "alt": "汉元通宝 - 小平楷书版（普品）",
-              "label": "小平楷书版（普品）"
-            },
-            {
-              "src": "/images/coins/k-五代十国钱币/汉元通宝/variant_2.jpg",
-              "alt": "汉元通宝 - 小平楷书版（美品）",
-              "label": "小平楷书版（美品）"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -334,23 +285,7 @@
         },
         "images": {
           "main": "/images/coins/k-五代十国钱币/周元通宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/k-五代十国钱币/周元通宝/variant_1.jpg",
-              "alt": "周元通宝 - 小平楷书版（普品）",
-              "label": "小平楷书版（普品）"
-            },
-            {
-              "src": "/images/coins/k-五代十国钱币/周元通宝/variant_2.jpg",
-              "alt": "周元通宝 - 小平楷书版（美品）",
-              "label": "小平楷书版（美品）"
-            },
-            {
-              "src": "/images/coins/k-五代十国钱币/周元通宝/variant_3.jpg",
-              "alt": "周元通宝 - 大字版",
-              "label": "大字版"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -439,18 +374,7 @@
         },
         "images": {
           "main": "/images/coins/k-五代十国钱币/永平元宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/k-五代十国钱币/永平元宝/variant_1.jpg",
-              "alt": "永平元宝 - 小平钱",
-              "label": "小平钱"
-            },
-            {
-              "src": "/images/coins/k-五代十国钱币/永平元宝/variant_2.jpg",
-              "alt": "永平元宝 - 版别2",
-              "label": "版别2"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -490,18 +414,7 @@
         },
         "images": {
           "main": "/images/coins/k-五代十国钱币/通正元宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/k-五代十国钱币/通正元宝/variant_1.jpg",
-              "alt": "通正元宝 - 小平钱",
-              "label": "小平钱"
-            },
-            {
-              "src": "/images/coins/k-五代十国钱币/通正元宝/variant_2.jpg",
-              "alt": "通正元宝 - 版别2",
-              "label": "版别2"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -541,18 +454,7 @@
         },
         "images": {
           "main": "/images/coins/k-五代十国钱币/天汉元宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/k-五代十国钱币/天汉元宝/variant_1.jpg",
-              "alt": "天汉元宝 - 小平钱",
-              "label": "小平钱"
-            },
-            {
-              "src": "/images/coins/k-五代十国钱币/天汉元宝/variant_2.jpg",
-              "alt": "天汉元宝 - 版别2",
-              "label": "版别2"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -592,18 +494,7 @@
         },
         "images": {
           "main": "/images/coins/k-五代十国钱币/光天元宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/k-五代十国钱币/光天元宝/variant_1.jpg",
-              "alt": "光天元宝 - 小平钱",
-              "label": "小平钱"
-            },
-            {
-              "src": "/images/coins/k-五代十国钱币/光天元宝/variant_2.jpg",
-              "alt": "光天元宝 - 版别2",
-              "label": "版别2"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -643,23 +534,7 @@
         },
         "images": {
           "main": "/images/coins/k-五代十国钱币/乾德元宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/k-五代十国钱币/乾德元宝/variant_1.jpg",
-              "alt": "乾德元宝 - 小平楷书版",
-              "label": "小平楷书版"
-            },
-            {
-              "src": "/images/coins/k-五代十国钱币/乾德元宝/variant_2.jpg",
-              "alt": "乾德元宝 - 版别2",
-              "label": "版别2"
-            },
-            {
-              "src": "/images/coins/k-五代十国钱币/乾德元宝/variant_3.jpg",
-              "alt": "乾德元宝 - 版别3",
-              "label": "版别3"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -699,18 +574,7 @@
         },
         "images": {
           "main": "/images/coins/k-五代十国钱币/咸康元宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/k-五代十国钱币/咸康元宝/variant_1.jpg",
-              "alt": "咸康元宝 - 小平钱",
-              "label": "小平钱"
-            },
-            {
-              "src": "/images/coins/k-五代十国钱币/咸康元宝/variant_2.jpg",
-              "alt": "咸康元宝 - 版别2",
-              "label": "版别2"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -750,18 +614,7 @@
         },
         "images": {
           "main": "/images/coins/k-五代十国钱币/永隆通宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/k-五代十国钱币/永隆通宝/variant_1.jpg",
-              "alt": "永隆通宝 - 铁钱光背",
-              "label": "铁钱光背"
-            },
-            {
-              "src": "/images/coins/k-五代十国钱币/永隆通宝/variant_2.jpg",
-              "alt": "永隆通宝 - 铁钱背\"闽\"",
-              "label": "铁钱背\"闽\""
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -822,23 +675,7 @@
         },
         "images": {
           "main": "/images/coins/k-五代十国钱币/天德重宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/k-五代十国钱币/天德重宝/variant_1.jpg",
-              "alt": "天德重宝 - 铁品背\"殷\"",
-              "label": "铁品背\"殷\""
-            },
-            {
-              "src": "/images/coins/k-五代十国钱币/天德重宝/variant_2.jpg",
-              "alt": "天德重宝 - 铜品背\"殷\"",
-              "label": "铜品背\"殷\""
-            },
-            {
-              "src": "/images/coins/k-五代十国钱币/天德重宝/variant_3.jpg",
-              "alt": "天德重宝 - 版别3",
-              "label": "版别3"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -885,23 +722,7 @@
         },
         "images": {
           "main": "/images/coins/k-五代十国钱币/天德通宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/k-五代十国钱币/天德通宝/variant_1.jpg",
-              "alt": "天德通宝 - 折十大钱（铁）",
-              "label": "折十大钱（铁）"
-            },
-            {
-              "src": "/images/coins/k-五代十国钱币/天德通宝/variant_2.jpg",
-              "alt": "天德通宝 - 版别2",
-              "label": "版别2"
-            },
-            {
-              "src": "/images/coins/k-五代十国钱币/天德通宝/variant_3.jpg",
-              "alt": "天德通宝 - 版别3",
-              "label": "版别3"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -941,18 +762,7 @@
         },
         "images": {
           "main": "/images/coins/k-五代十国钱币/天策府宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/k-五代十国钱币/天策府宝/variant_1.jpg",
-              "alt": "天策府宝 - 铜品（普品）",
-              "label": "铜品（普品）"
-            },
-            {
-              "src": "/images/coins/k-五代十国钱币/天策府宝/variant_2.jpg",
-              "alt": "天策府宝 - 铜品（美品）",
-              "label": "铜品（美品）"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -1074,18 +884,7 @@
         },
         "images": {
           "main": "/images/coins/k-五代十国钱币/广政通宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/k-五代十国钱币/广政通宝/variant_1.jpg",
-              "alt": "广政通宝 - 铜品",
-              "label": "铜品"
-            },
-            {
-              "src": "/images/coins/k-五代十国钱币/广政通宝/variant_2.jpg",
-              "alt": "广政通宝 - 铁品",
-              "label": "铁品"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -1132,18 +931,7 @@
         },
         "images": {
           "main": "/images/coins/k-五代十国钱币/大蜀通宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/k-五代十国钱币/大蜀通宝/variant_1.jpg",
-              "alt": "大蜀通宝 - 小平钱",
-              "label": "小平钱"
-            },
-            {
-              "src": "/images/coins/k-五代十国钱币/大蜀通宝/variant_2.jpg",
-              "alt": "大蜀通宝 - 版别2",
-              "label": "版别2"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -1183,18 +971,7 @@
         },
         "images": {
           "main": "/images/coins/k-五代十国钱币/保大元宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/k-五代十国钱币/保大元宝/variant_1.jpg",
-              "alt": "保大元宝 - 背\"天\"大钱（普品）",
-              "label": "背\"天\"大钱（普品）"
-            },
-            {
-              "src": "/images/coins/k-五代十国钱币/保大元宝/variant_2.jpg",
-              "alt": "保大元宝 - 背\"天\"大钱（美品）",
-              "label": "背\"天\"大钱（美品）"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -1241,18 +1018,7 @@
         },
         "images": {
           "main": "/images/coins/k-五代十国钱币/永通泉货/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/k-五代十国钱币/永通泉货/variant_1.jpg",
-              "alt": "永通泉货 - 当十（隶书）",
-              "label": "当十（隶书）"
-            },
-            {
-              "src": "/images/coins/k-五代十国钱币/永通泉货/variant_2.jpg",
-              "alt": "永通泉货 - 折五（篆书\"二水永\"）",
-              "label": "折五（篆书\"二水永\"）"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -1299,18 +1065,7 @@
         },
         "images": {
           "main": "/images/coins/k-五代十国钱币/大唐通宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/k-五代十国钱币/大唐通宝/variant_1.jpg",
-              "alt": "大唐通宝 - 小平钱",
-              "label": "小平钱"
-            },
-            {
-              "src": "/images/coins/k-五代十国钱币/大唐通宝/variant_2.jpg",
-              "alt": "大唐通宝 - 版别2",
-              "label": "版别2"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -1350,23 +1105,7 @@
         },
         "images": {
           "main": "/images/coins/k-五代十国钱币/唐国通宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/k-五代十国钱币/唐国通宝/variant_1.jpg",
-              "alt": "唐国通宝 - 楷书版",
-              "label": "楷书版"
-            },
-            {
-              "src": "/images/coins/k-五代十国钱币/唐国通宝/variant_2.jpg",
-              "alt": "唐国通宝 - 篆书版",
-              "label": "篆书版"
-            },
-            {
-              "src": "/images/coins/k-五代十国钱币/唐国通宝/variant_3.jpg",
-              "alt": "唐国通宝 - 隶书版",
-              "label": "隶书版"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -1521,18 +1260,7 @@
         },
         "images": {
           "main": "/images/coins/k-五代十国钱币/乾亨通宝-南汉/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/k-五代十国钱币/乾亨通宝-南汉/variant_1.jpg",
-              "alt": "乾亨通宝-南汉 - 铜品",
-              "label": "铜品"
-            },
-            {
-              "src": "/images/coins/k-五代十国钱币/乾亨通宝-南汉/variant_2.jpg",
-              "alt": "乾亨通宝-南汉 - 铅品",
-              "label": "铅品"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -1579,18 +1307,7 @@
         },
         "images": {
           "main": "/images/coins/k-五代十国钱币/乾亨重宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/k-五代十国钱币/乾亨重宝/variant_1.jpg",
-              "alt": "乾亨重宝 - 铜品",
-              "label": "铜品"
-            },
-            {
-              "src": "/images/coins/k-五代十国钱币/乾亨重宝/variant_2.jpg",
-              "alt": "乾亨重宝 - 铅品（普品）",
-              "label": "铅品（普品）"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {

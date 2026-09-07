@@ -29,18 +29,7 @@
         },
         "images": {
           "main": "/images/coins/p-南宋钱币/建炎通宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/p-南宋钱币/建炎通宝/variant_1.jpg",
-              "alt": "建炎通宝 - 小平钱",
-              "label": "小平钱"
-            },
-            {
-              "src": "/images/coins/p-南宋钱币/建炎通宝/variant_2.jpg",
-              "alt": "建炎通宝 - 折二型",
-              "label": "折二型"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -101,18 +90,7 @@
         },
         "images": {
           "main": "/images/coins/p-南宋钱币/建炎元宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/p-南宋钱币/建炎元宝/variant_1.jpg",
-              "alt": "建炎元宝 - 小平钱",
-              "label": "小平钱"
-            },
-            {
-              "src": "/images/coins/p-南宋钱币/建炎元宝/variant_2.jpg",
-              "alt": "建炎元宝 - 版别2",
-              "label": "版别2"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -152,23 +130,7 @@
         },
         "images": {
           "main": "/images/coins/p-南宋钱币/建炎重宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/p-南宋钱币/建炎重宝/variant_1.jpg",
-              "alt": "建炎重宝 - 铜品（折三，篆书）",
-              "label": "铜品（折三，篆书）"
-            },
-            {
-              "src": "/images/coins/p-南宋钱币/建炎重宝/variant_2.jpg",
-              "alt": "建炎重宝 - 铁品（折三，篆书）",
-              "label": "铁品（折三，篆书）"
-            },
-            {
-              "src": "/images/coins/p-南宋钱币/建炎重宝/variant_3.jpg",
-              "alt": "建炎重宝 - 版别3",
-              "label": "版别3"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -215,18 +177,7 @@
         },
         "images": {
           "main": "/images/coins/p-南宋钱币/绍兴通宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/p-南宋钱币/绍兴通宝/variant_1.jpg",
-              "alt": "绍兴通宝 - 小平楷书版",
-              "label": "小平楷书版"
-            },
-            {
-              "src": "/images/coins/p-南宋钱币/绍兴通宝/variant_2.jpg",
-              "alt": "绍兴通宝 - 折二楷书版",
-              "label": "折二楷书版"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -280,23 +231,7 @@
         },
         "images": {
           "main": "/images/coins/p-南宋钱币/绍兴元宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/p-南宋钱币/绍兴元宝/variant_1.jpg",
-              "alt": "绍兴元宝 - 小平篆书版",
-              "label": "小平篆书版"
-            },
-            {
-              "src": "/images/coins/p-南宋钱币/绍兴元宝/variant_2.jpg",
-              "alt": "绍兴元宝 - 小平楷书版",
-              "label": "小平楷书版"
-            },
-            {
-              "src": "/images/coins/p-南宋钱币/绍兴元宝/variant_3.jpg",
-              "alt": "绍兴元宝 - 折二篆书版",
-              "label": "折二篆书版"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -364,23 +299,7 @@
         },
         "images": {
           "main": "/images/coins/p-南宋钱币/隆兴元宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/p-南宋钱币/隆兴元宝/variant_1.jpg",
-              "alt": "隆兴元宝 - 小平篆书版",
-              "label": "小平篆书版"
-            },
-            {
-              "src": "/images/coins/p-南宋钱币/隆兴元宝/variant_2.jpg",
-              "alt": "隆兴元宝 - 小平楷书版",
-              "label": "小平楷书版"
-            },
-            {
-              "src": "/images/coins/p-南宋钱币/隆兴元宝/variant_3.jpg",
-              "alt": "隆兴元宝 - 折二篆书版",
-              "label": "折二篆书版"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -521,18 +440,7 @@
         },
         "images": {
           "main": "/images/coins/p-南宋钱币/乾道元宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/p-南宋钱币/乾道元宝/variant_1.jpg",
-              "alt": "乾道元宝 - 小平篆书版",
-              "label": "小平篆书版"
-            },
-            {
-              "src": "/images/coins/p-南宋钱币/乾道元宝/variant_2.jpg",
-              "alt": "乾道元宝 - 小平楷书版",
-              "label": "小平楷书版"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -720,23 +628,7 @@
         },
         "images": {
           "main": "/images/coins/p-南宋钱币/淳熙元宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/p-南宋钱币/淳熙元宝/variant_1.jpg",
-              "alt": "淳熙元宝 - 篆书无纪年",
-              "label": "篆书无纪年"
-            },
-            {
-              "src": "/images/coins/p-南宋钱币/淳熙元宝/variant_2.jpg",
-              "alt": "淳熙元宝 - 楷书无纪年",
-              "label": "楷书无纪年"
-            },
-            {
-              "src": "/images/coins/p-南宋钱币/淳熙元宝/variant_3.jpg",
-              "alt": "淳熙元宝 - 背\"柒\"（淳熙七年，1180年）",
-              "label": "背\"柒\"（淳熙七年，1180年）"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -949,23 +841,7 @@
         },
         "images": {
           "main": "/images/coins/p-南宋钱币/绍熙元宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/p-南宋钱币/绍熙元宝/variant_1.jpg",
-              "alt": "绍熙元宝 - 小平楷书背\"元\"（绍熙元年，1190年）",
-              "label": "小平楷书背\"元\"（绍熙元年，1190年）"
-            },
-            {
-              "src": "/images/coins/p-南宋钱币/绍熙元宝/variant_2.jpg",
-              "alt": "绍熙元宝 - 小平楷书背\"二\"（绍熙二年，1191年）",
-              "label": "小平楷书背\"二\"（绍熙二年，1191年）"
-            },
-            {
-              "src": "/images/coins/p-南宋钱币/绍熙元宝/variant_3.jpg",
-              "alt": "绍熙元宝 - 小平楷书背\"三\"（绍熙三年，1192年）",
-              "label": "小平楷书背\"三\"（绍熙三年，1192年）"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -1115,18 +991,7 @@
         },
         "images": {
           "main": "/images/coins/p-南宋钱币/庆元通宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/p-南宋钱币/庆元通宝/variant_1.jpg",
-              "alt": "庆元通宝 - 小平楷书背\"元\"（庆元元年，1195年）",
-              "label": "小平楷书背\"元\"（庆元元年，1195年）"
-            },
-            {
-              "src": "/images/coins/p-南宋钱币/庆元通宝/variant_2.jpg",
-              "alt": "庆元通宝 - 小平楷书背\"二\"（庆元二年，1196年）",
-              "label": "小平楷书背\"二\"（庆元二年，1196年）"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -1255,23 +1120,7 @@
         },
         "images": {
           "main": "/images/coins/p-南宋钱币/嘉泰通宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/p-南宋钱币/嘉泰通宝/variant_1.jpg",
-              "alt": "嘉泰通宝 - 小平楷书背\"元\"（嘉泰元年，1201年）",
-              "label": "小平楷书背\"元\"（嘉泰元年，1201年）"
-            },
-            {
-              "src": "/images/coins/p-南宋钱币/嘉泰通宝/variant_2.jpg",
-              "alt": "嘉泰通宝 - 小平楷书背\"二\"（嘉泰二年，1202年）",
-              "label": "小平楷书背\"二\"（嘉泰二年，1202年）"
-            },
-            {
-              "src": "/images/coins/p-南宋钱币/嘉泰通宝/variant_3.jpg",
-              "alt": "嘉泰通宝 - 小平楷书背\"三\"（嘉泰三年，1203年）",
-              "label": "小平楷书背\"三\"（嘉泰三年，1203年）"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -1386,18 +1235,7 @@
         },
         "images": {
           "main": "/images/coins/p-南宋钱币/开禧通宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/p-南宋钱币/开禧通宝/variant_1.jpg",
-              "alt": "开禧通宝 - 小平楷书背\"元\"（开禧元年，1205年）",
-              "label": "小平楷书背\"元\"（开禧元年，1205年）"
-            },
-            {
-              "src": "/images/coins/p-南宋钱币/开禧通宝/variant_2.jpg",
-              "alt": "开禧通宝 - 小平楷书背\"二\"（开禧二年，1206年）",
-              "label": "小平楷书背\"二\"（开禧二年，1206年）"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -1465,23 +1303,7 @@
         },
         "images": {
           "main": "/images/coins/p-南宋钱币/开禧元宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/p-南宋钱币/开禧元宝/variant_1.jpg",
-              "alt": "开禧元宝 - 铁品",
-              "label": "铁品"
-            },
-            {
-              "src": "/images/coins/p-南宋钱币/开禧元宝/variant_2.jpg",
-              "alt": "开禧元宝 - 版别2",
-              "label": "版别2"
-            },
-            {
-              "src": "/images/coins/p-南宋钱币/开禧元宝/variant_3.jpg",
-              "alt": "开禧元宝 - 版别3",
-              "label": "版别3"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -1561,18 +1383,7 @@
         },
         "images": {
           "main": "/images/coins/p-南宋钱币/嘉定通宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/p-南宋钱币/嘉定通宝/variant_1.jpg",
-              "alt": "嘉定通宝 - 小平楷书背纪年",
-              "label": "小平楷书背纪年"
-            },
-            {
-              "src": "/images/coins/p-南宋钱币/嘉定通宝/variant_2.jpg",
-              "alt": "嘉定通宝 - 折二楷书背纪年",
-              "label": "折二楷书背纪年"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -1640,18 +1451,7 @@
         },
         "images": {
           "main": "/images/coins/p-南宋钱币/嘉定元宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/p-南宋钱币/嘉定元宝/variant_1.jpg",
-              "alt": "嘉定元宝 - 小平楷书版",
-              "label": "小平楷书版"
-            },
-            {
-              "src": "/images/coins/p-南宋钱币/嘉定元宝/variant_2.jpg",
-              "alt": "嘉定元宝 - 折二楷书版",
-              "label": "折二楷书版"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -2446,18 +2246,7 @@
         },
         "images": {
           "main": "/images/coins/p-南宋钱币/大宋通宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/p-南宋钱币/大宋通宝/variant_1.jpg",
-              "alt": "大宋通宝 - 当十大钱（铜）",
-              "label": "当十大钱（铜）"
-            },
-            {
-              "src": "/images/coins/p-南宋钱币/大宋通宝/variant_2.jpg",
-              "alt": "大宋通宝 - 铁小平",
-              "label": "铁小平"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -2504,18 +2293,7 @@
         },
         "images": {
           "main": "/images/coins/p-南宋钱币/大宋元宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/p-南宋钱币/大宋元宝/variant_1.jpg",
-              "alt": "大宋元宝 - 小平楷书背纪年",
-              "label": "小平楷书背纪年"
-            },
-            {
-              "src": "/images/coins/p-南宋钱币/大宋元宝/variant_2.jpg",
-              "alt": "大宋元宝 - 折二楷书背纪年",
-              "label": "折二楷书背纪年"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -2569,18 +2347,7 @@
         },
         "images": {
           "main": "/images/coins/p-南宋钱币/宝庆元宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/p-南宋钱币/宝庆元宝/variant_1.jpg",
-              "alt": "宝庆元宝 - 铁钱小平（楷书旋读）",
-              "label": "铁钱小平（楷书旋读）"
-            },
-            {
-              "src": "/images/coins/p-南宋钱币/宝庆元宝/variant_2.jpg",
-              "alt": "宝庆元宝 - 铁钱折三",
-              "label": "铁钱折三"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -2627,23 +2394,7 @@
         },
         "images": {
           "main": "/images/coins/p-南宋钱币/绍定通宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/p-南宋钱币/绍定通宝/variant_1.jpg",
-              "alt": "绍定通宝 - 小平楷书背纪年",
-              "label": "小平楷书背纪年"
-            },
-            {
-              "src": "/images/coins/p-南宋钱币/绍定通宝/variant_2.jpg",
-              "alt": "绍定通宝 - 折二楷书背纪年",
-              "label": "折二楷书背纪年"
-            },
-            {
-              "src": "/images/coins/p-南宋钱币/绍定通宝/variant_3.jpg",
-              "alt": "绍定通宝 - 铁钱",
-              "label": "铁钱"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -2751,23 +2502,7 @@
         },
         "images": {
           "main": "/images/coins/p-南宋钱币/端平通宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/p-南宋钱币/端平通宝/variant_1.jpg",
-              "alt": "端平通宝 - 小平楷书背\"元\"（端平元年，1234年）",
-              "label": "小平楷书背\"元\"（端平元年，1234年）"
-            },
-            {
-              "src": "/images/coins/p-南宋钱币/端平通宝/variant_2.jpg",
-              "alt": "端平通宝 - 小平楷书背\"二\"（端平二年，1235年）",
-              "label": "小平楷书背\"二\"（端平二年，1235年）"
-            },
-            {
-              "src": "/images/coins/p-南宋钱币/端平通宝/variant_3.jpg",
-              "alt": "端平通宝 - 小平楷书背\"三\"（端平三年，1236年）",
-              "label": "小平楷书背\"三\"（端平三年，1236年）"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -2835,23 +2570,7 @@
         },
         "images": {
           "main": "/images/coins/p-南宋钱币/端平元宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/p-南宋钱币/端平元宝/variant_1.jpg",
-              "alt": "端平元宝 - 铜小平（楷书旋读，背\"元\"）",
-              "label": "铜小平（楷书旋读，背\"元\"）"
-            },
-            {
-              "src": "/images/coins/p-南宋钱币/端平元宝/variant_2.jpg",
-              "alt": "端平元宝 - 铁钱折三（楷书对读）",
-              "label": "铁钱折三（楷书对读）"
-            },
-            {
-              "src": "/images/coins/p-南宋钱币/端平元宝/variant_3.jpg",
-              "alt": "端平元宝 - 铁钱折五（楷书对读）",
-              "label": "铁钱折五（楷书对读）"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -2945,23 +2664,7 @@
         },
         "images": {
           "main": "/images/coins/p-南宋钱币/嘉熙通宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/p-南宋钱币/嘉熙通宝/variant_1.jpg",
-              "alt": "嘉熙通宝 - 小平楷书背\"元\"（嘉熙元年，1237年）",
-              "label": "小平楷书背\"元\"（嘉熙元年，1237年）"
-            },
-            {
-              "src": "/images/coins/p-南宋钱币/嘉熙通宝/variant_2.jpg",
-              "alt": "嘉熙通宝 - 小平楷书背\"二\"（嘉熙二年，1238年）",
-              "label": "小平楷书背\"二\"（嘉熙二年，1238年）"
-            },
-            {
-              "src": "/images/coins/p-南宋钱币/嘉熙通宝/variant_3.jpg",
-              "alt": "嘉熙通宝 - 小平楷书背\"三\"（嘉熙三年，1239年）",
-              "label": "小平楷书背\"三\"（嘉熙三年，1239年）"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -3029,23 +2732,7 @@
         },
         "images": {
           "main": "/images/coins/p-南宋钱币/嘉熙重宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/p-南宋钱币/嘉熙重宝/variant_1.jpg",
-              "alt": "嘉熙重宝 - 折五型",
-              "label": "折五型"
-            },
-            {
-              "src": "/images/coins/p-南宋钱币/嘉熙重宝/variant_2.jpg",
-              "alt": "嘉熙重宝 - 版别2",
-              "label": "版别2"
-            },
-            {
-              "src": "/images/coins/p-南宋钱币/嘉熙重宝/variant_3.jpg",
-              "alt": "嘉熙重宝 - 版别3",
-              "label": "版别3"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -3085,23 +2772,7 @@
         },
         "images": {
           "main": "/images/coins/p-南宋钱币/淳祐元宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/p-南宋钱币/淳祐元宝/variant_1.jpg",
-              "alt": "淳祐元宝 - 小平楷书背纪年",
-              "label": "小平楷书背纪年"
-            },
-            {
-              "src": "/images/coins/p-南宋钱币/淳祐元宝/variant_2.jpg",
-              "alt": "淳祐元宝 - 折二楷书背纪年",
-              "label": "折二楷书背纪年"
-            },
-            {
-              "src": "/images/coins/p-南宋钱币/淳祐元宝/variant_3.jpg",
-              "alt": "淳祐元宝 - 版别3",
-              "label": "版别3"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -3148,23 +2819,7 @@
         },
         "images": {
           "main": "/images/coins/p-南宋钱币/淳祐通宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/p-南宋钱币/淳祐通宝/variant_1.jpg",
-              "alt": "淳祐通宝 - 小平楷书背纪年",
-              "label": "小平楷书背纪年"
-            },
-            {
-              "src": "/images/coins/p-南宋钱币/淳祐通宝/variant_2.jpg",
-              "alt": "淳祐通宝 - 折二楷书背纪年",
-              "label": "折二楷书背纪年"
-            },
-            {
-              "src": "/images/coins/p-南宋钱币/淳祐通宝/variant_3.jpg",
-              "alt": "淳祐通宝 - 当百大钱",
-              "label": "当百大钱"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -3218,23 +2873,7 @@
         },
         "images": {
           "main": "/images/coins/p-南宋钱币/皇宋元宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/p-南宋钱币/皇宋元宝/variant_1.jpg",
-              "alt": "皇宋元宝 - 小平楷书背纪年",
-              "label": "小平楷书背纪年"
-            },
-            {
-              "src": "/images/coins/p-南宋钱币/皇宋元宝/variant_2.jpg",
-              "alt": "皇宋元宝 - 折二楷书背纪年",
-              "label": "折二楷书背纪年"
-            },
-            {
-              "src": "/images/coins/p-南宋钱币/皇宋元宝/variant_3.jpg",
-              "alt": "皇宋元宝 - 铁钱背纪年纪监",
-              "label": "铁钱背纪年纪监"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -3288,18 +2927,7 @@
         },
         "images": {
           "main": "/images/coins/p-南宋钱币/开庆通宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/p-南宋钱币/开庆通宝/variant_1.jpg",
-              "alt": "开庆通宝 - 小平楷书背\"元\"（开庆元年，1259年）",
-              "label": "小平楷书背\"元\"（开庆元年，1259年）"
-            },
-            {
-              "src": "/images/coins/p-南宋钱币/开庆通宝/variant_2.jpg",
-              "alt": "开庆通宝 - 折二楷书背\"元\"",
-              "label": "折二楷书背\"元\""
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -3346,23 +2974,7 @@
         },
         "images": {
           "main": "/images/coins/p-南宋钱币/景定元宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/p-南宋钱币/景定元宝/variant_1.jpg",
-              "alt": "景定元宝 - 小平楷书背纪年",
-              "label": "小平楷书背纪年"
-            },
-            {
-              "src": "/images/coins/p-南宋钱币/景定元宝/variant_2.jpg",
-              "alt": "景定元宝 - 折二楷书背纪年",
-              "label": "折二楷书背纪年"
-            },
-            {
-              "src": "/images/coins/p-南宋钱币/景定元宝/variant_3.jpg",
-              "alt": "景定元宝 - 版别3",
-              "label": "版别3"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
@@ -3409,18 +3021,7 @@
         },
         "images": {
           "main": "/images/coins/p-南宋钱币/咸淳元宝/main.jpg",
-          "variants": [
-            {
-              "src": "/images/coins/p-南宋钱币/咸淳元宝/variant_1.jpg",
-              "alt": "咸淳元宝 - 小平楷书背\"元\"（咸淳元年，1265年）",
-              "label": "小平楷书背\"元\"（咸淳元年，1265年）"
-            },
-            {
-              "src": "/images/coins/p-南宋钱币/咸淳元宝/variant_2.jpg",
-              "alt": "咸淳元宝 - 小平楷书背\"二\"（咸淳二年，1266年）",
-              "label": "小平楷书背\"二\"（咸淳二年，1266年）"
-            }
-          ]
+          "variants": []
         },
         "variantsTable": [
           {
