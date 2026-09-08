@@ -64,6 +64,7 @@ const ZoomViewer = memo(function ZoomViewer({ src, alt, onClose }: ZoomViewerPro
   const [rotation, setRotation] = useState(0);
   const [translate, setTranslate] = useState({ x: 0, y: 0 });
   const dragRef = useRef<{ startX: number; startY: number; originX: number; originY: number } | null>(null);
+  const viewportRef = useRef<HTMLDivElement | null>(null);
 
   const reset = useCallback(() => {
     setScale(1);
@@ -86,7 +87,8 @@ const ZoomViewer = memo(function ZoomViewer({ src, alt, onClose }: ZoomViewerPro
     setRotation(r => (r + ROTATE_STEP) % 360);
   }, []);
 
-  const handleWheel = useCallback((e: React.WheelEvent) => {
+  // 滚轮缩放：使用原生 listener（passive: false）确保 preventDefault 生效，避免缩放时页面跟随滚动
+  const handleWheel = useCallback((e: WheelEvent) => {
     e.preventDefault();
     const delta = e.deltaY < 0 ? SCALE_STEP : -SCALE_STEP;
     setScale(s => {
@@ -94,6 +96,13 @@ const ZoomViewer = memo(function ZoomViewer({ src, alt, onClose }: ZoomViewerPro
       return Math.min(MAX_SCALE, Math.max(MIN_SCALE, next));
     });
   }, []);
+
+  useEffect(() => {
+    const viewport = viewportRef.current;
+    if (!viewport) return;
+    viewport.addEventListener('wheel', handleWheel, { passive: false });
+    return () => viewport.removeEventListener('wheel', handleWheel);
+  }, [handleWheel]);
 
   const handlePointerDown = useCallback(
     (e: React.PointerEvent) => {
@@ -132,7 +141,11 @@ const ZoomViewer = memo(function ZoomViewer({ src, alt, onClose }: ZoomViewerPro
       aria-label={`${alt} 主图放大查看`}
       tabIndex={-1}
     >
-      <div className={styles.coinImageOverlayViewport} onClick={e => e.stopPropagation()}>
+      <div
+        className={styles.coinImageOverlayViewport}
+        ref={viewportRef}
+        onClick={e => e.stopPropagation()}
+      >
         <img
           src={src}
           alt={alt}
@@ -140,7 +153,6 @@ const ZoomViewer = memo(function ZoomViewer({ src, alt, onClose }: ZoomViewerPro
           style={{
             transform: `translate(${translate.x}px, ${translate.y}px) scale(${scale}) rotate(${rotation}deg)`,
           }}
-          onWheel={handleWheel}
           onPointerDown={handlePointerDown}
           onPointerMove={handlePointerMove}
           onPointerUp={handlePointerEnd}
