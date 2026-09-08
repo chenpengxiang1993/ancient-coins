@@ -1967,7 +1967,7 @@
         "coreFeatures": "当十大钱试铸，未正式流通",
         "estimatedValue": "200—20,000元",
         "rarity": "七级（甚少）",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/u-清朝钱币/同治重宝/main.jpg"
       },
       "detail": {
         "castingTime": "清穆宗载淳同治年间（公元1862年—1874年）。",
@@ -1981,7 +1981,7 @@
           "reverse": "* 背面铸\"当十\"纪值\n* 配满文纪局：宝泉、宝源为主，部分地方局亦铸"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/u-清朝钱币/同治重宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -2394,7 +2394,7 @@
         "coreFeatures": "楷书直读，背厘系纪银值，铸于云南",
         "estimatedValue": "15—3,000元",
         "rarity": "七级（甚少）",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/v-三藩钱币/利用通宝/main.jpg"
       },
       "detail": {
         "castingTime": "清康熙十三年（公元1674年），吴三桂起兵时所铸。",
@@ -2408,7 +2408,7 @@
           "reverse": "* 小平有光背及背\"厘\"两种\n* 折二至折十分别背\"二厘\"\"五厘\"\"一分\"纪银值"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/v-三藩钱币/利用通宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -2469,7 +2469,7 @@
         "coreFeatures": "楷书、篆书两体，铸于湖南",
         "estimatedValue": "200—3,000元",
         "rarity": "六级（稀）",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/v-三藩钱币/昭武通宝/main.jpg"
       },
       "detail": {
         "castingTime": "清康熙十七年（公元1678年），吴三桂所铸。",
@@ -2483,7 +2483,7 @@
           "reverse": "* 小平钱多光背无文\n* 折十大钱背铸\"壹分\"等纪值"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/v-三藩钱币/昭武通宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -2523,7 +2523,7 @@
         "coreFeatures": "楷书直读，光背或背\"工\"\"户\"纪局",
         "estimatedValue": "20—80,000元",
         "rarity": "七级（甚少）",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/v-三藩钱币/洪化通宝/main.jpg"
       },
       "detail": {
         "castingTime": "清康熙十七年（公元1678年）至二十年（公元1681年），吴世璠所铸。",
@@ -2537,7 +2537,7 @@
           "reverse": "* 光背无文为主\n* 部分背铸\"工\"\"户\"纪局字，另有背日纹诸式"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/v-三藩钱币/洪化通宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -2584,7 +2584,7 @@
         "coreFeatures": "楷书直读，背\"一分\"等纪值",
         "estimatedValue": "300—3000元",
         "rarity": "六级（稀）",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/v-三藩钱币/裕民通宝/main.jpg"
       },
       "detail": {
         "castingTime": "清康熙十五年（公元1676年），耿精忠所铸。",
@@ -2598,7 +2598,7 @@
           "reverse": "* 背面铸\"一分\"\"一钱\"纪值文字"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/v-三藩钱币/裕民通宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -3211,7 +3211,7 @@
         "coreFeatures": "楷书直读，背\"中\"\"前\"\"后\"纪营，李文茂铸币",
         "estimatedValue": "500—5000元",
         "rarity": "六级（稀）",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/x-晚清起义钱币/平靖通宝/main.jpg"
       },
       "detail": {
         "castingTime": "清咸丰五年前后（公元1855年—1858年），李文茂（大成国平靖王）所铸。",
@@ -3225,7 +3225,7 @@
           "reverse": "* 背面铸\"中\"\"前\"\"后\"等字，代表中营、前营、后营等营制"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/x-晚清起义钱币/平靖通宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -3265,7 +3265,7 @@
         "coreFeatures": "背铸军队建制番号，铜质赏功钱",
         "estimatedValue": "5,000—30,000元",
         "rarity": "四级（罕）",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/x-晚清起义钱币/平靖胜宝/main.jpg"
       },
       "detail": {
         "castingTime": "清咸丰五年前后（公元1855年—1858年），李文茂（大成国平靖王）所铸。",
@@ -3279,7 +3279,7 @@
           "reverse": "* 背面铸\"中营\"\"前营\"\"后营\"\"左营\"\"右营\"\"御林军\"\"长胜军\"等军队建制番号"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/x-晚清起义钱币/平靖胜宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -3326,7 +3326,7 @@
         "coreFeatures": "宋体直读，背\"永\"字，浙江天地会会钱",
         "estimatedValue": "1,000—6,000元",
         "rarity": "六级（稀）",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/x-晚清起义钱币/天朝通宝/main.jpg"
       },
       "detail": {
         "castingTime": "清咸丰年间（约公元1853年前后），浙江天地会铸行。",
@@ -3340,7 +3340,7 @@
           "reverse": "* 背面铸\"永\"字，有正写、倒写之分"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/x-晚清起义钱币/天朝通宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -3373,7 +3373,7 @@
         "coreFeatures": "楷书直读，背\"圣\"字或满汉文\"宝浙\"",
         "estimatedValue": "500—3,000元",
         "rarity": "六级（稀）",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/x-晚清起义钱币/皇帝通宝/main.jpg"
       },
       "detail": {
         "castingTime": "清咸丰年间（约公元1854年前后），浙江天地会所铸。",
@@ -3387,7 +3387,7 @@
           "reverse": "* 背面铸\"圣\"字，或左满文右汉文\"宝浙\"纪局字"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/x-晚清起义钱币/皇帝通宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -3420,7 +3420,7 @@
         "coreFeatures": "楷书直读，光背，天地会会钱",
         "estimatedValue": "500—3,000元",
         "rarity": "六级（稀）",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/x-晚清起义钱币/天元通宝/main.jpg"
       },
       "detail": {
         "castingTime": "清咸丰年间，天地会所铸。",
@@ -3434,7 +3434,7 @@
           "reverse": "* 光背无文"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/x-晚清起义钱币/天元通宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -3460,7 +3460,7 @@
         "coreFeatures": "隶书对读，宽缘光背，贵州号军铸币",
         "estimatedValue": "500—2,500元",
         "rarity": "六级（稀）",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/x-晚清起义钱币/嗣统通宝/main.jpg"
       },
       "detail": {
         "castingTime": "清同治三年（公元1864年）至七年（公元1868年），贵州号军首领朱明月（原名张保山）所铸。",
@@ -3474,7 +3474,7 @@
           "reverse": "* 光背无文"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/x-晚清起义钱币/嗣统通宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -3507,7 +3507,7 @@
         "coreFeatures": "面文\"金钱义记\"，会党铸币",
         "estimatedValue": "500—5000元",
         "rarity": "六级（稀）",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/x-晚清起义钱币/金钱义记/main.jpg"
       },
       "detail": {
         "castingTime": "清咸丰年间，金钱会所铸。",
@@ -3521,7 +3521,7 @@
           "reverse": "* 背面有方胜纹（两个菱形相连）或文字"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/x-晚清起义钱币/金钱义记/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -3554,7 +3554,7 @@
         "coreFeatures": "回文钱币，新疆起义铸币",
         "estimatedValue": "200—5,000元",
         "rarity": "六级（稀）",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/x-晚清起义钱币/热西丁汗/main.jpg"
       },
       "detail": {
         "castingTime": "清同治三年（公元1864年）热西丁和卓在新疆库车起义建立政权后铸行，至同治六年（公元1867年）阿古柏攻灭库车政权止。",
@@ -3568,7 +3568,7 @@
           "reverse": "* 背面铸回文"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/x-晚清起义钱币/热西丁汗/main.jpg",
           "variants": []
         },
         "variantsTable": [

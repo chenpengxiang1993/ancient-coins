@@ -780,7 +780,7 @@
         "coreFeatures": "介于尖足布与方足布之间的过渡型制；足部近方但略尖；面文为铸地名称",
         "estimatedValue": "1,000—10,000元",
         "rarity": "六级 稀",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/a-先秦钱币/类方足布/main.jpg"
       },
       "detail": {
         "castingTime": "战国中期（约公元前4世纪）。据《中国钱币大辞典》记载，类方足布是介于尖足布与方足布之间的过渡形态。",
@@ -794,7 +794,7 @@
           "reverse": "- 平素或有简单纪数"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/a-先秦钱币/类方足布/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -834,7 +834,7 @@
         "coreFeatures": "介于尖足布与圆足布之间的过渡型制；足部近圆；面文为铸地名称",
         "estimatedValue": "1,000—10,000元",
         "rarity": "六级 稀",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/a-先秦钱币/类圆足布/main.jpg"
       },
       "detail": {
         "castingTime": "战国中期（约公元前4世纪）。据《中国钱币大辞典》记载，类圆足布是介于尖足布与圆足布之间的过渡形态。",
@@ -848,7 +848,7 @@
           "reverse": "- 平素或有简单纪数"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/a-先秦钱币/类圆足布/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -1295,7 +1295,7 @@
         "coreFeatures": "刀首极窄如针尖；体型纤细；面文多为单字或符号；燕国早期刀币",
         "estimatedValue": "3,000—50,000元",
         "rarity": "六级 稀",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/a-先秦钱币/针首刀钱/main.jpg"
       },
       "detail": {
         "castingTime": "春秋晚期至战国早期（约公元前6世纪—前5世纪）。据《中国钱币大辞典》记载，针首刀钱是燕国最早的刀币形态。",
@@ -1309,7 +1309,7 @@
           "reverse": "- 多为简单纹饰或无文"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/a-先秦钱币/针首刀钱/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -1424,7 +1424,7 @@
         "coreFeatures": "刀首被截去一段；由尖首刀截首改制而成；面文残缺；燕国特殊刀币",
         "estimatedValue": "3,000—20,000元",
         "rarity": "六级 稀",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/a-先秦钱币/截首刀钱/main.jpg"
       },
       "detail": {
         "castingTime": "战国中晚期（约公元前4世纪—前3世纪）。据《中国钱币大辞典》记载，截首刀钱为燕国特殊刀币。",
@@ -1438,7 +1438,7 @@
           "reverse": "- 保留原尖首刀的背面纹饰"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/a-先秦钱币/截首刀钱/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -1935,7 +1935,7 @@
         "coreFeatures": "俗称\"楚大布\"\"燕尾布\"；面文\"殊布当釿\"；长足宽肩；楚国大额铸币",
         "estimatedValue": "5,000—80,000元",
         "rarity": "六级 稀",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/a-先秦钱币/殊布当釿/main.jpg"
       },
       "detail": {
         "castingTime": "战国中晚期（约公元前4世纪—前3世纪）。据《中国钱币大辞典》记载，殊布当釿俗称\"楚大布\"\"燕尾布\"，是楚国大额铸币。",
@@ -1949,7 +1949,7 @@
           "reverse": "- 铸\"十货\"二字纪值（一大布当蚁鼻钱十枚）"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/a-先秦钱币/殊布当釿/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -2160,7 +2160,7 @@
         "coreFeatures": "仿鱼形态；青铜质地；鱼身有鳞纹；背部有穿孔；极为罕见；出土于四川、云南地区",
         "estimatedValue": "10,000—200,000元",
         "rarity": "三级 罕贵",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/a-先秦钱币/鱼币钱/main.jpg"
       },
       "detail": {
         "castingTime": "商周时期（约公元前12世纪—前8世纪）。据《中国钱币大辞典》记载，鱼币钱的货币属性尚有学术争议，部分学者认为其为装饰品或祭祀用品。",
@@ -2174,7 +2174,7 @@
           "reverse": "- 鱼背一侧（背面）：背部有穿孔，可能用于穿绳佩戴或悬挂\n- 背面较平整，与正面纹饰相比较为素简"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/a-先秦钱币/鱼币钱/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -2235,7 +2235,7 @@
         "coreFeatures": "桥形仿桥梁形态；弧形条状；两端有孔；巴国地方铸币；出土于巴蜀地区",
         "estimatedValue": "5,000—50,000元",
         "rarity": "五级 稀贵",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/a-先秦钱币/桥梁币/main.jpg"
       },
       "detail": {
         "castingTime": "战国时期（约公元前5世纪—前3世纪）。据《中国钱币大辞典》记载，桥梁币出土于巴蜀地区，其货币属性尚有学术争议。",
@@ -2249,7 +2249,7 @@
           "reverse": "- 平素无纹"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/a-先秦钱币/桥梁币/main.jpg",
           "variants": []
         },
         "variantsTable": [

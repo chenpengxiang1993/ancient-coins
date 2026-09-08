@@ -284,7 +284,7 @@
         "coreFeatures": "武帝元狩四年铸；银锡合金；龙币、马币、龟币三等；虚值大钱",
         "estimatedValue": "5,000—50,000元",
         "rarity": "四级 罕",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/c-汉代钱币/白金三品/main.jpg"
       },
       "detail": {
         "castingTime": "汉武帝元狩四年（公元前119年）。据《汉书·食货志》记载，武帝因财政困难铸行白金三品，为中国历史上最早的官方银铸币。",
@@ -298,7 +298,7 @@
           "reverse": "- 三品背面均平素或有简单纹饰"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/c-汉代钱币/白金三品/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -946,7 +946,7 @@
         "coreFeatures": "董卓铸行；极轻薄粗糙；破坏了五铢钱制度",
         "estimatedValue": "30—500元",
         "rarity": "九级 较多",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/c-汉代钱币/董卓小钱/main.jpg"
       },
       "detail": {
         "castingTime": "东汉初平元年（公元190年）前后。据《后汉书·董卓传》记载，董卓入长安后，毁五铢钱、铜人、钟虡铸小钱。",
@@ -960,7 +960,7 @@
           "reverse": "- 平素无文"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/c-汉代钱币/董卓小钱/main.jpg",
           "variants": []
         },
         "variantsTable": [

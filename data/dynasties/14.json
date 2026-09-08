@@ -611,7 +611,7 @@
         "coreFeatures": "西夏文国号钱（新发现第六种）",
         "estimatedValue": "30000—150000元",
         "rarity": "三级（罕贵）",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/n-西夏钱币/藩国宝钱/main.jpg"
       },
       "detail": {
         "castingTime": "西夏时期，具体年代不详。",
@@ -625,7 +625,7 @@
           "reverse": "* 背面光素无文"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/n-西夏钱币/藩国宝钱/main.jpg",
           "variants": []
         },
         "variantsTable": [

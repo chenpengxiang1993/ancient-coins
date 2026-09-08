@@ -14,7 +14,7 @@
         "coreFeatures": "金朝第一种年号钱，孤品级大珍",
         "estimatedValue": "1000000—1800000元",
         "rarity": "一级（大珍）",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/o-金朝钱币/天辅元宝/main.jpg"
       },
       "detail": {
         "castingTime": "金太祖完颜阿骨打天辅年间（公元1117年—1123年）。",
@@ -28,7 +28,7 @@
           "reverse": "* 背面光素无文"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/o-金朝钱币/天辅元宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -54,7 +54,7 @@
         "coreFeatures": "天眷钱大珍，折二真书位列古泉五十名珍",
         "estimatedValue": "500000—2500000元",
         "rarity": "一级（大珍）",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/o-金朝钱币/天眷通宝/main.jpg"
       },
       "detail": {
         "castingTime": "金熙宗完颜亶天眷年间（公元1138年—1140年）。",
@@ -68,7 +68,7 @@
           "reverse": "* 背面光素无文"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/o-金朝钱币/天眷通宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -101,7 +101,7 @@
         "coreFeatures": "小平篆书，天眷钱系列大珍",
         "estimatedValue": "500000—1000000元",
         "rarity": "二级（珍）",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/o-金朝钱币/天眷元宝/main.jpg"
       },
       "detail": {
         "castingTime": "金熙宗完颜亶天眷年间（公元1138年—1140年）。",
@@ -115,7 +115,7 @@
           "reverse": "* 背面光素无文"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/o-金朝钱币/天眷元宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -141,7 +141,7 @@
         "coreFeatures": "折三真书，天眷钱系列大珍",
         "estimatedValue": "500000—1500000元",
         "rarity": "二级（珍）",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/o-金朝钱币/天眷重宝/main.jpg"
       },
       "detail": {
         "castingTime": "金熙宗完颜亶天眷年间（公元1138年—1140年）。",
@@ -155,7 +155,7 @@
           "reverse": "* 背面光素无文"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/o-金朝钱币/天眷重宝/main.jpg",
           "variants": []
         },
         "variantsTable": [

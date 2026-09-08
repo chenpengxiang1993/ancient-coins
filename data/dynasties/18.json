@@ -14,7 +14,7 @@
         "coreFeatures": "吉语花钱，如\"长乐未央\"\"常乐\"",
         "estimatedValue": "500—50000元",
         "rarity": "五级（稀贵）至七级（甚少）",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/y-花钱_压胜钱/汉代花钱/main.jpg"
       },
       "detail": {
         "castingTime": "西汉至东汉（约公元前206年—公元220年）。",
@@ -28,7 +28,7 @@
           "reverse": "* 背面铸纹饰（如四神、星象、人物）"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/y-花钱_压胜钱/汉代花钱/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -68,7 +68,7 @@
         "coreFeatures": "开元通宝吉语版，背铸星月花草纹",
         "estimatedValue": "300—10000元",
         "rarity": "六级（稀）至八级（较多）",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/y-花钱_压胜钱/唐代花钱/main.jpg"
       },
       "detail": {
         "castingTime": "唐代（公元618年—907年）。",
@@ -82,7 +82,7 @@
           "reverse": "* 背面铸星月纹、花草纹、人物纹"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/y-花钱_压胜钱/唐代花钱/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -122,7 +122,7 @@
         "coreFeatures": "吉语花钱，铸量较少",
         "estimatedValue": "500—5000元",
         "rarity": "六级（稀）至七级（甚少）",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/y-花钱_压胜钱/五代花钱/main.jpg"
       },
       "detail": {
         "castingTime": "五代十国时期（公元907年—960年）。",
@@ -136,7 +136,7 @@
           "reverse": "* 背面铸纹饰"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/y-花钱_压胜钱/五代花钱/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -169,7 +169,7 @@
         "coreFeatures": "花钱鼎盛期，品种丰富，有吉语、生肖、八卦多种",
         "estimatedValue": "200—30000元",
         "rarity": "六级（稀）至九级（较多）",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/y-花钱_压胜钱/宋代花钱/main.jpg"
       },
       "detail": {
         "castingTime": "北宋至南宋（公元960年—1279年）。",
@@ -183,7 +183,7 @@
           "reverse": "* 生肖类：背铸十二生肖图案\n* 八卦类：背铸乾、坎、艮、震、巽、离、坤、兑八卦符号\n* 神仙人物类：背铸祥云、神兽、人物配景\n* 部分背面铸吉语或图案"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/y-花钱_压胜钱/宋代花钱/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -237,7 +237,7 @@
         "coreFeatures": "仿宋风格，背铸生肖或吉语",
         "estimatedValue": "500—20000元",
         "rarity": "六级（稀）至七级（甚少）",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/y-花钱_压胜钱/金代花钱/main.jpg"
       },
       "detail": {
         "castingTime": "金朝（公元1115年—1234年）。",
@@ -251,7 +251,7 @@
           "reverse": "* 背面铸生肖或吉语"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/y-花钱_压胜钱/金代花钱/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -284,7 +284,7 @@
         "coreFeatures": "铸工粗犷，有契丹风格",
         "estimatedValue": "500—20000元",
         "rarity": "五级（稀贵）至七级（甚少）",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/y-花钱_压胜钱/辽代花钱/main.jpg"
       },
       "detail": {
         "castingTime": "辽朝（公元916年—1125年）。",
@@ -298,7 +298,7 @@
           "reverse": "- 光背无文或铸吉祥纹饰"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/y-花钱_压胜钱/辽代花钱/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -331,7 +331,7 @@
         "coreFeatures": "供养钱性质，寺观铸造",
         "estimatedValue": "500—30000元",
         "rarity": "五级（稀贵）至七级（甚少）",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/y-花钱_压胜钱/元代花钱/main.jpg"
       },
       "detail": {
         "castingTime": "元朝（公元1271年—1368年）。",
@@ -345,7 +345,7 @@
           "reverse": "- 光背无文或铸吉祥纹饰"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/y-花钱_压胜钱/元代花钱/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -385,7 +385,7 @@
         "coreFeatures": "吉语花钱，如\"天下太平\"\"金玉满堂\"",
         "estimatedValue": "100—10000元",
         "rarity": "七级（甚少）至九级（较多）",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/y-花钱_压胜钱/明代花钱/main.jpg"
       },
       "detail": {
         "castingTime": "明朝（公元1368年—1644年）。",
@@ -399,7 +399,7 @@
           "reverse": "* 背面铸纹饰或吉语"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/y-花钱_压胜钱/明代花钱/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -439,7 +439,7 @@
         "coreFeatures": "花钱最繁荣时期，种类极多，有宫钱、民俗钱",
         "estimatedValue": "50—50000元",
         "rarity": "七级（甚少）至十级（多泛）",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/y-花钱_压胜钱/清代花钱/main.jpg"
       },
       "detail": {
         "castingTime": "清朝（公元1644年—1911年）。",
@@ -453,7 +453,7 @@
           "reverse": "* 生肖钱：背铸十二生肖图案\n* 八卦钱：背铸八卦符号\n* 民俗钱：背铸花卉、神仙人物、神兽等图案\n* 部分宫钱背铸宫名或纪年"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/y-花钱_压胜钱/清代花钱/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -514,7 +514,7 @@
         "coreFeatures": "仿中国花钱风格，铸有吉语纹饰",
         "estimatedValue": "100—5000元",
         "rarity": "八级（较多）至九级（多）",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/y-花钱_压胜钱/日本花钱/main.jpg"
       },
       "detail": {
         "castingTime": "日本江户时代（公元1603年—1868年）。",
@@ -528,7 +528,7 @@
           "reverse": "* 背面铸花草、动物纹饰"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/y-花钱_压胜钱/日本花钱/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -561,7 +561,7 @@
         "coreFeatures": "花钱尾声，多为民俗性质",
         "estimatedValue": "50—3000元",
         "rarity": "八级（较多）至十级（多泛）",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/y-花钱_压胜钱/民国花钱/main.jpg"
       },
       "detail": {
         "castingTime": "民国时期（公元1912年—1949年）。",
@@ -575,7 +575,7 @@
           "reverse": "- 光背无文或铸吉祥纹饰"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/y-花钱_压胜钱/民国花钱/main.jpg",
           "variants": []
         },
         "variantsTable": [

@@ -14,7 +14,7 @@
         "coreFeatures": "铁质；面文\"五铢\"二字直读；背多四出纹；中国历史上首次大规模官铸铁钱",
         "estimatedValue": "20—800元",
         "rarity": "九级 较多",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-南朝梁铁钱/梁铁五铢/main.jpg"
       },
       "detail": {
         "castingTime": "南朝梁普通四年（公元523年）始铸。据《梁书·武帝纪》记载，梁武帝因铜材不足而铸行铁五铢；此前所铸\"公式女钱\"（无外廓五铢）已减重滥恶，铁五铢为更彻底的以铁代铜之举。终武帝之世（至549年）行用不废，大同年间（535—546年）以后私铸减重日甚，至太清年间（547—549年）侯景之乱前后钱法大坏，梁末遂废。",
@@ -28,7 +28,7 @@
           "reverse": "- 多数素背无文，有外廓\n- 部分背面铸四出纹（自方孔四角各外延一道斜线达于外廓，共四道），为梁铁五铢最具代表性的背面纹饰\n- 私铸小样常见背廓浅平不整"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-南朝梁铁钱/梁铁五铢/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -75,7 +75,7 @@
         "coreFeatures": "铁质当值大钱；面文\"顺天元宝\"四字对读，隶书；背穿上月纹、穿下纪值\"十\"\"百\"\"千\"三等；铸于幽州（今北京）",
         "estimatedValue": "3,000—80,000元",
         "rarity": "五级 稀贵",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-五代十国铁钱/顺天元宝/main.jpg"
       },
       "detail": {
         "castingTime": "唐末刘仁恭据幽州时期（约公元895—913年间）铸。与永安诸钱同为幽州刘氏当值大铁钱体系。",
@@ -89,7 +89,7 @@
           "reverse": "- 背穿上铸月纹，穿下铸纪值\"十\"\"百\"\"千\"\n- 背文仅此三式，谱录无背\"万\""
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-五代十国铁钱/顺天元宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -129,7 +129,7 @@
         "coreFeatures": "铁质小型纪值钱；面文\"永安一十\"，右\"永\"左\"安\"、纪值上下排列，隶书对读；光背；铸于幽州（今北京）",
         "estimatedValue": "5,000—20,000元",
         "rarity": "五级 稀贵",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-五代十国铁钱/永安一十/main.jpg"
       },
       "detail": {
         "castingTime": "唐乾宁二年至后梁乾化三年（公元895—913年），刘仁恭、刘守光父子据幽州（今北京一带）时所铸，永安四等纪值大钱中最小一等。",
@@ -143,7 +143,7 @@
           "reverse": "- 光背素文，谱录正式流通铁钱全部光背"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-五代十国铁钱/永安一十/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -169,7 +169,7 @@
         "coreFeatures": "铁质纪值大钱；面文\"永安一百\"，右\"永\"左\"安\"、上\"一\"下\"百\"，隶书对读；光背；铸于幽州（今北京）",
         "estimatedValue": "5,000—30,000元",
         "rarity": "五级 稀贵",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-五代十国铁钱/永安一百/main.jpg"
       },
       "detail": {
         "castingTime": "唐乾宁二年至后梁乾化三年（公元895—913年），刘仁恭、刘守光父子据幽州（今北京一带）时所铸，永安四等纪值大钱之第二等。",
@@ -183,7 +183,7 @@
           "reverse": "- 光背素文，谱录正式流通铁钱全部光背"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-五代十国铁钱/永安一百/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -209,7 +209,7 @@
         "coreFeatures": "铁质纪值大钱；面文\"永安五百\"，右\"永\"左\"安\"、上\"五\"下\"百\"，隶书对读；光背；存世极罕；铸于幽州（今北京）",
         "estimatedValue": "30,000—100,000元",
         "rarity": "三级 罕贵",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-五代十国铁钱/永安五百/main.jpg"
       },
       "detail": {
         "castingTime": "唐乾宁二年至后梁乾化三年（公元895—913年），刘仁恭、刘守光父子据幽州（今北京一带）时所铸，永安四等纪值大钱之第三等。",
@@ -223,7 +223,7 @@
           "reverse": "- 光背素文，谱录正式流通铁钱全部光背"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-五代十国铁钱/永安五百/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -249,7 +249,7 @@
         "coreFeatures": "铁质纪值大钱；面文\"永安一千\"，右\"永\"左\"安\"、上\"一\"下\"千\"，隶书对读；光背；四等中形制最大；铸于幽州（今北京）",
         "estimatedValue": "3,000—10,000元",
         "rarity": "六级 稀",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-五代十国铁钱/永安一千/main.jpg"
       },
       "detail": {
         "castingTime": "唐乾宁二年至后梁乾化三年（公元895—913年），刘仁恭、刘守光父子据幽州（今北京一带）时所铸，永安四等纪值大钱中最大一等。",
@@ -263,7 +263,7 @@
           "reverse": "- 光背素文，谱录正式流通铁钱全部光背"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-五代十国铁钱/永安一千/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -289,7 +289,7 @@
         "coreFeatures": "铁质折十大钱；面文\"乾封泉宝\"四字对读；背仅\"天\"\"策\"\"天府\"\"天策\"四式；以一当十虚值行用于楚境；铸于长沙（潭州）",
         "estimatedValue": "500—100,000元",
         "rarity": "六级 稀",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-五代十国铁钱/乾封泉宝/main.jpg"
       },
       "detail": {
         "castingTime": "后唐同光年间（公元923—925年）楚王马殷铸。马殷采谋臣高郁之策，利用湖南铅铁之利铸乾封泉宝折十大铁钱\"一当十\"行用，与铅钱、铜钱并行，以矿冶之利资国用。楚灭后废。",
@@ -303,7 +303,7 @@
           "reverse": "- 背文仅四式：穿上铸\"天\"字或\"策\"字，或穿上下直书\"天府\"\"天策\"二字\n- 背文均与马殷天策府建置相关\n- 谱录无光背流通铁钱，光背者均属臆造仿品"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-五代十国铁钱/乾封泉宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -357,7 +357,7 @@
         "coreFeatures": "铁质当十大钱；面文\"天策府宝\"四字对读；中国唯一纪府钱币；古钱五十名珍之一",
         "estimatedValue": "5,000—500,000元以上",
         "rarity": "五级 稀贵",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-五代十国铁钱/天策府宝/main.jpg"
       },
       "detail": {
         "castingTime": "后梁乾化元年（公元911年）马殷受封天策上将军、开天策府后铸。一说铸于927年马殷受封楚王后，今从乾化元年（911年）说。",
@@ -371,7 +371,7 @@
           "reverse": "- 多光背素文\n- 另有背\"天\"\"策\"诸式及背龙凤纹者，均极罕见"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-五代十国铁钱/天策府宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -425,7 +425,7 @@
         "coreFeatures": "铁质折十大钱；面文\"乾元重宝\"四字对读；光背；与乾封泉宝同为马楚虚值大钱体系；铸于长沙（潭州）",
         "estimatedValue": "2,000—10,000元",
         "rarity": "六级 稀",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-五代十国铁钱/乾元重宝/main.jpg"
       },
       "detail": {
         "castingTime": "楚王马殷治楚期间铸（约公元10世纪前期）。与乾封泉宝大铁钱同为马楚虚值大钱体系，史载并用之于市。",
@@ -439,7 +439,7 @@
           "reverse": "- 光背素文，谱录仅光背一流通式"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-五代十国铁钱/乾元重宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -465,7 +465,7 @@
         "coreFeatures": "闽铸大铁钱；面文\"开元通宝\"四字对读，书体在篆隶之间；背铸\"闽\"\"福\"字及星月纹；福建\"铁三宝\"之一",
         "estimatedValue": "1,000—6,000元",
         "rarity": "七级 甚少",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-五代十国铁钱/开元通宝/main.jpg"
       },
       "detail": {
         "castingTime": "后梁龙德二年（公元922年）闽王王审知铸。据清道光《福建通志·钱法志》：\"闽铸大铁钱，以'开元通宝'为文，仍以五百文为贯\"。",
@@ -479,7 +479,7 @@
           "reverse": "- 背铸\"闽\"\"福\"字\n- 兼有仰月纹、巨星纹等纹饰\n- 亦有光背素文者"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-五代十国铁钱/开元通宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -526,7 +526,7 @@
         "coreFeatures": "折十大铁钱；面文\"永隆通宝\"四字对读，书体在行隶之间；背必带\"闽\"字，计背上闽、背上闽下月、下月左右星四式；一当铅钱百；铸于泉州",
         "estimatedValue": "1,000—80,000元",
         "rarity": "八级 少",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-五代十国铁钱/永隆通宝/main.jpg"
       },
       "detail": {
         "castingTime": "闽永隆四年八月至五年（公元942—943年）王延羲铸于泉州。据《十国纪年·闽史》所记，一当开元铅钱百。",
@@ -540,7 +540,7 @@
           "reverse": "- 背文必带\"闽\"字：穿上铸\"闽\"字，或穿上\"闽\"、穿下月纹，月纹左侧或右侧加星纹\n- 大字、大字狭轮、小字诸版式背文不出四类\n- 谱录无光背流通铁钱，无\"闽\"字单星月纹者亦属臆造仿品"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-五代十国铁钱/永隆通宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -594,7 +594,7 @@
         "coreFeatures": "折十型铁钱；面文\"天德重宝\"四字对读；背穿上\"殷\"字纪国号；铸于建州（今建瓯）",
         "estimatedValue": "1,000—100,000元",
         "rarity": "四级 珍罕",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-五代十国铁钱/天德重宝/main.jpg"
       },
       "detail": {
         "castingTime": "天德年间（公元943—945年）王延政于建州称帝、国号殷时所铸，铸地建州（今福建建瓯）。",
@@ -608,7 +608,7 @@
           "reverse": "- 背穿上铸\"殷\"字纪国号，为天德重宝定版特征，背文统一为\"殷\"\n- 谱录无光背流通铁钱，光背者均属臆造仿品"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-五代十国铁钱/天德重宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -641,7 +641,7 @@
         "coreFeatures": "铁质折十大钱；面文\"天德通宝\"四字对读，真书含隶韵；光背；一当百；存世孤品级，古泉名珍；铸于建州（今福建建瓯）",
         "estimatedValue": "300,000—600,000元",
         "rarity": "一级 大珍",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-五代十国铁钱/天德通宝/main.jpg"
       },
       "detail": {
         "castingTime": "天德年间（公元943—945年）王延政于建州称帝、国号殷时所铸，天德二年铸大铁钱，一当百。",
@@ -655,7 +655,7 @@
           "reverse": "- 光背素文，谱录无背\"殷\"版"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-五代十国铁钱/天德通宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -681,7 +681,7 @@
         "coreFeatures": "铁质小平、折五两等；面文\"乾德元宝\"四字旋读，楷书；小平光背、背上月，折五背下月为前蜀铁钱顶级大珍；铸于成都",
         "estimatedValue": "200—500,000元",
         "rarity": "八级 少",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-五代十国铁钱/乾德元宝/main.jpg"
       },
       "detail": {
         "castingTime": "前蜀乾德年间（公元919—924年）后主王衍铸于成都。分小平、折五两等。",
@@ -695,7 +695,7 @@
           "reverse": "- 小平：光背、背上月两式\n- 折五：背下月一式"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-五代十国铁钱/乾德元宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -735,7 +735,7 @@
         "coreFeatures": "铁质小平；面文\"广政通宝\"四字对读，楷书；光背；铜铁兼铸；铸于成都",
         "estimatedValue": "1,000—5,000元",
         "rarity": "六级 稀",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-五代十国铁钱/广政通宝/main.jpg"
       },
       "detail": {
         "castingTime": "后蜀广政年间（公元938—965年）孟昶铸于成都。",
@@ -749,7 +749,7 @@
           "reverse": "- 光背素文，谱录仅光背一式"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-五代十国铁钱/广政通宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -775,7 +775,7 @@
         "coreFeatures": "铁质折五大钱；面文\"保大元宝\"四字旋读，隶书雄健；背穿上\"天\"字；五代大罕品；铸于金陵（今南京）",
         "estimatedValue": "100,000—400,000元",
         "rarity": "二级 珍",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-五代十国铁钱/保大元宝/main.jpg"
       },
       "detail": {
         "castingTime": "南唐保大年间（公元943—957年）李璟铸。铁钱折五、背上天，为南唐铁钱之代表大珍。",
@@ -789,7 +789,7 @@
           "reverse": "- 背穿上铸\"天\"字\n- 谱录仅背上天一式"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-五代十国铁钱/保大元宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -855,7 +855,7 @@
         "coreFeatures": "铁质折十试铸大钱；面文\"永通泉货\"四字旋读；光背；试铸未批量行用，存世极稀；铸于金陵（今南京）",
         "estimatedValue": "30,000—100,000元",
         "rarity": "四级 珍罕",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-五代十国铁钱/永通泉货/main.jpg"
       },
       "detail": {
         "castingTime": "南唐李璟时期（公元10世纪中期）铸。试铸大铁钱，未批量行用。",
@@ -869,7 +869,7 @@
           "reverse": "- 光背素文"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-五代十国铁钱/永通泉货/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -942,7 +942,7 @@
         "coreFeatures": "铁质小平；面文\"开元通宝\"四字对读，徐铉篆书；光背；建隆二年正式行用，铁钱六权铜钱四；铸于金陵（今南京）",
         "estimatedValue": "300—2,000元",
         "rarity": "七级 甚少",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-五代十国铁钱/开元通宝-南唐/main.jpg"
       },
       "detail": {
         "castingTime": "建隆二年（公元961年）南唐后主李煜正式行用开元通宝铁钱，铸行至南唐亡（公元975年）。",
@@ -956,7 +956,7 @@
           "reverse": "- 光背素文，谱录无各类背字"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-五代十国铁钱/开元通宝-南唐/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -982,7 +982,7 @@
         "coreFeatures": "铁质小平；面文\"宋元通宝\"四字对读，仿唐开元形制；北宋开国年号钱之铁质版，平蜀后四川铸行",
         "estimatedValue": "100—500元",
         "rarity": "七级 甚少",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-北宋铁钱/宋元通宝/main.jpg"
       },
       "detail": {
         "castingTime": "宋元通宝铸于建隆元年（公元960年）至开宝九年（976年），为北宋开国第一大钱。乾德三年（965年）宋平后蜀，此后于四川开铸铁钱，铁质宋元通宝即平蜀后川铸之品种。",
@@ -996,7 +996,7 @@
           "reverse": "- 素背无文，有外廓"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-北宋铁钱/宋元通宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -1022,7 +1022,7 @@
         "coreFeatures": "铁质小平；面文\"太平通宝\"四字对读；太平兴国年间四川铸行之铁质版",
         "estimatedValue": "100—500元",
         "rarity": "七级 甚少",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-北宋铁钱/太平通宝/main.jpg"
       },
       "detail": {
         "castingTime": "宋太宗太平兴国年间（公元976—984年）铸，为北宋第一个年号钱。铁质版行用于四川铁钱区。",
@@ -1036,7 +1036,7 @@
           "reverse": "- 素背无文，有外廓"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-北宋铁钱/太平通宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -1062,7 +1062,7 @@
         "coreFeatures": "铁质小平、折十两型；面文\"淳化元宝\"四字旋读，太宗御书楷、行、草三体；折十大罕品；四川铸行",
         "estimatedValue": "100—150,000元",
         "rarity": "七级 甚少",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-北宋铁钱/淳化元宝/main.jpg"
       },
       "detail": {
         "castingTime": "宋太宗淳化年间（公元990—994年）铸。太宗以御书楷、行、草三体书钱文，开皇帝御书钱之先河，淳化年间（990—994年）四川铸行铁钱。",
@@ -1076,7 +1076,7 @@
           "reverse": "- 素背无文，有外廓"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-北宋铁钱/淳化元宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -1130,7 +1130,7 @@
         "coreFeatures": "铁质小平；面文\"至道元宝\"四字旋读，太宗御书楷、行、草三体；四川铸行",
         "estimatedValue": "100—30,000元",
         "rarity": "七级 甚少",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-北宋铁钱/至道元宝/main.jpg"
       },
       "detail": {
         "castingTime": "宋太宗至道年间（公元995—997年）铸，太宗御书三体钱文之第二种年号钱。铁质版行用于四川铁钱区。",
@@ -1144,7 +1144,7 @@
           "reverse": "- 素背无文，有外廓"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-北宋铁钱/至道元宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -1191,7 +1191,7 @@
         "coreFeatures": "铁质小平、折二；面文\"皇宋通宝\"四字对读，篆、楷成对；国号钱（非年号钱）之铁质版，行用于四川、河东",
         "estimatedValue": "100—60,000元",
         "rarity": "七级 甚少",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-北宋铁钱/皇宋通宝/main.jpg"
       },
       "detail": {
         "castingTime": "宋仁宗宝元元年（公元1038年）始铸，缘\"宝元\"年号与钱文相犯，遂铸国号钱，铸行至皇祐六年（1054年），铁钱行用于四川、河东铁钱区。",
@@ -1205,7 +1205,7 @@
           "reverse": "- 素背无文为主，背星纹版罕见"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-北宋铁钱/皇宋通宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -1245,7 +1245,7 @@
         "coreFeatures": "铁质小平；面文\"康定元宝\"四字旋读；宋夏战争军兴所铸，以铁钱为主要铸行品种，铜品为大珍",
         "estimatedValue": "500—150,000元",
         "rarity": "四级 珍罕",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-北宋铁钱/康定元宝/main.jpg"
       },
       "detail": {
         "castingTime": "宋仁宗康定年间（公元1040—1041年）铸。时值宋夏战争军兴，陕西沿边开铸铁钱以充军费，康定元宝即此际所铸，为陕西铁钱之始。",
@@ -1259,7 +1259,7 @@
           "reverse": "- 素背无文，有外廓"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-北宋铁钱/康定元宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -1292,7 +1292,7 @@
         "coreFeatures": "当十大铁钱；面文\"庆历重宝\"有直读、旋读两式；光背为主，背\"陕\"极罕多为铁母流出；宋夏战争陕西沿边所铸，虚值当十",
         "estimatedValue": "100—80,000元",
         "rarity": "七级 甚少",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-北宋铁钱/庆历重宝/main.jpg"
       },
       "detail": {
         "castingTime": "宋仁宗庆历年间（公元1041—1048年）铸。时值宋夏战争，军费浩繁，陕西沿边铸行当十大铁钱以充军费，庆历重宝即此际所铸。",
@@ -1306,7 +1306,7 @@
           "reverse": "- 光背为主，背廓深峻\n- 极稀见背\"陕\"，存世极罕，多为铁母流出"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-北宋铁钱/庆历重宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -1346,7 +1346,7 @@
         "coreFeatures": "铁质当十；面文\"庆历直十\"四字直读，纪值\"直十\"；仅见铁钱品种",
         "estimatedValue": "500—3,000元",
         "rarity": "五级 稀贵",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-北宋铁钱/庆历直十/main.jpg"
       },
       "detail": {
         "castingTime": "宋仁宗庆历年间（公元1041—1048年）铸于陕西，与庆历重宝当十大铁钱同体系。",
@@ -1360,7 +1360,7 @@
           "reverse": "- 素背无文，有外廓"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-北宋铁钱/庆历直十/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -1386,7 +1386,7 @@
         "coreFeatures": "铁质折三纪地钱；面文\"至和重宝\"四字对读（亦有旋读）；背\"坊\"\"虢\"\"同\"三式纪地，为宋代钱背纪地铭文之始，均大罕品；陕西路铸应对西夏军费；铜品折二、折三并行",
         "estimatedValue": "3,000—300,000元",
         "rarity": "三级 罕贵",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-北宋铁钱/至和重宝/main.jpg"
       },
       "detail": {
         "castingTime": "宋仁宗至和年间（公元1054—1056年）铸。时值宋夏战争，陕西路为应对西夏军费开铸背纪地折三铁钱。",
@@ -1400,7 +1400,7 @@
           "reverse": "- 背穿上铸纪地\"坊\"\"虢\"\"同\"三式\n- 坊=坊州，虢=虢州，同=同州"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-北宋铁钱/至和重宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -1447,7 +1447,7 @@
         "coreFeatures": "铁质折三；面文\"嘉祐重宝\"四字对读；仅见铁钱品种",
         "estimatedValue": "200—2,000元",
         "rarity": "五级 稀贵",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-北宋铁钱/嘉祐重宝/main.jpg"
       },
       "detail": {
         "castingTime": "宋仁宗嘉祐年间（公元1056—1063年）铸。",
@@ -1461,7 +1461,7 @@
           "reverse": "- 素背无文，有外廓"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-北宋铁钱/嘉祐重宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -1494,7 +1494,7 @@
         "coreFeatures": "铁质折二；面文\"熙宁重宝\"四字对读；熙宁年间川陕铸行",
         "estimatedValue": "50—500元",
         "rarity": "七级 甚少",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-北宋铁钱/熙宁重宝/main.jpg"
       },
       "detail": {
         "castingTime": "宋神宗熙宁年间（公元1068—1077年）铸，铁质折二行用于川陕。",
@@ -1508,7 +1508,7 @@
           "reverse": "- 素背无文，有外廓"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-北宋铁钱/熙宁重宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -1534,7 +1534,7 @@
         "coreFeatures": "铁质小平、折二两型；面文\"元丰通宝\"四字旋读；元丰年间四川钱监铸量大",
         "estimatedValue": "50—30,000元",
         "rarity": "七级 甚少",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-北宋铁钱/元丰通宝/main.jpg"
       },
       "detail": {
         "castingTime": "宋神宗元丰年间（公元1078—1085年）铸。元丰年间钱监鼓铸量为北宋之冠，四川钱监铁钱铸量尤巨。",
@@ -1548,7 +1548,7 @@
           "reverse": "- 素背无文，有外廓"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-北宋铁钱/元丰通宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -1588,7 +1588,7 @@
         "coreFeatures": "铁质折三；面文\"元丰重宝\"四字对读；仅见铁钱品种",
         "estimatedValue": "500—3,000元",
         "rarity": "五级 稀贵",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-北宋铁钱/元丰重宝/main.jpg"
       },
       "detail": {
         "castingTime": "宋神宗元丰年间（公元1078—1085年）铸。",
@@ -1602,7 +1602,7 @@
           "reverse": "- 素背无文，有外廓"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-北宋铁钱/元丰重宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -1628,7 +1628,7 @@
         "coreFeatures": "铁质小平、折二、折三（折三多为铁钱）；面文\"元祐通宝\"四字旋读，篆书、行书对钱，传为司马光、苏轼手书；背\"陕\"纪监者为北宋名珍",
         "estimatedValue": "100—1,000,000元",
         "rarity": "七级 甚少",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-北宋铁钱/元祐通宝/main.jpg"
       },
       "detail": {
         "castingTime": "宋哲宗元祐年间（公元1086—1094年）铸行。时四川成都、梓州、利州、夔州四路专行铁钱，陕西、河东两路铜铁兼用，元祐铁钱即铸行于两大铁钱区。",
@@ -1642,7 +1642,7 @@
           "reverse": "- 素背无文为主\n- 著名背\"陕\"纪监版为铜品名珍"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-北宋铁钱/元祐通宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -1696,7 +1696,7 @@
         "coreFeatures": "铁质小平、折二两型；面文\"绍圣元宝\"四字旋读；绍圣年间川陕铸行",
         "estimatedValue": "50—500元",
         "rarity": "七级 甚少",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-北宋铁钱/绍圣元宝/main.jpg"
       },
       "detail": {
         "castingTime": "宋哲宗绍圣年间（公元1094—1098年）铸。",
@@ -1710,7 +1710,7 @@
           "reverse": "- 素背无文，有外廓"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-北宋铁钱/绍圣元宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -1743,7 +1743,7 @@
         "coreFeatures": "铁质小平；面文\"绍圣通宝\"四字对读；以铁钱为主要铸行品种，铜品反较少见",
         "estimatedValue": "100—500元",
         "rarity": "七级 甚少",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-北宋铁钱/绍圣通宝/main.jpg"
       },
       "detail": {
         "castingTime": "宋哲宗绍圣年间（公元1094—1098年）铸。",
@@ -1757,7 +1757,7 @@
           "reverse": "- 素背无文，有外廓"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-北宋铁钱/绍圣通宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -1783,7 +1783,7 @@
         "coreFeatures": "铁质折三；面文\"绍圣重宝\"四字对读；仅见铁钱品种",
         "estimatedValue": "500—3,000元",
         "rarity": "五级 稀贵",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-北宋铁钱/绍圣重宝/main.jpg"
       },
       "detail": {
         "castingTime": "宋哲宗绍圣年间（公元1094—1098年）铸。",
@@ -1797,7 +1797,7 @@
           "reverse": "- 素背无文，有外廓"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-北宋铁钱/绍圣重宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -1823,7 +1823,7 @@
         "coreFeatures": "铁质小平、折二两型；面文\"元符通宝\"四字对读；元符年间川陕铸行",
         "estimatedValue": "50—500元",
         "rarity": "七级 甚少",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-北宋铁钱/元符通宝/main.jpg"
       },
       "detail": {
         "castingTime": "宋哲宗元符年间（公元1098—1100年）铸。",
@@ -1837,7 +1837,7 @@
           "reverse": "- 素背无文，有外廓"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-北宋铁钱/元符通宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -1870,7 +1870,7 @@
         "coreFeatures": "铁质折三；面文\"元符重宝\"四字对读；仅见铁钱品种",
         "estimatedValue": "500—3,000元",
         "rarity": "五级 稀贵",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-北宋铁钱/元符重宝/main.jpg"
       },
       "detail": {
         "castingTime": "宋哲宗元符年间（公元1098—1100年）铸。",
@@ -1884,7 +1884,7 @@
           "reverse": "- 素背无文，有外廓"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-北宋铁钱/元符重宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -1910,7 +1910,7 @@
         "coreFeatures": "铁质小平、折二、折三三型，折三为铁钱大宗；面文\"圣宋元宝\"四字旋读；非年号钱，徽宗建中靖国至崇宁初铸",
         "estimatedValue": "50—80,000元",
         "rarity": "七级 甚少",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-北宋铁钱/圣宋元宝/main.jpg"
       },
       "detail": {
         "castingTime": "宋徽宗建中靖国至崇宁初（公元1101年前后）铸，以\"圣宋\"为国号钱文，非年号钱。",
@@ -1924,7 +1924,7 @@
           "reverse": "- 素背无文，有外廓"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-北宋铁钱/圣宋元宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -1971,7 +1971,7 @@
         "coreFeatures": "铁质当十；面文\"崇宁通宝\"四字旋读，徽宗瘦金体铁画银钩；崇宁年间铸",
         "estimatedValue": "100—30,000元",
         "rarity": "七级 甚少",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-北宋铁钱/崇宁通宝/main.jpg"
       },
       "detail": {
         "castingTime": "宋徽宗崇宁年间（公元1102—1106年）铸。徽宗朝钱文书法臻于极盛，崇宁、大观铁钱瘦金体铁画银钩，铁钱中别具一格。",
@@ -1985,7 +1985,7 @@
           "reverse": "- 素背无文，有外廓"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-北宋铁钱/崇宁通宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -2018,7 +2018,7 @@
         "coreFeatures": "铁质小平、折二、折三、折五、折十；面文\"大观通宝\"四字对读，徽宗御书瘦金体；背记监名（阶）仅见铁钱；大观年间铸",
         "estimatedValue": "100—30,000元",
         "rarity": "七级 甚少",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-北宋铁钱/大观通宝/main.jpg"
       },
       "detail": {
         "castingTime": "宋徽宗大观年间（公元1107—1110年）铸。",
@@ -2032,7 +2032,7 @@
           "reverse": "- 多素背；铁钱有背穿上（下）铸\"阶\"纪监者，铜钱未见背文"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-北宋铁钱/大观通宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -2100,7 +2100,7 @@
         "coreFeatures": "铁质小平、折二、折三（折三只有铁钱，径3.2—3.3cm，含锡量较高）；面文\"政和通宝\"四字对读，篆、隶（杂楷意）对钱，版别数十种；背有光背、背字、阴月文诸版",
         "estimatedValue": "2—200,000元",
         "rarity": "九级 较多",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-北宋铁钱/政和通宝/main.jpg"
       },
       "detail": {
         "castingTime": "宋徽宗政和元年（公元1111年）始铸，铸行至政和八年（1118年）。小平、折二铜铁并铸，折三大钱为铁质专铸，多行用于陕西路。",
@@ -2114,7 +2114,7 @@
           "reverse": "- 光背为主，另有背字、阴月文诸版\n- 真书背\"陕\"纪监小平铁母为大珍"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-北宋铁钱/政和通宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -2189,7 +2189,7 @@
         "coreFeatures": "铁质折二；面文\"政和重宝\"四字对读；政和年间铸，以铁品为主",
         "estimatedValue": "50—500元",
         "rarity": "八级 少",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-北宋铁钱/政和重宝/main.jpg"
       },
       "detail": {
         "castingTime": "宋徽宗政和年间（公元1111—1118年）铸。",
@@ -2203,7 +2203,7 @@
           "reverse": "- 素背无文，有外廓"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-北宋铁钱/政和重宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -2229,7 +2229,7 @@
         "coreFeatures": "铁质小平；面文\"重和通宝\"四字对读；年号行用仅一年余，铸期极短",
         "estimatedValue": "500—3,000元",
         "rarity": "六级 稀",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-北宋铁钱/重和通宝/main.jpg"
       },
       "detail": {
         "castingTime": "宋徽宗重和年间（公元1118—1119年）铸。重和年号行用仅一年余，铸期极短。",
@@ -2243,7 +2243,7 @@
           "reverse": "- 素背无文，有外廓"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-北宋铁钱/重和通宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -2269,7 +2269,7 @@
         "coreFeatures": "铁钱以小平背\"陕\"为主，铸造量大，行用于陕西路；面文\"宣和通宝\"四字对读，篆、隶对钱，部分为徽宗亲书瘦金体；背陕版为宣和钱之名品",
         "estimatedValue": "10—20,000元",
         "rarity": "九级 较多",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-北宋铁钱/宣和通宝/main.jpg"
       },
       "detail": {
         "castingTime": "宋徽宗宣和年间（公元1119—1125年）铸，为徽宗最后一种年号钱。铁钱主要于陕西路流通。",
@@ -2283,7 +2283,7 @@
           "reverse": "- 铁钱背穿上\"陕\"字纪监\n- 铜品多光背，另见折二试铸版、折五型诸珍"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-北宋铁钱/宣和通宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -2330,7 +2330,7 @@
         "coreFeatures": "铁质小平；面文\"宣和元宝\"四字旋读；北宋最后阶段之铁钱",
         "estimatedValue": "100—500元",
         "rarity": "七级 甚少",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-北宋铁钱/宣和元宝/main.jpg"
       },
       "detail": {
         "castingTime": "宋徽宗宣和年间（公元1119—1125年）铸，为北宋最后阶段之铁钱。",
@@ -2344,7 +2344,7 @@
           "reverse": "- 素背无文，有外廓"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-北宋铁钱/宣和元宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -2370,7 +2370,7 @@
         "coreFeatures": "铁质小平；面文\"应运元宝\"四字旋读；李顺起义军建元\"应运\"所铸，农民起义军铸币大珍",
         "estimatedValue": "100,000—500,000元",
         "rarity": "一级 大珍",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-北宋铁钱/应运元宝/main.jpg"
       },
       "detail": {
         "castingTime": "淳化五年（公元994年）王小波、李顺起义军据成都，李顺建元\"应运\"，国号大蜀，铸应运元宝，铸行极少。",
@@ -2384,7 +2384,7 @@
           "reverse": "- 素背无文，有外廓"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-北宋铁钱/应运元宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -2410,7 +2410,7 @@
         "coreFeatures": "铁质小平；面文\"应感通宝\"四字旋读，隶书；李顺起义失败后部将张余续铸，五十名珍级大珍",
         "estimatedValue": "30,000—150,000元",
         "rarity": "一级 大珍",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-北宋铁钱/应感通宝/main.jpg"
       },
       "detail": {
         "castingTime": "至道元年（公元995年）前后，李顺起义失败后，其部将张余率余部续抗，铸应感通宝，铸行极少。",
@@ -2424,7 +2424,7 @@
           "reverse": "- 素背无文，有外廓"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-北宋铁钱/应感通宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -2450,7 +2450,7 @@
         "coreFeatures": "铁质小平、折二两型；面文\"建炎通宝\"四字对读；小平光背、背上\"川\"两式，折二试铸真品极罕；铸于四川邛州惠民监，建炎二年罢铸",
         "estimatedValue": "500—100,000元",
         "rarity": "七级 甚少",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-南宋铁钱/建炎通宝/main.jpg"
       },
       "detail": {
         "castingTime": "宋高宗建炎年间（公元1127—1128年）铸于四川邛州惠民监，为南宋复铸铁钱之始；建炎二年（1128年）罢铸，铸期很短。",
@@ -2464,7 +2464,7 @@
           "reverse": "- 小平：光背、背上\"川\"两式\n- 折二：试铸光背"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-南宋铁钱/建炎通宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -2504,7 +2504,7 @@
         "coreFeatures": "铁质折三试铸；面文\"建炎重宝\"四字对读；光背；试铸无批量流通，真品极罕；铸于四川邛州惠民监，建炎二年罢铸",
         "estimatedValue": "20,000—80,000元",
         "rarity": "二级 珍",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-南宋铁钱/建炎重宝/main.jpg"
       },
       "detail": {
         "castingTime": "宋高宗建炎年间（公元1127—1128年）铸于四川邛州惠民监，为南宋复铸铁钱之始；建炎二年（1128年）罢铸，铸期很短。",
@@ -2518,7 +2518,7 @@
           "reverse": "- 光背素文，有外廓（战乱时期纪监之制未开）"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-南宋铁钱/建炎重宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -2544,7 +2544,7 @@
         "coreFeatures": "铁质小平、折二两型；面文\"绍兴通宝\"四字对读；小平批量流通光背，折二试铸真品极罕；四川邛州惠民监、嘉州丰远监铸，利州绍兴监后期恢复",
         "estimatedValue": "100—80,000元",
         "rarity": "七级 甚少",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-南宋铁钱/绍兴通宝/main.jpg"
       },
       "detail": {
         "castingTime": "宋高宗绍兴年间（公元1131—1162年）铸。绍兴前期长期罢铸铁钱，绍兴二十二年至三十一年（1152—1161年）恢复铸小平铁钱。",
@@ -2558,7 +2558,7 @@
           "reverse": "- 小平批量流通光背\n- 折二试铸光背，真品极罕"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-南宋铁钱/绍兴通宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -2591,7 +2591,7 @@
         "coreFeatures": "铁质小平、折二两型；面文\"绍兴元宝\"四字旋读，楷、篆对钱；小平批量流通光背，折二试铸真品极罕；四川邛州惠民监、嘉州丰远监铸",
         "estimatedValue": "50—80,000元",
         "rarity": "七级 甚少",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-南宋铁钱/绍兴元宝/main.jpg"
       },
       "detail": {
         "castingTime": "宋高宗绍兴年间（公元1131—1162年）铸。绍兴前期长期罢铸铁钱，绍兴二十二年至三十一年（1152—1161年）恢复铸小平铁钱。",
@@ -2605,7 +2605,7 @@
           "reverse": "- 小平批量流通光背\n- 折二试铸光背，真品极罕"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-南宋铁钱/绍兴元宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -2638,7 +2638,7 @@
         "coreFeatures": "铁质折二；面文\"隆兴通宝\"四字直读，楷、篆二体；光背；无小平流通铁钱；铸于四川邛州惠民监、嘉州丰远监",
         "estimatedValue": "300—2,000元",
         "rarity": "六级 稀",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-南宋铁钱/隆兴通宝/main.jpg"
       },
       "detail": {
         "castingTime": "宋孝宗隆兴年间（公元1163—1164年）铸。年号仅二年，铸期短，存世稀少。",
@@ -2652,7 +2652,7 @@
           "reverse": "- 光背素文，谱录流通铁钱全部光背"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-南宋铁钱/隆兴通宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -2678,7 +2678,7 @@
         "coreFeatures": "铁质小平、折二、折三三型；面文\"隆兴元宝\"四字旋读，楷、篆对钱；全部光背，折三试铸流通少见；铸于四川邛州惠民监、嘉州丰远监",
         "estimatedValue": "300—30,000元",
         "rarity": "七级 甚少",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-南宋铁钱/隆兴元宝/main.jpg"
       },
       "detail": {
         "castingTime": "宋孝宗隆兴年间（公元1163—1164年）铸。年号仅二年，铸期短，整体存世偏少。",
@@ -2692,7 +2692,7 @@
           "reverse": "- 光背素文，谱录流通铁钱全部光背"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-南宋铁钱/隆兴元宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -2732,7 +2732,7 @@
         "coreFeatures": "铁质折三；面文\"隆兴重宝\"四字对读；仅见铁钱品种，无铜品行用钱",
         "estimatedValue": "200—2,000元",
         "rarity": "五级 稀贵",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-南宋铁钱/隆兴重宝/main.jpg"
       },
       "detail": {
         "castingTime": "宋孝宗隆兴年间（公元1163—1164年）铸。",
@@ -2746,7 +2746,7 @@
           "reverse": "- 素背无文，有外廓"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-南宋铁钱/隆兴重宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -2772,7 +2772,7 @@
         "coreFeatures": "铁质小平、折二；面文\"乾道元宝\"四字旋读，折二楷、篆成对；两淮纪监背\"春\"\"同\"\"松\"及安、丰、裕、冶、广与四川背\"邛\"两体系并行，另有光背、背月、背星月；无纪年数字背文",
         "estimatedValue": "50—2,000元",
         "rarity": "七级 甚少",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-南宋铁钱/乾道元宝/main.jpg"
       },
       "detail": {
         "castingTime": "宋孝宗乾道年间（公元1165—1173年）铸。乾道年间置两淮钱监，两淮铁钱区确立，与四川铁钱区并行；尚未启用纪监+纪年制度，无数字纪年背文。",
@@ -2786,7 +2786,7 @@
           "reverse": "- 两淮纪监：背\"春\"\"同\"\"松\"及安、丰、裕、冶、广\n- 四川纪监：背\"邛\"\n- 无记监诸式：光背、背月、背星月"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-南宋铁钱/乾道元宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -2889,7 +2889,7 @@
         "coreFeatures": "铁质小平、折二试铸；面文\"乾道通宝\"四字对读；背\"安\"；全部为试铸样钱，无正式流通，真品极罕",
         "estimatedValue": "30,000—100,000元",
         "rarity": "二级 珍",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-南宋铁钱/乾道通宝/main.jpg"
       },
       "detail": {
         "castingTime": "宋孝宗乾道年间（公元1165—1173年）试铸。乾道通宝铁钱均为试铸样钱，无正式流通。",
@@ -2903,7 +2903,7 @@
           "reverse": "- 背铸\"安\"字，小平、折二均同"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-南宋铁钱/乾道通宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -2936,7 +2936,7 @@
         "coreFeatures": "铁质折三；面文\"乾道重宝\"四字对读；仅见铁钱品种",
         "estimatedValue": "200—2,000元",
         "rarity": "五级 稀贵",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-南宋铁钱/乾道重宝/main.jpg"
       },
       "detail": {
         "castingTime": "宋孝宗乾道年间（公元1165—1173年）铸。",
@@ -2950,7 +2950,7 @@
           "reverse": "- 素背无文，有外廓"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-南宋铁钱/乾道重宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -2976,7 +2976,7 @@
         "coreFeatures": "铁质小平；面文\"纯熙元宝\"四字旋读；背上\"同\"（舒州同安监），版别分大字、小字；年号未及行用，1985年高邮运河出土，存世极罕",
         "estimatedValue": "10,000—50,000元",
         "rarity": "三级 罕贵",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-南宋铁钱/纯熙元宝/main.jpg"
       },
       "detail": {
         "castingTime": "乾道九年冬至（公元1173年）拟改元\"纯熙\"，宣改元六日后即改淳熙，年号并未实际行用。仅舒州同安监试铸，其余钱监未开铸。",
@@ -2990,7 +2990,7 @@
           "reverse": "- 背穿上铸\"同\"字，纪舒州同安监\n- 背文均仅\"同\"，无其他背字"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-南宋铁钱/纯熙元宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -3016,7 +3016,7 @@
         "coreFeatures": "铁质小平、折二、折三；面文\"淳熙元宝\"四字旋读；淳熙七年（1180年）始行纪监+纪年（穿上纪监、穿下纪年），开中国纪年钱之先河；两淮春汉同松与四川利邛两体系并行",
         "estimatedValue": "50—20,000元",
         "rarity": "七级 甚少",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-南宋铁钱/淳熙元宝/main.jpg"
       },
       "detail": {
         "castingTime": "宋孝宗淳熙年间（公元1174—1189年）铸。淳熙七年（1180年）起钱背穿上纪监、穿下纪年，开中国纪年钱之先河；柒至玖为大写汉字，十至十六改用小写数字；宿松监淳熙十年废监。",
@@ -3030,7 +3030,7 @@
           "reverse": "- 两淮：穿上纪监字（春、汉、同、松），穿下纪年（柒至十六，松仅至十）\n- 四川：背\"利\"\"邛\"，不纪年"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-南宋铁钱/淳熙元宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -3259,7 +3259,7 @@
         "coreFeatures": "铁质折二；面文\"淳熙通宝\"四字对读；背上纪监、穿下纪年（十至十六）；无小平流通铁钱",
         "estimatedValue": "50—500元",
         "rarity": "七级 甚少",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-南宋铁钱/淳熙通宝/main.jpg"
       },
       "detail": {
         "castingTime": "宋孝宗淳熙年间（公元1174—1189年）铸。通宝折二纪年自淳熙十年（1183年）始，至十六年（1189年）止，仅春、汉、同三监铸行。",
@@ -3273,7 +3273,7 @@
           "reverse": "- 穿上纪监字（春、汉、同），穿下纪年（十至十六）"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-南宋铁钱/淳熙通宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -3313,7 +3313,7 @@
         "coreFeatures": "铁质小平、折二、折三；面文\"绍熙元宝\"四字旋读；背上纪监、穿下纪年（元至五），春汉同与光/定（定城监）诸系；折三四川铸背月孕双星；楷篆对钱",
         "estimatedValue": "50—20,000元",
         "rarity": "七级 甚少",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-南宋铁钱/绍熙元宝/main.jpg"
       },
       "detail": {
         "castingTime": "宋光宗绍熙年间（公元1190—1194年）铸。年号仅五年，纪年止于\"五\"，\"六\"及以上皆臆造；\"光二\"为定城监早期记监，此后改\"定\"。",
@@ -3327,7 +3327,7 @@
           "reverse": "- 穿上纪监字（春、汉、同、光/定），穿下纪年（元至五）\n- 折三（四川）：背月孕双星"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-南宋铁钱/绍熙元宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -3416,7 +3416,7 @@
         "coreFeatures": "铁质小平、折二；面文\"绍熙通宝\"四字对读，楷、篆二体成对；背上纪监、穿下纪年（二至五），春汉同定四系；\"春山\"\"定山\"篆书试铸为大名誉品",
         "estimatedValue": "50—20,000元",
         "rarity": "七级 甚少",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-南宋铁钱/绍熙通宝/main.jpg"
       },
       "detail": {
         "castingTime": "宋光宗绍熙年间（公元1190—1194年）铸。通宝纪年自\"二\"始，止于\"五\"；\"春山\"\"定山\"为篆书试铸罕品。",
@@ -3430,7 +3430,7 @@
           "reverse": "- 穿上纪监字（春、汉、同、定），穿下纪年（二至五）"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-南宋铁钱/绍熙通宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -3526,7 +3526,7 @@
         "coreFeatures": "铁质小平、折二；面文\"庆元通宝\"四字对读；背上纪监、穿下纪年（元至七），春汉同三系；\"七\"字钱为钱监预铸真品；背\"永\"试铸为大名誉品",
         "estimatedValue": "50—200,000元",
         "rarity": "七级 甚少",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-南宋铁钱/庆元通宝/main.jpg"
       },
       "detail": {
         "castingTime": "宋宁宗庆元年间（公元1195—1200年）铸。年号仅六年，背\"七\"字钱为钱监提前预铸次年（嘉泰元年）之品，属真品体系。",
@@ -3540,7 +3540,7 @@
           "reverse": "- 穿上纪监字（春、汉、同），穿下纪年（元至七）"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-南宋铁钱/庆元通宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -3846,7 +3846,7 @@
         "coreFeatures": "铁质折三；面文\"庆元元宝\"四字旋读；仅见折三铁钱，均背\"川\"字，兼纪炉次",
         "estimatedValue": "50—30,000元",
         "rarity": "七级 甚少",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-南宋铁钱/庆元元宝/main.jpg"
       },
       "detail": {
         "castingTime": "宋宁宗庆元年间（公元1195—1200年）铸，仅见折三铁钱，背铸\"川\"字纪监，兼纪炉次。",
@@ -3860,7 +3860,7 @@
           "reverse": "- 背穿上铸\"川\"字纪监\n- 穿下铸炉次编号（如\"卅四\"\"卅七\"）"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-南宋铁钱/庆元元宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -3914,7 +3914,7 @@
         "coreFeatures": "铁质小平、折二；面文\"嘉泰通宝\"四字对读；背上纪监、穿下纪年（元至三），春汉同三系；铁钱纪年止于\"三\"",
         "estimatedValue": "50—500元",
         "rarity": "七级 甚少",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-南宋铁钱/嘉泰通宝/main.jpg"
       },
       "detail": {
         "castingTime": "宋宁宗嘉泰年间（公元1201—1204年）铸。两淮铁钱铸期止于三年，纪年只有\"元\"至\"三\"。",
@@ -3928,7 +3928,7 @@
           "reverse": "- 穿上纪监字（春、汉、同），穿下纪年（元至三）"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-南宋铁钱/嘉泰通宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -4038,7 +4038,7 @@
         "coreFeatures": "铁质小平、折二、折三；面文\"嘉泰元宝\"四字旋读；小平、折二仅铸元年（春元/汉元/同元，两淮），折三背\"川二卅九\"（四川惠民监）为大名誉品",
         "estimatedValue": "50—100,000元",
         "rarity": "七级 甚少",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-南宋铁钱/嘉泰元宝/main.jpg"
       },
       "detail": {
         "castingTime": "宋宁宗嘉泰年间（公元1201—1204年）铸。两淮小平、折二均止于元年；四川折三背\"川二卅九\"。",
@@ -4052,7 +4052,7 @@
           "reverse": "- 小平、折二：穿上纪监字（春、汉、同），穿下纪年（仅\"元\"）\n- 折三（四川）：背\"川二卅九\"纪年纪范次"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-南宋铁钱/嘉泰元宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -4127,7 +4127,7 @@
         "coreFeatures": "铁质小平、折二；面文\"开禧通宝\"四字对读；北伐用兵之际铸，背上纪监、穿下纪年（元至三），春汉同三系；另有折十光背大钱",
         "estimatedValue": "50—500元",
         "rarity": "七级 甚少",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-南宋铁钱/开禧通宝/main.jpg"
       },
       "detail": {
         "castingTime": "宋宁宗开禧年间（公元1205—1207年）铸，时值开禧北伐用兵之际。年号仅三年，铁钱纪年只到\"元\"至\"三\"。",
@@ -4141,7 +4141,7 @@
           "reverse": "- 穿上纪监字（春、汉、同），穿下纪年（元至三）\n- 折十：光背军饷大钱，另有铁范铜背\"利\"试样大钱（大珍）"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-南宋铁钱/开禧通宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -4244,7 +4244,7 @@
         "coreFeatures": "铁质折三；面文\"开禧元宝\"四字旋读；仅折三、无小平折二流通铁钱；背\"利六十\"\"利六一\"（利州绍兴监炉次编号），少见名誉品",
         "estimatedValue": "500—3,000元",
         "rarity": "六级 稀",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-南宋铁钱/开禧元宝/main.jpg"
       },
       "detail": {
         "castingTime": "宋宁宗开禧年间（公元1205—1207年）铸。开禧元宝只有折三铁钱，无小平、折二流通铁钱。",
@@ -4258,7 +4258,7 @@
           "reverse": "- 背\"利\"纪监，穿下铸炉次编号（\"六十\"\"六一\"）"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-南宋铁钱/开禧元宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -4291,7 +4291,7 @@
         "coreFeatures": "铁质折五；面文\"圣宋重宝\"四字对读；非年号钱（国号钱文）；仅四川利州绍兴监铸，真品背只有\"利壹伍\"一式；川铁名誉品",
         "estimatedValue": "300—2,000元",
         "rarity": "六级 稀",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-南宋铁钱/圣宋重宝/main.jpg"
       },
       "detail": {
         "castingTime": "宋宁宗嘉定元年（公元1208年）前后铸，以\"圣宋\"为文，非年号钱。仅铸折五一式。",
@@ -4305,7 +4305,7 @@
           "reverse": "- 背穿上\"利壹\"（纪监纪年）、穿下篆书\"伍\"（纪值）"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-南宋铁钱/圣宋重宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -4331,7 +4331,7 @@
         "coreFeatures": "铁质折二、折五；面文\"嘉定通宝\"四字对读；折二背纪监兼纪年（春、汉、同三系），纪年自\"元\"至\"十七\"为南宋之冠；折五背铸纪值文",
         "estimatedValue": "50—20,000元",
         "rarity": "七级 甚少",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-南宋铁钱/嘉定通宝/main.jpg"
       },
       "detail": {
         "castingTime": "宋宁宗嘉定年间（公元1208—1224年）铸。折二背纪监兼纪年，纪年自\"元\"至\"十七\"，为南宋纪年之冠；折五背铸纪值文。",
@@ -4345,7 +4345,7 @@
           "reverse": "- 折二：背纪监兼纪年合书（春、汉、同×元至十七；同系止于三）\n- 折五：背铸纪值文（折伍、直五、复伍、用五、西四伍）"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-南宋铁钱/嘉定通宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -4399,7 +4399,7 @@
         "coreFeatures": "铁质折三、折五；面文\"嘉定元宝\"四字旋读；折三背\"利州三\"纪监纪年，折五背纪监纪值（利壹伍、利贰伍、利叁伍、西贰伍、西叁伍、惠伍、邛折伍七式）；与嘉定通宝并行",
         "estimatedValue": "300—200,000元",
         "rarity": "六级 稀",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-南宋铁钱/嘉定元宝/main.jpg"
       },
       "detail": {
         "castingTime": "宋宁宗嘉定年间（公元1208—1224年）铸，与嘉定通宝并行。折三背纪监纪年，折五背纪监纪值。",
@@ -4413,7 +4413,7 @@
           "reverse": "- 折三：背\"利州三\"纪监纪年\n- 折五：背纪监纪值合书（利壹伍、利贰伍、利叁伍、西贰伍、西叁伍、惠伍、邛折伍）"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-南宋铁钱/嘉定元宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -4509,7 +4509,7 @@
         "coreFeatures": "铁质折二、折三；面文\"嘉定崇宝\"四字对读，楷书；折二背月孕星、折三背月孕双星纪值纹；嘉定十七宝之一",
         "estimatedValue": "50—50,000元",
         "rarity": "八级 少",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-南宋铁钱/嘉定崇宝/main.jpg"
       },
       "detail": {
         "castingTime": "宋宁宗嘉定年间（公元1208—1224年）铸，为嘉定十七种宝文铁钱之一。折二背月孕星、折三背月孕双星纪值。",
@@ -4523,7 +4523,7 @@
           "reverse": "- 折二：背铸月孕星纹\n- 折三：背铸月孕双星纹"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-南宋铁钱/嘉定崇宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -4563,7 +4563,7 @@
         "coreFeatures": "铁质折二、折三；面文\"嘉定正宝\"四字对读，楷书；折二背月孕星、折三背月孕双星纪值纹；嘉定十七宝之一",
         "estimatedValue": "100—50,000元",
         "rarity": "七级 甚少",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-南宋铁钱/嘉定正宝/main.jpg"
       },
       "detail": {
         "castingTime": "宋宁宗嘉定年间（公元1208—1224年）铸，为嘉定十七种宝文铁钱之一。折二背月孕星、折三背月孕双星纪值。",
@@ -4577,7 +4577,7 @@
           "reverse": "- 折二：背铸月孕星纹\n- 折三：背铸月孕双星纹"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-南宋铁钱/嘉定正宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -4617,7 +4617,7 @@
         "coreFeatures": "铁质折二、折三；面文\"嘉定全宝\"四字对读，楷书；折二背\"三\"，折三背\"三\"及月孕双星；嘉定十七宝之一",
         "estimatedValue": "100—1,000元",
         "rarity": "八级 少",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-南宋铁钱/嘉定全宝/main.jpg"
       },
       "detail": {
         "castingTime": "宋宁宗嘉定年间（公元1208—1224年）铸，为嘉定十七种宝文铁钱之一。折二、折三背均铸纪值\"三\"，折三另有月孕双星纹。",
@@ -4631,7 +4631,7 @@
           "reverse": "- 折二：背铸纪值\"三\"\n- 折三：背铸纪值\"三\"或月孕双星纹"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-南宋铁钱/嘉定全宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -4671,7 +4671,7 @@
         "coreFeatures": "铁质折二、折三；面文\"嘉定永宝\"四字对读，楷书；折二背\"定二\"\"定三\"及月孕双星，折三背月孕双星；嘉定十七宝之一",
         "estimatedValue": "100—150,000元",
         "rarity": "八级 少",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-南宋铁钱/嘉定永宝/main.jpg"
       },
       "detail": {
         "castingTime": "宋宁宗嘉定年间（公元1208—1224年）铸，为嘉定十七种宝文铁钱之一。折二背\"定\"字系纪文及月孕双星，折三背月孕双星。",
@@ -4685,7 +4685,7 @@
           "reverse": "- 折二：背铸\"定二\"\"定三\"或月孕双星纹\n- 折三：背铸月孕双星纹"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-南宋铁钱/嘉定永宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -4739,7 +4739,7 @@
         "coreFeatures": "铁质折二、折三；面文\"嘉定安宝\"四字对读，楷书；折二、折三背均铸纪值\"三\"；嘉定十七宝之一",
         "estimatedValue": "100—5,000元",
         "rarity": "七级 甚少",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-南宋铁钱/嘉定安宝/main.jpg"
       },
       "detail": {
         "castingTime": "宋宁宗嘉定年间（公元1208—1224年）铸，为嘉定十七种宝文铁钱之一。折二、折三背均铸纪值\"三\"。",
@@ -4753,7 +4753,7 @@
           "reverse": "- 折二、折三：背均铸纪值\"三\""
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-南宋铁钱/嘉定安宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -4786,7 +4786,7 @@
         "coreFeatures": "铁质折三；面文\"嘉定真宝\"四字对读，楷书；折三背月孕星纪值纹，仅此一等；嘉定十七宝之一",
         "estimatedValue": "100—800元",
         "rarity": "八级 少",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-南宋铁钱/嘉定真宝/main.jpg"
       },
       "detail": {
         "castingTime": "宋宁宗嘉定年间（公元1208—1224年）铸，为嘉定十七种宝文铁钱之一。折三背月孕星纪值。",
@@ -4800,7 +4800,7 @@
           "reverse": "- 折三：背铸月孕星纹"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-南宋铁钱/嘉定真宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -4826,7 +4826,7 @@
         "coreFeatures": "铁质折二；面文\"嘉定之宝\"四字对读，楷、隶、篆三体；背\"利州行使\"纪监，仅此一等；嘉定十七宝之一",
         "estimatedValue": "500—5,000元",
         "rarity": "五级 稀贵",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-南宋铁钱/嘉定之宝/main.jpg"
       },
       "detail": {
         "castingTime": "宋宁宗嘉定年间（公元1208—1224年）铸，为嘉定十七种宝文铁钱之一。折二背\"利州行使\"纪监。",
@@ -4840,7 +4840,7 @@
           "reverse": "- 折二：背铸\"利州行使\"（利州绍兴监）"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-南宋铁钱/嘉定之宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -4866,7 +4866,7 @@
         "coreFeatures": "铁质折三；面文\"嘉定万宝\"四字对读，楷书；折三背\"三\"及月孕双星两式；嘉定十七宝之一",
         "estimatedValue": "100—800元",
         "rarity": "八级 少",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-南宋铁钱/嘉定万宝/main.jpg"
       },
       "detail": {
         "castingTime": "宋宁宗嘉定年间（公元1208—1224年）铸，为嘉定十七种宝文铁钱之一。折三背纪值\"三\"或月孕双星。",
@@ -4880,7 +4880,7 @@
           "reverse": "- 折三：背铸纪值\"三\"或月孕双星纹"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-南宋铁钱/嘉定万宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -4913,7 +4913,7 @@
         "coreFeatures": "铁质折三；面文\"嘉定隆宝\"四字对读，楷书；折三背纪值\"三\"，仅此一等（公认大珍）；嘉定十七宝之一",
         "estimatedValue": "100,000—500,000元",
         "rarity": "一级 大珍",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-南宋铁钱/嘉定隆宝/main.jpg"
       },
       "detail": {
         "castingTime": "宋宁宗嘉定年间（公元1208—1224年）铸，为嘉定十七种宝文铁钱之一。折三背纪值\"三\"。",
@@ -4927,7 +4927,7 @@
           "reverse": "- 折三：背铸纪值\"三\"（大珍）"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-南宋铁钱/嘉定隆宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -4953,7 +4953,7 @@
         "coreFeatures": "铁质折三；面文\"嘉定洪宝\"四字对读，楷书；折三背纪值\"三\"，仅此一等；嘉定十七宝之一",
         "estimatedValue": "500—5,000元",
         "rarity": "五级 稀贵",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-南宋铁钱/嘉定洪宝/main.jpg"
       },
       "detail": {
         "castingTime": "宋宁宗嘉定年间（公元1208—1224年）铸，为嘉定十七种宝文铁钱之一。折三背纪值\"三\"。",
@@ -4967,7 +4967,7 @@
           "reverse": "- 折三：背铸纪值\"三\""
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-南宋铁钱/嘉定洪宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -4993,7 +4993,7 @@
         "coreFeatures": "铁质折三；面文\"嘉定新宝\"四字对读，楷书；折三背穿上纪值\"三\"，仅此一等；嘉定十七宝之一",
         "estimatedValue": "500—5,000元",
         "rarity": "五级 稀贵",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-南宋铁钱/嘉定新宝/main.jpg"
       },
       "detail": {
         "castingTime": "宋宁宗嘉定年间（公元1208—1224年）铸，为嘉定十七种宝文铁钱之一。折三背穿上纪值\"三\"。",
@@ -5007,7 +5007,7 @@
           "reverse": "- 折三：背穿上铸纪值\"三\""
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-南宋铁钱/嘉定新宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -5033,7 +5033,7 @@
         "coreFeatures": "铁质折三；面文\"嘉定泉宝\"四字对读，楷书；折三背月孕双星纪值；另有径7.21cm祭祀大钱；嘉定十七宝之一",
         "estimatedValue": "30,000—800,000元",
         "rarity": "二级 珍",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-南宋铁钱/嘉定泉宝/main.jpg"
       },
       "detail": {
         "castingTime": "宋宁宗嘉定年间（公元1208—1224年）铸，为嘉定十七种宝文铁钱之一。折三背月孕双星纪值。",
@@ -5047,7 +5047,7 @@
           "reverse": "- 折三：背铸月孕双星纪\"三\"\n- 另有径7.21cm祭祀大钱（非流通品）"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-南宋铁钱/嘉定泉宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -5087,7 +5087,7 @@
         "coreFeatures": "铁质折三；面文\"嘉定大宝\"四字对读，楷书；折三背月孕双星纪值，仅此一等（大珍）；嘉定十七宝之一",
         "estimatedValue": "100,000—500,000元",
         "rarity": "一级 大珍",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-南宋铁钱/嘉定大宝/main.jpg"
       },
       "detail": {
         "castingTime": "宋宁宗嘉定年间（公元1208—1224年）铸，为嘉定十七种宝文铁钱之一。折三背月孕双星纪值。",
@@ -5101,7 +5101,7 @@
           "reverse": "- 折三：背铸月孕双星纪\"三\""
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-南宋铁钱/嘉定大宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -5127,7 +5127,7 @@
         "coreFeatures": "铁质折五；面文\"嘉定珍宝\"四字对读，楷书；背\"使伍\"\"信伍\"纪值，仅折五一等；嘉定十七宝之一",
         "estimatedValue": "10,000—50,000元",
         "rarity": "四级 珍罕",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-南宋铁钱/嘉定珍宝/main.jpg"
       },
       "detail": {
         "castingTime": "宋宁宗嘉定年间（公元1208—1224年）铸，为嘉定十七种宝文铁钱之一。折五背\"使伍\"\"信伍\"纪值。",
@@ -5141,7 +5141,7 @@
           "reverse": "- 折五：背铸\"使伍\"\"信伍\"纪值"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-南宋铁钱/嘉定珍宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -5174,7 +5174,7 @@
         "coreFeatures": "铁质折五；面文\"嘉定至宝\"四字对读（一说直读），楷书；背\"惠伍\"纪监纪值，仅见折五一等；嘉定十七宝之一",
         "estimatedValue": "1,000—10,000元",
         "rarity": "五级 稀贵",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-南宋铁钱/嘉定至宝/main.jpg"
       },
       "detail": {
         "castingTime": "宋宁宗嘉定年间（公元1208—1224年）铸，为嘉定十七种宝文铁钱之一。折五背\"惠伍\"纪监纪值。",
@@ -5188,7 +5188,7 @@
           "reverse": "- 折五：背铸\"惠伍\"（惠纪邛州惠民监、伍纪值）"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-南宋铁钱/嘉定至宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -5214,7 +5214,7 @@
         "coreFeatures": "铁质折五；面文\"嘉定兴宝\"四字对读，楷书；背穿上\"正\"穿下\"伍\"纪值，仅见折五一等；嘉定十七宝之一",
         "estimatedValue": "500—5,000元",
         "rarity": "六级 稀",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-南宋铁钱/嘉定兴宝/main.jpg"
       },
       "detail": {
         "castingTime": "宋宁宗嘉定年间（公元1208—1224年）铸，为嘉定十七种宝文铁钱之一。折五背穿上\"正\"、穿下\"伍\"纪值。",
@@ -5228,7 +5228,7 @@
           "reverse": "- 折五：背穿上铸\"正\"、穿下铸\"伍\"纪值"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-南宋铁钱/嘉定兴宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -5254,7 +5254,7 @@
         "coreFeatures": "铁质折五；面文\"嘉定封宝\"四字直读，楷书；背\"权伍\"纪值，传世极罕；嘉定十七宝之一；谱录仅折五一等",
         "estimatedValue": "100,000—500,000元",
         "rarity": "一级 大珍",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-南宋铁钱/嘉定封宝/main.jpg"
       },
       "detail": {
         "castingTime": "宋宁宗嘉定年间（公元1208—1224年）铸，为嘉定十七种宝文铁钱之末。折五背\"权伍\"纪值。",
@@ -5268,7 +5268,7 @@
           "reverse": "- 折五：背铸\"权伍\"纪值（大珍）"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-南宋铁钱/嘉定封宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -5294,7 +5294,7 @@
         "coreFeatures": "铁质折五；面文\"嘉定重宝\"四字对读，有篆书体；背纪值\"行伍\"\"用伍\"；材质铜铁并有",
         "estimatedValue": "300—50,000元",
         "rarity": "五级 稀贵",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-南宋铁钱/嘉定重宝/main.jpg"
       },
       "detail": {
         "castingTime": "宋宁宗嘉定年间（公元1208—1224年）铸，与嘉定通宝、元宝及十七种杂宝并行。",
@@ -5308,7 +5308,7 @@
           "reverse": "- 折五：背铸\"行伍\"\"用伍\"纪值"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-南宋铁钱/嘉定重宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -5348,7 +5348,7 @@
         "coreFeatures": "铁质小平、折二、折三；面文\"宝庆元宝\"四字旋读；小平背\"汉月\"、折二背\"定二\"、折三背\"定三\"\"惠三\"\"惠正三\"；铁钱为宝庆元宝主要行用品",
         "estimatedValue": "100—200,000元",
         "rarity": "七级 甚少",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-南宋铁钱/宝庆元宝/main.jpg"
       },
       "detail": {
         "castingTime": "宋理宗宝庆年间（公元1225—1227年）铸，鼓铸主要在宝庆元年正月至七月，铸期仅七个月。",
@@ -5362,7 +5362,7 @@
           "reverse": "- 小平：背铸\"汉\"字及月纹（汉阳监）\n- 折二：背铸\"定二\"（嘉州丰远监，\"二\"纪值）\n- 折三：背铸\"定三\"（嘉州丰远监）或\"惠三\"\"惠正三\"（邛州惠民监）"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-南宋铁钱/宝庆元宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -5437,7 +5437,7 @@
         "coreFeatures": "铁钱小平、折三两等；小平背\"春元\"\"春三\"\"汉月\"，折三背\"定三\"\"西三\"\"泉三\"\"三\"\"利州行使\"及光背；面文楷书旋读；国号钱，非年号",
         "estimatedValue": "50—30,000元",
         "rarity": "八级 少",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-南宋铁钱/大宋元宝/main.jpg"
       },
       "detail": {
         "castingTime": "宋理宗宝庆年间（公元1225—1227年）铸，宝庆元年七月后行用，以\"大宋\"为国号钱文，非年号钱。",
@@ -5451,7 +5451,7 @@
           "reverse": "- 小平：背\"春元\"\"春三\"（蕲春监）或\"汉月\"（汉阳监）\n- 折三：背\"定三\"（嘉州丰远监）、\"西三\"\"泉三\"\"三\"、\"利州行使\"（利州绍兴监），另有光背一式"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-南宋铁钱/大宋元宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -5519,7 +5519,7 @@
         "coreFeatures": "铁钱小平仅背\"汉三\"一式；铜质仅见背\"当拾\"大钱一种，传世绝少、位列古泉五十名珍；国号钱",
         "estimatedValue": "100—500,000元",
         "rarity": "八级 少",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-南宋铁钱/大宋通宝/main.jpg"
       },
       "detail": {
         "castingTime": "宋理宗宝庆元年（公元1225年）七月后铸，与\"大宋元宝\"并行之国号钱。",
@@ -5533,7 +5533,7 @@
           "reverse": "- 小平背\"汉三\"（汉阳监宝庆三年），仅此一式\n- 当拾大钱背\"当拾\"二字"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-南宋铁钱/大宋通宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -5566,7 +5566,7 @@
         "coreFeatures": "铁质小平；面文\"绍定通宝\"四字对读（铁钱多直读）；背穿上纪监（春／汉）穿下纪年（元至五）；无折二流通铁钱；蒙宋战争前夕最后承平铸期",
         "estimatedValue": "50—1,000元",
         "rarity": "七级 甚少",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-南宋铁钱/绍定通宝/main.jpg"
       },
       "detail": {
         "castingTime": "宋理宗绍定年间（公元1228—1233年）铸，为蒙宋战争前夕之最后承平铸期。",
@@ -5580,7 +5580,7 @@
           "reverse": "- 穿上纪监、穿下纪年\n- \"春元\"至\"春五\"（蕲春监）；\"汉元\"\"汉二\"\"汉四\"\"汉五\"（汉阳监，缺\"汉三\"）"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-南宋铁钱/绍定通宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -5613,7 +5613,7 @@
         "coreFeatures": "铁质折五（背\"五\"纪值）；面文\"绍定元宝\"四字旋读；四川铸，不用两淮春汉同纪监体系；折十为铜品大钱",
         "estimatedValue": "2,000—200,000元",
         "rarity": "五级 稀贵",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-南宋铁钱/绍定元宝/main.jpg"
       },
       "detail": {
         "castingTime": "宋理宗绍定年间（公元1228—1233年）铸。",
@@ -5627,7 +5627,7 @@
           "reverse": "- 折五背铸\"五\"字纪值\n- 折十铜品为素背大钱"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-南宋铁钱/绍定元宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -5660,7 +5660,7 @@
         "coreFeatures": "铁钱小平（背\"春元\"，仅此一式）、折五（背\"惠伍\"纪值加东、西方位六式，邛州惠民监）；面文楷书对读；铜钱仅见折五光背",
         "estimatedValue": "200—80,000元",
         "rarity": "九级 较多",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-南宋铁钱/端平通宝/main.jpg"
       },
       "detail": {
         "castingTime": "宋理宗端平年间（公元1234—1236年）铸，端平元年（1234年）始铸。",
@@ -5674,7 +5674,7 @@
           "reverse": "- 小平背\"春元\"（蕲春监纪监纪年），仅此一式\n- 折五背\"惠伍\"加方位（东上／东中／东下／西上／西中／西下）"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-南宋铁钱/端平通宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -5714,7 +5714,7 @@
         "coreFeatures": "铁钱折五（背\"定伍\"纪值加东、北、西方位九式）、折十（背\"利折十\"，大名誉品）；铜钱为小平；面文宋楷体",
         "estimatedValue": "300—100,000元",
         "rarity": "八级 少",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-南宋铁钱/端平元宝/main.jpg"
       },
       "detail": {
         "castingTime": "宋理宗端平年间（公元1234—1236年）铸，与端平通宝、端平重宝并行。",
@@ -5728,7 +5728,7 @@
           "reverse": "- 折五背\"定伍\"加方位（东上／东中／东下／北上／北中／北下／西上／西中／西下）\n- 折十穿上\"折\"穿下\"十\"、穿右\"利\""
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-南宋铁钱/端平元宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -5775,7 +5775,7 @@
         "coreFeatures": "面文\"端平重宝\"四字对读；谱录仅见铜钱，无任何铁钱铸造记录，市面所谓端平重宝铁钱皆仿改刻",
         "estimatedValue": "无真品行市",
         "rarity": "谱外存疑",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-南宋铁钱/端平重宝/main.jpg"
       },
       "detail": {
         "castingTime": "宋理宗端平年间（公元1234—1236年）铸。端平入洛后宋蒙开战，铸期短促。",
@@ -5789,7 +5789,7 @@
           "reverse": "- 铜钱折五光背"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-南宋铁钱/端平重宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -5815,7 +5815,7 @@
         "coreFeatures": "铁钱折五（背\"惠伍\"加东、西方位六式）、折十（背\"十惠东\"\"十东一\"等六式）；面文楷书直读；均铸于四川邛州惠民监；折十铁范铜为大珍",
         "estimatedValue": "100—300,000元",
         "rarity": "九级 较多",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-南宋铁钱/嘉熙通宝/main.jpg"
       },
       "detail": {
         "castingTime": "宋理宗嘉熙年间（公元1237—1240年）铸，宋蒙全面战争爆发后的战时铸币。",
@@ -5829,7 +5829,7 @@
           "reverse": "- 折五背\"惠伍\"加方位（东上／东中／东下／西上／西中／西下）\n- 折十背\"十\"加监名方位炉次（十惠东／十惠西／十东一／十东二／十西一／十西二）"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-南宋铁钱/嘉熙通宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -5869,7 +5869,7 @@
         "coreFeatures": "面文\"嘉熙重宝\"四字对读；谱录仅见铜钱，无铁钱铸造记录，市面所谓嘉熙重宝铁钱皆仿改刻",
         "estimatedValue": "无真品行市",
         "rarity": "谱外存疑",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-南宋铁钱/嘉熙重宝/main.jpg"
       },
       "detail": {
         "castingTime": "宋理宗嘉熙年间（公元1237—1240年）铸。",
@@ -5883,7 +5883,7 @@
           "reverse": "- 铜钱光背为主"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-南宋铁钱/嘉熙重宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -5909,7 +5909,7 @@
         "coreFeatures": "铁钱以当百虚值大钱为主流（背\"当百\"，分大字、小字）；另有背上\"庆\"当二十文顶级大珍及折二、折五光背试铸品；均铸于四川",
         "estimatedValue": "3,000—800,000元",
         "rarity": "六级 稀",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-南宋铁钱/淳祐通宝/main.jpg"
       },
       "detail": {
         "castingTime": "宋理宗淳祐年间（公元1241—1252年）铸，蒙古大举南侵、宋蒙川蜀交战时期的战时铸币。",
@@ -5923,7 +5923,7 @@
           "reverse": "- 当百钱背\"当百\"纪值\n- 当二十文钱背上\"庆\"、穿右\"当\"、穿左\"二十文\"\n- 折二、折五试铸钱光背"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-南宋铁钱/淳祐通宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -5977,7 +5977,7 @@
         "coreFeatures": "面文\"淳祐元宝\"楷书旋读；谱录仅见铜钱（背纪年\"元\"至\"十二\"），无任何铁钱铸造记录，市面所谓淳祐元宝铁钱皆仿改刻",
         "estimatedValue": "无真品行市",
         "rarity": "谱外存疑",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-南宋铁钱/淳祐元宝/main.jpg"
       },
       "detail": {
         "castingTime": "南宋理宗赵昀淳祐年间（公元1241—1252年）铸，历时十二年。同期另铸淳祐通宝当百铁钱（本卷另行立目）。",
@@ -5991,7 +5991,7 @@
           "reverse": "- 铜钱背穿上铸纪年数字，自\"元\"至\"十二\""
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-南宋铁钱/淳祐元宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -6057,7 +6057,7 @@
         "coreFeatures": "铁质小平；面文\"天盛元宝\"汉文四字旋读；通济监所铸；背\"西\"字版为西夏铁钱名品",
         "estimatedValue": "50—30,000元",
         "rarity": "七级 甚少",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-西夏铁钱/天盛元宝/main.jpg"
       },
       "detail": {
         "castingTime": "西夏仁宗李仁孝天盛年间（公元1149—1169年）铸。天盛十年（公元1158年）据《宋史·夏国传》记载\"始立通济监铸钱\"，天盛元宝铜铁兼铸而以铁钱存世最多。",
@@ -6071,7 +6071,7 @@
           "reverse": "- 多数素背无文\n- 有背穿上铸\"西\"字之版式（纪国号西夏），为西夏铁钱中最具代表性的背面纪字"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-西夏铁钱/天盛元宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -6111,7 +6111,7 @@
         "coreFeatures": "铁质小平；面文\"乾祐元宝\"汉文四字旋读；通济监所铸，存世数量在西夏钱中仅次于天盛元宝",
         "estimatedValue": "50—30,000元",
         "rarity": "七级 甚少",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-西夏铁钱/乾祐元宝/main.jpg"
       },
       "detail": {
         "castingTime": "西夏仁宗李仁孝乾祐年间（公元1170—1193年）铸。乾祐以后（天庆、皇建、光定诸朝）西夏铸钱均为铜质，未见铁钱，西夏铁钱遂止于乾祐。",
@@ -6125,7 +6125,7 @@
           "reverse": "- 素背无文，有外廓"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-西夏铁钱/乾祐元宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -6158,7 +6158,7 @@
         "coreFeatures": "铁质小平；面文\"咸丰通宝\"四字对读；背满文纪局，宝泉、宝源、宝直、宝河、宝陕、宝巩、宝晋、宝蓟、宝德九局铸行，宝泉局分戴书、真书诸版",
         "estimatedValue": "5—500,000元",
         "rarity": "九级 较多",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-清代咸丰铁钱/咸丰通宝/main.jpg"
       },
       "detail": {
         "castingTime": "咸丰三年（公元1853年）起，因太平天国战事阻断滇铜北运、铜材匮乏，开铸大钱并行铁钱以筹军饷。宝河局咸丰四年（1854年）七月开炉试铸；宝直局咸丰四年始铸铁钱、七年（1857年）正式开铸；宝陕、宝晋等局亦先后开铸。至咸丰末年（1861年），大钱政策失败，铁钱随币制整理而渐次停废。",
@@ -6172,7 +6172,7 @@
           "reverse": "- 穿左右满文纪局名：宝泉、宝源、宝直、宝河、宝陕、宝巩、宝晋、宝蓟、宝德九局\n- 小平铁钱背多仅纪局，素无其他纹饰；克勤郡王试铸样背加星月标记"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-清代咸丰铁钱/咸丰通宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -6275,7 +6275,7 @@
         "coreFeatures": "铁质当十；面文\"咸丰重宝\"四字对读；背穿上\"当\"、穿下\"十\"纪值，两侧满文纪局；宝泉、宝源、宝直、宝陕、宝巩、宝伊六局铸行",
         "estimatedValue": "50—3,000元",
         "rarity": "八级 少",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-清代咸丰铁钱/咸丰重宝/main.jpg"
       },
       "detail": {
         "castingTime": "自咸丰四年（公元1854年）起，宝泉、宝源、宝直、宝陕、宝巩、宝伊诸局铸行铁质当十重宝，与小钱并行筹饷。",
@@ -6289,7 +6289,7 @@
           "reverse": "- 穿上\"当\"、穿下\"十\"纪值汉字，穿左右满文纪局名"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-清代咸丰铁钱/咸丰重宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
@@ -6350,7 +6350,7 @@
         "coreFeatures": "面文\"咸丰元宝\"四字对读；当五十、当百、当五百、当千均无官方流通铁钱，仅有铜质铁母、样钱，市面所谓咸丰元宝铁钱皆仿品",
         "estimatedValue": "无真品行市",
         "rarity": "谱外存疑",
-        "thumbnail": ""
+        "thumbnail": "/images/coins/aa-清代咸丰铁钱/咸丰元宝/main.jpg"
       },
       "detail": {
         "castingTime": "咸丰年间（公元1853—1861年）铸。咸丰三年起铸大钱筹饷，当五十、当百、当五百、当千大钱以铜铸为主。",
@@ -6364,7 +6364,7 @@
           "reverse": "- 铜钱背满文纪局名，兼铸\"当百\"等纪值汉字"
         },
         "images": {
-          "main": "",
+          "main": "/images/coins/aa-清代咸丰铁钱/咸丰元宝/main.jpg",
           "variants": []
         },
         "variantsTable": [
