@@ -9,12 +9,12 @@
       "dynastyIndex": 2,
       "summary": {
         "name": "榆荚半两",
-        "historicalPeriod": "西汉初期（约前206年—前186年）",
+        "historicalPeriod": "西汉初期（约公元前206年—前186年）",
         "ruler": "汉高祖刘邦",
         "coreFeatures": "汉初因秦钱重难用而铸；极轻薄如榆荚；重约0.5—2g；民间私铸严重",
-        "estimatedValue": "50—300元",
+        "estimatedValue": "参考价：50—300元",
         "rarity": "九级 较多",
-        "thumbnail": "/images/coins/c-汉代钱币/榆荚半两/main.jpg"
+        "thumbnail": "/images/coins/c-汉代钱币/榆荚半两/thumb.webp"
       },
       "detail": {
         "castingTime": "汉高祖刘邦时期（约公元前206年—前195年）。据《汉书·食货志》记载：\"汉兴，以为秦钱重难用，更令民铸荚钱。\"榆荚半两是西汉建立后最初铸行的钱币。",
@@ -63,12 +63,12 @@
       "dynastyIndex": 2,
       "summary": {
         "name": "八铢半两",
-        "historicalPeriod": "西汉（前186年）",
+        "historicalPeriod": "西汉（公元前186年）",
         "ruler": "吕后",
         "coreFeatures": "吕后二年铸；重八铢（约5.2g）；较榆荚半两加重",
-        "estimatedValue": "200—1,500元",
+        "estimatedValue": "参考价：200—1,500元",
         "rarity": "八级 少",
-        "thumbnail": "/images/coins/c-汉代钱币/八铢半两/main.jpg"
+        "thumbnail": "/images/coins/c-汉代钱币/八铢半两/thumb.webp"
       },
       "detail": {
         "castingTime": "西汉吕后二年（公元前186年）。据《汉书·高后纪》记载，吕后为纠正榆荚钱导致的币制混乱而铸行八铢半两。",
@@ -96,7 +96,7 @@
           {
             "variant": "大型八铢半两",
             "description": "直径2.8—3.0cm，重量5—5.5g。钱体厚重，面文\"半两\"字体端庄，笔画粗壮，字口较深。铸工较精，铜质较好",
-            "grade": "七级（较少） 美品",
+            "grade": "七级（甚少） 美品",
             "priceRange": "800—1,500元",
             "notes": "较少见"
           },
@@ -117,12 +117,12 @@
       "dynastyIndex": 2,
       "summary": {
         "name": "五分钱",
-        "historicalPeriod": "西汉（前182年）",
+        "historicalPeriod": "西汉（公元前182年）",
         "ruler": "吕后",
         "coreFeatures": "吕后六年铸；重为半两（十二铢）之五分之一，约2.4铢（1.5—1.6g）；面文仍为\"半两\"",
-        "estimatedValue": "200—1,200元",
+        "estimatedValue": "参考价：200—1,200元",
         "rarity": "八级 少",
-        "thumbnail": "/images/coins/c-汉代钱币/五分钱/main.jpg"
+        "thumbnail": "/images/coins/c-汉代钱币/五分钱/thumb.webp"
       },
       "detail": {
         "castingTime": "西汉吕后六年（公元前182年）。据《中国钱币大辞典》记载，五分钱是吕后时期又一次货币调整的产物。",
@@ -150,7 +150,7 @@
           {
             "variant": "有廓五分钱",
             "description": "部分铸品可见低浅外廓痕迹，外廓不甚规整但可辨识。铸工较标准型精整，较为少见",
-            "grade": "七级（较少） 美品",
+            "grade": "七级（甚少） 美品",
             "priceRange": "600—1,200元",
             "notes": "较少见"
           }
@@ -164,12 +164,12 @@
       "dynastyIndex": 2,
       "summary": {
         "name": "四铢半两",
-        "historicalPeriod": "西汉（前175年）",
+        "historicalPeriod": "西汉（公元前175年）",
         "ruler": "汉文帝刘恒",
         "coreFeatures": "文帝五年铸；重四铢（约2.6g）；面文\"半两\"；允许民间铸币",
-        "estimatedValue": "10—1,000元（普品数十元，有廓精样数百元）",
+        "estimatedValue": "参考价：10—1,000元（普品数十元，有廓精样数百元）",
         "rarity": "八级 少",
-        "thumbnail": "/images/coins/c-汉代钱币/四铢半两/main.jpg"
+        "thumbnail": "/images/coins/c-汉代钱币/四铢半两/thumb.webp"
       },
       "detail": {
         "castingTime": "西汉文帝五年（公元前175年）。据《汉书·食货志》记载：\"除盗铸钱令，使民放铸。\"文帝改革币制，铸四铢半两，并允许民间铸币。",
@@ -204,7 +204,7 @@
           {
             "variant": "有廓版",
             "description": "钱面外廓完整可辨，穿孔规整，铸工较无廓者精整，为文帝后期至景帝时期铸行的过渡形制，较为少见",
-            "grade": "七级（较少） 美品",
+            "grade": "七级（甚少） 美品",
             "priceRange": "100—500元",
             "notes": "有廓者少见，为半两钱加廓之始"
           },
@@ -225,12 +225,12 @@
       "dynastyIndex": 2,
       "summary": {
         "name": "三铢钱",
-        "historicalPeriod": "西汉（前140年）",
+        "historicalPeriod": "西汉（公元前140年）",
         "ruler": "汉武帝刘彻",
         "coreFeatures": "武帝建元元年铸；重三铢；面文\"三铢\"；行用时间极短",
-        "estimatedValue": "1,000—8,000元",
+        "estimatedValue": "参考价：1,000—8,000元",
         "rarity": "五级 稀贵",
-        "thumbnail": "/images/coins/c-汉代钱币/三铢钱/main.jpg"
+        "thumbnail": "/images/coins/c-汉代钱币/三铢钱/thumb.webp"
       },
       "detail": {
         "castingTime": "汉武帝建元元年（公元前140年）。据《中国钱币大辞典》记载，三铢钱是武帝即位后第一次货币改革的产物。",
@@ -258,7 +258,7 @@
           {
             "variant": "大字型",
             "description": "面文\"三铢\"字体较大，笔画粗壮，\"三\"字横画舒展，\"铢\"字结构宽博。字口深峻",
-            "grade": "四级（罕） 极美品",
+            "grade": "四级（珍罕） 极美品",
             "priceRange": "5,000—10,000元",
             "notes": "较为罕见"
           },
@@ -279,12 +279,12 @@
       "dynastyIndex": 2,
       "summary": {
         "name": "白金三品",
-        "historicalPeriod": "西汉（前119年）",
+        "historicalPeriod": "西汉（公元前119年）",
         "ruler": "汉武帝刘彻",
         "coreFeatures": "武帝元狩四年铸；银锡合金；龙币、马币、龟币三等；虚值大钱",
-        "estimatedValue": "5,000—50,000元",
-        "rarity": "四级 罕",
-        "thumbnail": "/images/coins/c-汉代钱币/白金三品/main.jpg"
+        "estimatedValue": "参考价：5,000—50,000元",
+        "rarity": "四级 珍罕",
+        "thumbnail": "/images/coins/c-汉代钱币/白金三品/thumb.webp"
       },
       "detail": {
         "castingTime": "汉武帝元狩四年（公元前119年）。据《汉书·食货志》记载，武帝因财政困难铸行白金三品，为中国历史上最早的官方银铸币。",
@@ -305,7 +305,7 @@
           {
             "variant": "龙币（上品）",
             "description": "圆形，正面铸龙纹，龙身蜿蜒盘旋，龙首昂扬，鳞甲纹饰精细。值三千。为三品中最为珍稀者",
-            "grade": "二级（极罕） 美品",
+            "grade": "二级（珍） 美品",
             "priceRange": "30,000—50,000元",
             "notes": "存世极罕"
           },
@@ -333,12 +333,12 @@
       "dynastyIndex": 2,
       "summary": {
         "name": "郡国五铢",
-        "historicalPeriod": "西汉（前118年）",
+        "historicalPeriod": "西汉（公元前118年）",
         "ruler": "汉武帝刘彻",
         "coreFeatures": "武帝元狩五年铸；令郡国铸五铢钱；重五铢（约3.5g）；面文\"五铢\"",
-        "estimatedValue": "5—500元",
+        "estimatedValue": "参考价：5—500元",
         "rarity": "十级 多泛",
-        "thumbnail": "/images/coins/c-汉代钱币/郡国五铢/main.jpg"
+        "thumbnail": "/images/coins/c-汉代钱币/郡国五铢/thumb.webp"
       },
       "detail": {
         "castingTime": "汉武帝元狩五年（公元前118年）。据《汉书·食货志》记载，武帝废半两钱，改铸五铢钱，令各郡国自行铸造。",
@@ -359,7 +359,7 @@
           {
             "variant": "标准版",
             "description": "面文\"五铢\"，二字对读。直径约2.5cm，重约3.5g",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "5—30元",
             "notes": "郡国铸五铢"
           },
@@ -387,12 +387,12 @@
       "dynastyIndex": 2,
       "summary": {
         "name": "赤仄五铢",
-        "historicalPeriod": "西汉（前115年）",
+        "historicalPeriod": "西汉（公元前115年）",
         "ruler": "汉武帝刘彻",
         "coreFeatures": "武帝元鼎二年铸；以赤铜为廓；铸工精整；一当郡国五铢五枚",
-        "estimatedValue": "500—5,000元",
+        "estimatedValue": "参考价：500—5,000元",
         "rarity": "七级 甚少",
-        "thumbnail": "/images/coins/c-汉代钱币/赤仄五铢/main.jpg"
+        "thumbnail": "/images/coins/c-汉代钱币/赤仄五铢/thumb.webp"
       },
       "detail": {
         "castingTime": "汉武帝元鼎二年（公元前115年）。据《汉书·食货志》记载，赤仄五铢由钟官统一铸造，以纠正郡国五铢质量参差的问题。",
@@ -434,12 +434,12 @@
       "dynastyIndex": 2,
       "summary": {
         "name": "上林三官五铢",
-        "historicalPeriod": "西汉（前113年）",
+        "historicalPeriod": "西汉（公元前113年）",
         "ruler": "汉武帝刘彻",
         "coreFeatures": "武帝元鼎四年铸；由上林三官统一铸造；铸工精整规范；终结民间铸币",
-        "estimatedValue": "5—300元",
+        "estimatedValue": "参考价：5—300元",
         "rarity": "十级 多泛",
-        "thumbnail": "/images/coins/c-汉代钱币/上林三官五铢/main.jpg"
+        "thumbnail": "/images/coins/c-汉代钱币/上林三官五铢/thumb.webp"
       },
       "detail": {
         "castingTime": "汉武帝元鼎四年（公元前113年）。据《汉书·食货志》记载，武帝将铸币权收归中央，由上林苑中\"钟官\"\"辨铜\"\"技巧\"三官统一铸造。",
@@ -460,7 +460,7 @@
           {
             "variant": "标准版",
             "description": "面文\"五铢\"，二字对读。直径约2.5cm，重约3.5g。铸工精整，铜质精良",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "5—30元",
             "notes": "中央铸币，铸工最精"
           },
@@ -488,12 +488,12 @@
       "dynastyIndex": 2,
       "summary": {
         "name": "昭帝五铢",
-        "historicalPeriod": "西汉（前86年—前74年）",
+        "historicalPeriod": "西汉（公元前86年—前74年）",
         "ruler": "汉昭帝刘弗陵",
         "coreFeatures": "昭帝时期铸行五铢钱；铸工尚可；与武帝五铢风格接近",
-        "estimatedValue": "10—200元",
+        "estimatedValue": "参考价：10—200元",
         "rarity": "十级 多泛",
-        "thumbnail": "/images/coins/c-汉代钱币/昭帝五铢/main.jpg"
+        "thumbnail": "/images/coins/c-汉代钱币/昭帝五铢/thumb.webp"
       },
       "detail": {
         "castingTime": "西汉昭帝时期（公元前86年—前74年）。据《中国钱币大辞典》记载，昭帝五铢沿袭上林三官五铢制度，由中央统一铸造。",
@@ -542,12 +542,12 @@
       "dynastyIndex": 2,
       "summary": {
         "name": "宣帝五铢",
-        "historicalPeriod": "西汉（前73年—前49年）",
+        "historicalPeriod": "西汉（公元前73年—前49年）",
         "ruler": "汉宣帝刘询",
         "coreFeatures": "宣帝时期铸行；铸工最精；\"五\"字交笔弯曲较大",
-        "estimatedValue": "10—300元",
+        "estimatedValue": "参考价：10—300元",
         "rarity": "十级 多泛",
-        "thumbnail": "/images/coins/c-汉代钱币/宣帝五铢/main.jpg"
+        "thumbnail": "/images/coins/c-汉代钱币/宣帝五铢/thumb.webp"
       },
       "detail": {
         "castingTime": "西汉宣帝时期（公元前73年—前49年）。据《中国钱币大辞典》记载，宣帝五铢铸工最精，是西汉中后期五铢钱的代表作。",
@@ -610,12 +610,12 @@
       "dynastyIndex": 2,
       "summary": {
         "name": "小五铢",
-        "historicalPeriod": "西汉晚期",
-        "ruler": "西汉晚期帝",
+        "historicalPeriod": "西汉晚期（约公元前1世纪—公元1世纪初）",
+        "ruler": "西汉诸帝",
         "coreFeatures": "体形极小；直径约1.1—1.3cm；可能为冥币或辅币",
-        "estimatedValue": "50—3,000元",
+        "estimatedValue": "参考价：50—3,000元",
         "rarity": "七级 甚少",
-        "thumbnail": "/images/coins/c-汉代钱币/小五铢/main.jpg"
+        "thumbnail": "/images/coins/c-汉代钱币/小五铢/thumb.webp"
       },
       "detail": {
         "castingTime": "西汉晚期（约公元前1世纪—公元1世纪初）。据《中国钱币大辞典》记载，小五铢的铸行性质尚有争议，有冥币说、辅币说两种观点。",
@@ -636,7 +636,7 @@
           {
             "variant": "标准型小五铢",
             "description": "直径1.1—1.3cm。面文\"五铢\"二字极为微小但结构可辨，\"五\"字交笔弯曲，\"铢\"字\"金\"旁简化。有外廓，铸工尚可",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "200—1,500元",
             "notes": "存世较少，品相决定价格"
           },
@@ -664,12 +664,12 @@
       "dynastyIndex": 2,
       "summary": {
         "name": "建武五铢",
-        "historicalPeriod": "东汉（40年）",
+        "historicalPeriod": "东汉（公元40年）",
         "ruler": "光武帝刘秀",
         "coreFeatures": "光武帝建武十六年铸；面文\"五铢\"；重约3.5g；恢复五铢制度",
-        "estimatedValue": "5—300元",
+        "estimatedValue": "参考价：5—300元",
         "rarity": "十级 多泛",
-        "thumbnail": "/images/coins/c-汉代钱币/建武五铢/main.jpg"
+        "thumbnail": "/images/coins/c-汉代钱币/建武五铢/thumb.webp"
       },
       "detail": {
         "castingTime": "东汉光武帝建武十六年（公元40年）。据《后汉书·光武帝纪》记载，光武帝恢复五铢钱制，结束了新莽以来的币制混乱。",
@@ -690,7 +690,7 @@
           {
             "variant": "标准版",
             "description": "面文\"五铢\"，二字左右横读（直读）。直径约2.5cm，重约3—3.5g，外廓高挺规整",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "5—30元",
             "notes": "东汉光武帝铸行"
           },
@@ -725,12 +725,12 @@
       "dynastyIndex": 2,
       "summary": {
         "name": "东汉五铢",
-        "historicalPeriod": "东汉中晚期",
+        "historicalPeriod": "东汉中晚期（约公元1世纪—3世纪）",
         "ruler": "东汉诸帝",
         "coreFeatures": "东汉中后期铸行；质量参差；后期减重严重",
-        "estimatedValue": "10—100元",
+        "estimatedValue": "参考价：10—100元",
         "rarity": "十级 多泛",
-        "thumbnail": "/images/coins/c-汉代钱币/东汉五铢/main.jpg"
+        "thumbnail": "/images/coins/c-汉代钱币/东汉五铢/thumb.webp"
       },
       "detail": {
         "castingTime": "东汉中期至晚期（约公元1世纪—3世纪）。据《中国钱币大辞典》记载，东汉中后期持续铸行五铢钱，但质量逐渐下降。",
@@ -786,12 +786,12 @@
       "dynastyIndex": 2,
       "summary": {
         "name": "中平四出五铢",
-        "historicalPeriod": "东汉（186年）",
+        "historicalPeriod": "东汉（公元186年）",
         "ruler": "汉灵帝刘宏",
         "coreFeatures": "灵帝中平三年铸；背面穿孔四角各有一道凸线延伸至外廓",
-        "estimatedValue": "20—500元",
+        "estimatedValue": "参考价：20—500元",
         "rarity": "八级 少",
-        "thumbnail": "/images/coins/c-汉代钱币/中平四出五铢/main.jpg"
+        "thumbnail": "/images/coins/c-汉代钱币/中平四出五铢/thumb.webp"
       },
       "detail": {
         "castingTime": "东汉灵帝中平三年（公元186年）。据《后汉书·灵帝纪》记载，灵帝铸四出五铢，因背面有四道凸线而得名。",
@@ -840,12 +840,12 @@
       "dynastyIndex": 2,
       "summary": {
         "name": "剪边五铢",
-        "historicalPeriod": "东汉晚期—三国",
+        "historicalPeriod": "东汉晚期至三国（约公元2世纪—3世纪）",
         "ruler": "民间私剪",
         "coreFeatures": "将五铢钱边缘剪下一圈以私铸；钱体变小变轻",
-        "estimatedValue": "10—100元",
+        "estimatedValue": "参考价：10—100元",
         "rarity": "十级 多泛",
-        "thumbnail": "/images/coins/c-汉代钱币/剪边五铢/main.jpg"
+        "thumbnail": "/images/coins/c-汉代钱币/剪边五铢/thumb.webp"
       },
       "detail": {
         "castingTime": "东汉晚期至三国时期（约公元2世纪—3世纪）。剪边五铢并非官方铸行，而是民间私剪改制。",
@@ -894,12 +894,12 @@
       "dynastyIndex": 2,
       "summary": {
         "name": "綖环五铢",
-        "historicalPeriod": "东汉晚期—三国",
+        "historicalPeriod": "东汉晚期至三国（约公元2世纪—3世纪）",
         "ruler": "民间私剪",
         "coreFeatures": "仅保留五铢钱外缘一圈；内芯另铸小钱；严重破坏币制",
-        "estimatedValue": "30—300元",
+        "estimatedValue": "参考价：30—300元",
         "rarity": "九级 较多",
-        "thumbnail": "/images/coins/c-汉代钱币/綖环五铢/main.jpg"
+        "thumbnail": "/images/coins/c-汉代钱币/綖环五铢/thumb.webp"
       },
       "detail": {
         "castingTime": "东汉晚期至三国时期（约公元2世纪—3世纪）。綖环五铢为民间私剪改制的极端形式。",
@@ -941,12 +941,12 @@
       "dynastyIndex": 2,
       "summary": {
         "name": "董卓小钱",
-        "historicalPeriod": "东汉末（190年前后）",
+        "historicalPeriod": "东汉末（公元190年前后）",
         "ruler": "董卓",
         "coreFeatures": "董卓铸行；极轻薄粗糙；破坏了五铢钱制度",
-        "estimatedValue": "30—500元",
+        "estimatedValue": "参考价：30—500元",
         "rarity": "九级 较多",
-        "thumbnail": "/images/coins/c-汉代钱币/董卓小钱/main.jpg"
+        "thumbnail": "/images/coins/c-汉代钱币/董卓小钱/thumb.webp"
       },
       "detail": {
         "castingTime": "东汉初平元年（公元190年）前后。据《后汉书·董卓传》记载，董卓入长安后，毁五铢钱、铜人、钟虡铸小钱。",
@@ -974,7 +974,7 @@
           {
             "variant": "有文型",
             "description": "面文\"五铢\"尚可辨识，\"五\"字交笔弯曲可辨，\"铢\"字\"金\"旁呈三角形但笔画粗放。铸工粗糙但文字尚存，较无文型少见",
-            "grade": "七级（较少） 美品",
+            "grade": "七级（甚少） 美品",
             "priceRange": "100—500元",
             "notes": "面文尚可辨识者较少，品相决定价格"
           },
@@ -995,12 +995,12 @@
       "dynastyIndex": 2,
       "summary": {
         "name": "大泉五十",
-        "historicalPeriod": "新莽居摄二年（7年）始铸",
+        "historicalPeriod": "新莽居摄二年（公元7年）始铸",
         "ruler": "王莽",
         "coreFeatures": "面文\"大泉五十\"；悬针篆；重十二铢；当五十枚五铢；虚值大钱",
-        "estimatedValue": "5—30,000元（普品数元至数十元，合背等错范罕版可达数万元）",
+        "estimatedValue": "参考价：5—30,000元（普品数元至数十元，合背等错范罕版可达数万元）",
         "rarity": "九级 较多",
-        "thumbnail": "/images/coins/d-新莽钱币/大泉五十/main.jpg"
+        "thumbnail": "/images/coins/d-新莽钱币/大泉五十/thumb.webp"
       },
       "detail": {
         "castingTime": "王莽居摄二年（公元7年）始铸，始建国元年（公元9年）大量铸行，贯穿整个新莽时期。据《汉书·食货志》记载，大泉五十是新莽时期铸行量最大的钱币。",
@@ -1021,14 +1021,14 @@
           {
             "variant": "小平版（普品）",
             "description": "面文\"大泉五十\"，四字对读。直径约2.8cm，重约5—8g",
-            "grade": "九级（多） 普品",
+            "grade": "九级（较多） 普品",
             "priceRange": "5—30元",
             "notes": "新莽铸量最大的铜钱"
           },
           {
             "variant": "小平版（美品）",
             "description": "面文\"大泉五十\"四字对读（上下右左），悬针篆文字清晰规整，字口深峻，外廓及好廓完整，铜质精良，包浆自然。为小平版中品相上佳者",
-            "grade": "九级（多） 美品",
+            "grade": "九级（较多） 美品",
             "priceRange": "30—100元",
             "notes": "美品价格较高"
           },
@@ -1056,7 +1056,7 @@
           {
             "variant": "合背版",
             "description": "两面均铸\"大泉五十\"面文（无背面），为铸造时错范所致，悬针篆文字两面均可辨。极为罕见，学术价值高",
-            "grade": "三级（罕）",
+            "grade": "三级（罕贵）",
             "priceRange": "5,000—30,000元",
             "notes": "合背极罕见"
           }
@@ -1070,12 +1070,12 @@
       "dynastyIndex": 2,
       "summary": {
         "name": "契刀五百",
-        "historicalPeriod": "新莽居摄二年（7年）",
+        "historicalPeriod": "新莽居摄二年（公元7年）",
         "ruler": "王莽",
         "coreFeatures": "刀环方孔圆钱形；面文\"契刀五百\"；当五百枚五铢",
-        "estimatedValue": "10,000—40,000元（普品万余元，评级美品二至四万元）",
+        "estimatedValue": "参考价：10,000—40,000元（普品万余元，评级美品二至四万元）",
         "rarity": "三级 罕贵",
-        "thumbnail": "/images/coins/d-新莽钱币/契刀五百/main.jpg"
+        "thumbnail": "/images/coins/d-新莽钱币/契刀五百/thumb.webp"
       },
       "detail": {
         "castingTime": "王莽居摄二年（公元7年）。据《汉书·食货志》记载，契刀五百与一刀平五千同时铸行。",
@@ -1096,14 +1096,14 @@
           {
             "variant": "标准版",
             "description": "刀环穿孔右左分列\"契刀\"二字，刀身直书\"五百\"二字，悬针篆铸工精整。通长约7.3cm",
-            "grade": "四级（罕） 美品",
+            "grade": "四级（珍罕） 美品",
             "priceRange": "10,000—25,000元",
             "notes": "锚点：保利极美品1.15万、网拍2.2万、XF85评级币2—4万（2022—2025年）"
           },
           {
             "variant": "大字版",
             "description": "刀环面文\"契刀\"、刀身面文\"五百\"字体较大，悬针篆笔画粗壮、垂芒舒展，字口深峻。刀币形制完整，通长约7.0—7.5cm，铸工精整，为契刀五百中文字较大的品种",
-            "grade": "四级（罕） 极美品",
+            "grade": "四级（珍罕） 极美品",
             "priceRange": "25,000—40,000元",
             "notes": "大字精铸美品较少见"
           }
@@ -1117,12 +1117,12 @@
       "dynastyIndex": 2,
       "summary": {
         "name": "一刀平五千",
-        "historicalPeriod": "新莽居摄二年（7年）",
+        "historicalPeriod": "新莽居摄二年（公元7年）",
         "ruler": "王莽",
         "coreFeatures": "刀形；\"一刀\"二字嵌金（错金）；当五千枚五铢；中国古泉名珍",
-        "estimatedValue": "10,000—300,000元（未错金者数万元，完错金美品十余万至三十万元）",
+        "estimatedValue": "参考价：10,000—300,000元（未错金者数万元，完错金美品十余万至三十万元）",
         "rarity": "一级 大珍",
-        "thumbnail": "/images/coins/d-新莽钱币/一刀平五千/main.jpg"
+        "thumbnail": "/images/coins/d-新莽钱币/一刀平五千/thumb.webp"
       },
       "detail": {
         "castingTime": "王莽居摄二年（公元7年）。据《汉书·食货志》记载，一刀平五千与契刀五百同时铸行，是中国面值最大的虚值铜钱之一。",
@@ -1150,7 +1150,7 @@
           {
             "variant": "未错金版",
             "description": "\"一刀\"二字金丝脱落或未及施错金者，价值低于完错金品",
-            "grade": "四级（罕）",
+            "grade": "四级（珍罕）",
             "priceRange": "10,000—40,000元",
             "notes": "未错金版较少见"
           }
@@ -1164,12 +1164,12 @@
       "dynastyIndex": 2,
       "summary": {
         "name": "小泉直一",
-        "historicalPeriod": "新莽始建国元年（9年）",
+        "historicalPeriod": "新莽始建国元年（公元9年）",
         "ruler": "王莽",
         "coreFeatures": "面文\"小泉直一\"；重一铢；\"泉货六品\"最小者",
-        "estimatedValue": "5—500元（普品数十元，大字精铸数百元）",
+        "estimatedValue": "参考价：5—500元（普品数十元，大字精铸数百元）",
         "rarity": "九级 较多",
-        "thumbnail": "/images/coins/d-新莽钱币/小泉直一/main.jpg"
+        "thumbnail": "/images/coins/d-新莽钱币/小泉直一/thumb.webp"
       },
       "detail": {
         "castingTime": "王莽始建国元年（公元9年）。据《汉书·食货志》记载，小泉直一为王莽\"泉货六品\"中最小者。",
@@ -1211,7 +1211,7 @@
           {
             "variant": "粗铸版",
             "description": "铸工粗率，字口浅平，钱体略薄，文字漫漶不清。民间私铸",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "5—30元",
             "notes": "粗铸私铸版"
           }
@@ -1225,12 +1225,12 @@
       "dynastyIndex": 2,
       "summary": {
         "name": "幺泉一十",
-        "historicalPeriod": "新莽始建国二年（10年）",
+        "historicalPeriod": "新莽始建国二年（公元10年）",
         "ruler": "王莽",
         "coreFeatures": "面文\"幺泉一十\"；重三铢；泉货六品之一",
-        "estimatedValue": "3,000—40,000元",
+        "estimatedValue": "参考价：3,000—40,000元",
         "rarity": "五级 稀贵",
-        "thumbnail": "/images/coins/d-新莽钱币/幺泉一十/main.jpg"
+        "thumbnail": "/images/coins/d-新莽钱币/幺泉一十/thumb.webp"
       },
       "detail": {
         "castingTime": "王莽始建国二年（公元10年）。据《中国钱币大辞典》记载，幺泉一十为王莽第三次币制改革\"宝货制\"泉货六品之第二品。",
@@ -1272,12 +1272,12 @@
       "dynastyIndex": 2,
       "summary": {
         "name": "幼泉二十",
-        "historicalPeriod": "新莽始建国二年（10年）",
+        "historicalPeriod": "新莽始建国二年（公元10年）",
         "ruler": "王莽",
         "coreFeatures": "面文\"幼泉二十\"；重五铢；泉货六品之一",
-        "estimatedValue": "3,000—40,000元",
+        "estimatedValue": "参考价：3,000—40,000元",
         "rarity": "五级 稀贵",
-        "thumbnail": "/images/coins/d-新莽钱币/幼泉二十/main.jpg"
+        "thumbnail": "/images/coins/d-新莽钱币/幼泉二十/thumb.webp"
       },
       "detail": {
         "castingTime": "王莽始建国二年（公元10年）。据《中国钱币大辞典》记载，幼泉二十为王莽第三次币制改革\"宝货制\"泉货六品之第三品。",
@@ -1319,12 +1319,12 @@
       "dynastyIndex": 2,
       "summary": {
         "name": "中泉三十",
-        "historicalPeriod": "新莽始建国二年（10年）",
+        "historicalPeriod": "新莽始建国二年（公元10年）",
         "ruler": "王莽",
         "coreFeatures": "面文\"中泉三十\"；重七铢；泉货六品之一",
-        "estimatedValue": "2,000—80,000元",
+        "estimatedValue": "参考价：2,000—80,000元",
         "rarity": "五级 稀贵",
-        "thumbnail": "/images/coins/d-新莽钱币/中泉三十/main.jpg"
+        "thumbnail": "/images/coins/d-新莽钱币/中泉三十/thumb.webp"
       },
       "detail": {
         "castingTime": "王莽始建国二年（公元10年）。据《中国钱币大辞典》记载，中泉三十为王莽第三次币制改革\"宝货制\"泉货六品之第四品。",
@@ -1366,12 +1366,12 @@
       "dynastyIndex": 2,
       "summary": {
         "name": "壮泉四十",
-        "historicalPeriod": "新莽始建国二年（10年）",
+        "historicalPeriod": "新莽始建国二年（公元10年）",
         "ruler": "王莽",
         "coreFeatures": "面文\"壮泉四十\"；重九铢；泉货六品中最珍稀者",
-        "estimatedValue": "30,000—500,000元（普品数万至十几万，精铸美品可达数十万元）",
+        "estimatedValue": "参考价：30,000—500,000元（普品数万至十几万，精铸美品可达数十万元）",
         "rarity": "一级 大珍",
-        "thumbnail": "/images/coins/d-新莽钱币/壮泉四十/main.jpg"
+        "thumbnail": "/images/coins/d-新莽钱币/壮泉四十/thumb.webp"
       },
       "detail": {
         "castingTime": "王莽始建国二年（公元10年）。据《中国钱币大辞典》记载，壮泉四十为王莽第三次币制改革\"宝货制\"泉货六品之第五品，存世最为稀少。",
@@ -1413,12 +1413,12 @@
       "dynastyIndex": 2,
       "summary": {
         "name": "小布一百",
-        "historicalPeriod": "新莽始建国二年（10年）",
+        "historicalPeriod": "新莽始建国二年（公元10年）",
         "ruler": "王莽",
         "coreFeatures": "布币形制；面文\"小布一百\"；布货十品之一",
-        "estimatedValue": "2,000—20,000元",
+        "estimatedValue": "参考价：2,000—20,000元",
         "rarity": "六级 稀",
-        "thumbnail": "/images/coins/d-新莽钱币/小布一百/main.jpg"
+        "thumbnail": "/images/coins/d-新莽钱币/小布一百/thumb.webp"
       },
       "detail": {
         "castingTime": "王莽始建国二年（公元10年）。据《中国钱币大辞典》记载，小布一百为王莽第三次币制改革\"宝货制\"布货十品之第一品。",
@@ -1439,7 +1439,7 @@
           {
             "variant": "标准型小布一百",
             "description": "通高3.5—4.0cm，面文\"小布一百\"四字悬针篆规整，笔划垂锋细长，面文自上而下直读。首足平分档布形制，铸工规范",
-            "grade": "七级（较少）",
+            "grade": "七级（甚少）",
             "priceRange": "2,000—10,000元",
             "notes": "存世较少，品相决定价格"
           },
@@ -1460,12 +1460,12 @@
       "dynastyIndex": 2,
       "summary": {
         "name": "幺布二百",
-        "historicalPeriod": "新莽始建国二年（10年）",
+        "historicalPeriod": "新莽始建国二年（公元10年）",
         "ruler": "王莽",
         "coreFeatures": "布币形制；面文\"幺布二百\"；布货十品之一",
-        "estimatedValue": "2,000—20,000元",
+        "estimatedValue": "参考价：2,000—20,000元",
         "rarity": "六级 稀",
-        "thumbnail": "/images/coins/d-新莽钱币/幺布二百/main.jpg"
+        "thumbnail": "/images/coins/d-新莽钱币/幺布二百/thumb.webp"
       },
       "detail": {
         "castingTime": "王莽始建国二年（公元10年）。据《中国钱币大辞典》记载，幺布二百为王莽第三次币制改革\"宝货制\"布货十品之第二品。",
@@ -1486,7 +1486,7 @@
           {
             "variant": "标准型幺布二百",
             "description": "通高3.6—4.2cm，面文\"幺布二百\"四字悬针篆规整，笔划垂锋细长，面文自上而下直读。平肩方足布形制，铸工规范",
-            "grade": "七级（较少）",
+            "grade": "七级（甚少）",
             "priceRange": "2,000—10,000元",
             "notes": "存世较少，品相决定价格"
           },
@@ -1507,12 +1507,12 @@
       "dynastyIndex": 2,
       "summary": {
         "name": "幼布三百",
-        "historicalPeriod": "新莽始建国二年（10年）",
+        "historicalPeriod": "新莽始建国二年（公元10年）",
         "ruler": "王莽",
         "coreFeatures": "布币形制；面文\"幼布三百\"；布货十品之一",
-        "estimatedValue": "2,000—20,000元",
+        "estimatedValue": "参考价：2,000—20,000元",
         "rarity": "六级 稀",
-        "thumbnail": "/images/coins/d-新莽钱币/幼布三百/main.jpg"
+        "thumbnail": "/images/coins/d-新莽钱币/幼布三百/thumb.webp"
       },
       "detail": {
         "castingTime": "王莽始建国二年（公元10年）。据《中国钱币大辞典》记载，幼布三百为王莽第三次币制改革\"宝货制\"布货十品之第三品。",
@@ -1533,7 +1533,7 @@
           {
             "variant": "标准型幼布三百",
             "description": "通高3.8—4.5cm，面文\"幼布三百\"四字悬针篆规整，笔划垂锋细长，面文自上而下直读。平肩方足布形制，铸工规范",
-            "grade": "七级（较少）",
+            "grade": "七级（甚少）",
             "priceRange": "2,000—10,000元",
             "notes": "存世较少，品相决定价格"
           },
@@ -1554,12 +1554,12 @@
       "dynastyIndex": 2,
       "summary": {
         "name": "序布四百",
-        "historicalPeriod": "新莽始建国二年（10年）",
+        "historicalPeriod": "新莽始建国二年（公元10年）",
         "ruler": "王莽",
         "coreFeatures": "布币形制；面文\"序布四百\"；布货十品之一",
-        "estimatedValue": "3,000—30,000元",
+        "estimatedValue": "参考价：3,000—30,000元",
         "rarity": "五级 稀贵",
-        "thumbnail": "/images/coins/d-新莽钱币/序布四百/main.jpg"
+        "thumbnail": "/images/coins/d-新莽钱币/序布四百/thumb.webp"
       },
       "detail": {
         "castingTime": "王莽始建国二年（公元10年）。据《中国钱币大辞典》记载，序布四百为王莽第三次币制改革\"宝货制\"布货十品之第四品。",
@@ -1601,12 +1601,12 @@
       "dynastyIndex": 2,
       "summary": {
         "name": "差布五百",
-        "historicalPeriod": "新莽始建国二年（10年）",
+        "historicalPeriod": "新莽始建国二年（公元10年）",
         "ruler": "王莽",
         "coreFeatures": "布币形制；面文\"差布五百\"；布货十品之一",
-        "estimatedValue": "3,000—30,000元",
+        "estimatedValue": "参考价：3,000—30,000元",
         "rarity": "五级 稀贵",
-        "thumbnail": "/images/coins/d-新莽钱币/差布五百/main.jpg"
+        "thumbnail": "/images/coins/d-新莽钱币/差布五百/thumb.webp"
       },
       "detail": {
         "castingTime": "王莽始建国二年（公元10年）。据《中国钱币大辞典》记载，差布五百为王莽第三次币制改革\"宝货制\"布货十品之第五品。",
@@ -1648,12 +1648,12 @@
       "dynastyIndex": 2,
       "summary": {
         "name": "中布六百",
-        "historicalPeriod": "新莽始建国二年（10年）",
+        "historicalPeriod": "新莽始建国二年（公元10年）",
         "ruler": "王莽",
         "coreFeatures": "布币形制；面文\"中布六百\"；布货十品之一",
-        "estimatedValue": "3,000—30,000元",
+        "estimatedValue": "参考价：3,000—30,000元",
         "rarity": "五级 稀贵",
-        "thumbnail": "/images/coins/d-新莽钱币/中布六百/main.jpg"
+        "thumbnail": "/images/coins/d-新莽钱币/中布六百/thumb.webp"
       },
       "detail": {
         "castingTime": "王莽始建国二年（公元10年）。据《中国钱币大辞典》记载，中布六百为王莽第三次币制改革\"宝货制\"布货十品之第六品。",
@@ -1695,12 +1695,12 @@
       "dynastyIndex": 2,
       "summary": {
         "name": "壮布七百",
-        "historicalPeriod": "新莽始建国二年（10年）",
+        "historicalPeriod": "新莽始建国二年（公元10年）",
         "ruler": "王莽",
         "coreFeatures": "布币形制；面文\"壮布七百\"；布货十品之一",
-        "estimatedValue": "3,000—30,000元",
+        "estimatedValue": "参考价：3,000—30,000元",
         "rarity": "五级 稀贵",
-        "thumbnail": "/images/coins/d-新莽钱币/壮布七百/main.jpg"
+        "thumbnail": "/images/coins/d-新莽钱币/壮布七百/thumb.webp"
       },
       "detail": {
         "castingTime": "王莽始建国二年（公元10年）。据《中国钱币大辞典》记载，壮布七百为王莽第三次币制改革\"宝货制\"布货十品之第七品。",
@@ -1742,12 +1742,12 @@
       "dynastyIndex": 2,
       "summary": {
         "name": "第布八百",
-        "historicalPeriod": "新莽始建国二年（10年）",
+        "historicalPeriod": "新莽始建国二年（公元10年）",
         "ruler": "王莽",
         "coreFeatures": "布币形制；面文\"第布八百\"；布货十品之一",
-        "estimatedValue": "3,000—30,000元",
+        "estimatedValue": "参考价：3,000—30,000元",
         "rarity": "五级 稀贵",
-        "thumbnail": "/images/coins/d-新莽钱币/第布八百/main.jpg"
+        "thumbnail": "/images/coins/d-新莽钱币/第布八百/thumb.webp"
       },
       "detail": {
         "castingTime": "王莽始建国二年（公元10年）。据《中国钱币大辞典》记载，第布八百为王莽第三次币制改革\"宝货制\"布货十品之第八品。",
@@ -1789,12 +1789,12 @@
       "dynastyIndex": 2,
       "summary": {
         "name": "次布九百",
-        "historicalPeriod": "新莽始建国二年（10年）",
+        "historicalPeriod": "新莽始建国二年（公元10年）",
         "ruler": "王莽",
         "coreFeatures": "布币形制；面文\"次布九百\"；布货十品之一",
-        "estimatedValue": "3,000—30,000元",
+        "estimatedValue": "参考价：3,000—30,000元",
         "rarity": "五级 稀贵",
-        "thumbnail": "/images/coins/d-新莽钱币/次布九百/main.jpg"
+        "thumbnail": "/images/coins/d-新莽钱币/次布九百/thumb.webp"
       },
       "detail": {
         "castingTime": "王莽始建国二年（公元10年）。据《中国钱币大辞典》记载，次布九百为王莽第三次币制改革\"宝货制\"布货十品之第九品（百度百科\"次布九百\"亦载为始建国二年宝货制推行）。",
@@ -1836,12 +1836,12 @@
       "dynastyIndex": 2,
       "summary": {
         "name": "大布黄千",
-        "historicalPeriod": "新莽始建国二年（10年）",
+        "historicalPeriod": "新莽始建国二年（公元10年）",
         "ruler": "王莽",
-        "coreFeatures": "布币形制；面文\"大布黄千\"；当一千枚五铢",
-        "estimatedValue": "500—8,000元",
+        "coreFeatures": "布币形制；面文\"大布黄千\"；当小泉直一一千枚",
+        "estimatedValue": "参考价：500—8,000元",
         "rarity": "七级 甚少",
-        "thumbnail": "/images/coins/d-新莽钱币/大布黄千/main.jpg"
+        "thumbnail": "/images/coins/d-新莽钱币/大布黄千/thumb.webp"
       },
       "detail": {
         "castingTime": "王莽始建国二年（公元10年）。据《中国钱币大辞典》记载，大布黄千为布货十品中铸量较多者。",
@@ -1862,21 +1862,21 @@
           {
             "variant": "标准型大布黄千",
             "description": "通高5.5—5.8cm。面文\"大布黄千\"悬针篆笔画纤细挺拔，\"大\"字撇捺舒展，\"布\"字上部竖画笔直，\"黄\"字中部横画平直，\"千\"字撇画流畅。双足方正规整，首部圆孔清晰。铸工精整",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "300—2,000元",
             "notes": "布货十品中最常见，品相决定价格"
           },
           {
             "variant": "大型大布黄千",
             "description": "通高5.8cm以上。钱体厚重，面文字体较大，笔画深峻。铜质精良。较少见",
-            "grade": "七级（较少） 极美品",
+            "grade": "七级（甚少） 极美品",
             "priceRange": "2,000—5,000元",
             "notes": "铸工上佳"
           },
           {
             "variant": "合背型",
             "description": "两面均为面文\"大布黄千\"，为合范时误用两面母范所致。较少见",
-            "grade": "七级（较少） 美品",
+            "grade": "七级（甚少） 美品",
             "priceRange": "3,000—8,000元",
             "notes": "较为少见"
           },
@@ -1892,17 +1892,17 @@
     },
     {
       "id": "2-36",
-      "name": "货布钱",
+      "name": "货布",
       "dynasty": "新莽钱币",
       "dynastyIndex": 2,
       "summary": {
-        "name": "货布钱",
-        "historicalPeriod": "新莽天凤元年（14年）",
+        "name": "货布",
+        "historicalPeriod": "新莽天凤元年（公元14年）",
         "ruler": "王莽",
         "coreFeatures": "布币形制；面文\"货布\"；悬针篆；铸工极精",
-        "estimatedValue": "50—1,000元（普品一二百元，大字厚肉美品数百元）",
+        "estimatedValue": "参考价：50—1,000元（普品一二百元，大字厚肉美品数百元）",
         "rarity": "八级 少",
-        "thumbnail": "/images/coins/d-新莽钱币/货布钱/main.jpg"
+        "thumbnail": "/images/coins/d-新莽钱币/货布钱/thumb.webp"
       },
       "detail": {
         "castingTime": "王莽天凤元年（公元14年）。据《汉书·食货志》记载，货布为王莽第四次货币改革后铸行，与货泉并行。",
@@ -1953,17 +1953,17 @@
     },
     {
       "id": "2-37",
-      "name": "货泉钱",
+      "name": "货泉",
       "dynasty": "新莽钱币",
       "dynastyIndex": 2,
       "summary": {
-        "name": "货泉钱",
-        "historicalPeriod": "新莽天凤元年（14年）",
+        "name": "货泉",
+        "historicalPeriod": "新莽天凤元年（公元14年）",
         "ruler": "王莽",
         "coreFeatures": "圆形方孔；面文\"货泉\"；重五铢；新莽晚期主要流通货币",
-        "estimatedValue": "3—30,000元（普品数元，传形、合背等罕版数千至数万元）",
+        "estimatedValue": "参考价：3—30,000元（普品数元，传形、合背等罕版数千至数万元）",
         "rarity": "九级 较多",
-        "thumbnail": "/images/coins/d-新莽钱币/货泉钱/main.jpg"
+        "thumbnail": "/images/coins/d-新莽钱币/货泉钱/thumb.webp"
       },
       "detail": {
         "castingTime": "王莽天凤元年（公元14年）。据《汉书·食货志》记载，货泉为新莽晚期主要流通货币。",
@@ -2012,7 +2012,7 @@
           {
             "variant": "合背版",
             "description": "两面均铸\"货泉\"二字（无背面），为铸造时错范所致，悬针篆文字两面均可辨。直径约2.3cm，极为罕见，学术价值高",
-            "grade": "三级（罕）",
+            "grade": "三级（罕贵）",
             "priceRange": "5,000—30,000元",
             "notes": "合背极罕见"
           },
@@ -2033,12 +2033,12 @@
       "dynastyIndex": 2,
       "summary": {
         "name": "布泉-新莽",
-        "historicalPeriod": "新莽天凤年间（14—19年）",
+        "historicalPeriod": "新莽天凤年间（公元14年—19年）",
         "ruler": "王莽",
         "coreFeatures": "圆形方孔；面文\"布泉\"；悬针篆；铸工极精",
-        "estimatedValue": "200—3,000元",
+        "estimatedValue": "参考价：200—3,000元",
         "rarity": "八级 少",
-        "thumbnail": "/images/coins/d-新莽钱币/布泉-新莽/main.jpg"
+        "thumbnail": "/images/coins/d-新莽钱币/布泉-新莽/thumb.webp"
       },
       "detail": {
         "castingTime": "王莽天凤年间（公元14年—19年）。据《中国钱币大辞典》记载，新莽布泉与北周布泉同名但年代不同，需注意区分。",
@@ -2066,14 +2066,14 @@
           {
             "variant": "大字型",
             "description": "面文\"布泉\"二字字体较大，悬针篆笔画粗壮、垂芒舒展，文字布局饱满。直径约2.4cm，铸工极精，为新莽布泉中文字较大的品种，铸行量较少",
-            "grade": "七级（较少） 极美品",
+            "grade": "七级（甚少） 极美品",
             "priceRange": "1,000—3,000元",
             "notes": "较少见"
           },
           {
             "variant": "背星纹型",
             "description": "背面铸有星纹（圆点）记号，铸于穿孔一侧。面文\"布泉\"二字左右横读，悬针篆文字规整。直径约2.4cm，背星纹记号者较为少见",
-            "grade": "七级（较少） 美品",
+            "grade": "七级（甚少） 美品",
             "priceRange": "200—500元",
             "notes": "背有星纹，较少见"
           }
@@ -2087,12 +2087,12 @@
       "dynastyIndex": 2,
       "summary": {
         "name": "国宝金匮直万",
-        "historicalPeriod": "新莽时期",
+        "historicalPeriod": "新莽时期（约公元9年—14年）",
         "ruler": "王莽",
         "coreFeatures": "面文\"国宝金匮直万\"；上部方孔圆钱，下部方形；存世极罕",
-        "estimatedValue": "500,000—5,000,000元（存世仅数枚，无公开成交记录，价格为参考估值）",
+        "estimatedValue": "参考价：500,000—5,000,000元（存世仅数枚，无公开成交记录，价格为参考估值）",
         "rarity": "一级 大珍",
-        "thumbnail": "/images/coins/d-新莽钱币/国宝金匮直万/main.jpg"
+        "thumbnail": "/images/coins/d-新莽钱币/国宝金匮直万/thumb.webp"
       },
       "detail": {
         "castingTime": "新莽时期（约公元9年—14年）。据《中国钱币大辞典》记载，国宝金匮直万是中国古钱币中最为珍稀的品种之一。",

@@ -9,12 +9,12 @@
       "dynastyIndex": 11,
       "summary": {
         "name": "建炎通宝",
-        "historicalPeriod": "南宋（1127年）",
+        "historicalPeriod": "南宋（公元1127年）",
         "ruler": "高宗赵构",
         "coreFeatures": "南宋开国钱，铜铁并行",
-        "estimatedValue": "10—6,000元",
-        "rarity": "九级（较多）",
-        "thumbnail": "/images/coins/p-南宋钱币/建炎通宝/main.jpg"
+        "estimatedValue": "参考价：10—6,000元",
+        "rarity": "九级 较多",
+        "thumbnail": "/images/coins/p-南宋钱币/建炎通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "南宋高宗赵构建炎元年（公元1127年）始铸。",
@@ -35,21 +35,21 @@
           {
             "variant": "小平钱",
             "description": "建炎通宝为南宋开国钱。篆书面文，直径约2.4cm，重约3.5g",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "10—200元",
             "notes": "南宋开国钱，品相决定价格"
           },
           {
             "variant": "折二型",
             "description": "直径约2.8厘米，重约5—7g",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "30—150元",
             "notes": "折二型"
           },
           {
             "variant": "小平钱楷书版",
             "description": "楷书面文，直径约2.4厘米，单枚重量约3.5克",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "50—150元",
             "notes": "楷书小平钱"
           },
@@ -70,12 +70,12 @@
       "dynastyIndex": 11,
       "summary": {
         "name": "建炎元宝",
-        "historicalPeriod": "南宋（1127年）",
+        "historicalPeriod": "南宋（公元1127年）",
         "ruler": "高宗赵构",
         "coreFeatures": "存世稀少",
-        "estimatedValue": "3000—30000元",
-        "rarity": "五级（稀贵）",
-        "thumbnail": "/images/coins/p-南宋钱币/建炎元宝/main.jpg"
+        "estimatedValue": "参考价：3000—30000元",
+        "rarity": "五级 稀贵",
+        "thumbnail": "/images/coins/p-南宋钱币/建炎元宝/thumb.webp"
       },
       "detail": {
         "castingTime": "南宋高宗赵构建炎年间（公元1127年—1130年）。",
@@ -110,12 +110,12 @@
       "dynastyIndex": 11,
       "summary": {
         "name": "建炎重宝",
-        "historicalPeriod": "南宋（1127年）",
+        "historicalPeriod": "南宋（公元1127年）",
         "ruler": "高宗赵构",
         "coreFeatures": "折三篆书，铜铁并行",
-        "estimatedValue": "5,000—30,000元",
-        "rarity": "五级（稀贵）",
-        "thumbnail": "/images/coins/p-南宋钱币/建炎重宝/main.jpg"
+        "estimatedValue": "参考价：5,000—30,000元",
+        "rarity": "五级 稀贵",
+        "thumbnail": "/images/coins/p-南宋钱币/建炎重宝/thumb.webp"
       },
       "detail": {
         "castingTime": "南宋高宗赵构建炎年间（公元1127年—1130年）。",
@@ -157,12 +157,12 @@
       "dynastyIndex": 11,
       "summary": {
         "name": "绍兴通宝",
-        "historicalPeriod": "南宋（1131年）",
+        "historicalPeriod": "南宋（公元1131年）",
         "ruler": "高宗赵构",
         "coreFeatures": "存世较少，另有存世极罕的折五大钱",
-        "estimatedValue": "100—3,000元",
-        "rarity": "七级（甚少）",
-        "thumbnail": "/images/coins/p-南宋钱币/绍兴通宝/main.jpg"
+        "estimatedValue": "参考价：100—3,000元",
+        "rarity": "七级 甚少",
+        "thumbnail": "/images/coins/p-南宋钱币/绍兴通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "南宋高宗赵构绍兴年间（公元1131年—1162年）。",
@@ -211,12 +211,12 @@
       "dynastyIndex": 11,
       "summary": {
         "name": "绍兴元宝",
-        "historicalPeriod": "南宋（1131年）",
+        "historicalPeriod": "南宋（公元1131年）",
         "ruler": "高宗赵构",
         "coreFeatures": "篆楷对钱，小平罕见",
-        "estimatedValue": "20—15,000元",
-        "rarity": "八级（较多）",
-        "thumbnail": "/images/coins/p-南宋钱币/绍兴元宝/main.jpg"
+        "estimatedValue": "参考价：20—15,000元",
+        "rarity": "八级 少",
+        "thumbnail": "/images/coins/p-南宋钱币/绍兴元宝/thumb.webp"
       },
       "detail": {
         "castingTime": "南宋高宗赵构绍兴年间（公元1131年—1162年）。",
@@ -251,14 +251,14 @@
           {
             "variant": "折二篆书版",
             "description": "折二型，直径约2.8cm，重约5—7g。篆书面文，光背无文",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "20—80元",
             "notes": "折二型较常见"
           },
           {
             "variant": "折二楷书版",
             "description": "折二型，直径约2.8cm。楷书面文，光背无文",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "20—80元",
             "notes": "折二型"
           },
@@ -279,12 +279,12 @@
       "dynastyIndex": 11,
       "summary": {
         "name": "隆兴元宝",
-        "historicalPeriod": "南宋（1163年）",
+        "historicalPeriod": "南宋（公元1163年）",
         "ruler": "孝宗赵昚",
         "coreFeatures": "篆楷对钱",
-        "estimatedValue": "20—500元",
-        "rarity": "八级（较多）",
-        "thumbnail": "/images/coins/p-南宋钱币/隆兴元宝/main.jpg"
+        "estimatedValue": "参考价：20—500元",
+        "rarity": "八级 少",
+        "thumbnail": "/images/coins/p-南宋钱币/隆兴元宝/thumb.webp"
       },
       "detail": {
         "castingTime": "南宋孝宗赵昚隆兴年间（公元1163年—1164年）。",
@@ -305,14 +305,14 @@
           {
             "variant": "小平篆书版",
             "description": "篆书面文，四字旋读，光背无文。直径约2.4cm。品相决定价格",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "20—300元",
             "notes": "篆书版"
           },
           {
             "variant": "小平楷书版",
             "description": "楷书面文，四字旋读，光背无文。直径约2.4cm。品相决定价格",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "20—300元",
             "notes": "楷书版"
           },
@@ -340,12 +340,12 @@
       "dynastyIndex": 11,
       "summary": {
         "name": "隆兴通宝",
-        "historicalPeriod": "南宋（1163年）",
+        "historicalPeriod": "南宋（公元1163年）",
         "ruler": "孝宗赵昚",
         "coreFeatures": "篆楷对钱，铁钱",
-        "estimatedValue": "铁：50—500元",
-        "rarity": "八级（较多）",
-        "thumbnail": "/images/coins/p-南宋钱币/隆兴通宝/main.jpg"
+        "estimatedValue": "参考价：铁：50—500元",
+        "rarity": "八级 少",
+        "thumbnail": "/images/coins/p-南宋钱币/隆兴通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "南宋孝宗赵昚隆兴年间（公元1163年—1164年）。",
@@ -366,7 +366,7 @@
           {
             "variant": "铁品",
             "description": "铁品小平，直径约2.4cm。铁钱呈黑褐色，品相决定价格",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "50—500元",
             "notes": "铁品"
           }
@@ -380,12 +380,12 @@
       "dynastyIndex": 11,
       "summary": {
         "name": "隆兴重宝",
-        "historicalPeriod": "南宋（1163年）",
+        "historicalPeriod": "南宋（公元1163年）",
         "ruler": "孝宗赵昚",
         "coreFeatures": "铁钱",
-        "estimatedValue": "铁：200—2000元",
-        "rarity": "七级（甚少）",
-        "thumbnail": "/images/coins/p-南宋钱币/隆兴重宝/main.jpg"
+        "estimatedValue": "参考价：铁：200—2000元",
+        "rarity": "七级 甚少",
+        "thumbnail": "/images/coins/p-南宋钱币/隆兴重宝/thumb.webp"
       },
       "detail": {
         "castingTime": "南宋孝宗赵昚隆兴年间（公元1163年—1164年）。",
@@ -420,12 +420,12 @@
       "dynastyIndex": 11,
       "summary": {
         "name": "乾道元宝",
-        "historicalPeriod": "南宋（1165年）",
+        "historicalPeriod": "南宋（公元1165年）",
         "ruler": "孝宗赵昚",
         "coreFeatures": "篆楷对钱，铜铁并行",
-        "estimatedValue": "10—500元",
-        "rarity": "八级（较多）",
-        "thumbnail": "/images/coins/p-南宋钱币/乾道元宝/main.jpg"
+        "estimatedValue": "参考价：10—500元",
+        "rarity": "八级 少",
+        "thumbnail": "/images/coins/p-南宋钱币/乾道元宝/thumb.webp"
       },
       "detail": {
         "castingTime": "南宋孝宗赵昚乾道年间（公元1165年—1173年）。",
@@ -446,28 +446,28 @@
           {
             "variant": "小平篆书版",
             "description": "篆书面文，四字旋读，光背无文。直径约2.4cm，重约3—4g。品相决定价格",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "10—200元",
             "notes": "篆书版较常见"
           },
           {
             "variant": "小平楷书版",
             "description": "楷书面文，四字旋读，光背无文。直径约2.4cm，重约3—4g。品相决定价格",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "10—200元",
             "notes": "楷书版较常见"
           },
           {
             "variant": "折二篆书版",
             "description": "折二型，直径约2.8cm，重约5—7g。篆书面文，光背无文",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "20—80元",
             "notes": "折二型较常见"
           },
           {
             "variant": "折二楷书版",
             "description": "折二型，直径约2.8cm。楷书面文，光背无文",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "20—80元",
             "notes": "折二型"
           },
@@ -488,12 +488,12 @@
       "dynastyIndex": 11,
       "summary": {
         "name": "乾道通宝",
-        "historicalPeriod": "南宋（1165年）",
+        "historicalPeriod": "南宋（公元1165年）",
         "ruler": "孝宗赵昚",
         "coreFeatures": "铁钱为主",
-        "estimatedValue": "铁：100—1000元",
-        "rarity": "八级（较多）",
-        "thumbnail": "/images/coins/p-南宋钱币/乾道通宝/main.jpg"
+        "estimatedValue": "参考价：铁：100—1000元",
+        "rarity": "八级 少",
+        "thumbnail": "/images/coins/p-南宋钱币/乾道通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "南宋孝宗赵昚乾道年间（公元1165年—1173年）。",
@@ -514,7 +514,7 @@
           {
             "variant": "铁品",
             "description": "铁品小平，直径约2.4cm。铁钱呈黑褐色，品相决定价格",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "100—1,000元",
             "notes": "铁品"
           }
@@ -528,12 +528,12 @@
       "dynastyIndex": 11,
       "summary": {
         "name": "乾道重宝",
-        "historicalPeriod": "南宋（1165年）",
+        "historicalPeriod": "南宋（公元1165年）",
         "ruler": "孝宗赵昚",
         "coreFeatures": "铁钱",
-        "estimatedValue": "铁：200—2000元",
-        "rarity": "七级（甚少）",
-        "thumbnail": "/images/coins/p-南宋钱币/乾道重宝/main.jpg"
+        "estimatedValue": "参考价：铁：200—2000元",
+        "rarity": "七级 甚少",
+        "thumbnail": "/images/coins/p-南宋钱币/乾道重宝/thumb.webp"
       },
       "detail": {
         "castingTime": "南宋孝宗赵昚乾道年间（公元1165年—1173年）。",
@@ -568,12 +568,12 @@
       "dynastyIndex": 11,
       "summary": {
         "name": "纯熙元宝",
-        "historicalPeriod": "南宋（1174年）",
+        "historicalPeriod": "南宋（公元1174年）",
         "ruler": "孝宗赵昚",
         "coreFeatures": "铁钱，年号仅行用六天",
-        "estimatedValue": "铁：5,000—30,000元",
-        "rarity": "四级（罕）",
-        "thumbnail": "/images/coins/p-南宋钱币/纯熙元宝/main.jpg"
+        "estimatedValue": "参考价：铁：5,000—30,000元",
+        "rarity": "四级 珍罕",
+        "thumbnail": "/images/coins/p-南宋钱币/纯熙元宝/thumb.webp"
       },
       "detail": {
         "castingTime": "南宋孝宗赵昚纯熙元年（公元1174年）。",
@@ -594,7 +594,7 @@
           {
             "variant": "铁品（小平背\"同\"）",
             "description": "仅见铁钱小平，直径约2.4cm，重约3.5g。面文旋读，背铸\"同\"字纪监（同安监）。年号仅行用六天，铸量极少",
-            "grade": "四级（罕）",
+            "grade": "四级（珍罕）",
             "priceRange": "5,000—30,000元",
             "notes": "存世数十枚，市场价动辄数万元（据百度百科·纯熙元宝；高邮御码头出土）"
           }
@@ -608,12 +608,12 @@
       "dynastyIndex": 11,
       "summary": {
         "name": "淳熙元宝",
-        "historicalPeriod": "南宋（1174年）",
+        "historicalPeriod": "南宋（公元1174年）",
         "ruler": "孝宗赵昚",
         "coreFeatures": "篆楷对钱，铜铁并行",
-        "estimatedValue": "5—30,000元",
-        "rarity": "九级（较多）",
-        "thumbnail": "/images/coins/p-南宋钱币/淳熙元宝/main.jpg"
+        "estimatedValue": "参考价：5—30,000元",
+        "rarity": "九级 较多",
+        "thumbnail": "/images/coins/p-南宋钱币/淳熙元宝/thumb.webp"
       },
       "detail": {
         "castingTime": "南宋孝宗赵昚淳熙年间（公元1174年—1189年）。",
@@ -634,91 +634,91 @@
           {
             "variant": "篆书无纪年",
             "description": "淳熙元宝早期（淳熙元年至六年，1174—1179年）铸行，面文篆书，光背无纪年。直径约2.4—2.5cm",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "5—100元",
             "notes": "早期版，品相决定价格"
           },
           {
             "variant": "楷书无纪年",
             "description": "淳熙元宝早期（淳熙元年至六年，1174—1179年）铸行，面文楷书，光背无纪年。直径约2.4—2.5cm",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "5—100元",
             "notes": "早期版，品相决定价格"
           },
           {
             "variant": "背\"柒\"（淳熙七年，1180年）",
             "description": "淳熙七年始铸纪年钱，背铸\"柒\"字。为南宋纪年钱之始。直径约2.4—2.5cm",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "30—100元",
             "notes": "纪年钱之首，品相决定价格"
           },
           {
             "variant": "背\"捌\"（淳熙八年，1181年）",
             "description": "淳熙元宝楷书，面文\"淳熙元宝\"四字旋读，背铸\"捌\"字楷书纪年。直径约2.4cm，为淳熙纪年钱中八年纪年版",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "20—80元",
             "notes": "品相决定价格"
           },
           {
             "variant": "背\"玖\"（淳熙九年，1182年）",
             "description": "淳熙元宝楷书，面文\"淳熙元宝\"四字旋读，背铸\"玖\"字楷书纪年。直径约2.4cm，为淳熙纪年钱中九年纪年版",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "20—80元",
             "notes": "品相决定价格"
           },
           {
             "variant": "背\"拾\"（淳熙十年，1183年）",
             "description": "淳熙元宝楷书，面文\"淳熙元宝\"四字旋读，背铸\"拾\"字楷书纪年。直径约2.4cm，为淳熙纪年钱中十年纪年版",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "20—80元",
             "notes": "品相决定价格"
           },
           {
             "variant": "背\"十一\"（淳熙十一年，1184年）",
             "description": "淳熙元宝楷书，面文\"淳熙元宝\"四字旋读，背铸\"十一\"二字楷书纪年。直径约2.4cm，为淳熙纪年钱中十一年纪年版",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "15—60元",
             "notes": "品相决定价格"
           },
           {
             "variant": "背\"十二\"（淳熙十二年，1185年）",
             "description": "淳熙元宝楷书，面文\"淳熙元宝\"四字旋读，背铸\"十二\"二字楷书纪年。直径约2.4cm，为淳熙纪年钱中十二年纪年版",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "15—60元",
             "notes": "品相决定价格"
           },
           {
             "variant": "背\"十三\"（淳熙十三年，1186年）",
             "description": "淳熙元宝楷书，面文\"淳熙元宝\"四字旋读，背铸\"十三\"二字楷书纪年。直径约2.4cm，为淳熙纪年钱中十三年纪年版",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "15—60元",
             "notes": "品相决定价格"
           },
           {
             "variant": "背\"十四\"（淳熙十四年，1187年）",
             "description": "淳熙元宝楷书，面文\"淳熙元宝\"四字旋读，背铸\"十四\"二字楷书纪年。直径约2.4cm，为淳熙纪年钱中十四年纪年版",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "15—60元",
             "notes": "品相决定价格"
           },
           {
             "variant": "背\"十五\"（淳熙十五年，1188年）",
             "description": "淳熙元宝楷书，面文\"淳熙元宝\"四字旋读，背铸\"十五\"二字楷书纪年。直径约2.4cm，为淳熙纪年钱中十五年纪年版",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "15—60元",
             "notes": "品相决定价格"
           },
           {
             "variant": "背\"十六\"（淳熙十六年，1189年）",
             "description": "背铸\"十六\"二字纪年，为淳熙元宝最晚纪年",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "15—60元",
             "notes": "最晚纪年，品相决定价格"
           },
           {
             "variant": "折二型（铜钱）",
             "description": "折二型，直径约2.8cm，重约5—7g。有篆书、楷书两种书体，均有背纪年",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "10—50元",
             "notes": "折二型较常见"
           },
@@ -732,14 +732,14 @@
           {
             "variant": "铁母（铜质母钱）",
             "description": "铁钱的母钱，铜质精良，文字深峻。极为珍贵",
-            "grade": "三级（罕）",
+            "grade": "三级（罕贵）",
             "priceRange": "3,000—20,000元",
             "notes": "铁母极珍贵"
           },
           {
             "variant": "母钱",
             "description": "铜钱母钱，铜质精良，字口深峻，穿廓精修",
-            "grade": "四级（罕）",
+            "grade": "四级（珍罕）",
             "priceRange": "2,000—10,000元",
             "notes": "母钱存世极少"
           },
@@ -760,12 +760,12 @@
       "dynastyIndex": 11,
       "summary": {
         "name": "淳熙通宝",
-        "historicalPeriod": "南宋（1174年）",
+        "historicalPeriod": "南宋（公元1174年）",
         "ruler": "孝宗赵昚",
         "coreFeatures": "铁钱为主",
-        "estimatedValue": "铁：20—20,000元",
-        "rarity": "八级（较多）",
-        "thumbnail": "/images/coins/p-南宋钱币/淳熙通宝/main.jpg"
+        "estimatedValue": "参考价：铁：20—20,000元",
+        "rarity": "八级 少",
+        "thumbnail": "/images/coins/p-南宋钱币/淳熙通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "南宋孝宗赵昚淳熙年间（公元1174年—1189年）。",
@@ -786,14 +786,14 @@
           {
             "variant": "小平楷书背纪年",
             "description": "楷书面文，四字对读，背铸纪年。淳熙七年(1180)起铸纪年钱。直径约2.4cm",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "30—100元",
             "notes": "淳熙通宝纪年钱"
           },
           {
             "variant": "折二楷书背纪年",
             "description": "折二型，直径约2.8cm。楷书面文，背铸纪年",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "20—80元",
             "notes": "折二型较常见"
           },
@@ -807,7 +807,7 @@
           {
             "variant": "铁母（铜质母钱）",
             "description": "铁钱的母钱，铜质精良，文字深峻。极为珍贵",
-            "grade": "三级（罕）",
+            "grade": "三级（罕贵）",
             "priceRange": "3,000—20,000元",
             "notes": "铁母极珍贵"
           }
@@ -821,12 +821,12 @@
       "dynastyIndex": 11,
       "summary": {
         "name": "绍熙元宝",
-        "historicalPeriod": "南宋（1190年）",
+        "historicalPeriod": "南宋（公元1190年）",
         "ruler": "光宗赵惇",
         "coreFeatures": "楷书背纪年",
-        "estimatedValue": "5—20,000元",
-        "rarity": "八级（较多）",
-        "thumbnail": "/images/coins/p-南宋钱币/绍熙元宝/main.jpg"
+        "estimatedValue": "参考价：5—20,000元",
+        "rarity": "八级 少",
+        "thumbnail": "/images/coins/p-南宋钱币/绍熙元宝/thumb.webp"
       },
       "detail": {
         "castingTime": "南宋光宗赵惇绍熙年间（公元1190年—1194年）。",
@@ -847,42 +847,42 @@
           {
             "variant": "小平楷书背\"元\"（绍熙元年，1190年）",
             "description": "楷书面文，背铸\"元\"字纪年。直径约2.4cm",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "5—20元",
             "notes": "绍熙元年纪年钱"
           },
           {
             "variant": "小平楷书背\"二\"（绍熙二年，1191年）",
             "description": "绍熙元宝楷书，面文\"绍熙元宝\"四字旋读，背铸\"二\"字楷书纪年。直径约2.4cm，为绍熙纪年钱中二年纪年版",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "5—20元",
             "notes": "品相决定价格"
           },
           {
             "variant": "小平楷书背\"三\"（绍熙三年，1192年）",
             "description": "绍熙元宝楷书，面文\"绍熙元宝\"四字旋读，背铸\"三\"字楷书纪年。直径约2.4cm，为绍熙纪年钱中三年纪年版",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "5—20元",
             "notes": "品相决定价格"
           },
           {
             "variant": "小平楷书背\"四\"（绍熙四年，1193年）",
             "description": "绍熙元宝楷书，面文\"绍熙元宝\"四字旋读，背铸\"四\"字楷书纪年。直径约2.4cm，为绍熙纪年钱中四年纪年版",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "5—20元",
             "notes": "品相决定价格"
           },
           {
             "variant": "小平楷书背\"五\"（绍熙五年，1194年）",
             "description": "背铸\"五\"字纪年，为绍熙元宝最晚纪年",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "5—20元",
             "notes": "最晚纪年"
           },
           {
             "variant": "折二楷书背纪年",
             "description": "折二型，直径约2.8cm，重约5—7g。楷书面文，背铸纪年\"元\"至\"五\"",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "10—50元",
             "notes": "折二型较常见"
           },
@@ -896,7 +896,7 @@
           {
             "variant": "铁母（铜质母钱）",
             "description": "铁钱的母钱，铜质精良，文字深峻。极为珍贵",
-            "grade": "三级（罕）",
+            "grade": "三级（罕贵）",
             "priceRange": "3,000—20,000元",
             "notes": "铁母极珍贵"
           }
@@ -910,12 +910,12 @@
       "dynastyIndex": 11,
       "summary": {
         "name": "绍熙通宝",
-        "historicalPeriod": "南宋（1190年）",
+        "historicalPeriod": "南宋（公元1190年）",
         "ruler": "光宗赵惇",
         "coreFeatures": "楷书背纪年",
-        "estimatedValue": "5—500元",
-        "rarity": "八级（较多）",
-        "thumbnail": "/images/coins/p-南宋钱币/绍熙通宝/main.jpg"
+        "estimatedValue": "参考价：5—500元",
+        "rarity": "八级 少",
+        "thumbnail": "/images/coins/p-南宋钱币/绍熙通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "南宋光宗赵惇绍熙年间（公元1190年—1194年）。",
@@ -936,21 +936,21 @@
           {
             "variant": "小平楷书背\"元\"（绍熙元年，1190年）",
             "description": "楷书面文，背铸\"元\"字纪年。直径约2.4cm",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "5—20元",
             "notes": "绍熙元年纪年钱"
           },
           {
             "variant": "小平楷书背\"二\"至\"五\"",
             "description": "背铸\"二\"\"三\"\"四\"\"五\"字纪年。直径约2.4cm",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "5—20元",
             "notes": "各年纪年钱，品相决定价格"
           },
           {
             "variant": "折二楷书背纪年",
             "description": "折二型，直径约2.8cm，重约5—7g。楷书面文，背铸纪年\"元\"至\"五\"",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "10—50元",
             "notes": "折二型较常见"
           },
@@ -971,12 +971,12 @@
       "dynastyIndex": 11,
       "summary": {
         "name": "庆元通宝",
-        "historicalPeriod": "南宋（1195年）",
+        "historicalPeriod": "南宋（公元1195年）",
         "ruler": "宁宗赵扩",
         "coreFeatures": "楷书背纪年",
-        "estimatedValue": "5—500元",
-        "rarity": "九级（较多）",
-        "thumbnail": "/images/coins/p-南宋钱币/庆元通宝/main.jpg"
+        "estimatedValue": "参考价：5—500元",
+        "rarity": "九级 较多",
+        "thumbnail": "/images/coins/p-南宋钱币/庆元通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "南宋宁宗赵扩庆元年间（公元1195年—1200年）。",
@@ -997,49 +997,49 @@
           {
             "variant": "小平楷书背\"元\"（庆元元年，1195年）",
             "description": "楷书面文，背铸\"元\"字纪年。直径约2.4cm",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "5—15元",
             "notes": "庆元元年纪年钱"
           },
           {
             "variant": "小平楷书背\"二\"（庆元二年，1196年）",
             "description": "庆元通宝楷书，面文\"庆元通宝\"四字对读，背铸\"二\"字楷书纪年。直径约2.4cm，为庆元纪年钱中二年纪年版",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "5—15元",
             "notes": "品相决定价格"
           },
           {
             "variant": "小平楷书背\"三\"（庆元三年，1197年）",
             "description": "庆元通宝楷书，面文\"庆元通宝\"四字对读，背铸\"三\"字楷书纪年。直径约2.4cm，为庆元纪年钱中三年纪年版",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "5—15元",
             "notes": "品相决定价格"
           },
           {
             "variant": "小平楷书背\"四\"（庆元四年，1198年）",
             "description": "庆元通宝楷书，面文\"庆元通宝\"四字对读，背铸\"四\"字楷书纪年。直径约2.4cm，为庆元纪年钱中四年纪年版",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "5—15元",
             "notes": "品相决定价格"
           },
           {
             "variant": "小平楷书背\"五\"（庆元五年，1199年）",
             "description": "庆元通宝楷书，面文\"庆元通宝\"四字对读，背铸\"五\"字楷书纪年。直径约2.4cm，为庆元纪年钱中五年纪年版",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "5—15元",
             "notes": "品相决定价格"
           },
           {
             "variant": "小平楷书背\"六\"（庆元六年，1200年）",
             "description": "背铸\"六\"字纪年，为庆元通宝最晚纪年",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "5—15元",
             "notes": "最晚纪年"
           },
           {
             "variant": "折二楷书背纪年",
             "description": "折二型，直径约2.8cm，重约5—7g。楷书面文，背铸纪年\"元\"至\"六\"",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "10—50元",
             "notes": "折二型较常见"
           },
@@ -1060,12 +1060,12 @@
       "dynastyIndex": 11,
       "summary": {
         "name": "庆元元宝",
-        "historicalPeriod": "南宋（1195年）",
+        "historicalPeriod": "南宋（公元1195年）",
         "ruler": "宁宗赵扩",
         "coreFeatures": "铁钱",
-        "estimatedValue": "铁：50—500元",
-        "rarity": "八级（较多）",
-        "thumbnail": "/images/coins/p-南宋钱币/庆元元宝/main.jpg"
+        "estimatedValue": "参考价：铁：50—500元",
+        "rarity": "八级 少",
+        "thumbnail": "/images/coins/p-南宋钱币/庆元元宝/thumb.webp"
       },
       "detail": {
         "castingTime": "南宋宁宗赵扩庆元年间（公元1195年—1200年）。",
@@ -1086,7 +1086,7 @@
           {
             "variant": "铁品",
             "description": "铁品小平，直径约2.4cm。铁钱呈黑褐色，品相决定价格",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "50—500元",
             "notes": "铁品"
           }
@@ -1100,12 +1100,12 @@
       "dynastyIndex": 11,
       "summary": {
         "name": "嘉泰通宝",
-        "historicalPeriod": "南宋（1201年）",
+        "historicalPeriod": "南宋（公元1201年）",
         "ruler": "宁宗赵扩",
         "coreFeatures": "楷书背纪年",
-        "estimatedValue": "10—500元",
-        "rarity": "八级（较多）",
-        "thumbnail": "/images/coins/p-南宋钱币/嘉泰通宝/main.jpg"
+        "estimatedValue": "参考价：10—500元",
+        "rarity": "八级 少",
+        "thumbnail": "/images/coins/p-南宋钱币/嘉泰通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "南宋宁宗赵扩嘉泰年间（公元1201年—1204年）。",
@@ -1126,35 +1126,35 @@
           {
             "variant": "小平楷书背\"元\"（嘉泰元年，1201年）",
             "description": "楷书面文，背铸\"元\"字纪年。直径约2.4cm",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "10—30元",
             "notes": "嘉泰元年纪年钱"
           },
           {
             "variant": "小平楷书背\"二\"（嘉泰二年，1202年）",
             "description": "嘉泰通宝楷书，面文\"嘉泰通宝\"四字对读，背铸\"二\"字楷书纪年。直径约2.4cm，为嘉泰纪年钱中二年纪年版",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "10—30元",
             "notes": "品相决定价格"
           },
           {
             "variant": "小平楷书背\"三\"（嘉泰三年，1203年）",
             "description": "嘉泰通宝楷书，面文\"嘉泰通宝\"四字对读，背铸\"三\"字楷书纪年。直径约2.4cm，为嘉泰纪年钱中三年纪年版",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "10—30元",
             "notes": "品相决定价格"
           },
           {
             "variant": "小平楷书背\"四\"（嘉泰四年，1204年）",
             "description": "背铸\"四\"字纪年，为嘉泰通宝最晚纪年",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "10—30元",
             "notes": "最晚纪年"
           },
           {
             "variant": "折二楷书背纪年",
             "description": "折二型，直径约2.8cm，重约5—7g。楷书面文，背铸纪年\"元\"至\"四\"",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "20—80元",
             "notes": "折二型较常见"
           },
@@ -1175,12 +1175,12 @@
       "dynastyIndex": 11,
       "summary": {
         "name": "嘉泰元宝",
-        "historicalPeriod": "南宋（1201年）",
+        "historicalPeriod": "南宋（公元1201年）",
         "ruler": "宁宗赵扩",
         "coreFeatures": "铁钱",
-        "estimatedValue": "铁：100—1000元",
-        "rarity": "八级（较多）",
-        "thumbnail": "/images/coins/p-南宋钱币/嘉泰元宝/main.jpg"
+        "estimatedValue": "参考价：铁：100—1000元",
+        "rarity": "八级 少",
+        "thumbnail": "/images/coins/p-南宋钱币/嘉泰元宝/thumb.webp"
       },
       "detail": {
         "castingTime": "南宋宁宗赵扩嘉泰年间（公元1201年—1204年）。",
@@ -1201,7 +1201,7 @@
           {
             "variant": "铁品",
             "description": "铁品小平，直径约2.4cm。铁钱呈黑褐色，品相决定价格",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "100—1,000元",
             "notes": "铁品"
           }
@@ -1215,12 +1215,12 @@
       "dynastyIndex": 11,
       "summary": {
         "name": "开禧通宝",
-        "historicalPeriod": "南宋（1205年）",
+        "historicalPeriod": "南宋（公元1205年）",
         "ruler": "宁宗赵扩",
         "coreFeatures": "楷书背纪年",
-        "estimatedValue": "10—500元",
-        "rarity": "八级（较多）",
-        "thumbnail": "/images/coins/p-南宋钱币/开禧通宝/main.jpg"
+        "estimatedValue": "参考价：10—500元",
+        "rarity": "八级 少",
+        "thumbnail": "/images/coins/p-南宋钱币/开禧通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "南宋宁宗赵扩开禧年间（公元1205年—1207年）。",
@@ -1241,28 +1241,28 @@
           {
             "variant": "小平楷书背\"元\"（开禧元年，1205年）",
             "description": "楷书面文，背铸\"元\"字纪年。直径约2.4cm",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "10—30元",
             "notes": "开禧元年纪年钱"
           },
           {
             "variant": "小平楷书背\"二\"（开禧二年，1206年）",
             "description": "开禧通宝楷书，面文\"开禧通宝\"四字对读，背铸\"二\"字楷书纪年。直径约2.4cm，为开禧纪年钱中二年纪年版",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "10—30元",
             "notes": "品相决定价格"
           },
           {
             "variant": "小平楷书背\"三\"（开禧三年，1207年）",
             "description": "背铸\"三\"字纪年，为开禧通宝最晚纪年",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "10—30元",
             "notes": "最晚纪年"
           },
           {
             "variant": "折二楷书背纪年",
             "description": "折二型，直径约2.8cm，重约5—7g。楷书面文，背铸纪年\"元\"至\"三\"",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "20—80元",
             "notes": "折二型较常见"
           },
@@ -1283,12 +1283,12 @@
       "dynastyIndex": 11,
       "summary": {
         "name": "开禧元宝",
-        "historicalPeriod": "南宋（1205年）",
+        "historicalPeriod": "南宋（公元1205年）",
         "ruler": "宁宗赵扩",
         "coreFeatures": "铁钱",
-        "estimatedValue": "铁：100—1000元",
-        "rarity": "八级（较多）",
-        "thumbnail": "/images/coins/p-南宋钱币/开禧元宝/main.jpg"
+        "estimatedValue": "参考价：铁：100—1000元",
+        "rarity": "八级 少",
+        "thumbnail": "/images/coins/p-南宋钱币/开禧元宝/thumb.webp"
       },
       "detail": {
         "castingTime": "南宋宁宗赵扩开禧年间（公元1205年—1207年）。",
@@ -1309,7 +1309,7 @@
           {
             "variant": "铁品",
             "description": "铁品小平，直径约2.4cm。铁钱呈黑褐色，品相决定价格",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "100—1,000元",
             "notes": "铁品"
           }
@@ -1323,12 +1323,12 @@
       "dynastyIndex": 11,
       "summary": {
         "name": "圣宋重宝",
-        "historicalPeriod": "南宋（1208年）",
+        "historicalPeriod": "南宋（公元1208年）",
         "ruler": "宁宗赵扩",
         "coreFeatures": "铁钱当五，非年号钱",
-        "estimatedValue": "铁：200—2,000元",
-        "rarity": "六级（稀）",
-        "thumbnail": "/images/coins/p-南宋钱币/圣宋重宝/main.jpg"
+        "estimatedValue": "参考价：铁：200—2,000元",
+        "rarity": "六级 稀",
+        "thumbnail": "/images/coins/p-南宋钱币/圣宋重宝/thumb.webp"
       },
       "detail": {
         "castingTime": "南宋宁宗赵扩嘉定元年（公元1208年）前后。",
@@ -1363,12 +1363,12 @@
       "dynastyIndex": 11,
       "summary": {
         "name": "嘉定通宝",
-        "historicalPeriod": "南宋（1208年）",
+        "historicalPeriod": "南宋（公元1208年）",
         "ruler": "宁宗赵扩",
         "coreFeatures": "楷书背纪年，铜铁并行",
-        "estimatedValue": "5—20,000元",
-        "rarity": "九级（较多）",
-        "thumbnail": "/images/coins/p-南宋钱币/嘉定通宝/main.jpg"
+        "estimatedValue": "参考价：5—20,000元",
+        "rarity": "九级 较多",
+        "thumbnail": "/images/coins/p-南宋钱币/嘉定通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "南宋宁宗赵扩嘉定年间（公元1208年—1224年）。",
@@ -1389,14 +1389,14 @@
           {
             "variant": "小平楷书背纪年",
             "description": "楷书面文，背铸纪年\"元\"至\"十七\"（嘉定元年至十七年，1208—1224年）。直径约2.4cm",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "5—20元",
             "notes": "嘉定通宝纪年跨越十七年，各年均有铸行"
           },
           {
             "variant": "折二楷书背纪年",
             "description": "折二型，直径约2.8cm，重约5—7g。楷书面文，背铸纪年\"元\"至\"十七\"",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "10—50元",
             "notes": "折二型较常见"
           },
@@ -1417,7 +1417,7 @@
           {
             "variant": "铁母（铜质母钱）",
             "description": "铁钱的母钱，铜质精良，文字深峻。极为珍贵",
-            "grade": "三级（罕）",
+            "grade": "三级（罕贵）",
             "priceRange": "3,000—20,000元",
             "notes": "铁母极珍贵"
           }
@@ -1431,12 +1431,12 @@
       "dynastyIndex": 11,
       "summary": {
         "name": "嘉定元宝",
-        "historicalPeriod": "南宋（1208年）",
+        "historicalPeriod": "南宋（公元1208年）",
         "ruler": "宁宗赵扩",
         "coreFeatures": "楷书背纪年，铜有折十大钱",
-        "estimatedValue": "10—50,000元",
-        "rarity": "九级（较多）",
-        "thumbnail": "/images/coins/p-南宋钱币/嘉定元宝/main.jpg"
+        "estimatedValue": "参考价：10—50,000元",
+        "rarity": "九级 较多",
+        "thumbnail": "/images/coins/p-南宋钱币/嘉定元宝/thumb.webp"
       },
       "detail": {
         "castingTime": "南宋宁宗赵扩嘉定年间（公元1208年—1224年）。",
@@ -1457,14 +1457,14 @@
           {
             "variant": "小平楷书版",
             "description": "楷书面文，四字旋读。直径约2.4cm，重约3—4g",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "10—50元",
             "notes": "楷书版较常见"
           },
           {
             "variant": "折二楷书版",
             "description": "折二型，直径约2.8cm，重约5—7g。楷书面文",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "20—80元",
             "notes": "折二型"
           },
@@ -1478,7 +1478,7 @@
           {
             "variant": "折十大钱（铜）",
             "description": "折十型大钱，楷书面文旋读。铸量少，存世珍罕",
-            "grade": "四级（罕）",
+            "grade": "四级（珍罕）",
             "priceRange": "10,000—50,000元",
             "notes": "谱载珍品，市场鲜见，价格供参考（据知乎《南宋古钱币》：嘉定元宝铜钱有折十大钱）"
           }
@@ -1492,12 +1492,12 @@
       "dynastyIndex": 11,
       "summary": {
         "name": "嘉定重宝",
-        "historicalPeriod": "南宋（1208年）",
+        "historicalPeriod": "南宋（公元1208年）",
         "ruler": "宁宗赵扩",
         "coreFeatures": "铁钱折五型",
-        "estimatedValue": "50—500元",
-        "rarity": "六级（稀）",
-        "thumbnail": "/images/coins/p-南宋钱币/嘉定重宝/main.jpg"
+        "estimatedValue": "参考价：50—500元",
+        "rarity": "六级 稀",
+        "thumbnail": "/images/coins/p-南宋钱币/嘉定重宝/thumb.webp"
       },
       "detail": {
         "castingTime": "南宋宁宗赵扩嘉定年间（公元1208年—1224年）。",
@@ -1532,12 +1532,12 @@
       "dynastyIndex": 11,
       "summary": {
         "name": "嘉定崇宝",
-        "historicalPeriod": "南宋（1208年）",
+        "historicalPeriod": "南宋（公元1208年）",
         "ruler": "宁宗赵扩",
         "coreFeatures": "铁钱",
-        "estimatedValue": "100—50,000元",
-        "rarity": "六级（稀）",
-        "thumbnail": "/images/coins/p-南宋钱币/嘉定崇宝/main.jpg"
+        "estimatedValue": "参考价：100—50,000元",
+        "rarity": "六级 稀",
+        "thumbnail": "/images/coins/p-南宋钱币/嘉定崇宝/thumb.webp"
       },
       "detail": {
         "castingTime": "南宋宁宗赵扩嘉定年间（公元1208年—1224年）。",
@@ -1565,7 +1565,7 @@
           {
             "variant": "铁母（铜质）",
             "description": "铜质母钱，为铁钱之母，文字深峻，铸工精整。直径约3.0cm，存世极罕，为嘉定铁钱系列中的名品",
-            "grade": "四级（罕）",
+            "grade": "四级（珍罕）",
             "priceRange": "10,000—50,000元",
             "notes": "铁母极罕见"
           }
@@ -1579,12 +1579,12 @@
       "dynastyIndex": 11,
       "summary": {
         "name": "嘉定正宝",
-        "historicalPeriod": "南宋（1208年）",
+        "historicalPeriod": "南宋（公元1208年）",
         "ruler": "宁宗赵扩",
         "coreFeatures": "铁钱",
-        "estimatedValue": "100—50,000元",
-        "rarity": "五级（稀贵）",
-        "thumbnail": "/images/coins/p-南宋钱币/嘉定正宝/main.jpg"
+        "estimatedValue": "参考价：100—50,000元",
+        "rarity": "五级 稀贵",
+        "thumbnail": "/images/coins/p-南宋钱币/嘉定正宝/thumb.webp"
       },
       "detail": {
         "castingTime": "南宋宁宗赵扩嘉定年间（公元1208年—1224年）。",
@@ -1612,7 +1612,7 @@
           {
             "variant": "铁母（铜质）",
             "description": "铜质母钱，为铁钱之母，文字深峻，铸工精整。直径约3.0cm，存世极罕，为嘉定铁钱系列中的名品",
-            "grade": "四级（罕）",
+            "grade": "四级（珍罕）",
             "priceRange": "10,000—50,000元",
             "notes": "铁母极罕见"
           }
@@ -1626,12 +1626,12 @@
       "dynastyIndex": 11,
       "summary": {
         "name": "嘉定全宝",
-        "historicalPeriod": "南宋（1208年）",
+        "historicalPeriod": "南宋（公元1208年）",
         "ruler": "宁宗赵扩",
         "coreFeatures": "铁钱",
-        "estimatedValue": "铁：100—1,000元",
-        "rarity": "六级（稀）",
-        "thumbnail": "/images/coins/p-南宋钱币/嘉定全宝/main.jpg"
+        "estimatedValue": "参考价：铁：100—1,000元",
+        "rarity": "六级 稀",
+        "thumbnail": "/images/coins/p-南宋钱币/嘉定全宝/thumb.webp"
       },
       "detail": {
         "castingTime": "南宋宁宗赵扩嘉定年间（公元1208年—1224年）。",
@@ -1666,12 +1666,12 @@
       "dynastyIndex": 11,
       "summary": {
         "name": "嘉定永宝",
-        "historicalPeriod": "南宋（1208年）",
+        "historicalPeriod": "南宋（公元1208年）",
         "ruler": "宁宗赵扩",
         "coreFeatures": "铁钱",
-        "estimatedValue": "铁：100—1,000元",
-        "rarity": "六级（稀）",
-        "thumbnail": "/images/coins/p-南宋钱币/嘉定永宝/main.jpg"
+        "estimatedValue": "参考价：铁：100—1,000元",
+        "rarity": "六级 稀",
+        "thumbnail": "/images/coins/p-南宋钱币/嘉定永宝/thumb.webp"
       },
       "detail": {
         "castingTime": "南宋宁宗赵扩嘉定年间（公元1208年—1224年）。",
@@ -1706,12 +1706,12 @@
       "dynastyIndex": 11,
       "summary": {
         "name": "嘉定安宝",
-        "historicalPeriod": "南宋（1208年）",
+        "historicalPeriod": "南宋（公元1208年）",
         "ruler": "宁宗赵扩",
         "coreFeatures": "铁钱",
-        "estimatedValue": "铁：100—1,000元",
-        "rarity": "六级（稀）",
-        "thumbnail": "/images/coins/p-南宋钱币/嘉定安宝/main.jpg"
+        "estimatedValue": "参考价：铁：100—1,000元",
+        "rarity": "六级 稀",
+        "thumbnail": "/images/coins/p-南宋钱币/嘉定安宝/thumb.webp"
       },
       "detail": {
         "castingTime": "南宋宁宗赵扩嘉定年间（公元1208年—1224年）。",
@@ -1746,12 +1746,12 @@
       "dynastyIndex": 11,
       "summary": {
         "name": "嘉定真宝",
-        "historicalPeriod": "南宋（1208年）",
+        "historicalPeriod": "南宋（公元1208年）",
         "ruler": "宁宗赵扩",
         "coreFeatures": "铁钱",
-        "estimatedValue": "铁：100—1,000元",
-        "rarity": "六级（稀）",
-        "thumbnail": "/images/coins/p-南宋钱币/嘉定真宝/main.jpg"
+        "estimatedValue": "参考价：铁：100—1,000元",
+        "rarity": "六级 稀",
+        "thumbnail": "/images/coins/p-南宋钱币/嘉定真宝/thumb.webp"
       },
       "detail": {
         "castingTime": "南宋宁宗赵扩嘉定年间（公元1208年—1224年）。",
@@ -1786,12 +1786,12 @@
       "dynastyIndex": 11,
       "summary": {
         "name": "嘉定之宝",
-        "historicalPeriod": "南宋（1208年）",
+        "historicalPeriod": "南宋（公元1208年）",
         "ruler": "宁宗赵扩",
         "coreFeatures": "铁钱",
-        "estimatedValue": "铁：100—1,000元",
-        "rarity": "六级（稀）",
-        "thumbnail": "/images/coins/p-南宋钱币/嘉定之宝/main.jpg"
+        "estimatedValue": "参考价：铁：100—1,000元",
+        "rarity": "六级 稀",
+        "thumbnail": "/images/coins/p-南宋钱币/嘉定之宝/thumb.webp"
       },
       "detail": {
         "castingTime": "南宋宁宗赵扩嘉定年间（公元1208年—1224年）。",
@@ -1826,12 +1826,12 @@
       "dynastyIndex": 11,
       "summary": {
         "name": "嘉定万宝",
-        "historicalPeriod": "南宋（1208年）",
+        "historicalPeriod": "南宋（公元1208年）",
         "ruler": "宁宗赵扩",
         "coreFeatures": "铁钱",
-        "estimatedValue": "铁：100—1,000元",
-        "rarity": "六级（稀）",
-        "thumbnail": "/images/coins/p-南宋钱币/嘉定万宝/main.jpg"
+        "estimatedValue": "参考价：铁：100—1,000元",
+        "rarity": "六级 稀",
+        "thumbnail": "/images/coins/p-南宋钱币/嘉定万宝/thumb.webp"
       },
       "detail": {
         "castingTime": "南宋宁宗赵扩嘉定年间（公元1208年—1224年）。",
@@ -1866,12 +1866,12 @@
       "dynastyIndex": 11,
       "summary": {
         "name": "嘉定隆宝",
-        "historicalPeriod": "南宋（1208年）",
+        "historicalPeriod": "南宋（公元1208年）",
         "ruler": "宁宗赵扩",
         "coreFeatures": "铁钱",
-        "estimatedValue": "铁：100—1,000元",
-        "rarity": "五级（稀贵）",
-        "thumbnail": "/images/coins/p-南宋钱币/嘉定隆宝/main.jpg"
+        "estimatedValue": "参考价：铁：100—1,000元",
+        "rarity": "五级 稀贵",
+        "thumbnail": "/images/coins/p-南宋钱币/嘉定隆宝/thumb.webp"
       },
       "detail": {
         "castingTime": "南宋宁宗赵扩嘉定年间（公元1208年—1224年）。",
@@ -1906,12 +1906,12 @@
       "dynastyIndex": 11,
       "summary": {
         "name": "嘉定洪宝",
-        "historicalPeriod": "南宋（1208年）",
+        "historicalPeriod": "南宋（公元1208年）",
         "ruler": "宁宗赵扩",
         "coreFeatures": "铁钱",
-        "estimatedValue": "铁：100—1,000元",
-        "rarity": "六级（稀）",
-        "thumbnail": "/images/coins/p-南宋钱币/嘉定洪宝/main.jpg"
+        "estimatedValue": "参考价：铁：100—1,000元",
+        "rarity": "六级 稀",
+        "thumbnail": "/images/coins/p-南宋钱币/嘉定洪宝/thumb.webp"
       },
       "detail": {
         "castingTime": "南宋宁宗赵扩嘉定年间（公元1208年—1224年）。",
@@ -1946,12 +1946,12 @@
       "dynastyIndex": 11,
       "summary": {
         "name": "嘉定新宝",
-        "historicalPeriod": "南宋（1208年）",
+        "historicalPeriod": "南宋（公元1208年）",
         "ruler": "宁宗赵扩",
         "coreFeatures": "铁钱",
-        "estimatedValue": "铁：100—1,000元",
-        "rarity": "六级（稀）",
-        "thumbnail": "/images/coins/p-南宋钱币/嘉定新宝/main.jpg"
+        "estimatedValue": "参考价：铁：100—1,000元",
+        "rarity": "六级 稀",
+        "thumbnail": "/images/coins/p-南宋钱币/嘉定新宝/thumb.webp"
       },
       "detail": {
         "castingTime": "南宋宁宗赵扩嘉定年间（公元1208年—1224年）。",
@@ -1986,12 +1986,12 @@
       "dynastyIndex": 11,
       "summary": {
         "name": "嘉定泉宝",
-        "historicalPeriod": "南宋（1208年）",
+        "historicalPeriod": "南宋（公元1208年）",
         "ruler": "宁宗赵扩",
         "coreFeatures": "铁钱",
-        "estimatedValue": "铁：100—1,000元",
-        "rarity": "五级（稀贵）",
-        "thumbnail": "/images/coins/p-南宋钱币/嘉定泉宝/main.jpg"
+        "estimatedValue": "参考价：铁：100—1,000元",
+        "rarity": "五级 稀贵",
+        "thumbnail": "/images/coins/p-南宋钱币/嘉定泉宝/thumb.webp"
       },
       "detail": {
         "castingTime": "南宋宁宗赵扩嘉定年间（公元1208年—1224年）。",
@@ -2026,12 +2026,12 @@
       "dynastyIndex": 11,
       "summary": {
         "name": "嘉定大宝",
-        "historicalPeriod": "南宋（1208年）",
+        "historicalPeriod": "南宋（公元1208年）",
         "ruler": "宁宗赵扩",
         "coreFeatures": "铁钱",
-        "estimatedValue": "铁：100—1,000元",
-        "rarity": "五级（稀贵）",
-        "thumbnail": "/images/coins/p-南宋钱币/嘉定大宝/main.jpg"
+        "estimatedValue": "参考价：铁：100—1,000元",
+        "rarity": "五级 稀贵",
+        "thumbnail": "/images/coins/p-南宋钱币/嘉定大宝/thumb.webp"
       },
       "detail": {
         "castingTime": "南宋宁宗赵扩嘉定年间（公元1208年—1224年）。",
@@ -2066,12 +2066,12 @@
       "dynastyIndex": 11,
       "summary": {
         "name": "嘉定珍宝",
-        "historicalPeriod": "南宋（1208年）",
+        "historicalPeriod": "南宋（公元1208年）",
         "ruler": "宁宗赵扩",
         "coreFeatures": "铁钱",
-        "estimatedValue": "铁：100—1,000元",
-        "rarity": "六级（稀）",
-        "thumbnail": "/images/coins/p-南宋钱币/嘉定珍宝/main.jpg"
+        "estimatedValue": "参考价：铁：100—1,000元",
+        "rarity": "六级 稀",
+        "thumbnail": "/images/coins/p-南宋钱币/嘉定珍宝/thumb.webp"
       },
       "detail": {
         "castingTime": "南宋宁宗赵扩嘉定年间（公元1208年—1224年）。",
@@ -2106,12 +2106,12 @@
       "dynastyIndex": 11,
       "summary": {
         "name": "嘉定至宝",
-        "historicalPeriod": "南宋（1208年）",
+        "historicalPeriod": "南宋（公元1208年）",
         "ruler": "宁宗赵扩",
         "coreFeatures": "铁钱",
-        "estimatedValue": "铁：100—1,000元",
-        "rarity": "六级（稀）",
-        "thumbnail": "/images/coins/p-南宋钱币/嘉定至宝/main.jpg"
+        "estimatedValue": "参考价：铁：100—1,000元",
+        "rarity": "六级 稀",
+        "thumbnail": "/images/coins/p-南宋钱币/嘉定至宝/thumb.webp"
       },
       "detail": {
         "castingTime": "南宋宁宗赵扩嘉定年间（公元1208年—1224年）。",
@@ -2146,12 +2146,12 @@
       "dynastyIndex": 11,
       "summary": {
         "name": "嘉定兴宝",
-        "historicalPeriod": "南宋（1208年）",
+        "historicalPeriod": "南宋（公元1208年）",
         "ruler": "宁宗赵扩",
         "coreFeatures": "铁钱",
-        "estimatedValue": "铁：100—1,000元",
-        "rarity": "六级（稀）",
-        "thumbnail": "/images/coins/p-南宋钱币/嘉定兴宝/main.jpg"
+        "estimatedValue": "参考价：铁：100—1,000元",
+        "rarity": "六级 稀",
+        "thumbnail": "/images/coins/p-南宋钱币/嘉定兴宝/thumb.webp"
       },
       "detail": {
         "castingTime": "南宋宁宗赵扩嘉定年间（公元1208年—1224年）。",
@@ -2186,12 +2186,12 @@
       "dynastyIndex": 11,
       "summary": {
         "name": "嘉定封宝",
-        "historicalPeriod": "南宋（1208年）",
+        "historicalPeriod": "南宋（公元1208年）",
         "ruler": "宁宗赵扩",
         "coreFeatures": "铁钱",
-        "estimatedValue": "铁：1,000—5,000元",
-        "rarity": "五级（稀贵）",
-        "thumbnail": "/images/coins/p-南宋钱币/嘉定封宝/main.jpg"
+        "estimatedValue": "参考价：铁：1,000—5,000元",
+        "rarity": "五级 稀贵",
+        "thumbnail": "/images/coins/p-南宋钱币/嘉定封宝/thumb.webp"
       },
       "detail": {
         "castingTime": "南宋宁宗赵扩嘉定年间（公元1208年—1224年）。",
@@ -2226,12 +2226,12 @@
       "dynastyIndex": 11,
       "summary": {
         "name": "大宋通宝",
-        "historicalPeriod": "南宋（1225年）",
+        "historicalPeriod": "南宋（公元1225年）",
         "ruler": "理宗赵昀",
         "coreFeatures": "当十大钱，存世极罕",
-        "estimatedValue": "500—800,000元",
-        "rarity": "一级（大珍）",
-        "thumbnail": "/images/coins/p-南宋钱币/大宋通宝/main.jpg"
+        "estimatedValue": "参考价：500—800,000元",
+        "rarity": "一级 大珍",
+        "thumbnail": "/images/coins/p-南宋钱币/大宋通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "南宋理宗赵昀宝庆元年（公元1225年）。",
@@ -2273,12 +2273,12 @@
       "dynastyIndex": 11,
       "summary": {
         "name": "大宋元宝",
-        "historicalPeriod": "南宋（1225年）",
+        "historicalPeriod": "南宋（公元1225年）",
         "ruler": "理宗赵昀",
         "coreFeatures": "国号钱，楷书旋读背纪年",
-        "estimatedValue": "10—500元",
-        "rarity": "八级（较多）",
-        "thumbnail": "/images/coins/p-南宋钱币/大宋元宝/main.jpg"
+        "estimatedValue": "参考价：10—500元",
+        "rarity": "八级 少",
+        "thumbnail": "/images/coins/p-南宋钱币/大宋元宝/thumb.webp"
       },
       "detail": {
         "castingTime": "南宋理宗赵昀宝庆年间（公元1225年—1227年）。",
@@ -2299,14 +2299,14 @@
           {
             "variant": "小平楷书背纪年",
             "description": "楷书面文，背铸纪年。直径约2.4cm",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "10—50元",
             "notes": "纪年钱"
           },
           {
             "variant": "折二楷书背纪年",
             "description": "折二型，直径约2.8cm。楷书面文，背铸纪年",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "20—80元",
             "notes": "折二型"
           },
@@ -2327,12 +2327,12 @@
       "dynastyIndex": 11,
       "summary": {
         "name": "宝庆元宝",
-        "historicalPeriod": "南宋（1225年）",
+        "historicalPeriod": "南宋（公元1225年）",
         "ruler": "理宗赵昀",
         "coreFeatures": "谱载仅铁钱，小平折三皆稀",
-        "estimatedValue": "铁：50—1,000元",
-        "rarity": "七级（甚少）",
-        "thumbnail": "/images/coins/p-南宋钱币/宝庆元宝/main.jpg"
+        "estimatedValue": "参考价：铁：50—1,000元",
+        "rarity": "七级 甚少",
+        "thumbnail": "/images/coins/p-南宋钱币/宝庆元宝/thumb.webp"
       },
       "detail": {
         "castingTime": "南宋理宗赵昀宝庆年间（公元1225年—1227年）。",
@@ -2374,12 +2374,12 @@
       "dynastyIndex": 11,
       "summary": {
         "name": "绍定通宝",
-        "historicalPeriod": "南宋（1228年）",
+        "historicalPeriod": "南宋（公元1228年）",
         "ruler": "理宗赵昀",
         "coreFeatures": "楷书背纪年",
-        "estimatedValue": "10—500元",
-        "rarity": "八级（较多）",
-        "thumbnail": "/images/coins/p-南宋钱币/绍定通宝/main.jpg"
+        "estimatedValue": "参考价：10—500元",
+        "rarity": "八级 少",
+        "thumbnail": "/images/coins/p-南宋钱币/绍定通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "南宋理宗赵昀绍定年间（公元1228年—1233年）。",
@@ -2400,14 +2400,14 @@
           {
             "variant": "小平楷书背纪年",
             "description": "楷书面文，背铸纪年\"元\"至\"六\"（绍定元年至六年，1228—1233年）。直径约2.4cm",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "10—50元",
             "notes": "绍定纪年钱"
           },
           {
             "variant": "折二楷书背纪年",
             "description": "折二型，直径约2.8cm。楷书面文，背铸纪年\"元\"至\"六\"",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "20—80元",
             "notes": "折二型"
           },
@@ -2428,12 +2428,12 @@
       "dynastyIndex": 11,
       "summary": {
         "name": "绍定元宝",
-        "historicalPeriod": "南宋（1228年）",
+        "historicalPeriod": "南宋（公元1228年）",
         "ruler": "理宗赵昀",
         "coreFeatures": "铁钱，楷书背纪年纪监",
-        "estimatedValue": "铁：10—20,000元",
-        "rarity": "七级（甚少）",
-        "thumbnail": "/images/coins/p-南宋钱币/绍定元宝/main.jpg"
+        "estimatedValue": "参考价：铁：10—20,000元",
+        "rarity": "七级 甚少",
+        "thumbnail": "/images/coins/p-南宋钱币/绍定元宝/thumb.webp"
       },
       "detail": {
         "castingTime": "南宋理宗赵昀绍定年间（公元1228年—1233年）。",
@@ -2454,21 +2454,21 @@
           {
             "variant": "铁钱小平（楷书旋读）",
             "description": "铁质小平，楷书面文旋读，背铸纪年纪监。直径约2.4cm",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "10—50元",
             "notes": "铁小平较常见"
           },
           {
             "variant": "铁钱折二（楷书旋读）",
             "description": "铁质折二型，楷书面文旋读，背铸纪年纪监。直径约2.8cm",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "20—80元",
             "notes": "铁折二较常见"
           },
           {
             "variant": "铁母（铜质）",
             "description": "铜质母钱，为铁钱之母，文字深峻，铸工精整。存世较少",
-            "grade": "三级（罕）",
+            "grade": "三级（罕贵）",
             "priceRange": "3,000—20,000元",
             "notes": "铁母存世较少"
           }
@@ -2482,12 +2482,12 @@
       "dynastyIndex": 11,
       "summary": {
         "name": "端平通宝",
-        "historicalPeriod": "南宋（1234年）",
+        "historicalPeriod": "南宋（公元1234年）",
         "ruler": "理宗赵昀",
         "coreFeatures": "楷书背纪年，兼铸折五",
-        "estimatedValue": "20—3,000元",
-        "rarity": "八级（较多）",
-        "thumbnail": "/images/coins/p-南宋钱币/端平通宝/main.jpg"
+        "estimatedValue": "参考价：20—3,000元",
+        "rarity": "八级 少",
+        "thumbnail": "/images/coins/p-南宋钱币/端平通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "南宋理宗赵昀端平年间（公元1234年—1236年）。",
@@ -2508,28 +2508,28 @@
           {
             "variant": "小平楷书背\"元\"（端平元年，1234年）",
             "description": "楷书面文，背铸\"元\"字纪年。直径约2.4cm",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "20—80元",
             "notes": "端平元年纪年钱"
           },
           {
             "variant": "小平楷书背\"二\"（端平二年，1235年）",
             "description": "端平通宝楷书，面文\"端平通宝\"四字对读，背铸\"二\"字楷书纪年。直径约2.4cm，为端平纪年钱中二年纪年版",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "20—80元",
             "notes": "品相决定价格"
           },
           {
             "variant": "小平楷书背\"三\"（端平三年，1236年）",
             "description": "背铸\"三\"字纪年，为端平通宝最晚纪年",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "20—80元",
             "notes": "最晚纪年"
           },
           {
             "variant": "折二楷书背纪年",
             "description": "折二型，直径约2.8cm。楷书面文，背铸纪年\"元\"至\"三\"",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "30—100元",
             "notes": "折二型"
           },
@@ -2550,12 +2550,12 @@
       "dynastyIndex": 11,
       "summary": {
         "name": "端平元宝",
-        "historicalPeriod": "南宋（1234年）",
+        "historicalPeriod": "南宋（公元1234年）",
         "ruler": "理宗赵昀",
         "coreFeatures": "铜钱仅小平，铁钱折三折五",
-        "estimatedValue": "20—2,000元",
-        "rarity": "八级（较多）",
-        "thumbnail": "/images/coins/p-南宋钱币/端平元宝/main.jpg"
+        "estimatedValue": "参考价：20—2,000元",
+        "rarity": "八级 少",
+        "thumbnail": "/images/coins/p-南宋钱币/端平元宝/thumb.webp"
       },
       "detail": {
         "castingTime": "南宋理宗赵昀端平年间（公元1234年—1236年）。",
@@ -2576,7 +2576,7 @@
           {
             "variant": "铜小平（楷书旋读，背\"元\"）",
             "description": "楷书面文四字旋读，背穿上铸\"元\"字纪年。直径约2.4cm。铜钱仅见此一等",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "20—80元",
             "notes": "铜钱仅见小平（据知乎《南宋古钱币》）"
           },
@@ -2604,12 +2604,12 @@
       "dynastyIndex": 11,
       "summary": {
         "name": "端平重宝",
-        "historicalPeriod": "南宋（1234年）",
+        "historicalPeriod": "南宋（公元1234年）",
         "ruler": "理宗赵昀",
         "coreFeatures": "铁钱折五型",
-        "estimatedValue": "铁：500—5,000元",
-        "rarity": "六级（稀）",
-        "thumbnail": "/images/coins/p-南宋钱币/端平重宝/main.jpg"
+        "estimatedValue": "参考价：铁：500—5,000元",
+        "rarity": "六级 稀",
+        "thumbnail": "/images/coins/p-南宋钱币/端平重宝/thumb.webp"
       },
       "detail": {
         "castingTime": "南宋理宗赵昀端平年间（公元1234年—1236年）。",
@@ -2644,12 +2644,12 @@
       "dynastyIndex": 11,
       "summary": {
         "name": "嘉熙通宝",
-        "historicalPeriod": "南宋（1237年）",
+        "historicalPeriod": "南宋（公元1237年）",
         "ruler": "理宗赵昀",
         "coreFeatures": "楷书背纪年",
-        "estimatedValue": "20—100元",
-        "rarity": "八级（较多）",
-        "thumbnail": "/images/coins/p-南宋钱币/嘉熙通宝/main.jpg"
+        "estimatedValue": "参考价：20—100元",
+        "rarity": "八级 少",
+        "thumbnail": "/images/coins/p-南宋钱币/嘉熙通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "南宋理宗赵昀嘉熙年间（公元1237年—1240年）。",
@@ -2670,35 +2670,35 @@
           {
             "variant": "小平楷书背\"元\"（嘉熙元年，1237年）",
             "description": "楷书面文，背铸\"元\"字纪年。直径约2.4cm",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "20—80元",
             "notes": "嘉熙元年纪年钱"
           },
           {
             "variant": "小平楷书背\"二\"（嘉熙二年，1238年）",
             "description": "嘉熙通宝楷书，面文\"嘉熙通宝\"四字对读，背铸\"二\"字楷书纪年。直径约2.4cm，为嘉熙纪年钱中二年纪年版",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "20—80元",
             "notes": "品相决定价格"
           },
           {
             "variant": "小平楷书背\"三\"（嘉熙三年，1239年）",
             "description": "嘉熙通宝楷书，面文\"嘉熙通宝\"四字对读，背铸\"三\"字楷书纪年。直径约2.4cm，为嘉熙纪年钱中三年纪年版",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "20—80元",
             "notes": "品相决定价格"
           },
           {
             "variant": "小平楷书背\"四\"（嘉熙四年，1240年）",
             "description": "背铸\"四\"字纪年，为嘉熙通宝最晚纪年",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "20—80元",
             "notes": "最晚纪年"
           },
           {
             "variant": "折二楷书背纪年",
             "description": "折二型，直径约2.8cm。楷书面文，背铸纪年\"元\"至\"四\"",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "30—100元",
             "notes": "折二型较常见"
           }
@@ -2712,12 +2712,12 @@
       "dynastyIndex": 11,
       "summary": {
         "name": "嘉熙重宝",
-        "historicalPeriod": "南宋（1237年）",
+        "historicalPeriod": "南宋（公元1237年）",
         "ruler": "理宗赵昀",
         "coreFeatures": "铁钱折五型",
-        "estimatedValue": "铁：300—5,000元",
-        "rarity": "六级（稀）",
-        "thumbnail": "/images/coins/p-南宋钱币/嘉熙重宝/main.jpg"
+        "estimatedValue": "参考价：铁：300—5,000元",
+        "rarity": "六级 稀",
+        "thumbnail": "/images/coins/p-南宋钱币/嘉熙重宝/thumb.webp"
       },
       "detail": {
         "castingTime": "南宋理宗赵昀嘉熙年间（公元1237年—1240年）。",
@@ -2752,12 +2752,12 @@
       "dynastyIndex": 11,
       "summary": {
         "name": "淳祐元宝",
-        "historicalPeriod": "南宋（1241年）",
+        "historicalPeriod": "南宋（公元1241年）",
         "ruler": "理宗赵昀",
         "coreFeatures": "楷书背纪年，纪年元至十二",
-        "estimatedValue": "10—80元",
-        "rarity": "八级（较多）",
-        "thumbnail": "/images/coins/p-南宋钱币/淳祐元宝/main.jpg"
+        "estimatedValue": "参考价：10—80元",
+        "rarity": "八级 少",
+        "thumbnail": "/images/coins/p-南宋钱币/淳祐元宝/thumb.webp"
       },
       "detail": {
         "castingTime": "南宋理宗赵昀淳祐年间（公元1241年—1252年）。",
@@ -2778,14 +2778,14 @@
           {
             "variant": "小平楷书背纪年",
             "description": "楷书面文，背铸纪年\"元\"至\"十二\"（淳祐元年至十二年，1241—1252年）。直径约2.4cm",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "10—50元",
             "notes": "淳祐纪年跨越十二年，各年均有铸行"
           },
           {
             "variant": "折二楷书背纪年",
             "description": "折二型，直径约2.8cm。楷书面文，背铸纪年\"元\"至\"十二\"",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "20—80元",
             "notes": "折二型较常见"
           }
@@ -2799,12 +2799,12 @@
       "dynastyIndex": 11,
       "summary": {
         "name": "淳祐通宝",
-        "historicalPeriod": "南宋（1241年）",
+        "historicalPeriod": "南宋（公元1241年）",
         "ruler": "理宗赵昀",
         "coreFeatures": "楷书背纪年，有当百大钱",
-        "estimatedValue": "10—5,000元",
-        "rarity": "八级（较多）",
-        "thumbnail": "/images/coins/p-南宋钱币/淳祐通宝/main.jpg"
+        "estimatedValue": "参考价：10—5,000元",
+        "rarity": "八级 少",
+        "thumbnail": "/images/coins/p-南宋钱币/淳祐通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "南宋理宗赵昀淳祐年间（公元1241年—1252年）。",
@@ -2825,14 +2825,14 @@
           {
             "variant": "小平楷书背纪年",
             "description": "楷书面文，四字对读，背铸纪年。直径约2.4cm",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "10—50元",
             "notes": "淳祐通宝纪年钱"
           },
           {
             "variant": "折二楷书背纪年",
             "description": "折二型，直径约2.8cm。楷书面文，背铸纪年",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "20—80元",
             "notes": "折二型"
           },
@@ -2853,12 +2853,12 @@
       "dynastyIndex": 11,
       "summary": {
         "name": "皇宋元宝",
-        "historicalPeriod": "南宋（1253年）",
+        "historicalPeriod": "南宋（公元1253年）",
         "ruler": "理宗赵昀",
         "coreFeatures": "国号钱，楷书旋读背纪年",
-        "estimatedValue": "10—500元",
-        "rarity": "八级（较多）",
-        "thumbnail": "/images/coins/p-南宋钱币/皇宋元宝/main.jpg"
+        "estimatedValue": "参考价：10—500元",
+        "rarity": "八级 少",
+        "thumbnail": "/images/coins/p-南宋钱币/皇宋元宝/thumb.webp"
       },
       "detail": {
         "castingTime": "南宋理宗赵昀宝祐年间（公元1253年—1258年）。",
@@ -2879,14 +2879,14 @@
           {
             "variant": "小平楷书背纪年",
             "description": "楷书面文，背铸纪年。直径约2.4cm",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "10—50元",
             "notes": "皇宋元宝纪年钱"
           },
           {
             "variant": "折二楷书背纪年",
             "description": "折二型，直径约2.8cm。楷书面文，背铸纪年",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "20—80元",
             "notes": "折二型"
           },
@@ -2907,12 +2907,12 @@
       "dynastyIndex": 11,
       "summary": {
         "name": "开庆通宝",
-        "historicalPeriod": "南宋（1259年）",
+        "historicalPeriod": "南宋（公元1259年）",
         "ruler": "理宗赵昀",
         "coreFeatures": "楷书背纪年，铸行仅一年",
-        "estimatedValue": "20—100元",
-        "rarity": "八级（较多）",
-        "thumbnail": "/images/coins/p-南宋钱币/开庆通宝/main.jpg"
+        "estimatedValue": "参考价：20—100元",
+        "rarity": "八级 少",
+        "thumbnail": "/images/coins/p-南宋钱币/开庆通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "南宋理宗赵昀开庆元年（公元1259年）。",
@@ -2933,14 +2933,14 @@
           {
             "variant": "小平楷书背\"元\"（开庆元年，1259年）",
             "description": "楷书面文，背铸\"元\"字纪年。直径约2.4cm。开庆年号仅一年",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "20—80元",
             "notes": "年号仅一年，仅背\"元\""
           },
           {
             "variant": "折二楷书背\"元\"",
             "description": "折二型，直径约2.8cm。楷书面文，背铸\"元\"字纪年",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "30—100元",
             "notes": "折二型"
           }
@@ -2954,12 +2954,12 @@
       "dynastyIndex": 11,
       "summary": {
         "name": "景定元宝",
-        "historicalPeriod": "南宋（1260年）",
+        "historicalPeriod": "南宋（公元1260年）",
         "ruler": "理宗赵昀",
         "coreFeatures": "楷书背纪年",
-        "estimatedValue": "10—80元",
-        "rarity": "八级（较多）",
-        "thumbnail": "/images/coins/p-南宋钱币/景定元宝/main.jpg"
+        "estimatedValue": "参考价：10—80元",
+        "rarity": "八级 少",
+        "thumbnail": "/images/coins/p-南宋钱币/景定元宝/thumb.webp"
       },
       "detail": {
         "castingTime": "南宋理宗赵昀景定年间（公元1260年—1264年）。",
@@ -2980,14 +2980,14 @@
           {
             "variant": "小平楷书背纪年",
             "description": "楷书面文，背铸纪年\"元\"至\"五\"（景定元年至五年，1260—1264年）。直径约2.4cm",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "10—50元",
             "notes": "景定纪年跨越五年"
           },
           {
             "variant": "折二楷书背纪年",
             "description": "折二型，直径约2.8cm。楷书面文，背铸纪年\"元\"至\"五\"",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "20—80元",
             "notes": "折二型较常见"
           }
@@ -3001,12 +3001,12 @@
       "dynastyIndex": 11,
       "summary": {
         "name": "咸淳元宝",
-        "historicalPeriod": "南宋（1265年）",
+        "historicalPeriod": "南宋（公元1265年）",
         "ruler": "度宗赵禥",
         "coreFeatures": "南宋最后铸币，直读真书背纪年",
-        "estimatedValue": "5—3,000元",
-        "rarity": "九级（多）",
-        "thumbnail": "/images/coins/p-南宋钱币/咸淳元宝/main.jpg"
+        "estimatedValue": "参考价：5—3,000元",
+        "rarity": "九级 较多",
+        "thumbnail": "/images/coins/p-南宋钱币/咸淳元宝/thumb.webp"
       },
       "detail": {
         "castingTime": "南宋度宗赵禥咸淳年间（公元1265年—1274年）。",
@@ -3027,63 +3027,63 @@
           {
             "variant": "小平楷书背\"元\"（咸淳元年，1265年）",
             "description": "楷书面文，背铸\"元\"字纪年。直径约2.4cm",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "5—20元",
             "notes": "咸淳元年纪年钱"
           },
           {
             "variant": "小平楷书背\"二\"（咸淳二年，1266年）",
             "description": "咸淳元宝楷书，面文\"咸淳元宝\"四字对读，背铸\"二\"字楷书纪年。直径约2.4cm，为咸淳纪年钱中二年纪年版",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "5—20元",
             "notes": "品相决定价格"
           },
           {
             "variant": "小平楷书背\"三\"（咸淳三年，1267年）",
             "description": "咸淳元宝楷书，面文\"咸淳元宝\"四字对读，背铸\"三\"字楷书纪年。直径约2.4cm，为咸淳纪年钱中三年纪年版",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "5—20元",
             "notes": "品相决定价格"
           },
           {
             "variant": "小平楷书背\"四\"（咸淳四年，1268年）",
             "description": "咸淳元宝楷书，面文\"咸淳元宝\"四字对读，背铸\"四\"字楷书纪年。直径约2.4cm，为咸淳纪年钱中四年纪年版",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "5—20元",
             "notes": "品相决定价格"
           },
           {
             "variant": "小平楷书背\"五\"（咸淳五年，1269年）",
             "description": "咸淳元宝楷书，面文\"咸淳元宝\"四字对读，背铸\"五\"字楷书纪年。直径约2.4cm，为咸淳纪年钱中五年纪年版",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "5—20元",
             "notes": "品相决定价格"
           },
           {
             "variant": "小平楷书背\"六\"（咸淳六年，1270年）",
             "description": "咸淳元宝楷书，面文\"咸淳元宝\"四字对读，背铸\"六\"字楷书纪年。直径约2.4cm，为咸淳纪年钱中六年纪年版",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "5—20元",
             "notes": "品相决定价格"
           },
           {
             "variant": "小平楷书背\"七\"（咸淳七年，1271年）",
             "description": "咸淳元宝楷书，面文\"咸淳元宝\"四字对读，背铸\"七\"字楷书纪年。直径约2.4cm，为咸淳纪年钱中七年纪年版",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "5—20元",
             "notes": "品相决定价格"
           },
           {
             "variant": "小平楷书背\"八\"（咸淳八年，1272年）",
             "description": "背铸\"八\"字纪年，为咸淳元宝小平纪年常见最晚年份（背九小平存世极罕）；折二背九为南宋纪年钱之终",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "5—20元",
             "notes": "小平常见至八，折二至九"
           },
           {
             "variant": "折二楷书背纪年",
             "description": "折二型，直径约2.8cm。楷书面文，背铸纪年\"元\"至\"八\"",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "10—50元",
             "notes": "折二型较常见"
           },
@@ -3111,12 +3111,12 @@
       "dynastyIndex": 11,
       "summary": {
         "name": "临安府钱牌",
-        "historicalPeriod": "南宋（约1200年）",
+        "historicalPeriod": "南宋（约公元1200年）",
         "ruler": "临安府铸行",
         "coreFeatures": "铜铅两种钱牌，代用货币",
-        "estimatedValue": "10,000—450,000元",
-        "rarity": "二级（珍）",
-        "thumbnail": "/images/coins/p-南宋钱币/临安府钱牌/main.jpg"
+        "estimatedValue": "参考价：10,000—450,000元",
+        "rarity": "二级 珍",
+        "thumbnail": "/images/coins/p-南宋钱币/临安府钱牌/thumb.webp"
       },
       "detail": {
         "castingTime": "南宋中后期（约公元1200年前后），具体年代不详。",

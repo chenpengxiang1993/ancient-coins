@@ -9,12 +9,12 @@
       "dynastyIndex": 16,
       "summary": {
         "name": "大中通宝",
-        "historicalPeriod": "明太祖洪武元年（1368年）",
+        "historicalPeriod": "明太祖洪武元年（公元1368年）",
         "ruler": "太祖朱元璋",
         "coreFeatures": "明朝开国铸币，楷书对读，背纪地纪值，小平至当十",
-        "estimatedValue": "20—70,000元",
-        "rarity": "七级（甚少）",
-        "thumbnail": "/images/coins/r-明朝钱币/大中通宝/main.jpg"
+        "estimatedValue": "参考价：20—70,000元",
+        "rarity": "七级 甚少",
+        "thumbnail": "/images/coins/r-明朝钱币/大中通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "明太祖朱元璋洪武元年（公元1368年）始铸（此前于元末公元1361年已始铸，此处指明朝建立后的正式铸行）。",
@@ -35,21 +35,21 @@
           {
             "variant": "小平光背",
             "description": "背面无文，直径：约2.4厘米，单枚重量约3.5克。品相决定价格",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "20—300元",
             "notes": "小平光背"
           },
           {
             "variant": "小平背\"浙\"版",
             "description": "背面铸\"浙\"字（纪地，浙江铸行），面文\"大中通宝\"四字对读。直径约2.4厘米，为大中通宝背纪地中最常见者",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "100—300元",
             "notes": "背\"浙\"最常见"
           },
           {
             "variant": "小平背\"京\"版",
             "description": "背面铸\"京\"字（纪地，京师铸行），面文\"大中通宝\"四字对读。直径约2.4厘米",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "200—500元",
             "notes": "背\"京\"较常见"
           },
@@ -98,35 +98,35 @@
           {
             "variant": "折二",
             "description": "背纪地纪值，直径：约2.8厘米，重约5—7g",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "200—500元",
             "notes": "折二"
           },
           {
             "variant": "折三",
             "description": "背纪地纪值，直径：约3.1厘米，重约8—10克",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "500—1,500元",
             "notes": "折三光背普通子钱约600—1,000元，母钱极美品可达万元以上（古钱币价格网）"
           },
           {
             "variant": "折五",
             "description": "背纪地纪值，直径：约3.5厘米，重约10—15克",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "500—2,000元",
             "notes": "折五（元末卷大中通宝折五同制）"
           },
           {
             "variant": "当十",
             "description": "背穿上铸\"十\"字记值（或纪局名加\"十\"），直径约4.5厘米，重约15—25克",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "1,500—5,000元",
             "notes": "百度百科：背\"十\"普通钱约2,000元；另有背\"系大中\"稀少纪地钱约2,500元"
           },
           {
             "variant": "当十背纪局",
             "description": "当十大钱背纪局名，如穿上\"广\"加\"十\"（\"十广\"）、\"豫\"加\"十\"（\"十豫\"）等。径约4.6—4.7厘米",
-            "grade": "四级（罕）",
+            "grade": "四级（珍罕）",
             "priceRange": "20,000—70,000元",
             "notes": "园地图库：折十背\"十广\"成交46,000—71,300元；背\"十豫\"美品（46.4毫米）成交11,500元。来源：百度百科、古泉园地"
           }
@@ -140,12 +140,12 @@
       "dynastyIndex": 16,
       "summary": {
         "name": "洪武通宝",
-        "historicalPeriod": "明太祖洪武元年（1368年）",
+        "historicalPeriod": "明太祖洪武元年（公元1368年）",
         "ruler": "太祖朱元璋",
         "coreFeatures": "纪地纪值制度，小平至折十五等制，明朝统一铸币基础",
-        "estimatedValue": "5—100,000元",
-        "rarity": "九级（多）",
-        "thumbnail": "/images/coins/r-明朝钱币/洪武通宝/main.jpg"
+        "estimatedValue": "参考价：5—100,000元",
+        "rarity": "九级 较多",
+        "thumbnail": "/images/coins/r-明朝钱币/洪武通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "明太祖朱元璋洪武年间（公元1368年—1398年）。",
@@ -166,21 +166,21 @@
           {
             "variant": "小平钱",
             "description": "面文\"洪武通宝\"，四字对读，楷书。直径约2.4厘米，重约3—4克。有光背与背\"一钱\"记重诸式",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "5—50元",
             "notes": "小平光背普品数十元内；背\"一钱\"记重钱约5元起（收藏头条）"
           },
           {
             "variant": "折二型",
             "description": "折二型，背穿上\"二\"或纪局字记值，直径约2.8厘米",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "30—500元",
             "notes": "折二背\"二钱\"普品约20元；背\"浙\"折二成交约960元（园地）"
           },
           {
             "variant": "折三型",
             "description": "折三型，背穿上\"三\"或纪局字记值，直径约3.1厘米",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "150—800元",
             "notes": "\"三钱\"约330元（收藏头条）；背桂三、广三、京当三等纪局折三极罕"
           },
@@ -194,7 +194,7 @@
           {
             "variant": "折十型",
             "description": "折十型大钱，背穿上\"十\"或纪局名加\"十\"记值，直径约4.4—4.5厘米",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "120—3,000元",
             "notes": "背\"京十\"约120元、背\"十广\"约2,200元；背\"十浙\"园地成交10,523元（径4.56厘米、重26.5克）。来源：收藏头条、古泉园地"
           },
@@ -208,7 +208,7 @@
           {
             "variant": "背\"浙\"版",
             "description": "背面铸\"浙\"字，为浙江铸行",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "80—400元",
             "notes": "小平背\"浙\"较常见"
           },
@@ -250,7 +250,7 @@
           {
             "variant": "背\"福\"版",
             "description": "背面铸\"福\"字（纪地，福建铸行），面文\"洪武通宝\"四字对读。直径约2.4cm，为洪武通宝中背纪地文字的品种",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "150—600元",
             "notes": "小平背\"福\"约260元（收藏头条）"
           }
@@ -264,12 +264,12 @@
       "dynastyIndex": 16,
       "summary": {
         "name": "洪熙通宝",
-        "historicalPeriod": "明仁宗洪熙元年（1425年）",
+        "historicalPeriod": "明仁宗洪熙元年（公元1425年）",
         "ruler": "仁宗朱高炽",
         "coreFeatures": "洪熙年号仅十月，铸期极短，存世极罕",
-        "estimatedValue": "2,000,000—4,000,000元",
-        "rarity": "一级（大珍）",
-        "thumbnail": "/images/coins/r-明朝钱币/洪熙通宝/main.jpg"
+        "estimatedValue": "参考价：2,000,000—4,000,000元",
+        "rarity": "一级 大珍",
+        "thumbnail": "/images/coins/r-明朝钱币/洪熙通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "明仁宗朱高炽洪熙元年（公元1425年）。",
@@ -304,12 +304,12 @@
       "dynastyIndex": 16,
       "summary": {
         "name": "永乐通宝",
-        "historicalPeriod": "明成祖永乐六年（1408年）",
+        "historicalPeriod": "明成祖永乐六年（公元1408年）",
         "ruler": "成祖朱棣",
         "coreFeatures": "铸工精整，随郑和下西洋流通海外，行用仅小平光背",
-        "estimatedValue": "10—3,000,000元",
-        "rarity": "九级（较多）",
-        "thumbnail": "/images/coins/r-明朝钱币/永乐通宝/main.jpg"
+        "estimatedValue": "参考价：10—3,000,000元",
+        "rarity": "九级 较多",
+        "thumbnail": "/images/coins/r-明朝钱币/永乐通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "明成祖朱棣永乐六年（公元1408年）始铸，铸行至永乐末年（公元1424年）。",
@@ -330,7 +330,7 @@
           {
             "variant": "小平楷书版",
             "description": "楷书面文\"永乐通宝\"，四字对读，光背。直径约2.4—2.5厘米",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "10—100元",
             "notes": "永乐通宝铸量大，普品约40元（收藏头条）"
           },
@@ -344,14 +344,14 @@
           {
             "variant": "日本仿铸版",
             "description": "日本室町幕府仿铸永乐通宝，面文\"永乐通宝\"四字对读（上下右左），楷书笔画较粗、铸工较粗。直径约2.5cm，为日本仿铸流入的品种，较常见",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "10—50元",
             "notes": "日本仿铸版较常见"
           },
           {
             "variant": "安南仿铸版",
             "description": "越南仿铸，文字风格略有差异",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "10—50元",
             "notes": "安南仿铸版较常见"
           }
@@ -365,12 +365,12 @@
       "dynastyIndex": 16,
       "summary": {
         "name": "宣德通宝",
-        "historicalPeriod": "明宣宗宣德八年（1433年）",
+        "historicalPeriod": "明宣宗宣德八年（公元1433年）",
         "ruler": "宣宗朱瞻基",
         "coreFeatures": "宽缘窄郭，楷书直读光背，铸量较少",
-        "estimatedValue": "50—5,000元",
-        "rarity": "八级（较多）",
-        "thumbnail": "/images/coins/r-明朝钱币/宣德通宝/main.jpg"
+        "estimatedValue": "参考价：50—5,000元",
+        "rarity": "八级 少",
+        "thumbnail": "/images/coins/r-明朝钱币/宣德通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "明宣宗朱瞻基宣德八年（公元1433年）始铸。",
@@ -391,7 +391,7 @@
           {
             "variant": "小平楷书版",
             "description": "楷书面文\"宣德通宝\"，四字对读，光背。直径约2.4—2.5厘米。品相决定价格",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "50—300元",
             "notes": "普品约150—200元（常见50元起），评级币约500—600元（收藏头条）"
           },
@@ -426,12 +426,12 @@
       "dynastyIndex": 16,
       "summary": {
         "name": "弘治通宝",
-        "historicalPeriod": "明孝宗弘治十六年（1503年）",
+        "historicalPeriod": "明孝宗弘治十六年（公元1503年）",
         "ruler": "孝宗朱祐樘",
         "coreFeatures": "楷书直读光背，含锡高呈青灰色，铸量不多",
-        "estimatedValue": "30—15,000元",
-        "rarity": "八级（较多）",
-        "thumbnail": "/images/coins/r-明朝钱币/弘治通宝/main.jpg"
+        "estimatedValue": "参考价：30—15,000元",
+        "rarity": "八级 少",
+        "thumbnail": "/images/coins/r-明朝钱币/弘治通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "明孝宗朱祐樘弘治十六年（公元1503年）始铸。",
@@ -452,7 +452,7 @@
           {
             "variant": "普通版",
             "description": "楷书直读\"弘治通宝\"，笔画端庄，\"弘\"字\"弓\"部舒展，\"治\"字\"氵\"旁清晰。光背。铸工尚可。品相决定价格",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "30—300元",
             "notes": "普品约50元（收藏头条）"
           },
@@ -466,7 +466,7 @@
           {
             "variant": "小型版",
             "description": "直径偏小、重量偏轻，多属后期减重或民间私铸。直径约2.2—2.4厘米",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "30—100元",
             "notes": "减重小钱价低"
           },
@@ -487,12 +487,12 @@
       "dynastyIndex": 16,
       "summary": {
         "name": "嘉靖通宝",
-        "historicalPeriod": "明世宗嘉靖六年（1527年）",
+        "historicalPeriod": "明世宗嘉靖六年（公元1527年）",
         "ruler": "世宗朱厚熜",
         "coreFeatures": "开黄铜铸币先河，小平至当十，金背火漆镟边三制",
-        "estimatedValue": "20—1,500,000元",
-        "rarity": "八级（较多）",
-        "thumbnail": "/images/coins/r-明朝钱币/嘉靖通宝/main.jpg"
+        "estimatedValue": "参考价：20—1,500,000元",
+        "rarity": "八级 少",
+        "thumbnail": "/images/coins/r-明朝钱币/嘉靖通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "明世宗朱厚熜嘉靖六年（公元1527年）始铸。",
@@ -513,7 +513,7 @@
           {
             "variant": "小平楷书版",
             "description": "楷书面文\"嘉靖通宝\"，四字对读，光背。直径约2.4厘米",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "20—200元",
             "notes": "普品约30元起（收藏头条）"
           },
@@ -555,21 +555,21 @@
           {
             "variant": "金背版",
             "description": "经四次精炼的\"四火\"黄铜所铸，铜色金黄、钱面平整光洁。金背为嘉靖创制的精加工制钱工艺类别（与火漆、镟边并列，万历沿用）",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "80—500元",
             "notes": "金背为工艺类别非独立版别，美品数百元"
           },
           {
             "variant": "火漆版",
             "description": "以火漆工艺处理的制钱类别（钱面经熏黑处理以防私铸仿铸），与金背、镟边并列为嘉靖防私铸三制",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "50—300元",
             "notes": "火漆为工艺类别非独立版别"
           },
           {
             "variant": "镟边版",
             "description": "钱边缘经车床镟削加工、光滑规整的制钱类别，防剪边私铸",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "50—300元",
             "notes": "镟边为工艺类别非独立版别"
           }
@@ -583,12 +583,12 @@
       "dynastyIndex": 16,
       "summary": {
         "name": "隆庆通宝",
-        "historicalPeriod": "明穆宗隆庆四年（1570年）",
+        "historicalPeriod": "明穆宗隆庆四年（公元1570年）",
         "ruler": "穆宗朱载坖",
         "coreFeatures": "铸行仅半年，黄铜铸造，存世较少",
-        "estimatedValue": "1,000—8,000元",
-        "rarity": "五级（稀贵）",
-        "thumbnail": "/images/coins/r-明朝钱币/隆庆通宝/main.jpg"
+        "estimatedValue": "参考价：1,000—8,000元",
+        "rarity": "五级 稀贵",
+        "thumbnail": "/images/coins/r-明朝钱币/隆庆通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "明穆宗朱载坖隆庆四年（公元1570年）始铸。",
@@ -630,12 +630,12 @@
       "dynastyIndex": 16,
       "summary": {
         "name": "万历通宝",
-        "historicalPeriod": "明神宗万历四年（1576年）",
+        "historicalPeriod": "明神宗万历四年（公元1576年）",
         "ruler": "神宗朱翊钧",
         "coreFeatures": "明代铸量最大钱币，版别极多",
-        "estimatedValue": "5—8,000元",
-        "rarity": "九级（较多）",
-        "thumbnail": "/images/coins/r-明朝钱币/万历通宝/main.jpg"
+        "estimatedValue": "参考价：5—8,000元",
+        "rarity": "九级 较多",
+        "thumbnail": "/images/coins/r-明朝钱币/万历通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "明神宗朱翊钧万历四年（公元1576年）始铸，铸行至万历末年（公元1620年）。",
@@ -656,14 +656,14 @@
           {
             "variant": "小平楷书版",
             "description": "楷书面文\"万历通宝\"，四字对读。直径约2.4厘米。品相决定价格",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "5—100元",
             "notes": "万历通宝铸量大"
           },
           {
             "variant": "折二光背",
             "description": "折二型，光背，直径约2.8—2.9厘米",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "50—800元",
             "notes": "折二光背普品数百元，美品可达数千元（收藏头条）"
           },
@@ -698,12 +698,12 @@
       "dynastyIndex": 16,
       "summary": {
         "name": "万历银钱",
-        "historicalPeriod": "明神宗万历年间",
+        "historicalPeriod": "明神宗万历年间（公元1573年—1620年）",
         "ruler": "神宗朱翊钧",
         "coreFeatures": "银质铸币，矿银与万历年造两大系列，存世极罕",
-        "estimatedValue": "20,000—500,000元",
-        "rarity": "二级（珍）",
-        "thumbnail": "/images/coins/r-明朝钱币/万历银钱/main.jpg"
+        "estimatedValue": "参考价：20,000—500,000元",
+        "rarity": "二级 珍",
+        "thumbnail": "/images/coins/r-明朝钱币/万历银钱/thumb.webp"
       },
       "detail": {
         "castingTime": "明神宗朱翊钧万历年间（公元1573年—1620年）。",
@@ -745,12 +745,12 @@
       "dynastyIndex": 16,
       "summary": {
         "name": "泰昌通宝",
-        "historicalPeriod": "明熹宗天启元年（1621年）补铸",
+        "historicalPeriod": "明熹宗天启元年（公元1621年）补铸",
         "ruler": "光宗朱常洛",
         "coreFeatures": "光宗在位仅一月，天启元年补铸，仅小平一种",
-        "estimatedValue": "300—60,000元",
-        "rarity": "七级（甚少）",
-        "thumbnail": "/images/coins/r-明朝钱币/泰昌通宝/main.jpg"
+        "estimatedValue": "参考价：300—60,000元",
+        "rarity": "七级 甚少",
+        "thumbnail": "/images/coins/r-明朝钱币/泰昌通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "明熹宗朱由校天启元年（公元1621年）补铸。",
@@ -771,7 +771,7 @@
           {
             "variant": "小平光背",
             "description": "背面无文，直径2.5厘米，重约2.8克上下。品相决定价格",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "300—800元",
             "notes": "普品（双点通）约600元（收藏头条）"
           },
@@ -813,12 +813,12 @@
       "dynastyIndex": 16,
       "summary": {
         "name": "天启通宝",
-        "historicalPeriod": "明熹宗天启元年（1621年）",
+        "historicalPeriod": "明熹宗天启元年（公元1621年）",
         "ruler": "熹宗朱由校",
         "coreFeatures": "小平与当十两等，当十大钱版别繁多",
-        "estimatedValue": "5—45,000元",
-        "rarity": "九级（多）",
-        "thumbnail": "/images/coins/r-明朝钱币/天启通宝/main.jpg"
+        "estimatedValue": "参考价：5—45,000元",
+        "rarity": "九级 较多",
+        "thumbnail": "/images/coins/r-明朝钱币/天启通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "明熹宗朱由校天启年间（公元1621年—1627年）。",
@@ -839,21 +839,21 @@
           {
             "variant": "小平楷书版",
             "description": "楷书面文\"天启通宝\"，四字对读，光背或背纪局纪地。直径约2.4厘米",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "5—50元",
             "notes": "天启通宝小平铸量较大"
           },
           {
             "variant": "背\"工\"版",
             "description": "小平背面铸\"工\"字（纪局，工部铸行）。另有背巨\"工\"（工字特大）者珍稀",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "100—500元",
             "notes": "背\"工\"较常见；背巨\"工\"珍稀价高数倍"
           },
           {
             "variant": "背\"户\"版",
             "description": "小平背面铸\"户\"字（纪局，户部铸行），直径约2.4厘米",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "100—500元",
             "notes": "背\"户\"较常见"
           },
@@ -867,7 +867,7 @@
           {
             "variant": "当十背\"十一两\"",
             "description": "当十大钱，背穿上\"十\"穿右\"一两\"（合书\"十一两\"），径约4.5—4.8厘米、重18—30克",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "500—3,000元",
             "notes": "成交946元；极美大规格者155,250元。来源：拍卖记录汇总"
           },
@@ -909,12 +909,12 @@
       "dynastyIndex": 16,
       "summary": {
         "name": "崇祯通宝",
-        "historicalPeriod": "明思宗崇祯元年（1628年）",
+        "historicalPeriod": "明思宗崇祯元年（公元1628年）",
         "ruler": "思宗朱由检",
         "coreFeatures": "版别极复杂，背文含奔马、星月、纪局纪重等数百种",
-        "estimatedValue": "5—40,000元",
-        "rarity": "九级（较多）",
-        "thumbnail": "/images/coins/r-明朝钱币/崇祯通宝/main.jpg"
+        "estimatedValue": "参考价：5—40,000元",
+        "rarity": "九级 较多",
+        "thumbnail": "/images/coins/r-明朝钱币/崇祯通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "明思宗朱由检崇祯年间（公元1628年—1644年）。",
@@ -935,7 +935,7 @@
           {
             "variant": "小平楷书版",
             "description": "楷书面文\"崇祯通宝\"，四字对读。直径约2.4cm",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "5—30元",
             "notes": "崇祯通宝铸量大，版别繁多"
           },
@@ -949,14 +949,14 @@
           {
             "variant": "西北版（八分书崇）",
             "description": "西北铸局所铸，\"崇\"字作八分书（隶意浓厚），风格与京版迥异。直径约2.4厘米",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "20—100元",
             "notes": "西北版书体独特"
           },
           {
             "variant": "折二背\"二\"（京版）",
             "description": "折二型，背穿铸\"二\"字记值（京局版），径约2.8厘米。折二另有背\"户二\"\"勑二\"\"季二\"\"监二\"\"江二\"\"局二\"\"星二\"诸式",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "150—500元",
             "notes": "京版背\"二\"150—500元（收藏头条）；左\"工\"右\"二\"者21,500元"
           },
@@ -991,7 +991,7 @@
           {
             "variant": "背\"工\"版",
             "description": "背面铸\"工\"字（纪局，工部铸局），面文\"崇祯通宝\"四字对读。直径约2.4cm，为崇祯通宝中背纪局文字的品种",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "20—100元",
             "notes": "背\"工\"较常见"
           },
@@ -1005,7 +1005,7 @@
           {
             "variant": "背\"户\"版",
             "description": "背面铸\"户\"字（纪局，户部铸局），面文\"崇祯通宝\"四字对读。直径约2.4cm，为崇祯通宝中背纪局文字的品种",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "20—100元",
             "notes": "背\"户\"较常见"
           },
@@ -1047,7 +1047,7 @@
           {
             "variant": "背\"云\"版",
             "description": "背面铸\"云\"字（纪地，云南铸局），面文\"崇祯通宝\"四字对读。直径约2.4cm",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "50—200元",
             "notes": "背\"云\"较常见"
           },
@@ -1117,12 +1117,12 @@
       "dynastyIndex": 16,
       "summary": {
         "name": "大顺通宝",
-        "historicalPeriod": "明末大西大顺元年（1644年）",
+        "historicalPeriod": "明末大西大顺元年（公元1644年）",
         "ruler": "张献忠",
         "coreFeatures": "楷书直读，光背为主，大西政权铸币",
-        "estimatedValue": "50—30,000元",
-        "rarity": "八级（较多）",
-        "thumbnail": "/images/coins/s-明末农民起义钱币/大顺通宝/main.jpg"
+        "estimatedValue": "参考价：50—30,000元",
+        "rarity": "八级 少",
+        "thumbnail": "/images/coins/s-明末农民起义钱币/大顺通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "明末大西大顺元年（公元1644年），张献忠于成都称帝后所铸。",
@@ -1143,14 +1143,14 @@
           {
             "variant": "光背版",
             "description": "楷书面文\"大顺通宝\"，四字对读，光背。直径约2.65厘米。品相决定价格",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "50—150元",
             "notes": "光背普品约60—100元（收藏头条）"
           },
           {
             "variant": "背\"工\"/背\"户\"版",
             "description": "背穿铸\"工\"或\"户\"字（纪局，工部、户部铸行），直径约2.65厘米",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "100—300元",
             "notes": "背工、背户约100—250元（收藏头条）"
           },
@@ -1171,12 +1171,12 @@
       "dynastyIndex": 16,
       "summary": {
         "name": "西王赏功",
-        "historicalPeriod": "明末（1644年）",
+        "historicalPeriod": "明末（公元1644年）",
         "ruler": "张献忠",
         "coreFeatures": "赏功钱性质，有金、银、铜三等，存世极罕",
-        "estimatedValue": "50,000—3,000,000元",
-        "rarity": "一级（大珍）",
-        "thumbnail": "/images/coins/s-明末农民起义钱币/西王赏功/main.jpg"
+        "estimatedValue": "参考价：50,000—3,000,000元",
+        "rarity": "一级 大珍",
+        "thumbnail": "/images/coins/s-明末农民起义钱币/西王赏功/thumb.webp"
       },
       "detail": {
         "castingTime": "明末农民起义时期（公元1644年前后），张献忠所铸。",
@@ -1225,12 +1225,12 @@
       "dynastyIndex": 16,
       "summary": {
         "name": "永昌通宝",
-        "historicalPeriod": "明末（1644年）",
+        "historicalPeriod": "明末（公元1644年）",
         "ruler": "李自成",
         "coreFeatures": "楷书直读，小平与折五两等，铸于西安",
-        "estimatedValue": "150—3,000元",
-        "rarity": "八级（较多）",
-        "thumbnail": "/images/coins/s-明末农民起义钱币/永昌通宝/main.jpg"
+        "estimatedValue": "参考价：150—3,000元",
+        "rarity": "八级 少",
+        "thumbnail": "/images/coins/s-明末农民起义钱币/永昌通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "明末农民起义时期（公元1644年—1645年），李自成所铸。",
@@ -1251,7 +1251,7 @@
           {
             "variant": "小平楷书版",
             "description": "楷书面文\"永昌通宝\"，四字对读，光背。直径约2.4—2.6厘米。李自成铸行，有西安版、襄阳版、汉阳版、太原版等",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "150—500元",
             "notes": "普品约200元（收藏头条）"
           },
@@ -1279,12 +1279,12 @@
       "dynastyIndex": 16,
       "summary": {
         "name": "兴朝通宝",
-        "historicalPeriod": "明末（1647年）",
+        "historicalPeriod": "明末（公元1647年）",
         "ruler": "孙可望",
         "coreFeatures": "楷书直读，背纪银值（五厘/壹分），铸于云南",
-        "estimatedValue": "50—1,000元",
-        "rarity": "八级（较多）",
-        "thumbnail": "/images/coins/s-明末农民起义钱币/兴朝通宝/main.jpg"
+        "estimatedValue": "参考价：50—1,000元",
+        "rarity": "八级 少",
+        "thumbnail": "/images/coins/s-明末农民起义钱币/兴朝通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "明末（公元1647年前后），孙可望所铸。",
@@ -1305,7 +1305,7 @@
           {
             "variant": "小平楷书版",
             "description": "楷书面文\"兴朝通宝\"，四字对读，光背。直径约2.5厘米。孙可望铸行",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "50—300元",
             "notes": "小平普品百元内（收藏头条）"
           },
@@ -1333,12 +1333,12 @@
       "dynastyIndex": 16,
       "summary": {
         "name": "大明通宝",
-        "historicalPeriod": "南明鲁王监国时期（1645年）",
+        "historicalPeriod": "南明鲁王监国时期（公元1645年）",
         "ruler": "鲁王朱以海",
         "coreFeatures": "国号钱，楷书直读，光背为主兼背工户帅，铸行约六年",
-        "estimatedValue": "300—35,000元",
-        "rarity": "七级（甚少）",
-        "thumbnail": "/images/coins/t-南明钱币/大明通宝/main.jpg"
+        "estimatedValue": "参考价：300—35,000元",
+        "rarity": "七级 甚少",
+        "thumbnail": "/images/coins/t-南明钱币/大明通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "南明鲁王朱以海监国时期（公元1645年起，铸行约六年）。",
@@ -1394,12 +1394,12 @@
       "dynastyIndex": 16,
       "summary": {
         "name": "弘光通宝",
-        "historicalPeriod": "南明福王弘光元年（1645年）",
+        "historicalPeriod": "南明福王弘光元年（公元1645年）",
         "ruler": "福王朱由崧",
         "coreFeatures": "楷书直读，多版别，铸期仅一年",
-        "estimatedValue": "10—12,000元",
-        "rarity": "九级（多）",
-        "thumbnail": "/images/coins/t-南明钱币/弘光通宝/main.jpg"
+        "estimatedValue": "参考价：10—12,000元",
+        "rarity": "九级 较多",
+        "thumbnail": "/images/coins/t-南明钱币/弘光通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "南明福王朱由崧弘光元年（公元1644年十月开铸，铸行约一年）。",
@@ -1420,14 +1420,14 @@
           {
             "variant": "小平楷书版",
             "description": "楷书面文\"弘光通宝\"，四字对读，光背。直径约2.4—2.5厘米。有单点通、双点通、大弓旁、行弓诸版",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "10—150元",
             "notes": "普品数元至数十元（收藏头条）"
           },
           {
             "variant": "小平背星版",
             "description": "小平背面铸星纹（一说为凤阳局标识），直径约2.5厘米",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "100—500元",
             "notes": "背星（凤阳版）推估（存疑）"
           },
@@ -1448,12 +1448,12 @@
       "dynastyIndex": 16,
       "summary": {
         "name": "隆武通宝",
-        "historicalPeriod": "南明唐王隆武年间（1645年）",
+        "historicalPeriod": "南明唐王隆武年间（公元1645年）",
         "ruler": "唐王朱聿键",
         "coreFeatures": "楷书直读，小平及折二，另有铁钱，铸于福建",
-        "estimatedValue": "30—15,000元",
-        "rarity": "八级（较多）",
-        "thumbnail": "/images/coins/t-南明钱币/隆武通宝/main.jpg"
+        "estimatedValue": "参考价：30—15,000元",
+        "rarity": "八级 少",
+        "thumbnail": "/images/coins/t-南明钱币/隆武通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "南明唐王朱聿键隆武年间（公元1645年—1646年）。",
@@ -1474,21 +1474,21 @@
           {
             "variant": "小平楷书版",
             "description": "楷书面文\"隆武通宝\"，四字对读，光背。直径约2.4—2.5厘米",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "30—150元",
             "notes": "普品约40元（收藏头条）"
           },
           {
             "variant": "背\"工\"/背\"户\"版",
             "description": "小平背面铸\"工\"或\"户\"字（纪局），直径约2.4—2.5厘米",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "60—300元",
             "notes": "背工、背户约100元（收藏头条）"
           },
           {
             "variant": "背星版",
             "description": "小平背面铸星纹，直径约2.5厘米",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "40—200元",
             "notes": "背星约45元；母钱成交44,850元。来源：收藏头条、拍卖记录"
           },
@@ -1523,12 +1523,12 @@
       "dynastyIndex": 16,
       "summary": {
         "name": "永历通宝",
-        "historicalPeriod": "南明桂王永历年间（1646年）",
+        "historicalPeriod": "南明桂王永历年间（公元1646年）",
         "ruler": "桂王朱由榔",
         "coreFeatures": "小平至折十四等兼折银钱，版别复杂，南明持续时间最长的铸币",
-        "estimatedValue": "50—8,000元",
-        "rarity": "八级（较多）",
-        "thumbnail": "/images/coins/t-南明钱币/永历通宝/main.jpg"
+        "estimatedValue": "参考价：50—8,000元",
+        "rarity": "八级 少",
+        "thumbnail": "/images/coins/t-南明钱币/永历通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "南明桂王朱由榔永历年间（公元1646年—1661年）。",
@@ -1549,14 +1549,14 @@
           {
             "variant": "小平楷书版",
             "description": "楷书面文\"永历通宝\"，四字对读，光背。直径约2.5厘米",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "50—300元",
             "notes": "普品几十元至一二百元（收藏头条）"
           },
           {
             "variant": "折二型",
             "description": "折二型，光背，直径约2.8—2.9厘米",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "100—500元",
             "notes": "折二普品一二百元"
           },

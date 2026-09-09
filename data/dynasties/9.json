@@ -9,12 +9,12 @@
       "dynastyIndex": 9,
       "summary": {
         "name": "开平通宝",
-        "historicalPeriod": "后梁（907—923）",
+        "historicalPeriod": "后梁（公元907年—923年）",
         "ruler": "太祖朱温",
         "coreFeatures": "面文\"开平通宝\"，大钱型制，存世极罕",
-        "estimatedValue": "80,000—600,000元",
-        "rarity": "一级（大珍）",
-        "thumbnail": "/images/coins/k-五代十国钱币/开平通宝/main.jpg"
+        "estimatedValue": "参考价：80,000—600,000元",
+        "rarity": "一级 大珍",
+        "thumbnail": "/images/coins/k-五代十国钱币/开平通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "后梁太祖朱温开平年间（公元907年—911年）。",
@@ -56,12 +56,12 @@
       "dynastyIndex": 9,
       "summary": {
         "name": "开平元宝",
-        "historicalPeriod": "后梁（907—923）",
+        "historicalPeriod": "后梁（公元907年—923年）",
         "ruler": "太祖朱温",
         "coreFeatures": "面文\"开平元宝\"，存世极罕，五代顶级珍品",
-        "estimatedValue": "80000—300000元",
-        "rarity": "二级（珍）",
-        "thumbnail": "/images/coins/k-五代十国钱币/开平元宝/main.jpg"
+        "estimatedValue": "参考价：80000—300000元",
+        "rarity": "二级 珍",
+        "thumbnail": "/images/coins/k-五代十国钱币/开平元宝/thumb.webp"
       },
       "detail": {
         "castingTime": "后梁太祖朱温开平年间（公元907年—911年）。",
@@ -96,12 +96,12 @@
       "dynastyIndex": 9,
       "summary": {
         "name": "天成元宝",
-        "historicalPeriod": "后唐（926—930）",
+        "historicalPeriod": "后唐（公元926年—930年）",
         "ruler": "明宗李嗣源",
         "coreFeatures": "面文\"天成元宝\"，铸量稀少",
-        "estimatedValue": "100,000—300,000元",
-        "rarity": "二级（珍）",
-        "thumbnail": "/images/coins/k-五代十国钱币/天成元宝/main.jpg"
+        "estimatedValue": "参考价：100,000—300,000元",
+        "rarity": "二级 珍",
+        "thumbnail": "/images/coins/k-五代十国钱币/天成元宝/thumb.webp"
       },
       "detail": {
         "castingTime": "后唐明宗李嗣源天成年间（公元926年—930年）。",
@@ -136,12 +136,12 @@
       "dynastyIndex": 9,
       "summary": {
         "name": "天福元宝",
-        "historicalPeriod": "后晋（936—947）",
+        "historicalPeriod": "后晋（公元936年—947年）",
         "ruler": "高祖石敬瑭",
         "coreFeatures": "面文\"天福元宝\"，允许民间铸造，质量参差",
-        "estimatedValue": "50—5,000元",
-        "rarity": "七级（甚少）",
-        "thumbnail": "/images/coins/k-五代十国钱币/天福元宝/main.jpg"
+        "estimatedValue": "参考价：50—5,000元",
+        "rarity": "七级 甚少",
+        "thumbnail": "/images/coins/k-五代十国钱币/天福元宝/thumb.webp"
       },
       "detail": {
         "castingTime": "后晋高祖石敬瑭天福三年（公元938年）始铸。",
@@ -176,7 +176,7 @@
           {
             "variant": "私铸版",
             "description": "民间私铸，铸工粗率，文字模糊，铜质粗劣，轻重不一。为天福元宝铸量最大的品种",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "50—200元",
             "notes": "私铸版较常见"
           },
@@ -197,12 +197,12 @@
       "dynastyIndex": 9,
       "summary": {
         "name": "汉元通宝",
-        "historicalPeriod": "后汉（947—950）",
+        "historicalPeriod": "后汉（公元947年—950年）",
         "ruler": "隐帝刘承祐",
         "coreFeatures": "面文\"汉元通宝\"，仿开元通宝风格",
-        "estimatedValue": "30—3,000元",
-        "rarity": "八级（少）",
-        "thumbnail": "/images/coins/k-五代十国钱币/汉元通宝/main.jpg"
+        "estimatedValue": "参考价：30—3,000元",
+        "rarity": "八级 少",
+        "thumbnail": "/images/coins/k-五代十国钱币/汉元通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "后汉隐帝刘承祐乾祐元年（公元948年）。",
@@ -223,14 +223,14 @@
           {
             "variant": "小平楷书版（普品）",
             "description": "楷书面文\"汉元通宝\"，四字对读。直径约2.4cm，重约3—4g",
-            "grade": "八级（较多） 普品",
+            "grade": "八级（少） 普品",
             "priceRange": "30—100元",
             "notes": "较常见"
           },
           {
             "variant": "小平楷书版（美品）",
             "description": "楷书面文，品相精美。直径约2.4cm",
-            "grade": "八级（较多） 美品",
+            "grade": "八级（少） 美品",
             "priceRange": "100—300元",
             "notes": "美品价格较高"
           },
@@ -265,12 +265,12 @@
       "dynastyIndex": 9,
       "summary": {
         "name": "周元通宝",
-        "historicalPeriod": "后周（955—959）",
+        "historicalPeriod": "后周（公元955年—959年）",
         "ruler": "世宗柴荣",
         "coreFeatures": "面文\"周元通宝\"，毁佛铸钱，铸工精整",
-        "estimatedValue": "20—30,000元",
-        "rarity": "八级（少）",
-        "thumbnail": "/images/coins/k-五代十国钱币/周元通宝/main.jpg"
+        "estimatedValue": "参考价：20—30,000元",
+        "rarity": "八级 少",
+        "thumbnail": "/images/coins/k-五代十国钱币/周元通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "后周世宗柴荣显德二年（公元955年）始铸。",
@@ -305,21 +305,21 @@
           {
             "variant": "大字版",
             "description": "面文\"周元通宝\"四字对读，字体较大、笔画粗壮舒展，\"周\"字\"口\"部宽大、\"元\"字两横开张，\"通宝\"二字结构端正，字口深峻。直径约2.4cm，为周元通宝中文字较大的品种",
-            "grade": "八级（较多） 极美品",
+            "grade": "八级（少） 极美品",
             "priceRange": "300—800元",
             "notes": "大字版较少见"
           },
           {
             "variant": "小字版",
             "description": "面文\"周元通宝\"四字字体较小、笔画纤细紧凑，楷书结构规整。直径约2.4cm，为周元通宝中文字较小的品种，较为常见",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "20—100元",
             "notes": "小字版较常见"
           },
           {
             "variant": "阔缘版",
             "description": "外廓（缘）较宽，面文\"周元通宝\"四字对读，文字居中、边缘留白较多，内廓规整。直径约2.4cm，为周元通宝中缘宽较阔的品种",
-            "grade": "八级（较多） 美品",
+            "grade": "八级（少） 美品",
             "priceRange": "100—500元",
             "notes": "阔缘版较少见"
           },
@@ -340,7 +340,7 @@
           {
             "variant": "合背版",
             "description": "两面均铸\"周元通宝\"面文（无背面），为铸造时错范所致，楷书两面均可辨。直径约2.4cm，极为罕见，学术价值高",
-            "grade": "三级（罕）",
+            "grade": "三级（罕贵）",
             "priceRange": "5,000—30,000元",
             "notes": "合背极罕见"
           }
@@ -354,12 +354,12 @@
       "dynastyIndex": 9,
       "summary": {
         "name": "永平元宝",
-        "historicalPeriod": "前蜀（911—915）",
+        "historicalPeriod": "前蜀（公元911年—915年）",
         "ruler": "高祖王建",
         "coreFeatures": "面文\"永平元宝\"，存世稀少",
-        "estimatedValue": "5000—30000元",
-        "rarity": "五级（稀贵）",
-        "thumbnail": "/images/coins/k-五代十国钱币/永平元宝/main.jpg"
+        "estimatedValue": "参考价：5000—30000元",
+        "rarity": "五级 稀贵",
+        "thumbnail": "/images/coins/k-五代十国钱币/永平元宝/thumb.webp"
       },
       "detail": {
         "castingTime": "前蜀高祖王建永平年间（公元911年—915年）。",
@@ -394,12 +394,12 @@
       "dynastyIndex": 9,
       "summary": {
         "name": "通正元宝",
-        "historicalPeriod": "前蜀（916—917）",
+        "historicalPeriod": "前蜀（公元916年—917年）",
         "ruler": "高祖王建",
         "coreFeatures": "面文\"通正元宝\"，较少见",
-        "estimatedValue": "500—5000元",
-        "rarity": "七级（甚少）",
-        "thumbnail": "/images/coins/k-五代十国钱币/通正元宝/main.jpg"
+        "estimatedValue": "参考价：500—5000元",
+        "rarity": "七级 甚少",
+        "thumbnail": "/images/coins/k-五代十国钱币/通正元宝/thumb.webp"
       },
       "detail": {
         "castingTime": "前蜀高祖王建通正年间（公元916年—917年）。",
@@ -434,12 +434,12 @@
       "dynastyIndex": 9,
       "summary": {
         "name": "天汉元宝",
-        "historicalPeriod": "前蜀（917）",
+        "historicalPeriod": "前蜀（公元917年）",
         "ruler": "高祖王建",
         "coreFeatures": "面文\"天汉元宝\"，较少见",
-        "estimatedValue": "200—2000元",
-        "rarity": "八级（少）",
-        "thumbnail": "/images/coins/k-五代十国钱币/天汉元宝/main.jpg"
+        "estimatedValue": "参考价：200—2000元",
+        "rarity": "八级 少",
+        "thumbnail": "/images/coins/k-五代十国钱币/天汉元宝/thumb.webp"
       },
       "detail": {
         "castingTime": "前蜀高祖王建天汉元年（公元917年）。",
@@ -474,12 +474,12 @@
       "dynastyIndex": 9,
       "summary": {
         "name": "光天元宝",
-        "historicalPeriod": "前蜀（918）",
+        "historicalPeriod": "前蜀（公元918年）",
         "ruler": "高祖王建",
         "coreFeatures": "面文\"光天元宝\"，较少见",
-        "estimatedValue": "200—2000元",
-        "rarity": "八级（少）",
-        "thumbnail": "/images/coins/k-五代十国钱币/光天元宝/main.jpg"
+        "estimatedValue": "参考价：200—2000元",
+        "rarity": "八级 少",
+        "thumbnail": "/images/coins/k-五代十国钱币/光天元宝/thumb.webp"
       },
       "detail": {
         "castingTime": "前蜀高祖王建光天元年（公元918年）。",
@@ -514,12 +514,12 @@
       "dynastyIndex": 9,
       "summary": {
         "name": "乾德元宝",
-        "historicalPeriod": "前蜀（919—924）",
+        "historicalPeriod": "前蜀（公元919年—924年）",
         "ruler": "后主王衍",
         "coreFeatures": "面文\"乾德元宝\"，铸量稍多",
-        "estimatedValue": "30—200元",
-        "rarity": "八级（少）",
-        "thumbnail": "/images/coins/k-五代十国钱币/乾德元宝/main.jpg"
+        "estimatedValue": "参考价：30—200元",
+        "rarity": "八级 少",
+        "thumbnail": "/images/coins/k-五代十国钱币/乾德元宝/thumb.webp"
       },
       "detail": {
         "castingTime": "前蜀后主王衍乾德年间（公元919年—924年）。",
@@ -540,7 +540,7 @@
           {
             "variant": "小平楷书版",
             "description": "楷书面文\"乾德元宝\"，四字旋读。直径约2.3—2.4cm",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "30—200元",
             "notes": "楷书版较常见"
           }
@@ -554,12 +554,12 @@
       "dynastyIndex": 9,
       "summary": {
         "name": "咸康元宝",
-        "historicalPeriod": "前蜀（925）",
+        "historicalPeriod": "前蜀（公元925年）",
         "ruler": "后主王衍",
         "coreFeatures": "面文\"咸康元宝\"，铸量稍多",
-        "estimatedValue": "100—1000元",
-        "rarity": "八级（少）",
-        "thumbnail": "/images/coins/k-五代十国钱币/咸康元宝/main.jpg"
+        "estimatedValue": "参考价：100—1000元",
+        "rarity": "八级 少",
+        "thumbnail": "/images/coins/k-五代十国钱币/咸康元宝/thumb.webp"
       },
       "detail": {
         "castingTime": "前蜀后主王衍咸康元年（公元925年）。",
@@ -594,12 +594,12 @@
       "dynastyIndex": 9,
       "summary": {
         "name": "永隆通宝",
-        "historicalPeriod": "闽（939—943）",
+        "historicalPeriod": "闽（公元939年—943年）",
         "ruler": "王延羲",
         "coreFeatures": "铁钱为主，背\"闽\"字或星月纹",
-        "estimatedValue": "500—80,000元",
-        "rarity": "六级（稀）",
-        "thumbnail": "/images/coins/k-五代十国钱币/永隆通宝/main.jpg"
+        "estimatedValue": "参考价：500—80,000元",
+        "rarity": "六级 稀",
+        "thumbnail": "/images/coins/k-五代十国钱币/永隆通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "闽国主王延羲永隆年间（公元939年—943年）。",
@@ -620,28 +620,28 @@
           {
             "variant": "铁钱光背",
             "description": "铁质，背面无文。直径约2.4cm",
-            "grade": "八级（较多） 普品",
+            "grade": "八级（少） 普品",
             "priceRange": "500—1,000元",
             "notes": "铁钱光背较常见"
           },
           {
             "variant": "铁钱背\"闽\"",
             "description": "铁质，背面铸\"闽\"字，标明铸地。直径约2.4cm",
-            "grade": "八级（较多） 美品",
+            "grade": "八级（少） 美品",
             "priceRange": "1,000—3,000元",
             "notes": "背\"闽\"为闽国铸币特征"
           },
           {
             "variant": "铁钱背星月",
             "description": "铁质，钱面\"永隆通宝\"四字旋读，背面铸有星纹（圆点）或月纹（弯月形），铁质氧化后呈深褐色锈蚀。直径约2.4cm，为永隆通宝中背面带星月纹的品种",
-            "grade": "八级（较多） 美品",
+            "grade": "八级（少） 美品",
             "priceRange": "800—2,000元",
             "notes": "背星月纹"
           },
           {
             "variant": "铜品",
             "description": "铜质永隆通宝极罕见，铸工较精。直径约2.4cm",
-            "grade": "四级（罕）",
+            "grade": "四级（珍罕）",
             "priceRange": "30,000—80,000元",
             "notes": "铜品极罕见，市场参考价存疑待考"
           }
@@ -655,12 +655,12 @@
       "dynastyIndex": 9,
       "summary": {
         "name": "天德重宝",
-        "historicalPeriod": "闽（943—945）",
+        "historicalPeriod": "闽（公元943年—945年）",
         "ruler": "王延政",
         "coreFeatures": "面文\"天德重宝\"，铜铁均有，铜品极罕",
-        "estimatedValue": "50,000—350,000元",
-        "rarity": "二级（珍）",
-        "thumbnail": "/images/coins/k-五代十国钱币/天德重宝/main.jpg"
+        "estimatedValue": "参考价：50,000—350,000元",
+        "rarity": "二级 珍",
+        "thumbnail": "/images/coins/k-五代十国钱币/天德重宝/thumb.webp"
       },
       "detail": {
         "castingTime": "闽国主王延政天德年间（公元943年—945年）。",
@@ -702,12 +702,12 @@
       "dynastyIndex": 9,
       "summary": {
         "name": "天德通宝",
-        "historicalPeriod": "闽（943—945）",
+        "historicalPeriod": "闽（公元943年—945年）",
         "ruler": "王延政",
         "coreFeatures": "面文\"天德通宝\"，折十大铁钱，一当百，存世孤品级，古泉名珍",
-        "estimatedValue": "300,000—600,000元",
-        "rarity": "一级（大珍）",
-        "thumbnail": "/images/coins/k-五代十国钱币/天德通宝/main.jpg"
+        "estimatedValue": "参考价：300,000—600,000元",
+        "rarity": "一级 大珍",
+        "thumbnail": "/images/coins/k-五代十国钱币/天德通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "天德二年（公元944年），王延政于建州（今福建建瓯）铸大铁钱，以一当百（据《十国纪年·闽史》）。",
@@ -742,12 +742,12 @@
       "dynastyIndex": 9,
       "summary": {
         "name": "天策府宝",
-        "historicalPeriod": "楚（927—930）",
+        "historicalPeriod": "楚（公元927年—930年）",
         "ruler": "马殷",
         "coreFeatures": "面文\"天策府宝\"，铜铁均有，具纪念性质",
-        "estimatedValue": "2,000—200,000元",
-        "rarity": "二级（珍）",
-        "thumbnail": "/images/coins/k-五代十国钱币/天策府宝/main.jpg"
+        "estimatedValue": "参考价：2,000—200,000元",
+        "rarity": "二级 珍",
+        "thumbnail": "/images/coins/k-五代十国钱币/天策府宝/thumb.webp"
       },
       "detail": {
         "castingTime": "楚国主马殷受封天策上将军时期（约公元927年—930年）。",
@@ -768,14 +768,14 @@
           {
             "variant": "铜品（普品）",
             "description": "铜质，面文\"天策府宝\"，四字对读，楷书含隶意。直径约4.3cm（大钱型），重约15—25g",
-            "grade": "三级（罕） 普品",
+            "grade": "三级（罕贵） 普品",
             "priceRange": "50,000—150,000元",
             "notes": "铜品极珍贵"
           },
           {
             "variant": "铜品（美品）",
             "description": "铜质，面文\"天策府宝\"四字对读，楷书笔画深峻清晰、字口高挺，\"天策\"二字结构端庄，外廓宽厚。直径约4.0cm，钱体厚重，铸工精整，为楚王马殷所铸，存世极罕",
-            "grade": "三级（罕） 美品",
+            "grade": "三级（罕贵） 美品",
             "priceRange": "150,000—300,000元",
             "notes": "美品极珍贵"
           },
@@ -803,12 +803,12 @@
       "dynastyIndex": 9,
       "summary": {
         "name": "乾封泉宝-楚",
-        "historicalPeriod": "楚（927—951）",
+        "historicalPeriod": "楚（公元927年—951年）",
         "ruler": "马殷",
         "coreFeatures": "铁钱为主，背有\"天策\"字",
-        "estimatedValue": "200—100,000元",
-        "rarity": "六级（稀）",
-        "thumbnail": "/images/coins/k-五代十国钱币/乾封泉宝-楚/main.jpg"
+        "estimatedValue": "参考价：200—100,000元",
+        "rarity": "六级 稀",
+        "thumbnail": "/images/coins/k-五代十国钱币/乾封泉宝-楚/thumb.webp"
       },
       "detail": {
         "castingTime": "楚国马殷时期（约公元927年—951年）。",
@@ -850,7 +850,7 @@
           {
             "variant": "铜品",
             "description": "铜质，面文\"乾封泉宝\"四字旋读，楷书笔画规整、字口清晰，外廓规整。直径约3.5cm，钱体厚重，为楚王马殷所铸。楚乾封泉宝多为铁质，铜质者存世极罕，为楚铸币中的名品",
-            "grade": "三级（罕）",
+            "grade": "三级（罕贵）",
             "priceRange": "30,000—100,000元",
             "notes": "铜品极罕见"
           }
@@ -864,12 +864,12 @@
       "dynastyIndex": 9,
       "summary": {
         "name": "广政通宝",
-        "historicalPeriod": "后蜀（938—965）",
+        "historicalPeriod": "后蜀（公元938年—965年）",
         "ruler": "孟昶",
         "coreFeatures": "面文\"广政通宝\"，铜铁均有，铜品较少",
-        "estimatedValue": "1,000—80,000元",
-        "rarity": "四级（罕）",
-        "thumbnail": "/images/coins/k-五代十国钱币/广政通宝/main.jpg"
+        "estimatedValue": "参考价：1,000—80,000元",
+        "rarity": "四级 珍罕",
+        "thumbnail": "/images/coins/k-五代十国钱币/广政通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "后蜀后主孟昶广政年间（公元938年—965年）。",
@@ -890,7 +890,7 @@
           {
             "variant": "铜品",
             "description": "铜质，面文\"广政通宝\"，四字对读，楷书。直径约2.4cm",
-            "grade": "四级（罕）",
+            "grade": "四级（珍罕）",
             "priceRange": "20,000—80,000元",
             "notes": "铜品极罕见"
           },
@@ -911,12 +911,12 @@
       "dynastyIndex": 9,
       "summary": {
         "name": "大蜀通宝",
-        "historicalPeriod": "后蜀（934—937）",
+        "historicalPeriod": "后蜀（公元934年—937年）",
         "ruler": "高祖孟知祥",
         "coreFeatures": "面文\"大蜀通宝\"，极罕见",
-        "estimatedValue": "20000—100000元",
-        "rarity": "二级（珍）",
-        "thumbnail": "/images/coins/k-五代十国钱币/大蜀通宝/main.jpg"
+        "estimatedValue": "参考价：20000—100000元",
+        "rarity": "二级 珍",
+        "thumbnail": "/images/coins/k-五代十国钱币/大蜀通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "后蜀高祖孟知祥明德年间（公元934年—937年）。",
@@ -951,12 +951,12 @@
       "dynastyIndex": 9,
       "summary": {
         "name": "保大元宝",
-        "historicalPeriod": "南唐（943—957）",
+        "historicalPeriod": "南唐（公元943年—957年）",
         "ruler": "李璟",
         "coreFeatures": "面文\"保大元宝\"，背穿上\"天\"字，折十大钱，古泉五十名珍",
-        "estimatedValue": "80,000—800,000元",
-        "rarity": "一级（大珍）",
-        "thumbnail": "/images/coins/k-五代十国钱币/保大元宝/main.jpg"
+        "estimatedValue": "参考价：80,000—800,000元",
+        "rarity": "一级 大珍",
+        "thumbnail": "/images/coins/k-五代十国钱币/保大元宝/thumb.webp"
       },
       "detail": {
         "castingTime": "南唐保大年间（公元943年—957年）。此钱铸主尚有争议：一说为南唐所铸，一说为保大九年（公元951年）前后楚地马希萼奉南唐正朔所铸。",
@@ -998,12 +998,12 @@
       "dynastyIndex": 9,
       "summary": {
         "name": "永通泉货",
-        "historicalPeriod": "南唐（943—957）",
+        "historicalPeriod": "南唐（公元943年—957年）",
         "ruler": "李璟",
         "coreFeatures": "面文\"永通泉货\"，隶书当十与篆书折五两等，旋读，存世较少",
-        "estimatedValue": "30,000—300,000元",
-        "rarity": "四级（罕）",
-        "thumbnail": "/images/coins/k-五代十国钱币/永通泉货/main.jpg"
+        "estimatedValue": "参考价：30,000—300,000元",
+        "rarity": "四级 珍罕",
+        "thumbnail": "/images/coins/k-五代十国钱币/永通泉货/thumb.webp"
       },
       "detail": {
         "castingTime": "南唐元宗李璟交泰元年（公元958年）。据《南唐世家》，钟谟奏请铸当十大钱\"永通泉货\"，以一当十，文曰永通泉货，为八分书，重十八铢；旋又议铸铁钱，因私铸泛滥、钱法大乱，不久即废。",
@@ -1024,7 +1024,7 @@
           {
             "variant": "当十（隶书）",
             "description": "面文\"永通泉货\"四字旋读，隶书（八分书）雄浑，字口深峻，外廓规整。直径约3.7—3.9cm，重约14—16g，以一当十行用",
-            "grade": "四级（罕）",
+            "grade": "四级（珍罕）",
             "priceRange": "30,000—100,000元",
             "notes": "交泰元年钟谟奏请所铸，品相决定价格"
           },
@@ -1045,12 +1045,12 @@
       "dynastyIndex": 9,
       "summary": {
         "name": "大唐通宝",
-        "historicalPeriod": "南唐（937—975）",
+        "historicalPeriod": "南唐（公元937年—975年）",
         "ruler": "李璟",
         "coreFeatures": "面文\"大唐通宝\"，铸量较少",
-        "estimatedValue": "100—1000元",
-        "rarity": "七级（甚少）",
-        "thumbnail": "/images/coins/k-五代十国钱币/大唐通宝/main.jpg"
+        "estimatedValue": "参考价：100—1000元",
+        "rarity": "七级 甚少",
+        "thumbnail": "/images/coins/k-五代十国钱币/大唐通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "南唐时期（约公元937年—975年）。",
@@ -1085,12 +1085,12 @@
       "dynastyIndex": 9,
       "summary": {
         "name": "唐国通宝",
-        "historicalPeriod": "南唐（937—975）",
+        "historicalPeriod": "南唐（公元937年—975年）",
         "ruler": "李璟",
         "coreFeatures": "面文\"唐国通宝\"，篆楷隶三体对钱",
-        "estimatedValue": "20—5,000元",
-        "rarity": "八级（少）",
-        "thumbnail": "/images/coins/k-五代十国钱币/唐国通宝/main.jpg"
+        "estimatedValue": "参考价：20—5,000元",
+        "rarity": "八级 少",
+        "thumbnail": "/images/coins/k-五代十国钱币/唐国通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "南唐元宗李璟交泰元年（公元958年）始铸，分小平、折二、当十三等，篆、真（楷）、隶三体书。",
@@ -1118,14 +1118,14 @@
           {
             "variant": "篆书版",
             "description": "面文\"唐国通宝\"为篆书，笔画圆润流畅，\"唐\"字上宽下窄，\"国\"字外框圆转，\"通\"字\"辶\"部婉转，\"宝\"字结构匀称",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "20—200元",
             "notes": "篆书版，品相决定价格"
           },
           {
             "variant": "隶书版",
             "description": "面文\"唐国通宝\"为隶书，笔画古朴方折，\"唐\"字横画蚕头燕尾，\"国\"字方折有力，\"宝\"字\"贝\"部方正",
-            "grade": "六级（少）",
+            "grade": "六级（稀）",
             "priceRange": "30—300元",
             "notes": "稍少见，品相决定价格"
           },
@@ -1153,12 +1153,12 @@
       "dynastyIndex": 9,
       "summary": {
         "name": "开国通宝",
-        "historicalPeriod": "南唐（943—961）",
+        "historicalPeriod": "南唐（公元943年—961年）",
         "ruler": "元宗李璟",
         "coreFeatures": "面文\"开国通宝\"，篆书，存世稀少",
-        "estimatedValue": "10000—50000元",
-        "rarity": "三级（罕贵）",
-        "thumbnail": "/images/coins/k-五代十国钱币/开国通宝/main.jpg"
+        "estimatedValue": "参考价：10000—50000元",
+        "rarity": "三级 罕贵",
+        "thumbnail": "/images/coins/k-五代十国钱币/开国通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "南唐元宗李璟时期（公元943年—961年）。此钱旧谱或系于烈祖李昪，今多数泉家认为铸于中主李璟时期，或具开国纪念性质，具体年月不详。",
@@ -1193,12 +1193,12 @@
       "dynastyIndex": 9,
       "summary": {
         "name": "大齐通宝",
-        "historicalPeriod": "南唐（937—939）",
+        "historicalPeriod": "南唐（公元937年—939年）",
         "ruler": "徐知诰（李昪）",
         "coreFeatures": "面文\"大齐通宝\"，存世极罕，古泉大珍",
-        "estimatedValue": "200,000—2,000,000元",
-        "rarity": "一级（大珍）",
-        "thumbnail": "/images/coins/k-五代十国钱币/大齐通宝/main.jpg"
+        "estimatedValue": "参考价：200,000—2,000,000元",
+        "rarity": "一级 大珍",
+        "thumbnail": "/images/coins/k-五代十国钱币/大齐通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "南唐烈祖李昪（徐知诰）建齐国时期（公元937年—939年）。",
@@ -1240,12 +1240,12 @@
       "dynastyIndex": 9,
       "summary": {
         "name": "乾亨通宝-南汉",
-        "historicalPeriod": "南汉（917—942）",
+        "historicalPeriod": "南汉（公元917年—942年）",
         "ruler": "高祖刘龑",
         "coreFeatures": "面文\"乾亨通宝\"，铅钱为主",
-        "estimatedValue": "20—5,000元",
-        "rarity": "六级（稀）",
-        "thumbnail": "/images/coins/k-五代十国钱币/乾亨通宝-南汉/main.jpg"
+        "estimatedValue": "参考价：20—5,000元",
+        "rarity": "六级 稀",
+        "thumbnail": "/images/coins/k-五代十国钱币/乾亨通宝-南汉/thumb.webp"
       },
       "detail": {
         "castingTime": "南汉高祖刘龑乾亨年间（公元917年—942年）。",
@@ -1273,7 +1273,7 @@
           {
             "variant": "铅品",
             "description": "铅质，南汉大量铸行铅钱。直径约2.3—2.4cm，质软色灰",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "100—500元",
             "notes": "铅品较常见"
           }
@@ -1287,12 +1287,12 @@
       "dynastyIndex": 9,
       "summary": {
         "name": "乾亨重宝",
-        "historicalPeriod": "南汉（917—942）",
+        "historicalPeriod": "南汉（公元917年—942年）",
         "ruler": "高祖刘龑",
         "coreFeatures": "面文\"乾亨重宝\"，铜铅两种材质，以铅钱为主",
-        "estimatedValue": "20—10,000元",
-        "rarity": "七级（甚少）",
-        "thumbnail": "/images/coins/k-五代十国钱币/乾亨重宝/main.jpg"
+        "estimatedValue": "参考价：20—10,000元",
+        "rarity": "七级 甚少",
+        "thumbnail": "/images/coins/k-五代十国钱币/乾亨重宝/thumb.webp"
       },
       "detail": {
         "castingTime": "南汉高祖刘龑乾亨年间（公元917年—942年）。",
@@ -1320,14 +1320,14 @@
           {
             "variant": "铅品（普品）",
             "description": "铅质，南汉大量铸行铅钱。直径约2.4cm，质软色灰",
-            "grade": "八级（较多） 普品",
+            "grade": "八级（少） 普品",
             "priceRange": "50—200元",
             "notes": "铅品较常见"
           },
           {
             "variant": "铅品（美品）",
             "description": "铅质，品相较好。直径约2.4cm",
-            "grade": "八级（较多） 美品",
+            "grade": "八级（少） 美品",
             "priceRange": "200—500元",
             "notes": "美品铅钱"
           }
@@ -1341,12 +1341,12 @@
       "dynastyIndex": 9,
       "summary": {
         "name": "飞龙进宝",
-        "historicalPeriod": "南汉（917—942）",
+        "historicalPeriod": "南汉（公元917年—942年）",
         "ruler": "高祖刘龑",
         "coreFeatures": "面文\"飞龙进宝\"，存世极罕",
-        "estimatedValue": "50,000—500,000元",
-        "rarity": "二级（珍）",
-        "thumbnail": "/images/coins/k-五代十国钱币/飞龙进宝/main.jpg"
+        "estimatedValue": "参考价：50,000—500,000元",
+        "rarity": "二级 珍",
+        "thumbnail": "/images/coins/k-五代十国钱币/飞龙进宝/thumb.webp"
       },
       "detail": {
         "castingTime": "南汉高祖刘龑时期（约公元917年—942年）。",
@@ -1388,12 +1388,12 @@
       "dynastyIndex": 9,
       "summary": {
         "name": "永安钱",
-        "historicalPeriod": "幽州刘氏（895—913）",
+        "historicalPeriod": "幽州刘氏（公元895年—913年）",
         "ruler": "刘仁恭、刘守光",
         "coreFeatures": "面文\"永安一十/一百/五百/一千\"，铜铁两质，古泉名珍",
-        "estimatedValue": "3,000—1,200,000元",
-        "rarity": "一级（大珍）",
-        "thumbnail": "/images/coins/k-五代十国钱币/永安钱/main.jpg"
+        "estimatedValue": "参考价：3,000—1,200,000元",
+        "rarity": "一级 大珍",
+        "thumbnail": "/images/coins/k-五代十国钱币/永安钱/thumb.webp"
       },
       "detail": {
         "castingTime": "唐乾宁二年至后梁乾化三年（公元895年—913年），刘仁恭、刘守光父子据幽州（今北京一带）时所铸。",

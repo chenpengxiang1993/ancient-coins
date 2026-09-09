@@ -9,12 +9,12 @@
       "dynastyIndex": 7,
       "summary": {
         "name": "隋五铢",
-        "historicalPeriod": "隋开皇元年（581年）",
+        "historicalPeriod": "隋开皇元年（公元581年）",
         "ruler": "隋文帝杨坚",
         "coreFeatures": "面文\"五铢\"；\"五\"字交笔较直；统一南北货币；终结五铢钱制前最后一种五铢",
-        "estimatedValue": "15—300元",
+        "estimatedValue": "参考价：15—300元",
         "rarity": "九级 较多",
-        "thumbnail": "/images/coins/i-隋朝钱币/隋五铢/main.jpg"
+        "thumbnail": "/images/coins/i-隋朝钱币/隋五铢/thumb.webp"
       },
       "detail": {
         "castingTime": "隋开皇元年（公元581年）。据《隋书·食货志》记载，隋文帝统一全国后铸行隋五铢，统一南北货币制度。",
@@ -42,7 +42,7 @@
           {
             "variant": "背星纹版",
             "description": "背面铸有凸起星纹（圆点），位于穿孔上方或下方。较为少见",
-            "grade": "七级（较少） 美品",
+            "grade": "七级（甚少） 美品",
             "priceRange": "50—200元",
             "notes": "较少见"
           },
@@ -56,7 +56,7 @@
           {
             "variant": "大字版",
             "description": "面文\"五铢\"字体较大，笔画粗壮，字口深峻。较少见",
-            "grade": "七级（较少） 美品",
+            "grade": "七级（甚少） 美品",
             "priceRange": "100—300元",
             "notes": "文字较大"
           },
@@ -77,12 +77,12 @@
       "dynastyIndex": 7,
       "summary": {
         "name": "白钱-隋末",
-        "historicalPeriod": "隋末（约610年—618年）",
+        "historicalPeriod": "隋末（约公元610年—618年）",
         "ruler": "隋炀帝杨广",
         "coreFeatures": "面文\"五铢\"；白铜质地；铜色泛白；隋末减重铸行",
-        "estimatedValue": "30—400元",
+        "estimatedValue": "参考价：30—400元",
         "rarity": "八级 少",
-        "thumbnail": "/images/coins/i-隋朝钱币/白钱-隋末/main.jpg"
+        "thumbnail": "/images/coins/i-隋朝钱币/白钱-隋末/thumb.webp"
       },
       "detail": {
         "castingTime": "隋末（约公元610年—618年）。据《中国钱币大辞典》记载，白钱为隋末因铜材不足而掺入白铜铸行的五铢钱。",
@@ -110,7 +110,7 @@
           {
             "variant": "大字版",
             "description": "面文\"五铢\"字体较大，笔划略粗，字口清晰",
-            "grade": "七级（较少） 美品",
+            "grade": "七级（甚少） 美品",
             "priceRange": "100—300元",
             "notes": "较少见"
           },

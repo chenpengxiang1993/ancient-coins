@@ -12,9 +12,9 @@
         "historicalPeriod": "西汉至东汉（公元前206年—公元220年）",
         "ruler": "两汉诸帝",
         "coreFeatures": "吉语花钱，如\"长乐未央\"\"常乐\"",
-        "estimatedValue": "500—50000元",
-        "rarity": "五级（稀贵）至七级（甚少）",
-        "thumbnail": "/images/coins/y-花钱_压胜钱/汉代花钱/main.jpg"
+        "estimatedValue": "参考价：500—50000元",
+        "rarity": "七级 甚少",
+        "thumbnail": "/images/coins/y-花钱_压胜钱/汉代花钱/thumb.webp"
       },
       "detail": {
         "castingTime": "西汉至东汉（约公元前206年—公元220年）。",
@@ -66,9 +66,9 @@
         "historicalPeriod": "唐代（公元618年—907年）",
         "ruler": "唐朝诸帝",
         "coreFeatures": "开元通宝吉语版，背铸星月花草纹",
-        "estimatedValue": "300—10000元",
-        "rarity": "六级（稀）至八级（较多）",
-        "thumbnail": "/images/coins/y-花钱_压胜钱/唐代花钱/main.jpg"
+        "estimatedValue": "参考价：300—10000元",
+        "rarity": "八级 少",
+        "thumbnail": "/images/coins/y-花钱_压胜钱/唐代花钱/thumb.webp"
       },
       "detail": {
         "castingTime": "唐代（公元618年—907年）。",
@@ -89,21 +89,21 @@
           {
             "variant": "开元通宝背星月",
             "description": "面文\"开元通宝\"四字对读（上下右左），背面铸星月纹（星点与弯月形）。直径约2.5厘米，为仿开元形制的厌胜花钱（行用开元通宝亦多见背星月，须结合形制与纹饰组合区分）",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "300—1,000元",
             "notes": "开元通宝背星月厌胜钱"
           },
           {
             "variant": "开元通宝背花草",
             "description": "面文\"开元通宝\"四字对读，背面铸花草纹（缠枝花卉等）。直径约2.5厘米，为唐代花钱中背饰花草纹的品种",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "500—3,000元",
             "notes": "开元通宝背花草"
           },
           {
             "variant": "吉语花钱",
             "description": "面文铸吉语（如\"长命富贵\"\"金玉满堂\"等），对读或旋读。直径约2.5厘米，为唐代花钱中以吉语为面文的品种",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "1,000—10,000元",
             "notes": "吉语花钱"
           }
@@ -120,9 +120,9 @@
         "historicalPeriod": "五代十国（公元907年—960年）",
         "ruler": "五代诸帝",
         "coreFeatures": "吉语花钱，铸量较少",
-        "estimatedValue": "500—5000元",
-        "rarity": "六级（稀）至七级（甚少）",
-        "thumbnail": "/images/coins/y-花钱_压胜钱/五代花钱/main.jpg"
+        "estimatedValue": "参考价：500—5000元",
+        "rarity": "八级 少",
+        "thumbnail": "/images/coins/y-花钱_压胜钱/五代花钱/thumb.webp"
       },
       "detail": {
         "castingTime": "五代十国时期（公元907年—960年）。",
@@ -143,14 +143,14 @@
           {
             "variant": "吉语类",
             "description": "面文铸吉语（如\"天下太平\"\"长命富贵\"等），四字吉语多旋读或直读。直径约2.5—3.0厘米，为五代花钱中以吉语为面文的品种",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "1,000—5,000元",
             "notes": "吉语文字"
           },
           {
             "variant": "年号类",
             "description": "面文铸年号钱文（以\"周元通宝\"厌胜钱最著名，背铸星月、龙凤或人物斩妖图案）。民间因周世宗毁佛铸钱之说，奉周元通宝为驱邪灵物。直径约2.5—3.0厘米",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "1,000—5,000元",
             "notes": "周元通宝厌胜钱为五代花钱代表品种"
           }
@@ -167,9 +167,9 @@
         "historicalPeriod": "北宋至南宋（公元960年—1279年）",
         "ruler": "两宋诸帝",
         "coreFeatures": "花钱鼎盛期，品种丰富，有吉语、生肖、八卦多种",
-        "estimatedValue": "200—30000元",
-        "rarity": "六级（稀）至九级（较多）",
-        "thumbnail": "/images/coins/y-花钱_压胜钱/宋代花钱/main.jpg"
+        "estimatedValue": "参考价：200—30000元",
+        "rarity": "八级 少",
+        "thumbnail": "/images/coins/y-花钱_压胜钱/宋代花钱/thumb.webp"
       },
       "detail": {
         "castingTime": "北宋至南宋（公元960年—1279年）。",
@@ -190,35 +190,35 @@
           {
             "variant": "吉语类",
             "description": "面文\"天下太平\"\"金玉满堂\"\"长命富贵\"等吉语，四字吉语多旋读，两字吉语多上下直读",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "500—3,000元",
             "notes": "吉语文字"
           },
           {
             "variant": "生肖类",
             "description": "背面铸十二生肖图案（鼠、牛、虎等动物），面文或铸生肖名称或吉语。直径约2.5—3.0厘米，为宋代花钱中饰生肖纹的品种",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "500—3,000元",
             "notes": "十二生肖图案"
           },
           {
             "variant": "八卦类",
             "description": "背面铸八卦图案（乾、坤、震、巽等卦象符号），面文或铸吉语。直径约2.5—3.0厘米，为宋代花钱中饰八卦纹的品种",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "500—3,000元",
             "notes": "八卦纹饰"
           },
           {
             "variant": "神仙人物类",
             "description": "背面铸神仙人物图案（如刘海戏金蟾、和合二仙等），面文或铸吉语。直径约2.5—3.0厘米，为宋代花钱中饰神仙人物纹的品种",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "1,000—5,000元",
             "notes": "神仙人物图案"
           },
           {
             "variant": "打马格钱",
             "description": "宋代特有的游戏钱，为\"打马\"博戏之棋子用具：面铸名马图像，背铸马名（如\"赤兔\"\"的卢\"\"乌骓\"等），间有历史人物故事图案",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "500—3,000元",
             "notes": "博戏用钱"
           }
@@ -235,9 +235,9 @@
         "historicalPeriod": "金朝（公元1115年—1234年）",
         "ruler": "金朝诸帝",
         "coreFeatures": "仿宋风格，背铸生肖或吉语",
-        "estimatedValue": "500—20000元",
-        "rarity": "六级（稀）至七级（甚少）",
-        "thumbnail": "/images/coins/y-花钱_压胜钱/金代花钱/main.jpg"
+        "estimatedValue": "参考价：500—20000元",
+        "rarity": "八级 少",
+        "thumbnail": "/images/coins/y-花钱_压胜钱/金代花钱/thumb.webp"
       },
       "detail": {
         "castingTime": "金朝（公元1115年—1234年）。",
@@ -258,14 +258,14 @@
           {
             "variant": "吉语类",
             "description": "面文铸吉语（如\"天下太平\"\"长命富贵\"等），四字吉语多旋读或直读。直径约2.5—3.0厘米，为金代花钱中以吉语为面文的品种，仿宋风格",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "1,000—5,000元",
             "notes": "吉语文字"
           },
           {
             "variant": "生肖类",
             "description": "背面铸十二生肖图案（动物纹饰），面文或铸吉语。直径约2.5—3.0厘米，为金代花钱中饰生肖纹的品种",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "1,000—5,000元",
             "notes": "生肖图案"
           }
@@ -282,9 +282,9 @@
         "historicalPeriod": "辽朝（公元916年—1125年）",
         "ruler": "辽朝诸帝",
         "coreFeatures": "铸工粗犷，有契丹风格",
-        "estimatedValue": "500—20000元",
-        "rarity": "五级（稀贵）至七级（甚少）",
-        "thumbnail": "/images/coins/y-花钱_压胜钱/辽代花钱/main.jpg"
+        "estimatedValue": "参考价：500—20000元",
+        "rarity": "七级 甚少",
+        "thumbnail": "/images/coins/y-花钱_压胜钱/辽代花钱/thumb.webp"
       },
       "detail": {
         "castingTime": "辽朝（公元916年—1125年）。",
@@ -329,9 +329,9 @@
         "historicalPeriod": "元朝（公元1271年—1368年）",
         "ruler": "元朝诸帝",
         "coreFeatures": "供养钱性质，寺观铸造",
-        "estimatedValue": "500—30000元",
-        "rarity": "五级（稀贵）至七级（甚少）",
-        "thumbnail": "/images/coins/y-花钱_压胜钱/元代花钱/main.jpg"
+        "estimatedValue": "参考价：500—30000元",
+        "rarity": "七级 甚少",
+        "thumbnail": "/images/coins/y-花钱_压胜钱/元代花钱/thumb.webp"
       },
       "detail": {
         "castingTime": "元朝（公元1271年—1368年）。",
@@ -383,9 +383,9 @@
         "historicalPeriod": "明朝（公元1368年—1644年）",
         "ruler": "明朝诸帝",
         "coreFeatures": "吉语花钱，如\"天下太平\"\"金玉满堂\"",
-        "estimatedValue": "100—10000元",
-        "rarity": "七级（甚少）至九级（较多）",
-        "thumbnail": "/images/coins/y-花钱_压胜钱/明代花钱/main.jpg"
+        "estimatedValue": "参考价：100—10000元",
+        "rarity": "八级 少",
+        "thumbnail": "/images/coins/y-花钱_压胜钱/明代花钱/thumb.webp"
       },
       "detail": {
         "castingTime": "明朝（公元1368年—1644年）。",
@@ -406,21 +406,21 @@
           {
             "variant": "吉语类",
             "description": "面文\"天下太平\"\"金玉满堂\"\"长命富贵\"等吉语，四字吉语多旋读，两字吉语多上下直读",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "300—2,000元",
             "notes": "吉语文字"
           },
           {
             "variant": "生肖类",
             "description": "背面铸十二生肖图案（十二动物纹饰），面文或铸吉语（如\"长命富贵\"\"金玉满堂\"）。直径约2.5—3.0厘米，为明代花钱中饰生肖纹的品种",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "500—3,000元",
             "notes": "生肖图案"
           },
           {
             "variant": "八卦类",
             "description": "背面铸八卦图案（乾、坤、震、巽等卦象符号），面文或铸吉语。直径约2.5—3.0厘米，为明代花钱中饰八卦纹的品种",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "500—3,000元",
             "notes": "八卦纹饰"
           }
@@ -437,9 +437,9 @@
         "historicalPeriod": "清朝（公元1644年—1911年）",
         "ruler": "清朝诸帝",
         "coreFeatures": "花钱最繁荣时期，种类极多，有宫钱、民俗钱",
-        "estimatedValue": "50—50000元",
-        "rarity": "七级（甚少）至十级（多泛）",
-        "thumbnail": "/images/coins/y-花钱_压胜钱/清代花钱/main.jpg"
+        "estimatedValue": "参考价：50—50000元",
+        "rarity": "九级 较多",
+        "thumbnail": "/images/coins/y-花钱_压胜钱/清代花钱/thumb.webp"
       },
       "detail": {
         "castingTime": "清朝（公元1644年—1911年）。",
@@ -460,35 +460,35 @@
           {
             "variant": "宫钱",
             "description": "朝廷铸行（宝泉局等官炉），面文如\"天下太平\"\"天子万年\"等宫廷吉语，用于宫殿挂灯、上梁、庆典、赏赐。铸工极精，大样、鎏金者价高",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "1,000—10,000元",
             "notes": "宫钱"
           },
           {
             "variant": "山鬼花钱",
             "description": "面文铸\"雷令山鬼敕令\"咒文（俗称山鬼），背铸八卦纹，民间用于辟邪。存世量大",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "100—1,000元",
             "notes": "山鬼花钱，普通品数十至数百元"
           },
           {
             "variant": "吉语类",
             "description": "面文\"金玉满堂\"\"长命富贵\"\"五子登科\"等吉语，四字吉语多旋读，两字吉语多上下直读",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "100—500元",
             "notes": "吉语文字，较常见"
           },
           {
             "variant": "生肖类",
             "description": "背面铸十二生肖图案（十二动物纹饰），面文或铸吉语。直径约2.5—3.0厘米，为清代花钱中饰生肖纹的品种",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "200—1,000元",
             "notes": "生肖图案"
           },
           {
             "variant": "八卦类",
             "description": "背面铸八卦图案（乾、坤、震、巽等卦象符号），面文或铸吉语。直径约2.5—3.0厘米，为清代花钱中饰八卦纹的品种",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "200—1,000元",
             "notes": "八卦纹饰"
           },
@@ -509,12 +509,12 @@
       "dynastyIndex": 18,
       "summary": {
         "name": "日本花钱",
-        "historicalPeriod": "日本江户时代",
+        "historicalPeriod": "日本江户时代（公元1603年—1868年）",
         "ruler": "日本幕府",
         "coreFeatures": "仿中国花钱风格，铸有吉语纹饰",
-        "estimatedValue": "100—5000元",
-        "rarity": "八级（较多）至九级（多）",
-        "thumbnail": "/images/coins/y-花钱_压胜钱/日本花钱/main.jpg"
+        "estimatedValue": "参考价：100—5000元",
+        "rarity": "八级 少",
+        "thumbnail": "/images/coins/y-花钱_压胜钱/日本花钱/thumb.webp"
       },
       "detail": {
         "castingTime": "日本江户时代（公元1603年—1868年）。",
@@ -535,14 +535,14 @@
           {
             "variant": "吉语类",
             "description": "面文铸吉语（如\"福寿\"\"长命\"等汉字吉语），直径约2.5—3.0厘米，为日本绘钱中以汉字吉语为面文的品种",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "200—1,000元",
             "notes": "吉语文字"
           },
           {
             "variant": "纹饰类",
             "description": "背面铸日本特色纹饰（如樱花、家纹、吉祥纹样等），面文或铸吉语。直径约2.5—3.0厘米，为日本绘钱中饰日本纹饰的品种",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "200—1,000元",
             "notes": "装饰纹样"
           }
@@ -559,9 +559,9 @@
         "historicalPeriod": "民国时期（公元1912年—1949年）",
         "ruler": "民国",
         "coreFeatures": "花钱尾声，多为民俗性质",
-        "estimatedValue": "50—3000元",
-        "rarity": "八级（较多）至十级（多泛）",
-        "thumbnail": "/images/coins/y-花钱_压胜钱/民国花钱/main.jpg"
+        "estimatedValue": "参考价：50—3000元",
+        "rarity": "九级 较多",
+        "thumbnail": "/images/coins/y-花钱_压胜钱/民国花钱/thumb.webp"
       },
       "detail": {
         "castingTime": "民国时期（公元1912年—1949年）。",
@@ -582,14 +582,14 @@
           {
             "variant": "吉语类",
             "description": "面文\"金玉满堂\"\"长命富贵\"等吉语，四字吉语多旋读，两字吉语多上下直读",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "100—500元",
             "notes": "吉语文字"
           },
           {
             "variant": "纪念类",
             "description": "面文铸纪念文字（如\"民国纪念\"\"共和万岁\"等），直径约2.5—3.0厘米，为民国时期铸行的纪念性花钱，反映了时代特征",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "200—1,000元",
             "notes": "纪念题材"
           }

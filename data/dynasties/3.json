@@ -9,12 +9,12 @@
       "dynastyIndex": 3,
       "summary": {
         "name": "魏五铢",
-        "historicalPeriod": "曹魏（约220年—265年）",
+        "historicalPeriod": "曹魏（约公元220年—265年）",
         "ruler": "魏明帝曹叡",
         "coreFeatures": "沿用汉代五铢钱制；铸工较粗；\"五\"字交笔弯曲",
-        "estimatedValue": "20—300元",
+        "estimatedValue": "参考价：20—300元",
         "rarity": "九级 较多",
-        "thumbnail": "/images/coins/e-三国钱币/魏五铢/main.jpg"
+        "thumbnail": "/images/coins/e-三国钱币/魏五铢/thumb.webp"
       },
       "detail": {
         "castingTime": "曹魏时期（约公元220年—265年）。魏文帝黄初二年（公元221年）一度复行五铢，同年十月因谷贵罢废，民间以谷帛为市；明帝太和元年（公元227年）复行五铢钱（《三国志·魏书》），魏地续铸之五铢形制承汉五铢而铸工稍粗，泉界习称\"魏五铢\"。",
@@ -63,12 +63,12 @@
       "dynastyIndex": 3,
       "summary": {
         "name": "蜀五铢",
-        "historicalPeriod": "蜀汉（约214年—263年）",
+        "historicalPeriod": "蜀汉（约公元214年—263年）",
         "ruler": "昭烈帝刘备",
         "coreFeatures": "面文\"五铢\"；体形较小；\"五\"字交笔较直；蜀汉政权铸行",
-        "estimatedValue": "30—500元",
+        "estimatedValue": "参考价：30—500元",
         "rarity": "九级 较多",
-        "thumbnail": "/images/coins/e-三国钱币/蜀五铢/main.jpg"
+        "thumbnail": "/images/coins/e-三国钱币/蜀五铢/thumb.webp"
       },
       "detail": {
         "castingTime": "蜀汉时期（约公元214年—263年）。据《中国钱币大辞典》记载，蜀汉沿行五铢钱制，在四川地区铸行五铢钱。",
@@ -117,12 +117,12 @@
       "dynastyIndex": 3,
       "summary": {
         "name": "直百五铢",
-        "historicalPeriod": "蜀汉建安十九年（214年）",
+        "historicalPeriod": "蜀汉建安十九年（公元214年）",
         "ruler": "昭烈帝刘备",
         "coreFeatures": "面文\"直百五铢\"；一当百枚五铢；虚值大钱；背有\"为\"字者为犍为郡铸",
-        "estimatedValue": "10—1,000元（减重小样十余元，光背普品数百元，背\"为\"犍为版近千元）",
+        "estimatedValue": "参考价：10—1,000元（减重小样十余元，光背普品数百元，背\"为\"犍为版近千元）",
         "rarity": "八级 少",
-        "thumbnail": "/images/coins/e-三国钱币/直百五铢/main.jpg"
+        "thumbnail": "/images/coins/e-三国钱币/直百五铢/thumb.webp"
       },
       "detail": {
         "castingTime": "蜀汉建安十九年（公元214年）。据《三国志·蜀书》记载，刘备入蜀后铸行直百五铢，以解决军费不足的问题。",
@@ -157,7 +157,7 @@
           {
             "variant": "减重型（晚期）",
             "description": "体小轻薄，直径约2.0cm，重约2—3g。为蜀汉后期减重铸行",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "10—50元",
             "notes": "减重版较常见"
           },
@@ -185,12 +185,12 @@
       "dynastyIndex": 3,
       "summary": {
         "name": "太平百钱",
-        "historicalPeriod": "蜀汉（约214年—250年）",
+        "historicalPeriod": "蜀汉（约公元214年—250年）",
         "ruler": "蜀汉",
         "coreFeatures": "面文\"太平百钱\"；一当百枚五铢；铸行时间较长",
-        "estimatedValue": "50—3,000元（减重小样数十元，光背普品二三百元，水波纹版可达数千元）",
+        "estimatedValue": "参考价：50—3,000元（减重小样数十元，光背普品二三百元，水波纹版可达数千元）",
         "rarity": "八级 少",
-        "thumbnail": "/images/coins/e-三国钱币/太平百钱/main.jpg"
+        "thumbnail": "/images/coins/e-三国钱币/太平百钱/thumb.webp"
       },
       "detail": {
         "castingTime": "蜀汉时期（约公元214年—250年）。铸主旧有争议（一说刘璋据蜀时期，一说刘备入蜀后）；1980年成都西门外出土太平百钱钱范，证实其铸于蜀地。",
@@ -239,12 +239,12 @@
       "dynastyIndex": 3,
       "summary": {
         "name": "世平百钱",
-        "historicalPeriod": "蜀汉时期",
+        "historicalPeriod": "蜀汉（约公元214年前后始铸）",
         "ruler": "蜀汉",
         "coreFeatures": "面文\"世平百钱\"；一当百枚五铢；存世较少",
-        "estimatedValue": "1,000—10,000元（存世极罕，早年参考价约1,800元，无稳定成交记录）",
+        "estimatedValue": "参考价：1,000—10,000元（存世极罕，早年参考价约1,800元，无稳定成交记录）",
         "rarity": "六级 稀",
-        "thumbnail": "/images/coins/e-三国钱币/世平百钱/main.jpg"
+        "thumbnail": "/images/coins/e-三国钱币/世平百钱/thumb.webp"
       },
       "detail": {
         "castingTime": "蜀汉时期（约建安十九年前后始铸）。据《中国钱币大辞典》记载，世平百钱与太平百钱同系列，\"世\"\"太\"古字通假。存世极罕，国内权威古泉图谱鲜有著录（据百度百科\"世平百钱\"）。",
@@ -286,12 +286,12 @@
       "dynastyIndex": 3,
       "summary": {
         "name": "直一钱",
-        "historicalPeriod": "蜀汉时期",
+        "historicalPeriod": "蜀汉（约公元221年—263年）",
         "ruler": "蜀汉",
         "coreFeatures": "面文\"直一\"；小型辅币；铸工较粗；蜀汉\"微钱币\"中的名誉品",
-        "estimatedValue": "300—1,500元（蜀汉微钱名誉品，市价可十倍于直百钱）",
+        "estimatedValue": "参考价：300—1,500元（蜀汉微钱名誉品，市价可十倍于直百钱）",
         "rarity": "七级 甚少",
-        "thumbnail": "/images/coins/e-三国钱币/直一钱/main.jpg"
+        "thumbnail": "/images/coins/e-三国钱币/直一钱/thumb.webp"
       },
       "detail": {
         "castingTime": "蜀汉时期。据《中国钱币大辞典》记载，直一钱为蜀汉铸行的小型辅币。",
@@ -333,12 +333,12 @@
       "dynastyIndex": 3,
       "summary": {
         "name": "直百钱",
-        "historicalPeriod": "蜀汉时期",
+        "historicalPeriod": "蜀汉后期（约公元235年—263年）",
         "ruler": "蜀汉",
         "coreFeatures": "面文\"直百\"；一当百枚五铢；小型虚值钱",
-        "estimatedValue": "50—500元",
+        "estimatedValue": "参考价：50—500元",
         "rarity": "八级 少",
-        "thumbnail": "/images/coins/e-三国钱币/直百钱/main.jpg"
+        "thumbnail": "/images/coins/e-三国钱币/直百钱/thumb.webp"
       },
       "detail": {
         "castingTime": "蜀汉后期（约建兴十三年至炎兴元年，公元235—263年）。据《中国钱币大辞典》记载，直百钱为直百五铢之省文减重续铸，面文省去\"五铢\"而面值仍当百（据百度百科\"直百\"词条）。",
@@ -366,7 +366,7 @@
           {
             "variant": "大字型",
             "description": "面文\"直百\"二字字体较大，笔画粗壮，字口深峻，文字布局饱满。直径约2.0cm，为直百钱中文字较大的品种，铸工较精",
-            "grade": "七级（较少） 美品",
+            "grade": "七级（甚少） 美品",
             "priceRange": "200—500元",
             "notes": "较少见"
           }
@@ -380,12 +380,12 @@
       "dynastyIndex": 3,
       "summary": {
         "name": "定平一百",
-        "historicalPeriod": "蜀汉时期",
+        "historicalPeriod": "蜀汉（约公元221年—263年）",
         "ruler": "蜀汉",
         "coreFeatures": "面文\"定平一百\"；一当百枚五铢；存世较少",
-        "estimatedValue": "200—5,000元（普品二三百元，评级美品千元级）",
+        "estimatedValue": "参考价：200—5,000元（普品二三百元，评级美品千元级）",
         "rarity": "七级 甚少",
-        "thumbnail": "/images/coins/e-三国钱币/定平一百/main.jpg"
+        "thumbnail": "/images/coins/e-三国钱币/定平一百/thumb.webp"
       },
       "detail": {
         "castingTime": "蜀汉时期。据《中国钱币大辞典》记载，定平一百为蜀汉后期铸行的虚值大钱。",
@@ -434,12 +434,12 @@
       "dynastyIndex": 3,
       "summary": {
         "name": "大泉五百",
-        "historicalPeriod": "东吴嘉禾五年（236年）",
+        "historicalPeriod": "东吴嘉禾五年（公元236年）",
         "ruler": "大帝孙权",
         "coreFeatures": "面文\"大泉五百\"；一当五百枚五铢；虚值大钱",
-        "estimatedValue": "300—5,000元",
+        "estimatedValue": "参考价：300—5,000元",
         "rarity": "七级 甚少",
-        "thumbnail": "/images/coins/e-三国钱币/大泉五百/main.jpg"
+        "thumbnail": "/images/coins/e-三国钱币/大泉五百/thumb.webp"
       },
       "detail": {
         "castingTime": "东吴嘉禾五年（公元236年）。据《三国志·吴书》，嘉禾五年春\"铸大钱，一当五百\"，为东吴虚值大钱系列之始。",
@@ -488,12 +488,12 @@
       "dynastyIndex": 3,
       "summary": {
         "name": "大泉当千",
-        "historicalPeriod": "东吴赤乌元年（238年）",
+        "historicalPeriod": "东吴赤乌元年（公元238年）",
         "ruler": "大帝孙权",
         "coreFeatures": "面文\"大泉当千\"；一当千枚五铢；虚值大钱；铸工较精",
-        "estimatedValue": "200—8,000元（减重小样二三百元，普品数百至数千元，大样美品数千元）",
+        "estimatedValue": "参考价：200—8,000元（减重小样二三百元，普品数百至数千元，大样美品数千元）",
         "rarity": "七级 甚少",
-        "thumbnail": "/images/coins/e-三国钱币/大泉当千/main.jpg"
+        "thumbnail": "/images/coins/e-三国钱币/大泉当千/thumb.webp"
       },
       "detail": {
         "castingTime": "东吴赤乌元年（公元238年）。据《三国志·吴书》，赤乌元年春\"铸当千大钱\"，继大泉五百之后铸行。",
@@ -514,7 +514,7 @@
           {
             "variant": "标准型大泉当千",
             "description": "直径3.2—3.5cm。面文\"大泉当千\"仿新莽悬针篆，四字旋读，铸工较精",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "300—2,500元",
             "notes": "存世较多，品相决定价格"
           },
@@ -528,7 +528,7 @@
           {
             "variant": "合背型",
             "description": "两面均为面文\"大泉当千\"，为合范时误用两面母范所致。较少见",
-            "grade": "七级（较少） 美品",
+            "grade": "七级（甚少） 美品",
             "priceRange": "3,000—8,000元",
             "notes": "较为少见"
           },
@@ -549,12 +549,12 @@
       "dynastyIndex": 3,
       "summary": {
         "name": "大泉二千",
-        "historicalPeriod": "东吴赤乌年间（238—251年）",
+        "historicalPeriod": "东吴赤乌年间（公元238年—251年）",
         "ruler": "大帝孙权",
         "coreFeatures": "面文\"大泉二千\"；一当二千枚五铢；存世稀少",
-        "estimatedValue": "5,000—60,000元（普品万元级，评级高分美品可达3万元级）",
+        "estimatedValue": "参考价：5,000—60,000元（普品万元级，评级高分美品可达3万元级）",
         "rarity": "五级 稀贵",
-        "thumbnail": "/images/coins/e-三国钱币/大泉二千/main.jpg"
+        "thumbnail": "/images/coins/e-三国钱币/大泉二千/thumb.webp"
       },
       "detail": {
         "castingTime": "东吴赤乌年间（公元238年—251年）。据《中国钱币大辞典》记载，大泉二千为东吴虚值大钱系列中面值较高的品种。",
@@ -596,12 +596,12 @@
       "dynastyIndex": 3,
       "summary": {
         "name": "大泉五千",
-        "historicalPeriod": "东吴赤乌年间（238—251年）",
+        "historicalPeriod": "东吴赤乌年间（公元238年—251年）",
         "ruler": "大帝孙权",
         "coreFeatures": "面文\"大泉五千\"；一当五千枚五铢；存世极罕；古泉名珍",
-        "estimatedValue": "200,000—600,000元（存世极罕，一说仅存数枚；2011年嘉德秋拍估价二十至三十五万元未成交，价格为参考估值）",
+        "estimatedValue": "参考价：200,000—600,000元（存世极罕，一说仅存数枚；2011年嘉德秋拍估价二十至三十五万元未成交，价格为参考估值）",
         "rarity": "二级 珍",
-        "thumbnail": "/images/coins/e-三国钱币/大泉五千/main.jpg"
+        "thumbnail": "/images/coins/e-三国钱币/大泉五千/thumb.webp"
       },
       "detail": {
         "castingTime": "东吴赤乌年间（公元238年—251年）。据《中国钱币大辞典》记载，大泉五千是东吴虚值大钱系列中面值最大者。",

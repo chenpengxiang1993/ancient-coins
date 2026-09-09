@@ -9,12 +9,12 @@
       "dynastyIndex": 10,
       "summary": {
         "name": "宋元通宝",
-        "historicalPeriod": "北宋（960年）",
+        "historicalPeriod": "北宋（公元960年）",
         "ruler": "太祖赵匡胤",
         "coreFeatures": "北宋开国钱，仿周元通宝风格",
-        "estimatedValue": "3—500元",
-        "rarity": "十级（多泛）",
-        "thumbnail": "/images/coins/m-北宋钱币/宋元通宝/main.jpg"
+        "estimatedValue": "参考价：3—500元",
+        "rarity": "十级 多泛",
+        "thumbnail": "/images/coins/m-北宋钱币/宋元通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "宋太祖赵匡胤建隆元年（公元960年）。",
@@ -42,7 +42,7 @@
           {
             "variant": "背星月版",
             "description": "背面铸有星纹（圆点）或月纹（弯月形），多位于穿孔一侧。面文\"宋元通宝\"四字对读（上下右左），楷书规整，直径约2.5cm，背星月者较为少见",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "30—200元",
             "notes": "背星月较少见"
           },
@@ -63,12 +63,12 @@
       "dynastyIndex": 10,
       "summary": {
         "name": "太平通宝",
-        "historicalPeriod": "北宋（976年）",
+        "historicalPeriod": "北宋（公元976年）",
         "ruler": "太宗赵光义",
         "coreFeatures": "中国第一种年号钱",
-        "estimatedValue": "3—500元",
-        "rarity": "十级（多泛）",
-        "thumbnail": "/images/coins/m-北宋钱币/太平通宝/main.jpg"
+        "estimatedValue": "参考价：3—500元",
+        "rarity": "十级 多泛",
+        "thumbnail": "/images/coins/m-北宋钱币/太平通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "宋太宗赵光义太平兴国年间（公元976年—984年）。",
@@ -110,12 +110,12 @@
       "dynastyIndex": 10,
       "summary": {
         "name": "淳化元宝",
-        "historicalPeriod": "北宋（990年）",
+        "historicalPeriod": "北宋（公元990年）",
         "ruler": "太宗赵光义",
         "coreFeatures": "中国最早御书钱，真行草三体",
-        "estimatedValue": "5—30,000元",
-        "rarity": "九级（较多）",
-        "thumbnail": "/images/coins/m-北宋钱币/淳化元宝/main.jpg"
+        "estimatedValue": "参考价：5—30,000元",
+        "rarity": "九级 较多",
+        "thumbnail": "/images/coins/m-北宋钱币/淳化元宝/thumb.webp"
       },
       "detail": {
         "castingTime": "宋太宗赵光义淳化年间（公元990年—994年）。",
@@ -136,21 +136,21 @@
           {
             "variant": "小平楷书版",
             "description": "楷书面文\"淳化元宝\"，四字旋读，为宋太宗御书。直径约2.4cm",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "5—20元",
             "notes": "宋太宗御书钱"
           },
           {
             "variant": "小平行书版",
             "description": "行书面文\"淳化元宝\"，四字旋读，为宋太宗御书。直径约2.4cm",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "5—20元",
             "notes": "行书版与楷书、草书配对"
           },
           {
             "variant": "小平草书版",
             "description": "草书面文\"淳化元宝\"，四字旋读，为宋太宗御书。直径约2.4cm",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "5—20元",
             "notes": "草书版为御书三体之一"
           },
@@ -171,7 +171,7 @@
           {
             "variant": "铁母（铜质母钱）",
             "description": "铁钱的母钱，铜质精良，文字深峻。极为珍贵",
-            "grade": "三级（罕）",
+            "grade": "三级（罕贵）",
             "priceRange": "5,000—30,000元",
             "notes": "铁母极珍贵"
           }
@@ -185,12 +185,12 @@
       "dynastyIndex": 10,
       "summary": {
         "name": "至道元宝",
-        "historicalPeriod": "北宋（995年）",
+        "historicalPeriod": "北宋（公元995年）",
         "ruler": "太宗赵光义",
         "coreFeatures": "御书三体（真、行、草）",
-        "estimatedValue": "3—30,000元",
-        "rarity": "十级（多泛）",
-        "thumbnail": "/images/coins/m-北宋钱币/至道元宝/main.jpg"
+        "estimatedValue": "参考价：3—30,000元",
+        "rarity": "十级 多泛",
+        "thumbnail": "/images/coins/m-北宋钱币/至道元宝/thumb.webp"
       },
       "detail": {
         "castingTime": "宋太宗赵光义至道年间（公元995年—997年）。",
@@ -239,7 +239,7 @@
           {
             "variant": "铁母（铜质母钱）",
             "description": "铁钱的母钱，铜质精良。极为珍贵",
-            "grade": "三级（罕）",
+            "grade": "三级（罕贵）",
             "priceRange": "5,000—30,000元",
             "notes": "铁母极珍贵"
           }
@@ -253,12 +253,12 @@
       "dynastyIndex": 10,
       "summary": {
         "name": "咸平元宝",
-        "historicalPeriod": "北宋（998年）",
+        "historicalPeriod": "北宋（公元998年）",
         "ruler": "真宗赵恒",
         "coreFeatures": "楷书，铸量大",
-        "estimatedValue": "3—100元",
-        "rarity": "十级（多泛）",
-        "thumbnail": "/images/coins/m-北宋钱币/咸平元宝/main.jpg"
+        "estimatedValue": "参考价：3—100元",
+        "rarity": "十级 多泛",
+        "thumbnail": "/images/coins/m-北宋钱币/咸平元宝/thumb.webp"
       },
       "detail": {
         "castingTime": "宋真宗赵恒咸平年间（公元998年—1003年）。",
@@ -286,14 +286,14 @@
           {
             "variant": "阔缘版",
             "description": "外廓（缘）较宽，面文\"咸平元宝\"四字旋读，楷书文字居中、边缘留白较多，外廓规整。直径约2.4cm，为咸平元宝中缘宽较阔的品种",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "20—100元",
             "notes": "阔缘版较少见"
           },
           {
             "variant": "大字版",
             "description": "面文\"咸平元宝\"四字字体较大，楷书笔画粗壮、字口深峻，文字布局饱满。直径约2.4cm，为咸平元宝中文字较大的品种",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "20—100元",
             "notes": "大字版较少见"
           }
@@ -307,12 +307,12 @@
       "dynastyIndex": 10,
       "summary": {
         "name": "景德元宝",
-        "historicalPeriod": "北宋（1004年）",
+        "historicalPeriod": "北宋（公元1004年）",
         "ruler": "真宗赵恒",
         "coreFeatures": "楷书，铸量大",
-        "estimatedValue": "3—100元",
-        "rarity": "十级（多泛）",
-        "thumbnail": "/images/coins/m-北宋钱币/景德元宝/main.jpg"
+        "estimatedValue": "参考价：3—100元",
+        "rarity": "十级 多泛",
+        "thumbnail": "/images/coins/m-北宋钱币/景德元宝/thumb.webp"
       },
       "detail": {
         "castingTime": "宋真宗赵恒景德年间（公元1004年—1007年）。",
@@ -340,14 +340,14 @@
           {
             "variant": "阔缘版",
             "description": "外廓（缘）较宽，面文\"景德元宝\"四字旋读，楷书文字居中、边缘留白较多，外廓规整。直径约2.4cm，为景德元宝中缘宽较阔的品种",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "20—100元",
             "notes": "阔缘版较少见"
           },
           {
             "variant": "大字版",
             "description": "面文\"景德元宝\"四字字体较大，楷书笔画粗壮、字口深峻，文字布局饱满。直径约2.4cm，为景德元宝中文字较大的品种",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "20—100元",
             "notes": "大字版较少见"
           }
@@ -361,12 +361,12 @@
       "dynastyIndex": 10,
       "summary": {
         "name": "祥符通宝",
-        "historicalPeriod": "北宋（1008年）",
+        "historicalPeriod": "北宋（公元1008年）",
         "ruler": "真宗赵恒",
         "coreFeatures": "楷书，铸量大",
-        "estimatedValue": "3—100元",
-        "rarity": "十级（多泛）",
-        "thumbnail": "/images/coins/m-北宋钱币/祥符通宝/main.jpg"
+        "estimatedValue": "参考价：3—100元",
+        "rarity": "十级 多泛",
+        "thumbnail": "/images/coins/m-北宋钱币/祥符通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "宋真宗赵恒大中祥符年间（公元1008年—1016年）。",
@@ -394,14 +394,14 @@
           {
             "variant": "大字版",
             "description": "面文\"祥符通宝\"四字字体较大，楷书笔画粗壮、字口深峻，文字布局饱满。直径约2.4cm，为祥符通宝中文字较大的品种",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "20—100元",
             "notes": "大字版较少见"
           },
           {
             "variant": "阔缘版",
             "description": "外廓（缘）较宽，面文\"祥符通宝\"四字对读，楷书文字居中、边缘留白较多，外廓规整。直径约2.4cm，为祥符通宝中缘宽较阔的品种",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "20—100元",
             "notes": "阔缘版较少见"
           }
@@ -415,12 +415,12 @@
       "dynastyIndex": 10,
       "summary": {
         "name": "祥符元宝",
-        "historicalPeriod": "北宋（1008年）",
+        "historicalPeriod": "北宋（公元1008年）",
         "ruler": "真宗赵恒",
         "coreFeatures": "楷书，铸量大",
-        "estimatedValue": "3—100元",
-        "rarity": "十级（多泛）",
-        "thumbnail": "/images/coins/m-北宋钱币/祥符元宝/main.jpg"
+        "estimatedValue": "参考价：3—100元",
+        "rarity": "十级 多泛",
+        "thumbnail": "/images/coins/m-北宋钱币/祥符元宝/thumb.webp"
       },
       "detail": {
         "castingTime": "宋真宗赵恒大中祥符年间（公元1008年—1016年）。",
@@ -448,14 +448,14 @@
           {
             "variant": "大字版",
             "description": "面文\"祥符元宝\"四字字体较大，楷书笔画粗壮、字口深峻，文字布局饱满。直径约2.4cm，为祥符元宝中文字较大的品种",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "20—100元",
             "notes": "大字版较少见"
           },
           {
             "variant": "阔缘版",
             "description": "外廓（缘）较宽，面文\"祥符元宝\"四字旋读，楷书文字居中、边缘留白较多，外廓规整。直径约2.4cm，为祥符元宝中缘宽较阔的品种",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "20—100元",
             "notes": "阔缘版较少见"
           }
@@ -469,12 +469,12 @@
       "dynastyIndex": 10,
       "summary": {
         "name": "天禧通宝",
-        "historicalPeriod": "北宋（1017年）",
+        "historicalPeriod": "北宋（公元1017年）",
         "ruler": "真宗赵恒",
         "coreFeatures": "楷书，铸量大",
-        "estimatedValue": "3—100元",
-        "rarity": "十级（多泛）",
-        "thumbnail": "/images/coins/m-北宋钱币/天禧通宝/main.jpg"
+        "estimatedValue": "参考价：3—100元",
+        "rarity": "十级 多泛",
+        "thumbnail": "/images/coins/m-北宋钱币/天禧通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "宋真宗赵恒天禧年间（公元1017年—1021年）。",
@@ -502,14 +502,14 @@
           {
             "variant": "大字版",
             "description": "面文\"天禧通宝\"四字字体较大，楷书笔画粗壮、字口深峻，文字布局饱满。直径约2.4cm，为天禧通宝中文字较大的品种",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "20—100元",
             "notes": "大字版较少见"
           },
           {
             "variant": "阔缘版",
             "description": "外廓（缘）较宽，面文\"天禧通宝\"四字对读，楷书文字居中、边缘留白较多，外廓规整。直径约2.4cm，为天禧通宝中缘宽较阔的品种",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "20—100元",
             "notes": "阔缘版较少见"
           }
@@ -523,12 +523,12 @@
       "dynastyIndex": 10,
       "summary": {
         "name": "天圣元宝",
-        "historicalPeriod": "北宋（1023年）",
+        "historicalPeriod": "北宋（公元1023年）",
         "ruler": "仁宗赵祯",
         "coreFeatures": "篆楷对钱",
-        "estimatedValue": "3—10元",
-        "rarity": "十级（多泛）",
-        "thumbnail": "/images/coins/m-北宋钱币/天圣元宝/main.jpg"
+        "estimatedValue": "参考价：3—10元",
+        "rarity": "十级 多泛",
+        "thumbnail": "/images/coins/m-北宋钱币/天圣元宝/thumb.webp"
       },
       "detail": {
         "castingTime": "宋仁宗赵祯天圣年间（公元1023年—1032年）。",
@@ -570,12 +570,12 @@
       "dynastyIndex": 10,
       "summary": {
         "name": "明道元宝",
-        "historicalPeriod": "北宋（1032年）",
+        "historicalPeriod": "北宋（公元1032年）",
         "ruler": "仁宗赵祯",
         "coreFeatures": "篆楷对钱",
-        "estimatedValue": "3—10元",
-        "rarity": "十级（多泛）",
-        "thumbnail": "/images/coins/m-北宋钱币/明道元宝/main.jpg"
+        "estimatedValue": "参考价：3—10元",
+        "rarity": "十级 多泛",
+        "thumbnail": "/images/coins/m-北宋钱币/明道元宝/thumb.webp"
       },
       "detail": {
         "castingTime": "宋仁宗赵祯明道年间（公元1032年—1033年）。",
@@ -617,12 +617,12 @@
       "dynastyIndex": 10,
       "summary": {
         "name": "景祐元宝",
-        "historicalPeriod": "北宋（1034年）",
+        "historicalPeriod": "北宋（公元1034年）",
         "ruler": "仁宗赵祯",
         "coreFeatures": "篆楷对钱",
-        "estimatedValue": "3—10元",
-        "rarity": "十级（多泛）",
-        "thumbnail": "/images/coins/m-北宋钱币/景祐元宝/main.jpg"
+        "estimatedValue": "参考价：3—10元",
+        "rarity": "十级 多泛",
+        "thumbnail": "/images/coins/m-北宋钱币/景祐元宝/thumb.webp"
       },
       "detail": {
         "castingTime": "宋仁宗赵祯景祐年间（公元1034年—1038年）。",
@@ -664,12 +664,12 @@
       "dynastyIndex": 10,
       "summary": {
         "name": "皇宋通宝",
-        "historicalPeriod": "北宋（1039年）",
+        "historicalPeriod": "北宋（公元1039年）",
         "ruler": "仁宗赵祯",
         "coreFeatures": "非年号钱，九叠篆为极品珍品",
-        "estimatedValue": "3—500,000元",
-        "rarity": "十级（多泛）/一级（大珍）",
-        "thumbnail": "/images/coins/m-北宋钱币/皇宋通宝/main.jpg"
+        "estimatedValue": "参考价：3—500,000元",
+        "rarity": "十级 多泛/一级 大珍",
+        "thumbnail": "/images/coins/m-北宋钱币/皇宋通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "宋仁宗赵祯宝元二年（公元1039年）始铸。",
@@ -711,7 +711,7 @@
           {
             "variant": "折二楷书版",
             "description": "折二型，直径约2.8cm。楷书面文",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "10—50元",
             "notes": "折二型"
           }
@@ -725,12 +725,12 @@
       "dynastyIndex": 10,
       "summary": {
         "name": "康定元宝",
-        "historicalPeriod": "北宋（1040年）",
+        "historicalPeriod": "北宋（公元1040年）",
         "ruler": "仁宗赵祯",
         "coreFeatures": "铁钱为主，存世较少",
-        "estimatedValue": "500—150,000元",
-        "rarity": "四级（罕）",
-        "thumbnail": "/images/coins/m-北宋钱币/康定元宝/main.jpg"
+        "estimatedValue": "参考价：500—150,000元",
+        "rarity": "四级 珍罕",
+        "thumbnail": "/images/coins/m-北宋钱币/康定元宝/thumb.webp"
       },
       "detail": {
         "castingTime": "宋仁宗赵祯康定元年（公元1040年）。",
@@ -751,14 +751,14 @@
           {
             "variant": "铁钱",
             "description": "铁质，钱面\"康定元宝\"四字旋读，楷书笔画规整，铁质氧化后呈深褐色锈蚀。直径约2.5cm，为康定元宝的主要铸行品种，铁钱铸工尚可",
-            "grade": "四级（罕）",
+            "grade": "四级（珍罕）",
             "priceRange": "500—3,000元",
             "notes": "铁钱，品相决定价格"
           },
           {
             "variant": "铜品",
             "description": "铜质，钱面\"康定元宝\"四字旋读，楷书笔画规整，青铜质地。直径约2.5cm，康定元宝以铁钱为主，铜品存世极罕，为北宋铜铁并行的名品",
-            "grade": "四级（罕） 美品以上",
+            "grade": "四级（珍罕） 美品以上",
             "priceRange": "50000—150000元",
             "notes": "极罕见"
           }
@@ -772,12 +772,12 @@
       "dynastyIndex": 10,
       "summary": {
         "name": "庆历重宝",
-        "historicalPeriod": "北宋（1041年）",
+        "historicalPeriod": "北宋（公元1041年）",
         "ruler": "仁宗赵祯",
         "coreFeatures": "当十钱，铜铁并行",
-        "estimatedValue": "20—500元",
-        "rarity": "十级（多泛）",
-        "thumbnail": "/images/coins/m-北宋钱币/庆历重宝/main.jpg"
+        "estimatedValue": "参考价：20—500元",
+        "rarity": "十级 多泛",
+        "thumbnail": "/images/coins/m-北宋钱币/庆历重宝/thumb.webp"
       },
       "detail": {
         "castingTime": "宋仁宗赵祯庆历年间（公元1041年—1048年）。",
@@ -805,21 +805,21 @@
           {
             "variant": "铜品当十旋读版",
             "description": "青铜铸造，面文\"庆历重宝\"四字旋读（上右下左），楷书笔画端庄，\"庆\"字\"广\"部宽大，\"历\"字\"厂\"部端正，\"重\"字横画平直，\"宝\"字\"贝\"部方正。铜质精良，铸工较精。较直读版少见，直径约3.0—3.4cm，重约8—12g",
-            "grade": "七级（较少） 美品",
+            "grade": "七级（甚少） 美品",
             "priceRange": "100—300元",
             "notes": "较少见"
           },
           {
             "variant": "铁品当十直读版",
             "description": "铁质铸造，面文\"庆历重宝\"四字直读，笔画较铜品粗放，呈黑褐色。铁质易锈蚀，保存完好者较少，直径约3.0—3.4cm，重约8—12g",
-            "grade": "八级（较多） 美品",
+            "grade": "八级（少） 美品",
             "priceRange": "100—300元",
             "notes": "铁质易锈"
           },
           {
             "variant": "铁品当十旋读版",
             "description": "铁质铸造，面文\"庆历重宝\"四字旋读（上右下左），笔画较铜品粗放，呈黑褐色。铁质易锈蚀，保存完好者较少，直径约3.0—3.4cm，重约8—12g",
-            "grade": "七级（较少） 美品",
+            "grade": "七级（甚少） 美品",
             "priceRange": "200—500元",
             "notes": "较少见"
           }
@@ -833,12 +833,12 @@
       "dynastyIndex": 10,
       "summary": {
         "name": "至和元宝",
-        "historicalPeriod": "北宋（1054年）",
+        "historicalPeriod": "北宋（公元1054年）",
         "ruler": "仁宗赵祯",
         "coreFeatures": "篆楷对钱",
-        "estimatedValue": "5—20元",
-        "rarity": "十级（多泛）",
-        "thumbnail": "/images/coins/m-北宋钱币/至和元宝/main.jpg"
+        "estimatedValue": "参考价：5—20元",
+        "rarity": "十级 多泛",
+        "thumbnail": "/images/coins/m-北宋钱币/至和元宝/thumb.webp"
       },
       "detail": {
         "castingTime": "宋仁宗赵祯至和年间（公元1054年—1056年）。",
@@ -859,14 +859,14 @@
           {
             "variant": "小平楷书版",
             "description": "楷书面文\"至和元宝\"，四字旋读。直径约2.4cm",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "5—20元",
             "notes": "楷书版较常见"
           },
           {
             "variant": "小平篆书版",
             "description": "篆书面文，四字旋读。直径约2.4cm",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "5—20元",
             "notes": "篆书版"
           }
@@ -880,12 +880,12 @@
       "dynastyIndex": 10,
       "summary": {
         "name": "至和通宝",
-        "historicalPeriod": "北宋（1054年）",
+        "historicalPeriod": "北宋（公元1054年）",
         "ruler": "仁宗赵祯",
         "coreFeatures": "篆楷对钱",
-        "estimatedValue": "5—20元",
-        "rarity": "十级（多泛）",
-        "thumbnail": "/images/coins/m-北宋钱币/至和通宝/main.jpg"
+        "estimatedValue": "参考价：5—20元",
+        "rarity": "十级 多泛",
+        "thumbnail": "/images/coins/m-北宋钱币/至和通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "宋仁宗赵祯至和年间（公元1054年—1056年）。",
@@ -906,14 +906,14 @@
           {
             "variant": "小平楷书版",
             "description": "楷书面文\"至和通宝\"，四字对读。直径约2.4cm",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "5—20元",
             "notes": "楷书版较常见"
           },
           {
             "variant": "小平篆书版",
             "description": "篆书面文，四字对读。直径约2.4cm",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "5—20元",
             "notes": "篆书版"
           }
@@ -927,12 +927,12 @@
       "dynastyIndex": 10,
       "summary": {
         "name": "至和重宝",
-        "historicalPeriod": "北宋（1054年）",
+        "historicalPeriod": "北宋（公元1054年）",
         "ruler": "仁宗赵祯",
         "coreFeatures": "折二折三，铁钱多见",
-        "estimatedValue": "50—100,000元",
-        "rarity": "八级（较少）/二级（珍）",
-        "thumbnail": "/images/coins/m-北宋钱币/至和重宝/main.jpg"
+        "estimatedValue": "参考价：50—100,000元",
+        "rarity": "八级 少/二级 珍",
+        "thumbnail": "/images/coins/m-北宋钱币/至和重宝/thumb.webp"
       },
       "detail": {
         "castingTime": "宋仁宗赵祯至和年间（公元1054年—1056年）。",
@@ -953,14 +953,14 @@
           {
             "variant": "铁钱折二（光背）",
             "description": "铁质，面文\"至和重宝\"，楷书，光背。折二型，直径约3.0厘米。至和年间为筹陕西军费先铸折三，后改折二",
-            "grade": "八级（较少） 普品",
+            "grade": "八级（少） 普品",
             "priceRange": "50—300元",
             "notes": "初铸折三后改折二，陕西路铸行（据百度百科）"
           },
           {
             "variant": "铁钱背纪地（坊、虢）",
             "description": "铁质折二，背穿铸\"坊\"或\"虢\"字纪地，为宋代背纪地钱之始。直径约3.0厘米",
-            "grade": "四级（罕） 美品",
+            "grade": "四级（珍罕） 美品",
             "priceRange": "5,000—50,000元",
             "notes": "背坊、虢纪监纪地，普通品万元以上，品相好者8万—10万（据百度百科）"
           },
@@ -981,12 +981,12 @@
       "dynastyIndex": 10,
       "summary": {
         "name": "嘉祐元宝",
-        "historicalPeriod": "北宋（1056年）",
+        "historicalPeriod": "北宋（公元1056年）",
         "ruler": "仁宗赵祯",
         "coreFeatures": "篆楷对钱",
-        "estimatedValue": "5—20元",
-        "rarity": "十级（多泛）",
-        "thumbnail": "/images/coins/m-北宋钱币/嘉祐元宝/main.jpg"
+        "estimatedValue": "参考价：5—20元",
+        "rarity": "十级 多泛",
+        "thumbnail": "/images/coins/m-北宋钱币/嘉祐元宝/thumb.webp"
       },
       "detail": {
         "castingTime": "宋仁宗赵祯嘉祐年间（公元1056年—1063年）。",
@@ -1007,14 +1007,14 @@
           {
             "variant": "小平楷书版",
             "description": "楷书面文\"嘉祐元宝\"，四字旋读。直径约2.4cm",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "5—20元",
             "notes": "楷书版较常见"
           },
           {
             "variant": "小平篆书版",
             "description": "篆书面文，四字旋读。直径约2.4cm",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "5—20元",
             "notes": "篆书版"
           }
@@ -1028,12 +1028,12 @@
       "dynastyIndex": 10,
       "summary": {
         "name": "嘉祐通宝",
-        "historicalPeriod": "北宋（1056年）",
+        "historicalPeriod": "北宋（公元1056年）",
         "ruler": "仁宗赵祯",
         "coreFeatures": "篆楷对钱",
-        "estimatedValue": "5—20元",
-        "rarity": "十级（多泛）",
-        "thumbnail": "/images/coins/m-北宋钱币/嘉祐通宝/main.jpg"
+        "estimatedValue": "参考价：5—20元",
+        "rarity": "十级 多泛",
+        "thumbnail": "/images/coins/m-北宋钱币/嘉祐通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "宋仁宗赵祯嘉祐年间（公元1056年—1063年）。",
@@ -1054,14 +1054,14 @@
           {
             "variant": "小平楷书版",
             "description": "楷书面文\"嘉祐通宝\"，四字对读。直径约2.4cm",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "5—20元",
             "notes": "楷书版较常见"
           },
           {
             "variant": "小平篆书版",
             "description": "篆书面文，四字对读。直径约2.4cm",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "5—20元",
             "notes": "篆书版"
           }
@@ -1075,12 +1075,12 @@
       "dynastyIndex": 10,
       "summary": {
         "name": "嘉祐重宝",
-        "historicalPeriod": "北宋（1056年）",
+        "historicalPeriod": "北宋（公元1056年）",
         "ruler": "仁宗赵祯",
         "coreFeatures": "铁钱，存世较少",
-        "estimatedValue": "200—2,000元",
-        "rarity": "七级（甚少）",
-        "thumbnail": "/images/coins/m-北宋钱币/嘉祐重宝/main.jpg"
+        "estimatedValue": "参考价：200—2,000元",
+        "rarity": "七级 甚少",
+        "thumbnail": "/images/coins/m-北宋钱币/嘉祐重宝/thumb.webp"
       },
       "detail": {
         "castingTime": "宋仁宗赵祯嘉祐年间（公元1056年—1063年）。",
@@ -1115,12 +1115,12 @@
       "dynastyIndex": 10,
       "summary": {
         "name": "治平元宝",
-        "historicalPeriod": "北宋（1064年）",
+        "historicalPeriod": "北宋（公元1064年）",
         "ruler": "英宗赵曙",
         "coreFeatures": "篆楷对钱",
-        "estimatedValue": "3—10元",
-        "rarity": "十级（多泛）",
-        "thumbnail": "/images/coins/m-北宋钱币/治平元宝/main.jpg"
+        "estimatedValue": "参考价：3—10元",
+        "rarity": "十级 多泛",
+        "thumbnail": "/images/coins/m-北宋钱币/治平元宝/thumb.webp"
       },
       "detail": {
         "castingTime": "宋英宗赵曙治平年间（公元1064年—1067年）。",
@@ -1162,12 +1162,12 @@
       "dynastyIndex": 10,
       "summary": {
         "name": "治平通宝",
-        "historicalPeriod": "北宋（1064年）",
+        "historicalPeriod": "北宋（公元1064年）",
         "ruler": "英宗赵曙",
         "coreFeatures": "篆楷对钱",
-        "estimatedValue": "5—20元",
-        "rarity": "十级（多泛）",
-        "thumbnail": "/images/coins/m-北宋钱币/治平通宝/main.jpg"
+        "estimatedValue": "参考价：5—20元",
+        "rarity": "十级 多泛",
+        "thumbnail": "/images/coins/m-北宋钱币/治平通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "宋英宗赵曙治平年间（公元1064年—1067年）。",
@@ -1188,14 +1188,14 @@
           {
             "variant": "小平楷书版",
             "description": "楷书面文\"治平通宝\"，四字对读。直径约2.4cm",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "5—20元",
             "notes": "楷书版较常见"
           },
           {
             "variant": "小平篆书版",
             "description": "篆书面文，四字对读。直径约2.4cm",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "5—20元",
             "notes": "篆书版"
           }
@@ -1209,12 +1209,12 @@
       "dynastyIndex": 10,
       "summary": {
         "name": "熙宁元宝",
-        "historicalPeriod": "北宋（1068年）",
+        "historicalPeriod": "北宋（公元1068年）",
         "ruler": "神宗赵顼",
         "coreFeatures": "篆楷对钱，版别繁多",
-        "estimatedValue": "3—10元",
-        "rarity": "十级（多泛）",
-        "thumbnail": "/images/coins/m-北宋钱币/熙宁元宝/main.jpg"
+        "estimatedValue": "参考价：3—10元",
+        "rarity": "十级 多泛",
+        "thumbnail": "/images/coins/m-北宋钱币/熙宁元宝/thumb.webp"
       },
       "detail": {
         "castingTime": "宋神宗赵顼熙宁年间（公元1068年—1077年）。",
@@ -1256,12 +1256,12 @@
       "dynastyIndex": 10,
       "summary": {
         "name": "熙宁通宝",
-        "historicalPeriod": "北宋（1068年）",
+        "historicalPeriod": "北宋（公元1068年）",
         "ruler": "神宗赵顼",
         "coreFeatures": "铁钱为主，楷书对读",
-        "estimatedValue": "10—50,000元",
-        "rarity": "八级（较多）",
-        "thumbnail": "/images/coins/m-北宋钱币/熙宁通宝/main.jpg"
+        "estimatedValue": "参考价：10—50,000元",
+        "rarity": "八级 少",
+        "thumbnail": "/images/coins/m-北宋钱币/熙宁通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "宋神宗赵顼熙宁年间（公元1068年—1077年）。",
@@ -1282,21 +1282,21 @@
           {
             "variant": "折二铁钱",
             "description": "铁质，面文\"熙宁通宝\"四字对读，楷书。直径约3.0厘米，折二型，行用于陕西路",
-            "grade": "八级（较多） 普品",
+            "grade": "八级（少） 普品",
             "priceRange": "10—50元",
             "notes": "以铁钱为主，楷书对读（据爱藏评级）"
           },
           {
             "variant": "小平铁钱",
             "description": "铁质，面文\"熙宁通宝\"四字对读，楷书。直径约2.4厘米，小平型，行用于四川路，较少见",
-            "grade": "七级（较少） 美品",
+            "grade": "七级（甚少） 美品",
             "priceRange": "50—200元",
             "notes": "小平铁钱较少"
           },
           {
             "variant": "铜品（存世极罕）",
             "description": "铜质，面文\"熙宁通宝\"四字对读，楷书。铜品存世极稀少，数以枚计，一说为铁钱之母",
-            "grade": "三级（罕） 美品以上",
+            "grade": "三级（罕贵） 美品以上",
             "priceRange": "10,000—50,000元",
             "notes": "铜品存世极稀少（据百度百科）"
           }
@@ -1310,12 +1310,12 @@
       "dynastyIndex": 10,
       "summary": {
         "name": "熙宁重宝",
-        "historicalPeriod": "北宋（1068年）",
+        "historicalPeriod": "北宋（公元1068年）",
         "ruler": "神宗赵顼",
         "coreFeatures": "折二型，铸量大",
-        "estimatedValue": "5—500元",
-        "rarity": "九级（较多）",
-        "thumbnail": "/images/coins/m-北宋钱币/熙宁重宝/main.jpg"
+        "estimatedValue": "参考价：5—500元",
+        "rarity": "九级 较多",
+        "thumbnail": "/images/coins/m-北宋钱币/熙宁重宝/thumb.webp"
       },
       "detail": {
         "castingTime": "宋神宗赵顼熙宁年间（公元1068年—1077年）。",
@@ -1336,14 +1336,14 @@
           {
             "variant": "折二楷书版",
             "description": "楷书面文\"熙宁重宝\"，四字对读。直径约2.8cm",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "5—20元",
             "notes": "折二型较常见"
           },
           {
             "variant": "折二篆书版",
             "description": "面文\"熙宁重宝\"四字篆书，对读（上下右左），笔画圆转匀称、结构规整。直径约2.8cm，为熙宁重宝中篆书折二的品种，与楷书对钱",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "5—20元",
             "notes": "篆书版折二"
           },
@@ -1364,12 +1364,12 @@
       "dynastyIndex": 10,
       "summary": {
         "name": "元丰通宝",
-        "historicalPeriod": "北宋（1078年）",
+        "historicalPeriod": "北宋（公元1078年）",
         "ruler": "神宗赵顼",
         "coreFeatures": "篆行隶三体，版别极多，铸量巨大",
-        "estimatedValue": "3—30,000元",
-        "rarity": "十级（多泛）",
-        "thumbnail": "/images/coins/m-北宋钱币/元丰通宝/main.jpg"
+        "estimatedValue": "参考价：3—30,000元",
+        "rarity": "十级 多泛",
+        "thumbnail": "/images/coins/m-北宋钱币/元丰通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "宋神宗赵顼元丰年间（公元1078年—1085年）。",
@@ -1390,7 +1390,7 @@
           {
             "variant": "小平隶书版",
             "description": "隶书面文\"元丰通宝\"，四字旋读。直径约2.5厘米，存世少于篆、行二体",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "10—100元",
             "notes": "隶书版较少见（据爱藏评级）"
           },
@@ -1432,7 +1432,7 @@
           {
             "variant": "铁母（铜质母钱）",
             "description": "铁钱的母钱，铜质精良。极为珍贵",
-            "grade": "三级（罕）",
+            "grade": "三级（罕贵）",
             "priceRange": "5,000—30,000元",
             "notes": "铁母极珍贵"
           }
@@ -1446,12 +1446,12 @@
       "dynastyIndex": 10,
       "summary": {
         "name": "元丰重宝",
-        "historicalPeriod": "北宋（1078年）",
+        "historicalPeriod": "北宋（公元1078年）",
         "ruler": "神宗赵顼",
         "coreFeatures": "铁钱，存世较少",
-        "estimatedValue": "500—3,000元",
-        "rarity": "七级（甚少）",
-        "thumbnail": "/images/coins/m-北宋钱币/元丰重宝/main.jpg"
+        "estimatedValue": "参考价：500—3,000元",
+        "rarity": "七级 甚少",
+        "thumbnail": "/images/coins/m-北宋钱币/元丰重宝/thumb.webp"
       },
       "detail": {
         "castingTime": "宋神宗赵顼元丰年间（公元1078年—1085年）。",
@@ -1486,12 +1486,12 @@
       "dynastyIndex": 10,
       "summary": {
         "name": "元祐通宝",
-        "historicalPeriod": "北宋（1086年）",
+        "historicalPeriod": "北宋（公元1086年）",
         "ruler": "哲宗赵煦",
         "coreFeatures": "篆行对钱，传为司马光、苏轼手书",
-        "estimatedValue": "5—500元",
-        "rarity": "九级（较多）",
-        "thumbnail": "/images/coins/m-北宋钱币/元祐通宝/main.jpg"
+        "estimatedValue": "参考价：5—500元",
+        "rarity": "九级 较多",
+        "thumbnail": "/images/coins/m-北宋钱币/元祐通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "宋哲宗赵煦元祐年间（公元1086年—1094年）。",
@@ -1512,28 +1512,28 @@
           {
             "variant": "小平行书版",
             "description": "行书面文\"元祐通宝\"，四字旋读。直径约2.4cm",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "5—20元",
             "notes": "行书版较常见（传为司马光手书）"
           },
           {
             "variant": "小平篆书版",
             "description": "篆书面文，四字旋读。直径约2.4cm",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "5—20元",
             "notes": "篆书版常见"
           },
           {
             "variant": "折二行书版",
             "description": "折二型，直径约2.8cm。行书面文",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "5—20元",
             "notes": "折二型"
           },
           {
             "variant": "折二篆书版",
             "description": "折二型，面文\"元祐通宝\"四字篆书，旋读，笔画圆转匀称、结构规整。直径约2.8cm，为元祐通宝中篆书折二的品种，与行书对钱",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "5—20元",
             "notes": "篆书折二"
           },
@@ -1554,12 +1554,12 @@
       "dynastyIndex": 10,
       "summary": {
         "name": "绍圣元宝",
-        "historicalPeriod": "北宋（1094年）",
+        "historicalPeriod": "北宋（公元1094年）",
         "ruler": "哲宗赵煦",
         "coreFeatures": "篆行对钱，铜铁并行",
-        "estimatedValue": "5—500元",
-        "rarity": "九级（较多）",
-        "thumbnail": "/images/coins/m-北宋钱币/绍圣元宝/main.jpg"
+        "estimatedValue": "参考价：5—500元",
+        "rarity": "九级 较多",
+        "thumbnail": "/images/coins/m-北宋钱币/绍圣元宝/thumb.webp"
       },
       "detail": {
         "castingTime": "宋哲宗赵煦绍圣年间（公元1094年—1098年）。",
@@ -1580,28 +1580,28 @@
           {
             "variant": "小平行书版",
             "description": "行书面文\"绍圣元宝\"，四字旋读。直径约2.4cm",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "5—20元",
             "notes": "行书版较常见"
           },
           {
             "variant": "小平篆书版",
             "description": "篆书面文，四字旋读。直径约2.4cm",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "5—20元",
             "notes": "篆书版"
           },
           {
             "variant": "折二行书版",
             "description": "折二型，直径约2.8cm",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "5—20元",
             "notes": "折二型"
           },
           {
             "variant": "折二篆书版",
             "description": "折二型，面文\"绍圣元宝\"四字篆书，旋读，笔画圆转匀称、结构规整。直径约2.8cm，为绍圣元宝中篆书折二的品种，与行书对钱",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "5—20元",
             "notes": "篆书折二"
           },
@@ -1622,12 +1622,12 @@
       "dynastyIndex": 10,
       "summary": {
         "name": "绍圣通宝",
-        "historicalPeriod": "北宋（1094年）",
+        "historicalPeriod": "北宋（公元1094年）",
         "ruler": "哲宗赵煦",
         "coreFeatures": "铜品较少",
-        "estimatedValue": "100—2,000元",
-        "rarity": "七级（甚少）",
-        "thumbnail": "/images/coins/m-北宋钱币/绍圣通宝/main.jpg"
+        "estimatedValue": "参考价：100—2,000元",
+        "rarity": "七级 甚少",
+        "thumbnail": "/images/coins/m-北宋钱币/绍圣通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "宋哲宗赵煦绍圣年间（公元1094年—1098年）。",
@@ -1648,7 +1648,7 @@
           {
             "variant": "铜品",
             "description": "铜质小平钱，钱面\"绍圣通宝\"四字对读（上下右左），楷书笔画规整，青铜质地。直径约2.4cm，绍圣通宝以铁钱为主，铜品较为少见",
-            "grade": "七级（较少）",
+            "grade": "七级（甚少）",
             "priceRange": "100—2,000元",
             "notes": "较少见，品相决定价格"
           }
@@ -1662,12 +1662,12 @@
       "dynastyIndex": 10,
       "summary": {
         "name": "绍圣重宝",
-        "historicalPeriod": "北宋（1094年）",
+        "historicalPeriod": "北宋（公元1094年）",
         "ruler": "哲宗赵煦",
         "coreFeatures": "铁钱，存世较少",
-        "estimatedValue": "500—3,000元",
-        "rarity": "七级（甚少）",
-        "thumbnail": "/images/coins/m-北宋钱币/绍圣重宝/main.jpg"
+        "estimatedValue": "参考价：500—3,000元",
+        "rarity": "七级 甚少",
+        "thumbnail": "/images/coins/m-北宋钱币/绍圣重宝/thumb.webp"
       },
       "detail": {
         "castingTime": "宋哲宗赵煦绍圣年间（公元1094年—1098年）。",
@@ -1702,12 +1702,12 @@
       "dynastyIndex": 10,
       "summary": {
         "name": "元符通宝",
-        "historicalPeriod": "北宋（1098年）",
+        "historicalPeriod": "北宋（公元1098年）",
         "ruler": "哲宗赵煦",
         "coreFeatures": "篆行对钱",
-        "estimatedValue": "5—500元",
-        "rarity": "九级（较多）",
-        "thumbnail": "/images/coins/m-北宋钱币/元符通宝/main.jpg"
+        "estimatedValue": "参考价：5—500元",
+        "rarity": "九级 较多",
+        "thumbnail": "/images/coins/m-北宋钱币/元符通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "宋哲宗赵煦元符年间（公元1098年—1100年）。",
@@ -1728,28 +1728,28 @@
           {
             "variant": "小平行书版",
             "description": "行书面文\"元符通宝\"，四字对读。直径约2.4cm",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "5—20元",
             "notes": "行书版较常见"
           },
           {
             "variant": "小平篆书版",
             "description": "篆书面文，四字对读。直径约2.4cm",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "5—20元",
             "notes": "篆书版"
           },
           {
             "variant": "折二行书版",
             "description": "折二型，直径约2.8cm",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "5—20元",
             "notes": "折二型"
           },
           {
             "variant": "折二篆书版",
             "description": "折二型，面文\"元符通宝\"四字篆书，对读（上下右左），笔画圆转匀称、结构规整。直径约2.8cm，为元符通宝中篆书折二的品种，与行书对钱",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "5—20元",
             "notes": "篆书折二"
           },
@@ -1770,12 +1770,12 @@
       "dynastyIndex": 10,
       "summary": {
         "name": "元符重宝",
-        "historicalPeriod": "北宋（1098年）",
+        "historicalPeriod": "北宋（公元1098年）",
         "ruler": "哲宗赵煦",
         "coreFeatures": "铁钱，存世较少",
-        "estimatedValue": "500—3,000元",
-        "rarity": "七级（甚少）",
-        "thumbnail": "/images/coins/m-北宋钱币/元符重宝/main.jpg"
+        "estimatedValue": "参考价：500—3,000元",
+        "rarity": "七级 甚少",
+        "thumbnail": "/images/coins/m-北宋钱币/元符重宝/thumb.webp"
       },
       "detail": {
         "castingTime": "宋哲宗赵煦元符年间（公元1098年—1100年）。",
@@ -1810,12 +1810,12 @@
       "dynastyIndex": 10,
       "summary": {
         "name": "圣宋元宝",
-        "historicalPeriod": "北宋（1101年）",
+        "historicalPeriod": "北宋（公元1101年）",
         "ruler": "徽宗赵佶",
         "coreFeatures": "非年号钱，篆行对钱，铸工精美",
-        "estimatedValue": "5—3,000元",
-        "rarity": "九级（较多）",
-        "thumbnail": "/images/coins/m-北宋钱币/圣宋元宝/main.jpg"
+        "estimatedValue": "参考价：5—3,000元",
+        "rarity": "九级 较多",
+        "thumbnail": "/images/coins/m-北宋钱币/圣宋元宝/thumb.webp"
       },
       "detail": {
         "castingTime": "宋徽宗赵佶建中靖国元年（公元1101年）。",
@@ -1836,28 +1836,28 @@
           {
             "variant": "小平行书版",
             "description": "行书面文\"圣宋元宝\"，四字旋读。直径约2.4cm",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "5—20元",
             "notes": "行书版较常见"
           },
           {
             "variant": "小平篆书版",
             "description": "篆书面文，四字旋读。直径约2.4cm",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "5—20元",
             "notes": "篆书版"
           },
           {
             "variant": "折二行书版",
             "description": "折二型，直径约2.8cm",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "5—20元",
             "notes": "折二型"
           },
           {
             "variant": "折二篆书版",
             "description": "折二型，面文\"圣宋元宝\"四字篆书，旋读，笔画圆转匀称、结构规整。直径约2.8cm，为圣宋元宝中篆书折二的品种，与行书对钱",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "5—20元",
             "notes": "篆书折二"
           },
@@ -1885,12 +1885,12 @@
       "dynastyIndex": 10,
       "summary": {
         "name": "圣宋通宝",
-        "historicalPeriod": "北宋（1101年）",
+        "historicalPeriod": "北宋（公元1101年）",
         "ruler": "徽宗赵佶",
         "coreFeatures": "背\"当伍\"为当五钱之始，五十名珍",
-        "estimatedValue": "10,000—300,000元",
-        "rarity": "五级（稀贵）/二级（珍）",
-        "thumbnail": "/images/coins/m-北宋钱币/圣宋通宝/main.jpg"
+        "estimatedValue": "参考价：10,000—300,000元",
+        "rarity": "五级 稀贵/二级 珍",
+        "thumbnail": "/images/coins/m-北宋钱币/圣宋通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "宋徽宗赵佶建中靖国元年（公元1101年）。",
@@ -1932,12 +1932,12 @@
       "dynastyIndex": 10,
       "summary": {
         "name": "建国通宝",
-        "historicalPeriod": "北宋（1101年）",
+        "historicalPeriod": "北宋（公元1101年）",
         "ruler": "徽宗赵佶",
         "coreFeatures": "存世极罕，试铸性质",
-        "estimatedValue": "50,000—500,000元",
-        "rarity": "一级（大珍）",
-        "thumbnail": "/images/coins/m-北宋钱币/建国通宝/main.jpg"
+        "estimatedValue": "参考价：50,000—500,000元",
+        "rarity": "一级 大珍",
+        "thumbnail": "/images/coins/m-北宋钱币/建国通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "宋徽宗赵佶建中靖国元年（公元1101年）前后。",
@@ -1979,12 +1979,12 @@
       "dynastyIndex": 10,
       "summary": {
         "name": "崇宁通宝",
-        "historicalPeriod": "北宋（1102年）",
+        "historicalPeriod": "北宋（公元1102年）",
         "ruler": "徽宗赵佶",
         "coreFeatures": "御书瘦金体，铸工极精，当十钱",
-        "estimatedValue": "10—30,000元",
-        "rarity": "八级（较多）",
-        "thumbnail": "/images/coins/m-北宋钱币/崇宁通宝/main.jpg"
+        "estimatedValue": "参考价：10—30,000元",
+        "rarity": "八级 少",
+        "thumbnail": "/images/coins/m-北宋钱币/崇宁通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "宋徽宗赵佶崇宁年间（公元1102年—1106年）。",
@@ -2005,7 +2005,7 @@
           {
             "variant": "折十楷书御书版",
             "description": "折十型大钱，直径约3.4cm。瘦金体御书，铸工精整",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "10—50元",
             "notes": "折十大钱铸量大"
           },
@@ -2019,7 +2019,7 @@
           {
             "variant": "折十狭穿版",
             "description": "折十型，穿口较窄，面文\"崇宁通宝\"四字旋读，瘦金体文字因穿窄而布局紧凑。直径约3.4cm，为崇宁通宝折十中穿口较窄的品种",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "10—50元",
             "notes": "狭穿版"
           },
@@ -2047,7 +2047,7 @@
           {
             "variant": "铁母（铜质母钱）",
             "description": "铁钱的母钱，铜质精良。极为珍贵",
-            "grade": "三级（罕）",
+            "grade": "三级（罕贵）",
             "priceRange": "5,000—30,000元",
             "notes": "铁母极珍贵"
           }
@@ -2061,12 +2061,12 @@
       "dynastyIndex": 10,
       "summary": {
         "name": "崇宁元宝",
-        "historicalPeriod": "北宋（1102年）",
+        "historicalPeriod": "北宋（公元1102年）",
         "ruler": "徽宗赵佶",
         "coreFeatures": "存世较少",
-        "estimatedValue": "100—3,000元",
-        "rarity": "七级（甚少）",
-        "thumbnail": "/images/coins/m-北宋钱币/崇宁元宝/main.jpg"
+        "estimatedValue": "参考价：100—3,000元",
+        "rarity": "七级 甚少",
+        "thumbnail": "/images/coins/m-北宋钱币/崇宁元宝/thumb.webp"
       },
       "detail": {
         "castingTime": "宋徽宗赵佶崇宁年间（公元1102年—1106年）。",
@@ -2101,12 +2101,12 @@
       "dynastyIndex": 10,
       "summary": {
         "name": "崇宁重宝",
-        "historicalPeriod": "北宋（1102年）",
+        "historicalPeriod": "北宋（公元1102年）",
         "ruler": "徽宗赵佶",
         "coreFeatures": "当十钱，铸量大",
-        "estimatedValue": "10—200元",
-        "rarity": "九级（较多）",
-        "thumbnail": "/images/coins/m-北宋钱币/崇宁重宝/main.jpg"
+        "estimatedValue": "参考价：10—200元",
+        "rarity": "九级 较多",
+        "thumbnail": "/images/coins/m-北宋钱币/崇宁重宝/thumb.webp"
       },
       "detail": {
         "castingTime": "宋徽宗赵佶崇宁年间（公元1102年—1106年）。",
@@ -2127,7 +2127,7 @@
           {
             "variant": "光背",
             "description": "面文\"崇宁重宝\"四字对读（上下右左），隶书笔画规整，背面光素无文。折十型，直径约3.4cm。文字有大字、小字之别，另有背星月版（背面铸星纹或月纹），均较少见",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "10—200元",
             "notes": "品相与版别决定价格，大字、背星月者较高"
           }
@@ -2141,12 +2141,12 @@
       "dynastyIndex": 10,
       "summary": {
         "name": "大观通宝",
-        "historicalPeriod": "北宋（1107年）",
+        "historicalPeriod": "北宋（公元1107年）",
         "ruler": "徽宗赵佶",
         "coreFeatures": "御书瘦金体，折十最精",
-        "estimatedValue": "5—80,000元",
-        "rarity": "九级（多）",
-        "thumbnail": "/images/coins/m-北宋钱币/大观通宝/main.jpg"
+        "estimatedValue": "参考价：5—80,000元",
+        "rarity": "九级 较多",
+        "thumbnail": "/images/coins/m-北宋钱币/大观通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "宋徽宗赵佶大观年间（公元1107年—1110年）。",
@@ -2167,7 +2167,7 @@
           {
             "variant": "小平楷书御书版",
             "description": "楷书面文\"大观通宝\"，四字对读，为宋徽宗御书瘦金体。直径约2.4cm",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "5—30元",
             "notes": "宋徽宗瘦金体御书钱"
           },
@@ -2181,7 +2181,7 @@
           {
             "variant": "折二楷书御书版",
             "description": "折二型，直径约2.8cm。瘦金体",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "10—50元",
             "notes": "折二型"
           },
@@ -2209,7 +2209,7 @@
           {
             "variant": "特大型（折五型）",
             "description": "超大钱型，直径约4.5厘米，性质待考（一说试铸样钱），存世稀少（上海博物馆藏有折五大观钱）",
-            "grade": "四级（罕） 美品以上",
+            "grade": "四级（珍罕） 美品以上",
             "priceRange": "20,000—80,000元",
             "notes": "特大钱珍品，约值2万元（据百度百科）"
           },
@@ -2223,7 +2223,7 @@
           {
             "variant": "铁母（铜质母钱）",
             "description": "铁钱的母钱，铜质精良。极为珍贵",
-            "grade": "三级（罕）",
+            "grade": "三级（罕贵）",
             "priceRange": "5,000—30,000元",
             "notes": "铁母极珍贵"
           }
@@ -2237,12 +2237,12 @@
       "dynastyIndex": 10,
       "summary": {
         "name": "政和通宝",
-        "historicalPeriod": "北宋（1111年）",
+        "historicalPeriod": "北宋（公元1111年）",
         "ruler": "徽宗赵佶",
         "coreFeatures": "篆隶对钱",
-        "estimatedValue": "5—20元",
-        "rarity": "九级（较多）",
-        "thumbnail": "/images/coins/m-北宋钱币/政和通宝/main.jpg"
+        "estimatedValue": "参考价：5—20元",
+        "rarity": "九级 较多",
+        "thumbnail": "/images/coins/m-北宋钱币/政和通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "宋徽宗赵佶政和年间（公元1111年—1118年）。",
@@ -2263,28 +2263,28 @@
           {
             "variant": "小平隶书版",
             "description": "隶书面文\"政和通宝\"，四字对读。直径约2.4cm",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "5—20元",
             "notes": "隶书版较常见"
           },
           {
             "variant": "小平篆书版",
             "description": "篆书面文，四字对读。直径约2.4cm",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "5—20元",
             "notes": "篆书版常见"
           },
           {
             "variant": "折二隶书版",
             "description": "折二型，直径约2.8cm。隶书面文",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "5—20元",
             "notes": "折二型"
           },
           {
             "variant": "折二篆书版",
             "description": "折二型，面文\"政和通宝\"四字篆书，对读（上下右左），笔画圆转匀称、结构规整。直径约2.8cm，为政和通宝中篆书折二的品种，与隶书对钱",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "5—20元",
             "notes": "篆书折二"
           }
@@ -2298,12 +2298,12 @@
       "dynastyIndex": 10,
       "summary": {
         "name": "政和重宝",
-        "historicalPeriod": "北宋（1111年）",
+        "historicalPeriod": "北宋（公元1111年）",
         "ruler": "徽宗赵佶",
         "coreFeatures": "铁钱为主",
-        "estimatedValue": "50—500元",
-        "rarity": "八级（较多）",
-        "thumbnail": "/images/coins/m-北宋钱币/政和重宝/main.jpg"
+        "estimatedValue": "参考价：50—500元",
+        "rarity": "八级 少",
+        "thumbnail": "/images/coins/m-北宋钱币/政和重宝/thumb.webp"
       },
       "detail": {
         "castingTime": "宋徽宗赵佶政和年间（公元1111年—1118年）。",
@@ -2324,7 +2324,7 @@
           {
             "variant": "铁品折二",
             "description": "铁质折二型，钱面\"政和重宝\"四字对读（上下右左），楷书笔画规整，铁质氧化后呈深褐色锈蚀。直径约2.8cm，为政和重宝中的铁质品种",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "50—500元",
             "notes": "铁品，品相决定价格"
           }
@@ -2338,12 +2338,12 @@
       "dynastyIndex": 10,
       "summary": {
         "name": "重和通宝",
-        "historicalPeriod": "北宋（1118年）",
+        "historicalPeriod": "北宋（公元1118年）",
         "ruler": "徽宗赵佶",
         "coreFeatures": "铸行仅一年，存世较少",
-        "estimatedValue": "1,000—5,000元",
-        "rarity": "四级（罕）",
-        "thumbnail": "/images/coins/m-北宋钱币/重和通宝/main.jpg"
+        "estimatedValue": "参考价：1,000—5,000元",
+        "rarity": "四级 珍罕",
+        "thumbnail": "/images/coins/m-北宋钱币/重和通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "宋徽宗赵佶重和元年（公元1118年）。",
@@ -2364,14 +2364,14 @@
           {
             "variant": "小平隶书版",
             "description": "隶书面文\"重和通宝\"，四字对读。直径约2.4cm",
-            "grade": "四级（罕） 美品",
+            "grade": "四级（珍罕） 美品",
             "priceRange": "1,000—5,000元",
             "notes": "重和年号仅一年，铸量有限"
           },
           {
             "variant": "小平篆书版",
             "description": "篆书面文，四字对读。直径约2.4cm",
-            "grade": "四级（罕） 美品",
+            "grade": "四级（珍罕） 美品",
             "priceRange": "1,000—5,000元",
             "notes": "篆书版"
           }
@@ -2385,12 +2385,12 @@
       "dynastyIndex": 10,
       "summary": {
         "name": "宣和通宝",
-        "historicalPeriod": "北宋（1119年）",
+        "historicalPeriod": "北宋（公元1119年）",
         "ruler": "徽宗赵佶",
         "coreFeatures": "版别众多，篆隶对钱",
-        "estimatedValue": "5—1,000元",
-        "rarity": "九级（较多）",
-        "thumbnail": "/images/coins/m-北宋钱币/宣和通宝/main.jpg"
+        "estimatedValue": "参考价：5—1,000元",
+        "rarity": "九级 较多",
+        "thumbnail": "/images/coins/m-北宋钱币/宣和通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "宋徽宗赵佶宣和年间（公元1119年—1125年）。",
@@ -2411,28 +2411,28 @@
           {
             "variant": "小平隶书版",
             "description": "隶书面文\"宣和通宝\"，四字对读。直径约2.4cm",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "5—30元",
             "notes": "隶书版较常见"
           },
           {
             "variant": "小平篆书版",
             "description": "篆书面文，四字对读。直径约2.4cm",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "5—30元",
             "notes": "篆书版常见"
           },
           {
             "variant": "折二隶书版",
             "description": "折二型，直径约2.8cm。隶书面文",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "5—30元",
             "notes": "折二型"
           },
           {
             "variant": "折二篆书版",
             "description": "折二型，面文\"宣和通宝\"四字篆书，对读（上下右左），笔画圆转匀称、结构规整。直径约2.8cm，为宣和通宝中篆书折二的品种，与隶书对钱",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "5—30元",
             "notes": "篆书折二"
           },
@@ -2453,12 +2453,12 @@
       "dynastyIndex": 10,
       "summary": {
         "name": "宣和元宝",
-        "historicalPeriod": "北宋（1119年）",
+        "historicalPeriod": "北宋（公元1119年）",
         "ruler": "徽宗赵佶",
         "coreFeatures": "存世较少",
-        "estimatedValue": "20—500元",
-        "rarity": "八级（较多）",
-        "thumbnail": "/images/coins/m-北宋钱币/宣和元宝/main.jpg"
+        "estimatedValue": "参考价：20—500元",
+        "rarity": "八级 少",
+        "thumbnail": "/images/coins/m-北宋钱币/宣和元宝/thumb.webp"
       },
       "detail": {
         "castingTime": "宋徽宗赵佶宣和年间（公元1119年—1125年）。",
@@ -2479,14 +2479,14 @@
           {
             "variant": "小平隶书版",
             "description": "隶书面文\"宣和元宝\"，四字旋读。直径约2.4cm",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "20—100元",
             "notes": "隶书版较常见"
           },
           {
             "variant": "小平篆书版",
             "description": "篆书面文，四字旋读。直径约2.4cm",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "20—100元",
             "notes": "篆书版"
           },
@@ -2507,12 +2507,12 @@
       "dynastyIndex": 10,
       "summary": {
         "name": "靖康通宝",
-        "historicalPeriod": "北宋（1126年）",
+        "historicalPeriod": "北宋（公元1126年）",
         "ruler": "钦宗赵桓",
         "coreFeatures": "北宋最后铸币，存世极罕",
-        "estimatedValue": "50,000—300,000元",
-        "rarity": "一级（大珍）",
-        "thumbnail": "/images/coins/m-北宋钱币/靖康通宝/main.jpg"
+        "estimatedValue": "参考价：50,000—300,000元",
+        "rarity": "一级 大珍",
+        "thumbnail": "/images/coins/m-北宋钱币/靖康通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "宋钦宗赵桓靖康元年（公元1126年）。",
@@ -2568,12 +2568,12 @@
       "dynastyIndex": 10,
       "summary": {
         "name": "靖康元宝",
-        "historicalPeriod": "北宋（1126年）",
+        "historicalPeriod": "北宋（公元1126年）",
         "ruler": "钦宗赵桓",
         "coreFeatures": "北宋最后铸币，存世极罕",
-        "estimatedValue": "100,000—1,000,000元",
-        "rarity": "一级（大珍）",
-        "thumbnail": "/images/coins/m-北宋钱币/靖康元宝/main.jpg"
+        "estimatedValue": "参考价：100,000—1,000,000元",
+        "rarity": "一级 大珍",
+        "thumbnail": "/images/coins/m-北宋钱币/靖康元宝/thumb.webp"
       },
       "detail": {
         "castingTime": "宋钦宗赵桓靖康元年（公元1126年）。",
@@ -2615,12 +2615,12 @@
       "dynastyIndex": 10,
       "summary": {
         "name": "皇祐元宝",
-        "historicalPeriod": "北宋（1049年）",
+        "historicalPeriod": "北宋（公元1049年）",
         "ruler": "仁宗赵祯",
         "coreFeatures": "存世极罕",
-        "estimatedValue": "30,000—150,000元",
-        "rarity": "三级（罕贵）",
-        "thumbnail": "/images/coins/m-北宋钱币/皇祐元宝/main.jpg"
+        "estimatedValue": "参考价：30,000—150,000元",
+        "rarity": "一级 大珍",
+        "thumbnail": "/images/coins/m-北宋钱币/皇祐元宝/thumb.webp"
       },
       "detail": {
         "castingTime": "宋仁宗赵祯皇祐年间（公元1049年—1054年）。",
@@ -2655,12 +2655,12 @@
       "dynastyIndex": 10,
       "summary": {
         "name": "庆历直十",
-        "historicalPeriod": "北宋（1041年）",
+        "historicalPeriod": "北宋（公元1041年）",
         "ruler": "仁宗赵祯",
         "coreFeatures": "铁钱，当十",
-        "estimatedValue": "500—3,000元",
-        "rarity": "七级（甚少）",
-        "thumbnail": "/images/coins/m-北宋钱币/庆历直十/main.jpg"
+        "estimatedValue": "参考价：500—3,000元",
+        "rarity": "七级 甚少",
+        "thumbnail": "/images/coins/m-北宋钱币/庆历直十/thumb.webp"
       },
       "detail": {
         "castingTime": "宋仁宗赵祯庆历年间（公元1041年—1048年）。",
@@ -2695,12 +2695,12 @@
       "dynastyIndex": 10,
       "summary": {
         "name": "应运元宝",
-        "historicalPeriod": "北宋（994年）",
+        "historicalPeriod": "北宋（公元994年）",
         "ruler": "李顺（农民起义）",
         "coreFeatures": "四川农民起义军铸币，存世极罕",
-        "estimatedValue": "100,000—1,000,000元",
-        "rarity": "一级（大珍）",
-        "thumbnail": "/images/coins/m-北宋钱币/应运元宝/main.jpg"
+        "estimatedValue": "参考价：100,000—1,000,000元",
+        "rarity": "一级 大珍",
+        "thumbnail": "/images/coins/m-北宋钱币/应运元宝/thumb.webp"
       },
       "detail": {
         "castingTime": "北宋淳化五年（公元994年），农民起义军领袖李顺铸。",
@@ -2742,12 +2742,12 @@
       "dynastyIndex": 10,
       "summary": {
         "name": "应运通宝",
-        "historicalPeriod": "北宋（994年）",
+        "historicalPeriod": "北宋（公元994年）",
         "ruler": "李顺（农民起义）",
         "coreFeatures": "李顺大蜀铁钱，五十名珍",
-        "estimatedValue": "50000—150000元",
-        "rarity": "二级（珍）",
-        "thumbnail": "/images/coins/m-北宋钱币/应运通宝/main.jpg"
+        "estimatedValue": "参考价：50000—150000元",
+        "rarity": "二级 珍",
+        "thumbnail": "/images/coins/m-北宋钱币/应运通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "北宋淳化五年（公元994年），农民起义军领袖李顺铸。",
@@ -2782,12 +2782,12 @@
       "dynastyIndex": 10,
       "summary": {
         "name": "应感通宝",
-        "historicalPeriod": "北宋（994年）",
+        "historicalPeriod": "北宋（公元994年）",
         "ruler": "张余（李顺部将，农民起义）",
         "coreFeatures": "张余起义军铸币，五十名珍",
-        "estimatedValue": "30,000—400,000元",
-        "rarity": "一级（大珍）",
-        "thumbnail": "/images/coins/m-北宋钱币/应感通宝/main.jpg"
+        "estimatedValue": "参考价：30,000—400,000元",
+        "rarity": "一级 大珍",
+        "thumbnail": "/images/coins/m-北宋钱币/应感通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "北宋淳化五年至至道元年（公元994年—995年），农民起义军铸。",

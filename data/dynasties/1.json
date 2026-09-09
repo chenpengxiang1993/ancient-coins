@@ -9,12 +9,12 @@
       "dynastyIndex": 1,
       "summary": {
         "name": "秦半两钱",
-        "historicalPeriod": "秦朝（前221年—前206年）",
+        "historicalPeriod": "秦朝（公元前221年—前206年）",
         "ruler": "秦始皇嬴政",
         "coreFeatures": "统一全国货币；圆形方孔；重十二铢（约8g）；面文\"半两\"为小篆；秦始皇统一货币标志",
-        "estimatedValue": "300—20,000元",
+        "estimatedValue": "参考价：300—20,000元",
         "rarity": "九级 较多",
-        "thumbnail": "/images/coins/b-秦钱币/秦半两钱/main.jpg"
+        "thumbnail": "/images/coins/b-秦钱币/秦半两钱/thumb.webp"
       },
       "detail": {
         "castingTime": "秦始皇统一六国后（公元前221年）至秦亡（公元前206年）。据《史记·平准书》记载：\"及至秦，中一国之币为三等，黄金以溢名为上币；铜钱识曰半两，重如其文，为下币。\"秦半两钱是以战国秦半两为基础，统一全国货币后在全国范围内推行的标准铸币。",
@@ -35,14 +35,14 @@
           {
             "variant": "标准型半两",
             "description": "直径3.2—3.5cm，重6—8g。钱体规整，面文\"半两\"笔画端正匀称，\"半\"字横画平直，\"两\"字\"人\"部较先秦短。铸工规范，为最常见的秦半两规格",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "300—3,000元",
             "notes": "最常见规格，品相决定价格"
           },
           {
             "variant": "小型半两（晚期）",
             "description": "直径3.0—3.2cm，重5—6g。钱体偏薄，面文字体较小，笔画纤细。晚期减重铸行",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "200—600元",
             "notes": "晚期减重，较常见"
           },
@@ -63,7 +63,7 @@
           {
             "variant": "小字半两",
             "description": "面文字体较小，笔画纤细，字口较浅，布局偏于穿孔上方",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "300—800元",
             "notes": "文字较小，较常见"
           },
@@ -98,12 +98,12 @@
       "dynastyIndex": 1,
       "summary": {
         "name": "两甾钱",
-        "historicalPeriod": "战国晚期—秦朝",
+        "historicalPeriod": "战国晚期（约公元前3世纪）至秦朝（公元前221年—前206年）",
         "ruler": "秦王",
         "coreFeatures": "圆形方孔；面文\"两甾\"；秦制重量单位；铸行时间短；存世较少",
-        "estimatedValue": "15,000—80,000元",
-        "rarity": "四级 罕",
-        "thumbnail": "/images/coins/b-秦钱币/两甾钱/main.jpg"
+        "estimatedValue": "参考价：15,000—80,000元",
+        "rarity": "四级 珍罕",
+        "thumbnail": "/images/coins/b-秦钱币/两甾钱/thumb.webp"
       },
       "detail": {
         "castingTime": "战国晚期（约公元前3世纪），秦国铸行。据《中国钱币大辞典》记载，两甾钱为秦国圜钱体系中的一种，铸行于秦半两确立前后。",
@@ -124,7 +124,7 @@
           {
             "variant": "标准型两甾钱",
             "description": "直径2.5—2.8cm。面文\"两\"字\"冂\"部宽扁，\"甾\"字上部笔画简练。铸工尚可，体形规整",
-            "grade": "四级（罕）",
+            "grade": "四级（珍罕）",
             "priceRange": "15,000—60,000元",
             "notes": "存世较少，品相决定价格"
           },
@@ -138,7 +138,7 @@
           {
             "variant": "传形两甾钱",
             "description": "面文左右反置（\"两\"在左，\"甾\"在右），为合范时范模倒置所致。学术价值高",
-            "grade": "四级（罕） 极美品",
+            "grade": "四级（珍罕） 极美品",
             "priceRange": "40,000—80,000元",
             "notes": "面文反置，学术价值高"
           }
@@ -152,12 +152,12 @@
       "dynastyIndex": 1,
       "summary": {
         "name": "文信钱",
-        "historicalPeriod": "战国晚期（秦）",
+        "historicalPeriod": "战国晚期（约公元前250年前后）",
         "ruler": "秦相吕不韦",
         "coreFeatures": "圆形方孔；面文\"文信\"；吕不韦封文信侯时所铸；存世稀少",
-        "estimatedValue": "60,000—320,000元",
+        "estimatedValue": "参考价：60,000—320,000元",
         "rarity": "三级 罕贵",
-        "thumbnail": "/images/coins/b-秦钱币/文信钱/main.jpg"
+        "thumbnail": "/images/coins/b-秦钱币/文信钱/thumb.webp"
       },
       "detail": {
         "castingTime": "战国晚期（约公元前250年前后）。据《中国钱币大辞典》记载，文信钱为秦国丞相吕不韦封\"文信侯\"后在其封地铸行的钱币。",
@@ -180,12 +180,12 @@
             "description": "直径2.4—2.6cm。面文\"文信\"二字大篆笔画端庄规整，\"文\"字点画方正，\"信\"字\"人\"部与\"言\"部结构清晰，穿孔四周四曲纹可辨。铸工较精，铜质细腻",
             "grade": "三级（罕贵）",
             "priceRange": "60,000—200,000元",
-            "notes": "新浪收藏2015年9月行情载最高成交31.86万元，另录9.66万元（2012年6月）；古钱币价格网录6.8万元级"
+            "notes": "新浪收藏2015年9月行情载最高成交31.86万元，另录9.66万元（2012年6月）；古钱币价格网录6.8万元级（以上行情来源非权威渠道，待核实）"
           },
           {
             "variant": "小型文信钱",
             "description": "直径2.3—2.4cm。钱体偏薄，面文字体较小，笔画纤细。铸工较标准型粗率",
-            "grade": "四级（罕） 美品",
+            "grade": "四级（珍罕） 美品",
             "priceRange": "40,000—70,000元",
             "notes": "较少见面文"
           },
@@ -194,7 +194,7 @@
             "description": "部分铸品可见好廓（穿孔周围的凸起廓线），好廓低浅但可辨，穿孔四周四曲纹清晰。极为罕见",
             "grade": "二级（珍） 极美品",
             "priceRange": "100,000—320,000元",
-            "notes": "极罕；区间上沿参考该品种最高成交31.86万元（新浪收藏2015年9月）"
+            "notes": "极罕；区间上沿参考该品种最高成交31.86万元（新浪收藏2015年9月，来源非权威，待核实）"
           }
         ]
       }
@@ -206,12 +206,12 @@
       "dynastyIndex": 1,
       "summary": {
         "name": "长安钱",
-        "historicalPeriod": "战国晚期（秦）",
+        "historicalPeriod": "战国晚期（约公元前3世纪）",
         "ruler": "秦王",
         "coreFeatures": "圆形方孔；面文\"长安\"；秦国圜钱体系；存世稀少",
-        "estimatedValue": "100,000—300,000元",
+        "estimatedValue": "参考价：100,000—300,000元",
         "rarity": "二级 珍",
-        "thumbnail": "/images/coins/b-秦钱币/长安钱/main.jpg"
+        "thumbnail": "/images/coins/b-秦钱币/长安钱/thumb.webp"
       },
       "detail": {
         "castingTime": "战国晚期（约公元前3世纪），秦国铸行。据《中国钱币大辞典》记载，长安钱为秦国圜钱体系中的品种之一。",

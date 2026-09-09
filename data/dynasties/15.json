@@ -9,12 +9,12 @@
       "dynastyIndex": 15,
       "summary": {
         "name": "大朝通宝",
-        "historicalPeriod": "蒙古国时期（约1227年）",
+        "historicalPeriod": "蒙古国时期（公元1227年）",
         "ruler": "太祖成吉思汗",
         "coreFeatures": "蒙古汗国开国铸币，五十名珍，银铜两种",
-        "estimatedValue": "3000—15000元",
-        "rarity": "四级（罕）",
-        "thumbnail": "/images/coins/q-元朝钱币/大朝通宝/main.jpg"
+        "estimatedValue": "参考价：3000—15000元",
+        "rarity": "四级 珍罕",
+        "thumbnail": "/images/coins/q-元朝钱币/大朝通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "蒙古未建立元朝以前（约公元1206年—1271年间，据《中国钱币大辞典》考证，具体可能在公元1227年左右）。",
@@ -42,14 +42,14 @@
           {
             "variant": "银质小平",
             "description": "银质铸造，存世略多于铜质，单枚重量：约4.1克，直径约2.3—2.5cm",
-            "grade": "四级（罕） 美品",
+            "grade": "四级（珍罕） 美品",
             "priceRange": "3000—6000元",
             "notes": "爱藏网行情约4,000元"
           },
           {
             "variant": "银质背\"木\"",
             "description": "银质小平，背面钤\"木\"字印文",
-            "grade": "四级（罕） 美品",
+            "grade": "四级（珍罕） 美品",
             "priceRange": "4000—8000元",
             "notes": "爱藏网行情约4,500元"
           }
@@ -66,9 +66,9 @@
         "historicalPeriod": "蒙古国时期（年代不详）",
         "ruler": "蒙古汗廷",
         "coreFeatures": "蒙古汗国珍泉，青白铜，篆真两体",
-        "estimatedValue": "20000—150000元",
-        "rarity": "二级（珍）",
-        "thumbnail": "/images/coins/q-元朝钱币/大朝金合/main.jpg"
+        "estimatedValue": "参考价：20000—150000元",
+        "rarity": "二级 珍",
+        "thumbnail": "/images/coins/q-元朝钱币/大朝金合/thumb.webp"
       },
       "detail": {
         "castingTime": "蒙古国时期（具体年代不详，约为公元1206年—1271年间）。",
@@ -110,12 +110,12 @@
       "dynastyIndex": 15,
       "summary": {
         "name": "中统元宝",
-        "historicalPeriod": "元世祖中统年间（1260年）",
+        "historicalPeriod": "元世祖中统年间（公元1260年）",
         "ruler": "世祖忽必烈",
         "coreFeatures": "楷篆对钱，元代最早汉文年号钱，五十名珍",
-        "estimatedValue": "5000—1500000元",
-        "rarity": "二级（珍）",
-        "thumbnail": "/images/coins/q-元朝钱币/中统元宝/main.jpg"
+        "estimatedValue": "参考价：5000—1500000元",
+        "rarity": "二级 珍",
+        "thumbnail": "/images/coins/q-元朝钱币/中统元宝/thumb.webp"
       },
       "detail": {
         "castingTime": "元世祖忽必烈中统年间（公元1260年—1264年）。",
@@ -171,12 +171,12 @@
       "dynastyIndex": 15,
       "summary": {
         "name": "元贞通宝",
-        "historicalPeriod": "元成宗元贞年间（1295年）",
+        "historicalPeriod": "元成宗元贞年间（公元1295年）",
         "ruler": "成宗铁穆耳",
         "coreFeatures": "汉文、蒙文两种版式，楷书直读光背",
-        "estimatedValue": "3000—80000元",
-        "rarity": "四级（罕）",
-        "thumbnail": "/images/coins/q-元朝钱币/元贞通宝/main.jpg"
+        "estimatedValue": "参考价：3000—80000元",
+        "rarity": "四级 珍罕",
+        "thumbnail": "/images/coins/q-元朝钱币/元贞通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "元成宗铁穆耳元贞年间（公元1295年—1297年）。",
@@ -197,14 +197,14 @@
           {
             "variant": "汉文小平",
             "description": "楷书直读，光背，直径：约2.1厘米，单枚重量约2.5克",
-            "grade": "四级（罕） 美品",
+            "grade": "四级（珍罕） 美品",
             "priceRange": "30000—80000元",
             "notes": "汉文元贞钱世间尚不易见，数万元级（存疑）"
           },
           {
             "variant": "汉文折二",
             "description": "楷书直读，光背，直径：约2.5厘米，单枚重量约3.6克",
-            "grade": "四级（罕） 美品",
+            "grade": "四级（珍罕） 美品",
             "priceRange": "30000—80000元",
             "notes": "存世少于小平（存疑）"
           },
@@ -232,12 +232,12 @@
       "dynastyIndex": 15,
       "summary": {
         "name": "大德通宝",
-        "historicalPeriod": "元成宗大德年间（1297年）",
+        "historicalPeriod": "元成宗大德年间（公元1297年）",
         "ruler": "成宗铁穆耳",
         "coreFeatures": "汉文、蒙文两种版式，楷书直读光背",
-        "estimatedValue": "50000—400000元",
-        "rarity": "二级（珍）",
-        "thumbnail": "/images/coins/q-元朝钱币/大德通宝/main.jpg"
+        "estimatedValue": "参考价：50000—400000元",
+        "rarity": "二级 珍",
+        "thumbnail": "/images/coins/q-元朝钱币/大德通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "元成宗铁穆耳大德年间（公元1297年—1307年）。",
@@ -293,12 +293,12 @@
       "dynastyIndex": 15,
       "summary": {
         "name": "至大通宝",
-        "historicalPeriod": "元武宗至大年间（1308年）",
+        "historicalPeriod": "元武宗至大年间（公元1308年）",
         "ruler": "武宗海山",
         "coreFeatures": "汉文楷书直读光背，元代铸量最大的汉文小平钱，折二罕见",
-        "estimatedValue": "50—150000元",
-        "rarity": "六级（稀）",
-        "thumbnail": "/images/coins/q-元朝钱币/至大通宝/main.jpg"
+        "estimatedValue": "参考价：50—150000元",
+        "rarity": "六级 稀",
+        "thumbnail": "/images/coins/q-元朝钱币/至大通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "元武宗海山至大三至四年（公元1310年—1311年）。",
@@ -319,7 +319,7 @@
           {
             "variant": "小平（光背）",
             "description": "楷书对读\"至大通宝\"，笔画端庄，光背。直径2.4—2.5厘米",
-            "grade": "八级（较多） 美品",
+            "grade": "八级（少） 美品",
             "priceRange": "50—300元",
             "notes": "铸量大较常见，市价约百元"
           },
@@ -340,12 +340,12 @@
       "dynastyIndex": 15,
       "summary": {
         "name": "至大元宝",
-        "historicalPeriod": "元武宗至大年间（1308年）",
+        "historicalPeriod": "元武宗至大年间（公元1308年）",
         "ruler": "武宗海山",
         "coreFeatures": "楷书直读光背，供养钱性质，存世极罕",
-        "estimatedValue": "3000—15000元",
-        "rarity": "五级（稀贵）",
-        "thumbnail": "/images/coins/q-元朝钱币/至大元宝/main.jpg"
+        "estimatedValue": "参考价：3000—15000元",
+        "rarity": "五级 稀贵",
+        "thumbnail": "/images/coins/q-元朝钱币/至大元宝/thumb.webp"
       },
       "detail": {
         "castingTime": "元武宗海山至大年间（公元1308年—1311年）。",
@@ -380,12 +380,12 @@
       "dynastyIndex": 15,
       "summary": {
         "name": "皇庆通宝",
-        "historicalPeriod": "元仁宗皇庆年间（1312年）",
+        "historicalPeriod": "元仁宗皇庆年间（公元1312年）",
         "ruler": "仁宗爱育黎拔力八达",
         "coreFeatures": "楷书直读光背，供养钱性质",
-        "estimatedValue": "300000—800000元",
-        "rarity": "一级（大珍）",
-        "thumbnail": "/images/coins/q-元朝钱币/皇庆通宝/main.jpg"
+        "estimatedValue": "参考价：300000—800000元",
+        "rarity": "一级 大珍",
+        "thumbnail": "/images/coins/q-元朝钱币/皇庆通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "元仁宗爱育黎拔力八达皇庆年间（公元1312年—1313年）。",
@@ -420,12 +420,12 @@
       "dynastyIndex": 15,
       "summary": {
         "name": "皇庆元宝",
-        "historicalPeriod": "元仁宗皇庆年间（1312年）",
+        "historicalPeriod": "元仁宗皇庆年间（公元1312年）",
         "ruler": "仁宗爱育黎拔力八达",
         "coreFeatures": "楷书直读，部分背铸月牙纹，供养钱性质",
-        "estimatedValue": "6000—20000元",
-        "rarity": "五级（稀贵）",
-        "thumbnail": "/images/coins/q-元朝钱币/皇庆元宝/main.jpg"
+        "estimatedValue": "参考价：6000—20000元",
+        "rarity": "五级 稀贵",
+        "thumbnail": "/images/coins/q-元朝钱币/皇庆元宝/thumb.webp"
       },
       "detail": {
         "castingTime": "元仁宗爱育黎拔力八达皇庆年间（公元1312年—1313年）。",
@@ -460,12 +460,12 @@
       "dynastyIndex": 15,
       "summary": {
         "name": "延祐通宝",
-        "historicalPeriod": "元仁宗延祐年间（1314年）",
+        "historicalPeriod": "元仁宗延祐年间（公元1314年）",
         "ruler": "仁宗爱育黎拔力八达",
         "coreFeatures": "楷书直读光背，供养钱性质",
-        "estimatedValue": "2000—8000元",
-        "rarity": "六级（稀）",
-        "thumbnail": "/images/coins/q-元朝钱币/延祐通宝/main.jpg"
+        "estimatedValue": "参考价：2000—8000元",
+        "rarity": "六级 稀",
+        "thumbnail": "/images/coins/q-元朝钱币/延祐通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "元仁宗爱育黎拔力八达延祐年间（公元1314年—1320年）。",
@@ -500,12 +500,12 @@
       "dynastyIndex": 15,
       "summary": {
         "name": "延祐元宝",
-        "historicalPeriod": "元仁宗延祐年间（1314年）",
+        "historicalPeriod": "元仁宗延祐年间（公元1314年）",
         "ruler": "仁宗爱育黎拔力八达",
         "coreFeatures": "楷书直读光背，供养钱性质",
-        "estimatedValue": "3000—15000元",
-        "rarity": "六级（稀）",
-        "thumbnail": "/images/coins/q-元朝钱币/延祐元宝/main.jpg"
+        "estimatedValue": "参考价：3000—15000元",
+        "rarity": "六级 稀",
+        "thumbnail": "/images/coins/q-元朝钱币/延祐元宝/thumb.webp"
       },
       "detail": {
         "castingTime": "元仁宗爱育黎拔力八达延祐年间（公元1314年—1320年）。",
@@ -540,12 +540,12 @@
       "dynastyIndex": 15,
       "summary": {
         "name": "至治通宝",
-        "historicalPeriod": "元英宗至治年间（1321年）",
+        "historicalPeriod": "元英宗至治年间（公元1321年）",
         "ruler": "英宗硕德八剌",
         "coreFeatures": "楷书直读光背，供养钱性质",
-        "estimatedValue": "2000—8000元",
-        "rarity": "六级（稀）",
-        "thumbnail": "/images/coins/q-元朝钱币/至治通宝/main.jpg"
+        "estimatedValue": "参考价：2000—8000元",
+        "rarity": "六级 稀",
+        "thumbnail": "/images/coins/q-元朝钱币/至治通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "元英宗硕德八剌至治年间（公元1321年—1323年）。",
@@ -580,12 +580,12 @@
       "dynastyIndex": 15,
       "summary": {
         "name": "至治元宝",
-        "historicalPeriod": "元英宗至治年间（1321年）",
+        "historicalPeriod": "元英宗至治年间（公元1321年）",
         "ruler": "英宗硕德八剌",
         "coreFeatures": "楷书直读光背，供养钱性质",
-        "estimatedValue": "2000—8000元",
-        "rarity": "六级（稀）",
-        "thumbnail": "/images/coins/q-元朝钱币/至治元宝/main.jpg"
+        "estimatedValue": "参考价：2000—8000元",
+        "rarity": "六级 稀",
+        "thumbnail": "/images/coins/q-元朝钱币/至治元宝/thumb.webp"
       },
       "detail": {
         "castingTime": "元英宗硕德八剌至治年间（公元1321年—1323年）。",
@@ -620,12 +620,12 @@
       "dynastyIndex": 15,
       "summary": {
         "name": "泰定通宝",
-        "historicalPeriod": "元泰定帝泰定年间（1324年）",
+        "historicalPeriod": "元泰定帝泰定年间（公元1324年）",
         "ruler": "泰定帝也孙铁木儿",
         "coreFeatures": "楷书直读光背，供养钱性质，另有折五大钱",
-        "estimatedValue": "200—20000元",
-        "rarity": "六级（稀）",
-        "thumbnail": "/images/coins/q-元朝钱币/泰定通宝/main.jpg"
+        "estimatedValue": "参考价：200—20000元",
+        "rarity": "六级 稀",
+        "thumbnail": "/images/coins/q-元朝钱币/泰定通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "元泰定帝也孙铁木儿泰定年间（公元1324年—1328年）。",
@@ -674,12 +674,12 @@
       "dynastyIndex": 15,
       "summary": {
         "name": "致和元宝",
-        "historicalPeriod": "元泰定帝致和元年（1328年）",
+        "historicalPeriod": "元泰定帝致和元年（公元1328年）",
         "ruler": "泰定帝也孙铁木儿",
         "coreFeatures": "楷书直读光背，年号仅存数月",
-        "estimatedValue": "2000—12000元",
-        "rarity": "五级（稀贵）",
-        "thumbnail": "/images/coins/q-元朝钱币/致和元宝/main.jpg"
+        "estimatedValue": "参考价：2000—12000元",
+        "rarity": "五级 稀贵",
+        "thumbnail": "/images/coins/q-元朝钱币/致和元宝/thumb.webp"
       },
       "detail": {
         "castingTime": "元泰定帝也孙铁木儿致和元年（公元1328年）。",
@@ -714,12 +714,12 @@
       "dynastyIndex": 15,
       "summary": {
         "name": "天历元宝",
-        "historicalPeriod": "元文宗天历年间（1328年）",
+        "historicalPeriod": "元文宗天历年间（公元1328年）",
         "ruler": "文宗图帖睦尔",
         "coreFeatures": "楷书直读光背，供养钱性质",
-        "estimatedValue": "3000—50000元",
-        "rarity": "五级（稀贵）",
-        "thumbnail": "/images/coins/q-元朝钱币/天历元宝/main.jpg"
+        "estimatedValue": "参考价：3000—50000元",
+        "rarity": "五级 稀贵",
+        "thumbnail": "/images/coins/q-元朝钱币/天历元宝/thumb.webp"
       },
       "detail": {
         "castingTime": "元文宗图帖睦尔天历年间（公元1328年—1330年）。",
@@ -754,12 +754,12 @@
       "dynastyIndex": 15,
       "summary": {
         "name": "至顺元宝",
-        "historicalPeriod": "元文宗至顺年间（1330年）",
+        "historicalPeriod": "元文宗至顺年间（公元1330年）",
         "ruler": "文宗图帖睦尔",
         "coreFeatures": "楷书直读光背，供养钱性质",
-        "estimatedValue": "3000—12000元",
-        "rarity": "六级（稀）",
-        "thumbnail": "/images/coins/q-元朝钱币/至顺元宝/main.jpg"
+        "estimatedValue": "参考价：3000—12000元",
+        "rarity": "六级 稀",
+        "thumbnail": "/images/coins/q-元朝钱币/至顺元宝/thumb.webp"
       },
       "detail": {
         "castingTime": "元文宗图帖睦尔至顺年间（公元1330年—1333年）。",
@@ -794,12 +794,12 @@
       "dynastyIndex": 15,
       "summary": {
         "name": "元统通宝",
-        "historicalPeriod": "元惠宗元统年间（1333年）",
+        "historicalPeriod": "元惠宗元统年间（公元1333年）",
         "ruler": "惠宗妥懽帖睦尔",
         "coreFeatures": "楷书直读光背，铸量极少",
-        "estimatedValue": "2000—15000元",
-        "rarity": "五级（稀贵）",
-        "thumbnail": "/images/coins/q-元朝钱币/元统通宝/main.jpg"
+        "estimatedValue": "参考价：2000—15000元",
+        "rarity": "五级 稀贵",
+        "thumbnail": "/images/coins/q-元朝钱币/元统通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "元惠宗妥懽帖睦尔元统年间（公元1333年—1335年）。",
@@ -841,12 +841,12 @@
       "dynastyIndex": 15,
       "summary": {
         "name": "至元通宝",
-        "historicalPeriod": "元世祖至元二十二年（1285年）；元惠宗后至元元年（1335年）",
+        "historicalPeriod": "元世祖至元二十二年（公元1285年）；元惠宗后至元元年（公元1335年）",
         "ruler": "世祖忽必烈；惠宗妥懽帖睦尔",
         "coreFeatures": "汉文、蒙文两大版式，楷书直读光背",
-        "estimatedValue": "200—3,000元",
-        "rarity": "六级（稀）",
-        "thumbnail": "/images/coins/q-元朝钱币/至元通宝/main.jpg"
+        "estimatedValue": "参考价：200—3,000元",
+        "rarity": "六级 稀",
+        "thumbnail": "/images/coins/q-元朝钱币/至元通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "元世祖忽必烈至元二十二年至三十一年（公元1285年—1294年）初铸；元惠宗妥懽帖睦尔后至元元年至六年（公元1335年—1340年）再铸。",
@@ -902,12 +902,12 @@
       "dynastyIndex": 15,
       "summary": {
         "name": "至元元宝",
-        "historicalPeriod": "元惠宗后至元年间（1335年）",
+        "historicalPeriod": "元惠宗后至元年间（公元1335年）",
         "ruler": "惠宗妥懽帖睦尔",
         "coreFeatures": "楷书旋读光背，存世稀少",
-        "estimatedValue": "3000—15000元",
-        "rarity": "六级（稀）",
-        "thumbnail": "/images/coins/q-元朝钱币/至元元宝/main.jpg"
+        "estimatedValue": "参考价：3000—15000元",
+        "rarity": "六级 稀",
+        "thumbnail": "/images/coins/q-元朝钱币/至元元宝/thumb.webp"
       },
       "detail": {
         "castingTime": "元惠宗妥懽帖睦尔后至元年间（公元1335年—1340年）。",
@@ -942,12 +942,12 @@
       "dynastyIndex": 15,
       "summary": {
         "name": "至正通宝",
-        "historicalPeriod": "元惠宗至正年间（1341年）",
+        "historicalPeriod": "元惠宗至正年间（公元1341年）",
         "ruler": "惠宗妥懽帖睦尔",
         "coreFeatures": "楷书对读，背八思巴文纪年纪值，元代铸工最精的钱币",
-        "estimatedValue": "100—6000元",
-        "rarity": "六级（稀）",
-        "thumbnail": "/images/coins/q-元朝钱币/至正通宝/main.jpg"
+        "estimatedValue": "参考价：100—6000元",
+        "rarity": "六级 稀",
+        "thumbnail": "/images/coins/q-元朝钱币/至正通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "元惠宗妥懽帖睦尔至正年间（公元1341年—1368年）。",
@@ -968,21 +968,21 @@
           {
             "variant": "小平楷书背\"卯\"（至正十一年，1351年）",
             "description": "楷书面文\"至正通宝\"，四字对读。背穿上有八思巴文\"卯\"字纪年。直径约2.4cm",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "100—500元",
             "notes": "卯为纪年第二字，铸量较大"
           },
           {
             "variant": "小平楷书背\"辰\"（至正十二年，1352年）",
             "description": "背穿上有八思巴文\"辰\"字纪年",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "100—500元",
             "notes": "品相决定价格"
           },
           {
             "variant": "小平楷书背\"巳\"（至正十三年，1353年）",
             "description": "背穿上有八思巴文\"巳\"字纪年",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "100—500元",
             "notes": "品相决定价格"
           },
@@ -1017,7 +1017,7 @@
           {
             "variant": "小平楷书背\"寅\"（至正十年，1350年）",
             "description": "纪年之首，背穿上八思巴文\"寅\"字，铸于至正十年（庚寅）。存世少于卯、辰、巳各年",
-            "grade": "四级（罕） 美品",
+            "grade": "四级（珍罕） 美品",
             "priceRange": "2000—6000元",
             "notes": "价格表载背\"寅\"定四级、约3,600元"
           },
@@ -1038,12 +1038,12 @@
       "dynastyIndex": 15,
       "summary": {
         "name": "至正之宝",
-        "historicalPeriod": "元惠宗至正年间（1341年后）",
+        "historicalPeriod": "元惠宗至正年间（公元1341年后）",
         "ruler": "惠宗妥懽帖睦尔",
         "coreFeatures": "权钞钱，背铸\"吉\"\"权钞\"及面值，铜钱代表纸币面值",
-        "estimatedValue": "40000—300000元",
-        "rarity": "三级（罕贵）",
-        "thumbnail": "/images/coins/q-元朝钱币/至正之宝/main.jpg"
+        "estimatedValue": "参考价：40000—300000元",
+        "rarity": "三级 罕贵",
+        "thumbnail": "/images/coins/q-元朝钱币/至正之宝/thumb.webp"
       },
       "detail": {
         "castingTime": "元惠宗妥懽帖睦尔至正年间（公元1341年后）。",
@@ -1071,14 +1071,14 @@
           {
             "variant": "权钞壹钱",
             "description": "面值一钱，直径约5.5厘米",
-            "grade": "四级（罕） 美品",
+            "grade": "四级（珍罕） 美品",
             "priceRange": "80000—150000元",
             "notes": "有成交110,020元记录"
           },
           {
             "variant": "权钞壹钱伍分",
             "description": "面值一钱五分，直径约6.0厘米",
-            "grade": "四级（罕） 美品",
+            "grade": "四级（珍罕） 美品",
             "priceRange": "100000—200000元",
             "notes": "无公开成交锚点，按面值序列推估（存疑）"
           },
@@ -1106,12 +1106,12 @@
       "dynastyIndex": 15,
       "summary": {
         "name": "大元通宝",
-        "historicalPeriod": "元武宗至大年间（1309年）",
+        "historicalPeriod": "元武宗至大年间（公元1309年）",
         "ruler": "武宗海山",
         "coreFeatures": "八思巴文折十大钱，元代铸量最大、流通最广的金属货币",
-        "estimatedValue": "200—300000元",
-        "rarity": "七级（甚少）",
-        "thumbnail": "/images/coins/q-元朝钱币/大元通宝/main.jpg"
+        "estimatedValue": "参考价：200—300000元",
+        "rarity": "七级 甚少",
+        "thumbnail": "/images/coins/q-元朝钱币/大元通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "元武宗海山至大二年（公元1309年）始铸，与至大通宝并行流通。",
@@ -1139,7 +1139,7 @@
           {
             "variant": "折十八思巴文版",
             "description": "八思巴文面文。折十型大钱，直径约4.0厘米",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "200—1500元",
             "notes": "普品约200—420元，美品1,000—3,500元"
           }
@@ -1153,12 +1153,12 @@
       "dynastyIndex": 15,
       "summary": {
         "name": "大元国宝",
-        "historicalPeriod": "元武宗至大年间（1308年）",
+        "historicalPeriod": "元武宗至大年间（公元1308年）",
         "ruler": "武宗海山",
         "coreFeatures": "国号钱，篆书直读，试铸样钱镇库性质，存世极罕",
-        "estimatedValue": "150000—1000000元",
-        "rarity": "一级（大珍）",
-        "thumbnail": "/images/coins/q-元朝钱币/大元国宝/main.jpg"
+        "estimatedValue": "参考价：150000—1000000元",
+        "rarity": "一级 大珍",
+        "thumbnail": "/images/coins/q-元朝钱币/大元国宝/thumb.webp"
       },
       "detail": {
         "castingTime": "元武宗海山至大年间（公元1308年—1311年），国号钱。",
@@ -1207,12 +1207,12 @@
       "dynastyIndex": 15,
       "summary": {
         "name": "大元至治",
-        "historicalPeriod": "元英宗至治年间（1321年）",
+        "historicalPeriod": "元英宗至治年间（公元1321年）",
         "ruler": "英宗硕德八剌",
         "coreFeatures": "国号加年号合书钱文，仅此一种，供养钱性质",
-        "estimatedValue": "200000—600000元",
-        "rarity": "二级（珍）",
-        "thumbnail": "/images/coins/q-元朝钱币/大元至治/main.jpg"
+        "estimatedValue": "参考价：200000—600000元",
+        "rarity": "二级 珍",
+        "thumbnail": "/images/coins/q-元朝钱币/大元至治/thumb.webp"
       },
       "detail": {
         "castingTime": "元英宗硕德八剌至治年间（公元1321年—1323年），面文合国号\"大元\"与年号\"至治\"。",
@@ -1247,12 +1247,12 @@
       "dynastyIndex": 15,
       "summary": {
         "name": "大义通宝",
-        "historicalPeriod": "元末（1360年）",
+        "historicalPeriod": "元末（公元1360年）",
         "ruler": "陈友谅",
         "coreFeatures": "楷书对读，小平至折三，元末起义军铸币",
-        "estimatedValue": "100—1,000元",
-        "rarity": "七级（甚少）",
-        "thumbnail": "/images/coins/q-元朝钱币/大义通宝/main.jpg"
+        "estimatedValue": "参考价：100—1,000元",
+        "rarity": "七级 甚少",
+        "thumbnail": "/images/coins/q-元朝钱币/大义通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "元末农民起义时期（公元1360年），陈友谅所铸。",
@@ -1273,21 +1273,21 @@
           {
             "variant": "小平",
             "description": "楷书对读，光背，直径：约2.4厘米，单枚重量约3—4克。品相决定价格",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "100—1,000元",
             "notes": "铸主：陈友谅"
           },
           {
             "variant": "折二",
             "description": "楷书对读，光背，直径：约2.8厘米，重约5—7g",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "300—600元",
             "notes": "折二"
           },
           {
             "variant": "折三",
             "description": "楷书对读，光背，直径：约3.1厘米，重约8—10g",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "400—800元",
             "notes": "折三"
           }
@@ -1301,12 +1301,12 @@
       "dynastyIndex": 15,
       "summary": {
         "name": "天佑通宝",
-        "historicalPeriod": "元末（1354年）",
+        "historicalPeriod": "元末（公元1354年）",
         "ruler": "张士诚",
         "coreFeatures": "楷书对读，背大写数字纪值，小平至折五",
-        "estimatedValue": "500—80000元",
-        "rarity": "四级（罕）",
-        "thumbnail": "/images/coins/q-元朝钱币/天佑通宝/main.jpg"
+        "estimatedValue": "参考价：500—80000元",
+        "rarity": "四级 珍罕",
+        "thumbnail": "/images/coins/q-元朝钱币/天佑通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "元末农民起义时期（公元1354年），张士诚所铸。",
@@ -1334,21 +1334,21 @@
           {
             "variant": "折二背\"贰\"",
             "description": "楷书对读，背穿上铭\"贰\"字。直径约2.8—2.9厘米，重约5—6克",
-            "grade": "四级（罕） 美品",
+            "grade": "四级（珍罕） 美品",
             "priceRange": "8000—80000元",
             "notes": "泓盛2024春拍极美品43,700元；满汀洲88,000元、古钱币价格网100,570元"
           },
           {
             "variant": "折三背\"叁\"",
             "description": "楷书对读，背穿上铭\"叁\"字。直径约3.1厘米，重约8—9克",
-            "grade": "四级（罕） 美品",
+            "grade": "四级（珍罕） 美品",
             "priceRange": "20000—60000元",
             "notes": "古玩价格网载折三背\"叁\"约40,000—50,000元，极美品更高"
           },
           {
             "variant": "折五背\"伍\"",
             "description": "楷书对读，背穿上铭\"伍\"字。直径约3.5厘米，重约10—12克",
-            "grade": "四级（罕） 美品",
+            "grade": "四级（珍罕） 美品",
             "priceRange": "12000—35000元",
             "notes": "有成交14,000—17,820元记录"
           }
@@ -1362,12 +1362,12 @@
       "dynastyIndex": 15,
       "summary": {
         "name": "天定通宝",
-        "historicalPeriod": "元末（1359年）",
+        "historicalPeriod": "元末（公元1359年）",
         "ruler": "陈友谅",
         "coreFeatures": "楷书对读，小平至折三，元末起义军铸币",
-        "estimatedValue": "100—1000元",
-        "rarity": "七级（甚少）",
-        "thumbnail": "/images/coins/q-元朝钱币/天定通宝/main.jpg"
+        "estimatedValue": "参考价：100—1000元",
+        "rarity": "七级 甚少",
+        "thumbnail": "/images/coins/q-元朝钱币/天定通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "元末农民起义时期（公元1359年），陈友谅所铸。",
@@ -1388,21 +1388,21 @@
           {
             "variant": "小平",
             "description": "楷书对读，光背，直径：约2.4厘米，单枚重量约3—4克。品相决定价格",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "100—1,000元",
             "notes": "铸主：陈友谅"
           },
           {
             "variant": "折二",
             "description": "楷书对读，光背，直径：约2.8厘米，重约5—7g",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "300—600元",
             "notes": "折二"
           },
           {
             "variant": "折三",
             "description": "楷书对读，光背，直径：约3.1厘米，重约8—10g",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "400—800元",
             "notes": "折三"
           }
@@ -1416,12 +1416,12 @@
       "dynastyIndex": 15,
       "summary": {
         "name": "龙凤通宝",
-        "historicalPeriod": "元末（1355年）",
+        "historicalPeriod": "元末（公元1355年）",
         "ruler": "韩林儿（小明王）",
         "coreFeatures": "楷书对读，小平至折三，宋政权铸币",
-        "estimatedValue": "500—5000元",
-        "rarity": "六级（稀）",
-        "thumbnail": "/images/coins/q-元朝钱币/龙凤通宝/main.jpg"
+        "estimatedValue": "参考价：500—5000元",
+        "rarity": "六级 稀",
+        "thumbnail": "/images/coins/q-元朝钱币/龙凤通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "元末农民起义时期（公元1355年），韩林儿（小明王）所铸。",
@@ -1442,21 +1442,21 @@
           {
             "variant": "小平",
             "description": "楷书对读，光背，直径：约2.4厘米，单枚重量约3—4克。品相决定价格",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "500—3,000元",
             "notes": "铸主：韩林儿（小明王）"
           },
           {
             "variant": "折二",
             "description": "楷书对读，光背，直径：约2.8厘米，重约5—7g",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "1,500—3,000元",
             "notes": "折二"
           },
           {
             "variant": "折三",
             "description": "楷书对读，光背，直径：约3.1厘米，重约8—10g",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "2,000—5,000元",
             "notes": "折三"
           }
@@ -1470,12 +1470,12 @@
       "dynastyIndex": 15,
       "summary": {
         "name": "大中通宝-朱元璋",
-        "historicalPeriod": "元末（1361年）",
+        "historicalPeriod": "元末（公元1361年）",
         "ruler": "朱元璋",
         "coreFeatures": "楷书对读，背纪地纪值，小平至当十",
-        "estimatedValue": "20—5000元",
-        "rarity": "七级（甚少）",
-        "thumbnail": "/images/coins/q-元朝钱币/大中通宝-朱元璋/main.jpg"
+        "estimatedValue": "参考价：20—5000元",
+        "rarity": "七级 甚少",
+        "thumbnail": "/images/coins/q-元朝钱币/大中通宝-朱元璋/thumb.webp"
       },
       "detail": {
         "castingTime": "元末农民起义时期（公元1361年），朱元璋所铸。",
@@ -1496,7 +1496,7 @@
           {
             "variant": "小平楷书版",
             "description": "楷书面文\"大中通宝\"，四字对读。直径约2.4cm",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "20—100元",
             "notes": "朱元璋建国前铸币"
           },
@@ -1552,12 +1552,12 @@
       "dynastyIndex": 15,
       "summary": {
         "name": "穆清金宝",
-        "historicalPeriod": "元末至正年间（约1353—1358年）",
+        "historicalPeriod": "元末至正年间（公元1353年—1358年）",
         "ruler": "元廷",
         "coreFeatures": "面文\"穆清金宝\"，实为铜质，供养钱性质，仅见品",
-        "estimatedValue": "500000—1500000元",
-        "rarity": "一级（大珍）",
-        "thumbnail": "/images/coins/q-元朝钱币/穆清金宝/main.jpg"
+        "estimatedValue": "参考价：500000—1500000元",
+        "rarity": "一级 大珍",
+        "thumbnail": "/images/coins/q-元朝钱币/穆清金宝/thumb.webp"
       },
       "detail": {
         "castingTime": "元惠宗妥懽帖睦尔至正年间（约公元1353年—1358年），穆清系列供养钱。",
@@ -1592,12 +1592,12 @@
       "dynastyIndex": 15,
       "summary": {
         "name": "穆清银宝",
-        "historicalPeriod": "元末至正年间（约1353—1358年）",
+        "historicalPeriod": "元末至正年间（公元1353年—1358年）",
         "ruler": "元廷",
         "coreFeatures": "面文\"穆清银宝\"，实为铜质，供养钱性质",
-        "estimatedValue": "200000—600000元",
-        "rarity": "二级（珍）",
-        "thumbnail": "/images/coins/q-元朝钱币/穆清银宝/main.jpg"
+        "estimatedValue": "参考价：200000—600000元",
+        "rarity": "二级 珍",
+        "thumbnail": "/images/coins/q-元朝钱币/穆清银宝/thumb.webp"
       },
       "detail": {
         "castingTime": "元惠宗妥懽帖睦尔至正年间（约公元1353年—1358年），穆清系列供养钱。",
@@ -1632,12 +1632,12 @@
       "dynastyIndex": 15,
       "summary": {
         "name": "穆清铜宝",
-        "historicalPeriod": "元末至正年间（约1353—1358年）",
+        "historicalPeriod": "元末至正年间（公元1353年—1358年）",
         "ruler": "元廷",
         "coreFeatures": "面文\"穆清铜宝\"，供养钱系列，背\"至正\"大型前谱未载",
-        "estimatedValue": "5000—650000元",
-        "rarity": "四级（罕）",
-        "thumbnail": "/images/coins/q-元朝钱币/穆清铜宝/main.jpg"
+        "estimatedValue": "参考价：5000—650000元",
+        "rarity": "四级 珍罕",
+        "thumbnail": "/images/coins/q-元朝钱币/穆清铜宝/thumb.webp"
       },
       "detail": {
         "castingTime": "元惠宗妥懽帖睦尔至正年间（约公元1353年—1358年），穆清系列供养钱。",

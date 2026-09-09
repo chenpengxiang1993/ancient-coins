@@ -4,8 +4,9 @@
  * 将 main.jpg 写回各 data/dynasties/*.json 的 detail.images 字段。
  *
  * - main.jpg → images.main（缺失则置空）
+ * - thumb.webp → summary.thumbnail（AGENTS.md §4.4 规范：缩略图用 WebP；
+ *   优先 thumb.webp，缺 thumb.webp 时回退 main.jpg，两者皆缺则置空）
  * - images.variants 恒为 []（版别图 2026-09 已全部移除，仅保留字段供 schema 校验）
- * - summary.thumbnail 同步为 images.main
  */
 
 import fs from 'fs';
@@ -42,6 +43,12 @@ function sanitizeFileName(name) {
   return name.replace(/[\/\\:*?"<>|]/g, '-').replace(/\s+/g, '');
 }
 
+// 钱币条目名 → 图片目录名 别名（用于条目改名后图片目录保持原名的场景，避免图片失联）
+const COIN_DIR_ALIAS = {
+  '货布': '货布钱', // 2-36 改名（面文原文），图片目录保持原「货布钱」
+  '货泉': '货泉钱', // 2-37 改名（面文原文），图片目录保持原「货泉钱」
+};
+
 function atomicWriteJSON(filePath, data) {
   const tmp = filePath + '.tmp';
   fs.writeFileSync(tmp, JSON.stringify(data, null, 2) + '\n', 'utf-8');
@@ -49,17 +56,21 @@ function atomicWriteJSON(filePath, data) {
 }
 
 function scanCoinImages(prefix, dynasty, coinName) {
-  const basePath = `/images/coins/${prefix}-${sanitizeFileName(dynasty)}/${sanitizeFileName(coinName)}`;
+  const dirName = COIN_DIR_ALIAS[coinName] || coinName;
+  const basePath = `/images/coins/${prefix}-${sanitizeFileName(dynasty)}/${sanitizeFileName(dirName)}`;
   const coinDir = path.join(
     IMAGES_DIR,
     `${prefix}-${sanitizeFileName(dynasty)}`,
-    sanitizeFileName(coinName)
+    sanitizeFileName(dirName)
   );
 
   const mainExists = fs.existsSync(path.join(coinDir, 'main.jpg'));
+  const thumbExists = fs.existsSync(path.join(coinDir, 'thumb.webp'));
   const main = mainExists ? `${basePath}/main.jpg` : '';
+  // 缩略图规范为 thumb.webp；缺失时回退 main.jpg（保证字段非空），两者皆缺则置空
+  const thumbnail = thumbExists ? `${basePath}/thumb.webp` : (main || '');
 
-  return { main, variants: [] };
+  return { main, thumbnail, variants: [] };
 }
 
 function main() {
@@ -91,10 +102,11 @@ function main() {
       const prev = coin.detail.images || {};
       const changed =
         prev.main !== images.main ||
-        JSON.stringify(prev.variants || []) !== JSON.stringify(images.variants);
+        JSON.stringify(prev.variants || []) !== JSON.stringify(images.variants) ||
+        coin.summary.thumbnail !== images.thumbnail;
 
-      coin.detail.images = images;
-      coin.summary.thumbnail = images.main;
+      coin.detail.images = { main: images.main, variants: images.variants };
+      coin.summary.thumbnail = images.thumbnail;
       if (changed) updatedCoins++;
     }
 

@@ -9,12 +9,12 @@
       "dynastyIndex": 5,
       "summary": {
         "name": "元嘉四铢",
-        "historicalPeriod": "南朝宋（430年）",
+        "historicalPeriod": "南朝宋（公元430年）",
         "ruler": "宋文帝刘义隆",
         "coreFeatures": "面文\"四铢\"；南朝宋恢复铸币之始；重四铢",
-        "estimatedValue": "100—2,000元",
+        "estimatedValue": "参考价：100—2,000元",
         "rarity": "八级 少",
-        "thumbnail": "/images/coins/g-南朝钱币/元嘉四铢/main.jpg"
+        "thumbnail": "/images/coins/g-南朝钱币/元嘉四铢/thumb.webp"
       },
       "detail": {
         "castingTime": "南朝宋元嘉七年（公元430年）。据《宋书·食货志》记载，宋文帝立钱署，铸行四铢钱，为南朝第一种新铸钱币，结束了南朝长期不铸新钱的局面。",
@@ -63,12 +63,12 @@
       "dynastyIndex": 5,
       "summary": {
         "name": "四铢钱",
-        "historicalPeriod": "南朝宋（454年前后）",
+        "historicalPeriod": "南朝宋（公元454年前后）",
         "ruler": "宋孝武帝刘骏",
         "coreFeatures": "面文\"四铢\"；沿元嘉四铢制度；铸工较精",
-        "estimatedValue": "20—1,000元（粗铸小钱数十元，美品千元级）",
+        "estimatedValue": "参考价：20—1,000元（粗铸小钱数十元，美品千元级）",
         "rarity": "八级 少",
-        "thumbnail": "/images/coins/g-南朝钱币/四铢钱/main.jpg"
+        "thumbnail": "/images/coins/g-南朝钱币/四铢钱/thumb.webp"
       },
       "detail": {
         "castingTime": "南朝宋孝建元年前后（约公元454年）。据《中国钱币大辞典》记载，四铢钱为南朝宋沿用元嘉四铢制度铸行。",
@@ -103,7 +103,7 @@
           {
             "variant": "粗铸版",
             "description": "铸工粗率，字口浅平，钱体略薄。民间私铸或减重铸行",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "20—80元",
             "notes": "粗铸版较常见"
           }
@@ -117,12 +117,12 @@
       "dynastyIndex": 5,
       "summary": {
         "name": "孝建四铢",
-        "historicalPeriod": "南朝宋（454年）",
+        "historicalPeriod": "南朝宋（公元454年）",
         "ruler": "宋孝武帝刘骏",
         "coreFeatures": "面文\"孝建\"、背\"四铢\"；以年号为面文；重四铢；南朝名品",
-        "estimatedValue": "300—5,000元（普品数百元，大样及特殊版别数千元）",
+        "estimatedValue": "参考价：300—5,000元（普品数百元，大样及特殊版别数千元）",
         "rarity": "八级 少",
-        "thumbnail": "/images/coins/g-南朝钱币/孝建四铢/main.jpg"
+        "thumbnail": "/images/coins/g-南朝钱币/孝建四铢/thumb.webp"
       },
       "detail": {
         "castingTime": "南朝宋孝建元年（公元454年）。据《宋书·食货志》记载，宋孝武帝改元\"孝建\"后铸行孝建四铢。",
@@ -185,12 +185,12 @@
       "dynastyIndex": 5,
       "summary": {
         "name": "大明四铢",
-        "historicalPeriod": "南朝宋（457年—464年）",
+        "historicalPeriod": "南朝宋（公元457年—464年）",
         "ruler": "宋孝武帝刘骏",
         "coreFeatures": "面文\"大明\"、背文\"四铢\"；以年号为面文；存世极罕",
-        "estimatedValue": "30,000—100,000元（存世极罕，市场参考约4万元级）",
+        "estimatedValue": "参考价：30,000—100,000元（存世极罕，市场参考约4万元级）",
         "rarity": "五级 稀贵",
-        "thumbnail": "/images/coins/g-南朝钱币/大明四铢/main.jpg"
+        "thumbnail": "/images/coins/g-南朝钱币/大明四铢/thumb.webp"
       },
       "detail": {
         "castingTime": "南朝宋大明年间（公元457年—464年）。据百度百科\"大明四铢钱\"，大明四铢为宋孝武帝第二个年号钱，面文\"大明\"、背文\"四铢\"，均篆书，有面文右左书、左右书与背文上下书等版别，制作较粗率，存世极罕。",
@@ -218,7 +218,7 @@
           {
             "variant": "美品版",
             "description": "面文\"大明\"、背文\"四铢\"字口清晰，钱体规整，品相上佳。存世极罕",
-            "grade": "四级（罕） 美品",
+            "grade": "四级（珍罕） 美品",
             "priceRange": "50,000—100,000元",
             "notes": "存世极罕，价格为参考估值"
           }
@@ -232,12 +232,12 @@
       "dynastyIndex": 5,
       "summary": {
         "name": "两铢钱",
-        "historicalPeriod": "南朝宋（465年）",
+        "historicalPeriod": "南朝宋（公元465年）",
         "ruler": "宋前废帝刘子业",
         "coreFeatures": "面文\"两铢\"；重仅二铢；极轻薄；近年有科学考古出土",
-        "estimatedValue": "15,000—100,000元（2012年嘉德成交5.98万元，近年出土增多价格回落）",
+        "estimatedValue": "参考价：15,000—100,000元（2012年嘉德成交5.98万元，近年出土增多价格回落）",
         "rarity": "六级 稀",
-        "thumbnail": "/images/coins/g-南朝钱币/两铢钱/main.jpg"
+        "thumbnail": "/images/coins/g-南朝钱币/两铢钱/thumb.webp"
       },
       "detail": {
         "castingTime": "南朝宋永光元年（公元465年）二月。据《中国钱币大辞典》及百度百科\"两铢\"，两铢钱为宋前废帝铸行的极轻薄小钱，系沈庆之奏准开放民间私铸后铸行，有官铸、民铸之分；后经科学考古发掘首次出土实物。",
@@ -279,12 +279,12 @@
       "dynastyIndex": 5,
       "summary": {
         "name": "永光钱",
-        "historicalPeriod": "南朝宋（465年）",
+        "historicalPeriod": "南朝宋（公元465年）",
         "ruler": "宋前废帝刘子业",
         "coreFeatures": "面文\"永光\"；以年号为面文；铸行不足半年；古泉五十名珍",
-        "estimatedValue": "20,000—200,000元（古泉五十名珍；近年略有出土，行情较早年名义价回落）",
+        "estimatedValue": "参考价：20,000—200,000元（古泉五十名珍；近年略有出土，行情较早年名义价回落）",
         "rarity": "三级 罕贵",
-        "thumbnail": "/images/coins/g-南朝钱币/永光钱/main.jpg"
+        "thumbnail": "/images/coins/g-南朝钱币/永光钱/thumb.webp"
       },
       "detail": {
         "castingTime": "南朝宋永光元年（公元465年）。据《中国钱币大辞典》记载，永光钱为宋前废帝改元\"永光\"后铸行，行用不足半年，同年八月改元景和后即废。",
@@ -326,12 +326,12 @@
       "dynastyIndex": 5,
       "summary": {
         "name": "景和钱",
-        "historicalPeriod": "南朝宋（465年）",
+        "historicalPeriod": "南朝宋（公元465年）",
         "ruler": "宋前废帝刘子业",
         "coreFeatures": "面文\"景和\"；以年号为面文；流通仅约三个月；古泉五十名珍",
-        "estimatedValue": "20,000—200,000元（古泉五十名珍；近年略有出土，行情较早年名义价回落）",
+        "estimatedValue": "参考价：20,000—200,000元（古泉五十名珍；近年略有出土，行情较早年名义价回落）",
         "rarity": "三级 罕贵",
-        "thumbnail": "/images/coins/g-南朝钱币/景和钱/main.jpg"
+        "thumbnail": "/images/coins/g-南朝钱币/景和钱/thumb.webp"
       },
       "detail": {
         "castingTime": "南朝宋景和元年（公元465年）。据《中国钱币大辞典》记载，景和钱为宋前废帝改元\"景和\"后铸行，实际流通仅约三个月，十一月刘子业被弑后即废止；有官民并铸现象（据百度百科\"古泉五十名珍\"）。",
@@ -373,12 +373,12 @@
       "dynastyIndex": 5,
       "summary": {
         "name": "天监五铢",
-        "historicalPeriod": "南朝梁（502年）",
+        "historicalPeriod": "南朝梁（公元502年）",
         "ruler": "梁武帝萧衍",
         "coreFeatures": "面文\"五铢\"；天监年间恢复铸币；铸工较精",
-        "estimatedValue": "30—800元",
+        "estimatedValue": "参考价：30—800元",
         "rarity": "九级 较多",
-        "thumbnail": "/images/coins/g-南朝钱币/天监五铢/main.jpg"
+        "thumbnail": "/images/coins/g-南朝钱币/天监五铢/thumb.webp"
       },
       "detail": {
         "castingTime": "南朝梁天监元年（公元502年）。据《中国钱币大辞典》记载，梁武帝即位后铸行天监五铢，恢复五铢钱制。",
@@ -427,12 +427,12 @@
       "dynastyIndex": 5,
       "summary": {
         "name": "梁五铢",
-        "historicalPeriod": "南朝梁（约502年—549年）",
+        "historicalPeriod": "南朝梁（约公元502年—549年）",
         "ruler": "梁武帝萧衍",
         "coreFeatures": "面文\"五铢\"；南朝梁主要流通货币",
-        "estimatedValue": "20—200元",
+        "estimatedValue": "参考价：20—200元",
         "rarity": "九级 较多",
-        "thumbnail": "/images/coins/g-南朝钱币/梁五铢/main.jpg"
+        "thumbnail": "/images/coins/g-南朝钱币/梁五铢/thumb.webp"
       },
       "detail": {
         "castingTime": "南朝梁时期（约公元502年—549年）。据《中国钱币大辞典》记载，梁五铢为南朝梁铸量最大的钱币。",
@@ -474,12 +474,12 @@
       "dynastyIndex": 5,
       "summary": {
         "name": "铁五铢-梁",
-        "historicalPeriod": "南朝梁（约523年）",
+        "historicalPeriod": "南朝梁（约公元523年）",
         "ruler": "梁武帝萧衍",
         "coreFeatures": "铁质；面文\"五铢\"；以铁代铜；导致严重通胀",
-        "estimatedValue": "20—800元",
+        "estimatedValue": "参考价：20—800元",
         "rarity": "九级 较多",
-        "thumbnail": "/images/coins/g-南朝钱币/铁五铢-梁/main.jpg"
+        "thumbnail": "/images/coins/g-南朝钱币/铁五铢-梁/thumb.webp"
       },
       "detail": {
         "castingTime": "南朝梁普通四年（公元523年）。据《梁书·武帝纪》记载，梁武帝因铜材不足而改铸铁五铢，并禁用铜钱。",
@@ -521,12 +521,12 @@
       "dynastyIndex": 5,
       "summary": {
         "name": "公式女钱",
-        "historicalPeriod": "南朝梁（约502年—549年）",
+        "historicalPeriod": "南朝梁（约公元502年—549年）",
         "ruler": "梁武帝萧衍",
         "coreFeatures": "面文\"五铢\"；无外廓；官方规定标准的小型五铢",
-        "estimatedValue": "30—800元",
+        "estimatedValue": "参考价：30—800元",
         "rarity": "八级 少",
-        "thumbnail": "/images/coins/g-南朝钱币/公式女钱/main.jpg"
+        "thumbnail": "/images/coins/g-南朝钱币/公式女钱/thumb.webp"
       },
       "detail": {
         "castingTime": "南朝梁时期（约公元502年—549年）。据《中国钱币大辞典》记载，公式女钱为南朝梁官方规定标准的小型五铢钱。",
@@ -575,12 +575,12 @@
       "dynastyIndex": 5,
       "summary": {
         "name": "太清丰乐",
-        "historicalPeriod": "南朝梁（约547年—549年）",
+        "historicalPeriod": "南朝梁（约公元547年—549年）",
         "ruler": "梁武帝萧衍",
         "coreFeatures": "面文\"太清丰乐\"；年号兼吉语钱；背四出与光背两式",
-        "estimatedValue": "1,500—15,000元（2000年江苏宜兴出土约四千枚后行情回落，普品千元级、极美品可过万元）",
+        "estimatedValue": "参考价：1,500—15,000元（2000年江苏宜兴出土约四千枚后行情回落，普品千元级、极美品可过万元）",
         "rarity": "七级 甚少",
-        "thumbnail": "/images/coins/g-南朝钱币/太清丰乐/main.jpg"
+        "thumbnail": "/images/coins/g-南朝钱币/太清丰乐/thumb.webp"
       },
       "detail": {
         "castingTime": "南朝梁太清年间（约公元547年—549年）。据百度百科\"太清丰乐\"，一般认为是梁武帝萧衍太清年间所铸，\"太清\"为年号、\"丰乐\"为吉语；一说为前凉张天锡所铸，存争议。",
@@ -622,12 +622,12 @@
       "dynastyIndex": 5,
       "summary": {
         "name": "两柱五铢",
-        "historicalPeriod": "南朝梁（556年—557年）",
+        "historicalPeriod": "南朝梁（公元556年—557年）",
         "ruler": "梁敬帝萧方智",
         "coreFeatures": "面文\"五铢\"；正面穿上下各一星点柱纹（两柱）；以一当十",
-        "estimatedValue": "50—500元",
+        "estimatedValue": "参考价：50—500元",
         "rarity": "八级 少",
-        "thumbnail": "/images/coins/g-南朝钱币/两柱五铢/main.jpg"
+        "thumbnail": "/images/coins/g-南朝钱币/两柱五铢/thumb.webp"
       },
       "detail": {
         "castingTime": "南朝梁敬帝太平年间（公元556年—557年）。据《中国钱币大辞典》记载，两柱五铢为梁末敬帝时期铸行，以一当普通五铢十文；一说铸于元帝承圣年间（552—554）迁都江陵之后（据新浪收藏《南朝萧梁铸两柱五铢鉴藏》）。",
@@ -662,12 +662,12 @@
       "dynastyIndex": 5,
       "summary": {
         "name": "四柱五铢",
-        "historicalPeriod": "南朝梁（557年）",
+        "historicalPeriod": "南朝梁（公元557年）",
         "ruler": "梁敬帝萧方智",
         "coreFeatures": "面文\"五铢\"；星点柱纹凡四（四柱）；以一当二十",
-        "estimatedValue": "50—3,000元",
+        "estimatedValue": "参考价：50—3,000元",
         "rarity": "七级 甚少",
-        "thumbnail": "/images/coins/g-南朝钱币/四柱五铢/main.jpg"
+        "thumbnail": "/images/coins/g-南朝钱币/四柱五铢/thumb.webp"
       },
       "detail": {
         "castingTime": "南朝梁敬帝太平二年（公元557年）。据百度百科\"四柱五铢\"，为梁敬帝萧方智太平二年铸行，面文\"五铢\"篆书，星点柱纹凡四；同年陈霸先废梁敬帝自立，建陈朝。",
@@ -702,7 +702,7 @@
           {
             "variant": "粗铸版",
             "description": "铸工粗率，字口浅平，四柱痕迹模糊。梁末私铸或减重铸行",
-            "grade": "九级（多）",
+            "grade": "九级（较多）",
             "priceRange": "50—200元",
             "notes": "粗铸版较常见"
           }
@@ -716,12 +716,12 @@
       "dynastyIndex": 5,
       "summary": {
         "name": "天嘉五铢",
-        "historicalPeriod": "南朝陈（562年）",
+        "historicalPeriod": "南朝陈（公元562年）",
         "ruler": "陈文帝陈蒨",
         "coreFeatures": "面文\"五铢\"；亦称\"陈五铢\"；面无内廓、外缘较宽",
-        "estimatedValue": "30—800元",
+        "estimatedValue": "参考价：30—800元",
         "rarity": "八级 少",
-        "thumbnail": "/images/coins/g-南朝钱币/天嘉五铢/main.jpg"
+        "thumbnail": "/images/coins/g-南朝钱币/天嘉五铢/thumb.webp"
       },
       "detail": {
         "castingTime": "南朝陈天嘉三年（公元562年）。据《陈书·文帝纪》记载，陈文帝铸行五铢钱，以整顿梁末以来混乱的币制；亦称\"陈五铢\"，一说天嘉五年改铸（据百度百科\"陈五铢\"）。",
@@ -770,12 +770,12 @@
       "dynastyIndex": 5,
       "summary": {
         "name": "太货六铢",
-        "historicalPeriod": "南朝陈（579年）",
+        "historicalPeriod": "南朝陈（公元579年）",
         "ruler": "陈宣帝陈顼",
         "coreFeatures": "面文\"太货六铢\"；玉箸篆；铸工极精；南朝名品",
-        "estimatedValue": "200—10,000元",
+        "estimatedValue": "参考价：200—10,000元",
         "rarity": "七级 甚少",
-        "thumbnail": "/images/coins/g-南朝钱币/太货六铢/main.jpg"
+        "thumbnail": "/images/coins/g-南朝钱币/太货六铢/thumb.webp"
       },
       "detail": {
         "castingTime": "南朝陈太建十一年（公元579年）。据《陈书·宣帝纪》记载，陈宣帝铸行太货六铢，以一当十枚五铢钱。",
@@ -803,7 +803,7 @@
           {
             "variant": "大字版",
             "description": "面文\"太货六铢\"字体较大，玉箸篆笔画更为粗壮匀净",
-            "grade": "七级（较少） 极美品",
+            "grade": "七级（甚少） 极美品",
             "priceRange": "1,500—5,000元",
             "notes": "较少见"
           },
@@ -824,12 +824,12 @@
       "dynastyIndex": 5,
       "summary": {
         "name": "鹅眼钱",
-        "historicalPeriod": "南朝晚期",
+        "historicalPeriod": "南朝（约公元465年—589年）",
         "ruler": "民间私铸",
         "coreFeatures": "体形极小如鹅眼；极轻薄；民间私铸",
-        "estimatedValue": "20—200元",
+        "estimatedValue": "参考价：20—200元",
         "rarity": "九级 较多",
-        "thumbnail": "/images/coins/g-南朝钱币/鹅眼钱/main.jpg"
+        "thumbnail": "/images/coins/g-南朝钱币/鹅眼钱/thumb.webp"
       },
       "detail": {
         "castingTime": "南朝晚期。据《中国钱币大辞典》记载，鹅眼钱为南朝晚期民间私铸的极轻薄小钱。",

@@ -9,12 +9,12 @@
       "dynastyIndex": 12,
       "summary": {
         "name": "通行泉货",
-        "historicalPeriod": "辽早期（约907年）",
+        "historicalPeriod": "辽早期（公元907年）",
         "ruler": "太祖耶律阿保机",
         "coreFeatures": "辽代第一泉，存世稀少",
-        "estimatedValue": "10,000—50,000元",
-        "rarity": "五级（稀贵）",
-        "thumbnail": "/images/coins/l-辽朝钱币/通行泉货/main.jpg"
+        "estimatedValue": "参考价：10,000—50,000元",
+        "rarity": "五级 稀贵",
+        "thumbnail": "/images/coins/l-辽朝钱币/通行泉货/thumb.webp"
       },
       "detail": {
         "castingTime": "辽太祖耶律阿保机时期（约公元907年—916年）。",
@@ -49,12 +49,12 @@
       "dynastyIndex": 12,
       "summary": {
         "name": "神册通宝",
-        "historicalPeriod": "辽（916年）",
+        "historicalPeriod": "辽（公元916年）",
         "ruler": "太祖耶律阿保机",
         "coreFeatures": "辽最早年号钱，真伪尚有争议",
-        "estimatedValue": "5,000—30,000元",
-        "rarity": "三级（罕贵）",
-        "thumbnail": "/images/coins/l-辽朝钱币/神册通宝/main.jpg"
+        "estimatedValue": "参考价：5,000—30,000元",
+        "rarity": "三级 罕贵",
+        "thumbnail": "/images/coins/l-辽朝钱币/神册通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "辽太祖耶律阿保机神册年间（公元916年—922年）。",
@@ -89,12 +89,12 @@
       "dynastyIndex": 12,
       "summary": {
         "name": "天赞通宝",
-        "historicalPeriod": "辽（922年）",
+        "historicalPeriod": "辽（公元922年）",
         "ruler": "太祖耶律阿保机",
         "coreFeatures": "古泉五十名珍，存世约三枚",
-        "estimatedValue": "30,000—100,000元",
-        "rarity": "二级（珍）",
-        "thumbnail": "/images/coins/l-辽朝钱币/天赞通宝/main.jpg"
+        "estimatedValue": "参考价：30,000—100,000元",
+        "rarity": "二级 珍",
+        "thumbnail": "/images/coins/l-辽朝钱币/天赞通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "辽太祖耶律阿保机天赞年间（公元922年—926年）。",
@@ -129,12 +129,12 @@
       "dynastyIndex": 12,
       "summary": {
         "name": "天显通宝",
-        "historicalPeriod": "辽（926年）",
+        "historicalPeriod": "辽（公元926年）",
         "ruler": "太祖/太宗",
         "coreFeatures": "存世约五枚，真伪尚有争议",
-        "estimatedValue": "300,000—800,000元",
-        "rarity": "一级（大珍）",
-        "thumbnail": "/images/coins/l-辽朝钱币/天显通宝/main.jpg"
+        "estimatedValue": "参考价：300,000—800,000元",
+        "rarity": "一级 大珍",
+        "thumbnail": "/images/coins/l-辽朝钱币/天显通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "辽天显年间（公元926年—937年），历经太祖末年、应天皇后称制、太宗三段。",
@@ -169,12 +169,12 @@
       "dynastyIndex": 12,
       "summary": {
         "name": "会同通宝",
-        "historicalPeriod": "辽（938年）",
+        "historicalPeriod": "辽（公元938年）",
         "ruler": "太宗耶律德光",
         "coreFeatures": "存世极罕，曾长期被视为孤品",
-        "estimatedValue": "200,000—600,000元",
-        "rarity": "二级（珍）",
-        "thumbnail": "/images/coins/l-辽朝钱币/会同通宝/main.jpg"
+        "estimatedValue": "参考价：200,000—600,000元",
+        "rarity": "二级 珍",
+        "thumbnail": "/images/coins/l-辽朝钱币/会同通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "辽太宗耶律德光会同年间（公元938年—947年）。",
@@ -209,12 +209,12 @@
       "dynastyIndex": 12,
       "summary": {
         "name": "天禄通宝",
-        "historicalPeriod": "辽（947年）",
+        "historicalPeriod": "辽（公元947年）",
         "ruler": "世宗耶律阮",
         "coreFeatures": "古泉五十名珍，存世约五枚",
-        "estimatedValue": "100,000—500,000元",
-        "rarity": "二级（珍）",
-        "thumbnail": "/images/coins/l-辽朝钱币/天禄通宝/main.jpg"
+        "estimatedValue": "参考价：100,000—500,000元",
+        "rarity": "二级 珍",
+        "thumbnail": "/images/coins/l-辽朝钱币/天禄通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "辽世宗耶律阮天禄年间（公元947年—951年）。",
@@ -249,12 +249,12 @@
       "dynastyIndex": 12,
       "summary": {
         "name": "应历通宝",
-        "historicalPeriod": "辽（951年）",
+        "historicalPeriod": "辽（公元951年）",
         "ruler": "穆宗耶律璟",
         "coreFeatures": "古泉五十名珍，钱文粗犷、铸工简陋",
-        "estimatedValue": "80,000—250,000元",
-        "rarity": "二级（珍）",
-        "thumbnail": "/images/coins/l-辽朝钱币/应历通宝/main.jpg"
+        "estimatedValue": "参考价：80,000—250,000元",
+        "rarity": "二级 珍",
+        "thumbnail": "/images/coins/l-辽朝钱币/应历通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "辽穆宗耶律璟应历年间（公元951年—969年）。",
@@ -289,12 +289,12 @@
       "dynastyIndex": 12,
       "summary": {
         "name": "保宁通宝",
-        "historicalPeriod": "辽（969年）",
+        "historicalPeriod": "辽（公元969年）",
         "ruler": "景宗耶律贤",
         "coreFeatures": "古泉五十名珍，存世仅十余枚",
-        "estimatedValue": "30,000—300,000元",
-        "rarity": "二级（珍）",
-        "thumbnail": "/images/coins/l-辽朝钱币/保宁通宝/main.jpg"
+        "estimatedValue": "参考价：30,000—300,000元",
+        "rarity": "二级 珍",
+        "thumbnail": "/images/coins/l-辽朝钱币/保宁通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "辽景宗耶律贤保宁年间（公元969年—979年）。",
@@ -336,12 +336,12 @@
       "dynastyIndex": 12,
       "summary": {
         "name": "乾亨通宝-辽",
-        "historicalPeriod": "辽（979年）",
+        "historicalPeriod": "辽（公元979年）",
         "ruler": "景宗耶律贤",
         "coreFeatures": "归属存疑，传世极少",
-        "estimatedValue": "5,000—30,000元",
-        "rarity": "五级（稀贵）",
-        "thumbnail": "/images/coins/l-辽朝钱币/乾亨通宝-辽/main.jpg"
+        "estimatedValue": "参考价：5,000—30,000元",
+        "rarity": "五级 稀贵",
+        "thumbnail": "/images/coins/l-辽朝钱币/乾亨通宝-辽/thumb.webp"
       },
       "detail": {
         "castingTime": "辽景宗耶律贤乾亨年间（公元979年—982年）。",
@@ -376,12 +376,12 @@
       "dynastyIndex": 12,
       "summary": {
         "name": "统和元宝",
-        "historicalPeriod": "辽（983年）",
+        "historicalPeriod": "辽（公元983年）",
         "ruler": "圣宗耶律隆绪",
         "coreFeatures": "圣宗盛世铸币，有\"上八品之七\"之说",
-        "estimatedValue": "2,000—15,000元",
-        "rarity": "四级（罕）",
-        "thumbnail": "/images/coins/l-辽朝钱币/统和元宝/main.jpg"
+        "estimatedValue": "参考价：2,000—15,000元",
+        "rarity": "四级 珍罕",
+        "thumbnail": "/images/coins/l-辽朝钱币/统和元宝/thumb.webp"
       },
       "detail": {
         "castingTime": "辽圣宗耶律隆绪统和年间（公元983年—1012年）。",
@@ -409,7 +409,7 @@
           {
             "variant": "大字版",
             "description": "面文\"统和元宝\"四字旋读，楷书字体较大、笔画粗壮古朴，字口深峻。直径约2.4cm",
-            "grade": "四级（罕）",
+            "grade": "四级（珍罕）",
             "priceRange": "5,000—15,000元",
             "notes": "大字版较少见"
           },
@@ -430,12 +430,12 @@
       "dynastyIndex": 12,
       "summary": {
         "name": "开泰元宝",
-        "historicalPeriod": "辽（1012年）",
+        "historicalPeriod": "辽（公元1012年）",
         "ruler": "圣宗耶律隆绪",
         "coreFeatures": "存世稀少",
-        "estimatedValue": "3,000—20,000元",
-        "rarity": "四级（罕）",
-        "thumbnail": "/images/coins/l-辽朝钱币/开泰元宝/main.jpg"
+        "estimatedValue": "参考价：3,000—20,000元",
+        "rarity": "四级 珍罕",
+        "thumbnail": "/images/coins/l-辽朝钱币/开泰元宝/thumb.webp"
       },
       "detail": {
         "castingTime": "辽圣宗耶律隆绪开泰年间（公元1012年—1021年）。",
@@ -456,7 +456,7 @@
           {
             "variant": "小平钱",
             "description": "仅见小平钱。面文四字旋读，楷书朴拙。直径约2.3—2.5cm，重约3—4g",
-            "grade": "四级（罕）",
+            "grade": "四级（珍罕）",
             "priceRange": "3,000—20,000元",
             "notes": "圣宗开泰年间铸，存世稀少，品相决定价格"
           }
@@ -470,12 +470,12 @@
       "dynastyIndex": 12,
       "summary": {
         "name": "太平元宝",
-        "historicalPeriod": "辽（1021年）",
+        "historicalPeriod": "辽（公元1021年）",
         "ruler": "圣宗耶律隆绪",
         "coreFeatures": "存世稀少",
-        "estimatedValue": "3,000—20,000元",
-        "rarity": "四级（罕）",
-        "thumbnail": "/images/coins/l-辽朝钱币/太平元宝/main.jpg"
+        "estimatedValue": "参考价：3,000—20,000元",
+        "rarity": "四级 珍罕",
+        "thumbnail": "/images/coins/l-辽朝钱币/太平元宝/thumb.webp"
       },
       "detail": {
         "castingTime": "辽圣宗耶律隆绪太平年间（公元1021年—1031年）。",
@@ -496,7 +496,7 @@
           {
             "variant": "小平钱",
             "description": "仅见小平钱。面文四字旋读，楷书朴拙。直径约2.3—2.5cm，重约3—4g",
-            "grade": "四级（罕）",
+            "grade": "四级（珍罕）",
             "priceRange": "3,000—20,000元",
             "notes": "圣宗太平年间铸，存世稀少，品相决定价格"
           }
@@ -510,12 +510,12 @@
       "dynastyIndex": 12,
       "summary": {
         "name": "景福通宝",
-        "historicalPeriod": "辽（1031年）",
+        "historicalPeriod": "辽（公元1031年）",
         "ruler": "兴宗耶律宗真",
         "coreFeatures": "年号仅一年，铸量少",
-        "estimatedValue": "3,000—20,000元",
-        "rarity": "四级（罕）",
-        "thumbnail": "/images/coins/l-辽朝钱币/景福通宝/main.jpg"
+        "estimatedValue": "参考价：3,000—20,000元",
+        "rarity": "四级 珍罕",
+        "thumbnail": "/images/coins/l-辽朝钱币/景福通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "辽兴宗耶律宗真景福年间（公元1031年—1032年）。",
@@ -536,7 +536,7 @@
           {
             "variant": "小平钱",
             "description": "仅见小平钱。面文四字旋读，隶书。直径约2.3—2.5cm，重约3—4g",
-            "grade": "四级（罕）",
+            "grade": "四级（珍罕）",
             "priceRange": "3,000—20,000元",
             "notes": "兴宗景福年间（1031—1032）铸，年号仅一年；有将其列入辽钱上八品之说"
           }
@@ -550,12 +550,12 @@
       "dynastyIndex": 12,
       "summary": {
         "name": "重熙通宝",
-        "historicalPeriod": "辽（1032年）",
+        "historicalPeriod": "辽（公元1032年）",
         "ruler": "兴宗耶律宗真",
         "coreFeatures": "辽铸量最大钱币",
-        "estimatedValue": "500—5,000元",
-        "rarity": "七级（甚少）",
-        "thumbnail": "/images/coins/l-辽朝钱币/重熙通宝/main.jpg"
+        "estimatedValue": "参考价：500—5,000元",
+        "rarity": "七级 甚少",
+        "thumbnail": "/images/coins/l-辽朝钱币/重熙通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "辽兴宗耶律宗真重熙年间（公元1032年—1055年）。",
@@ -604,12 +604,12 @@
       "dynastyIndex": 12,
       "summary": {
         "name": "清宁通宝",
-        "historicalPeriod": "辽（1055年）",
+        "historicalPeriod": "辽（公元1055年）",
         "ruler": "道宗耶律洪基",
         "coreFeatures": "普品常见，大字版稀见",
-        "estimatedValue": "200—60,000元",
-        "rarity": "八级（较多）",
-        "thumbnail": "/images/coins/l-辽朝钱币/清宁通宝/main.jpg"
+        "estimatedValue": "参考价：200—60,000元",
+        "rarity": "八级 少",
+        "thumbnail": "/images/coins/l-辽朝钱币/清宁通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "辽道宗耶律洪基清宁年间（公元1055年—1064年）。",
@@ -630,7 +630,7 @@
           {
             "variant": "小平钱",
             "description": "面文\"清宁通宝\"四字旋读，楷中蕴隶。直径约2.4cm，普品常见",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "200—800元",
             "notes": "普品市场价约300元"
           },
@@ -651,12 +651,12 @@
       "dynastyIndex": 12,
       "summary": {
         "name": "清宁元宝",
-        "historicalPeriod": "辽（1055年）",
+        "historicalPeriod": "辽（公元1055年）",
         "ruler": "道宗耶律洪基",
         "coreFeatures": "存世稀少",
-        "estimatedValue": "3,000—20,000元",
-        "rarity": "四级（罕）",
-        "thumbnail": "/images/coins/l-辽朝钱币/清宁元宝/main.jpg"
+        "estimatedValue": "参考价：3,000—20,000元",
+        "rarity": "四级 珍罕",
+        "thumbnail": "/images/coins/l-辽朝钱币/清宁元宝/thumb.webp"
       },
       "detail": {
         "castingTime": "辽道宗耶律洪基清宁年间（公元1055年—1064年）。",
@@ -677,7 +677,7 @@
           {
             "variant": "小平钱",
             "description": "仅见小平钱。面文四字旋读，楷书古朴。直径约2.3—2.5cm",
-            "grade": "四级（罕）",
+            "grade": "四级（珍罕）",
             "priceRange": "3,000—20,000元",
             "notes": "存世较清宁通宝少，品相决定价格"
           }
@@ -691,12 +691,12 @@
       "dynastyIndex": 12,
       "summary": {
         "name": "咸雍通宝",
-        "historicalPeriod": "辽（1065年）",
+        "historicalPeriod": "辽（公元1065年）",
         "ruler": "道宗耶律洪基",
         "coreFeatures": "存世较少",
-        "estimatedValue": "500—5,000元",
-        "rarity": "七级（甚少）",
-        "thumbnail": "/images/coins/l-辽朝钱币/咸雍通宝/main.jpg"
+        "estimatedValue": "参考价：500—5,000元",
+        "rarity": "七级 甚少",
+        "thumbnail": "/images/coins/l-辽朝钱币/咸雍通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "辽道宗耶律洪基咸雍年间（公元1065年—1074年）。",
@@ -738,12 +738,12 @@
       "dynastyIndex": 12,
       "summary": {
         "name": "大康通宝",
-        "historicalPeriod": "辽（1075年）",
+        "historicalPeriod": "辽（公元1075年）",
         "ruler": "道宗耶律洪基",
         "coreFeatures": "存世较少",
-        "estimatedValue": "500—5,000元",
-        "rarity": "七级（甚少）",
-        "thumbnail": "/images/coins/l-辽朝钱币/大康通宝/main.jpg"
+        "estimatedValue": "参考价：500—5,000元",
+        "rarity": "七级 甚少",
+        "thumbnail": "/images/coins/l-辽朝钱币/大康通宝/thumb.webp"
       },
       "detail": {
         "castingTime": "辽道宗耶律洪基大康年间（公元1075年—1084年）。",
@@ -785,12 +785,12 @@
       "dynastyIndex": 12,
       "summary": {
         "name": "大康元宝",
-        "historicalPeriod": "辽（1075年）",
+        "historicalPeriod": "辽（公元1075年）",
         "ruler": "道宗耶律洪基",
         "coreFeatures": "存世较大康通宝略少",
-        "estimatedValue": "500—8,000元",
-        "rarity": "七级（甚少）",
-        "thumbnail": "/images/coins/l-辽朝钱币/大康元宝/main.jpg"
+        "estimatedValue": "参考价：500—8,000元",
+        "rarity": "七级 甚少",
+        "thumbnail": "/images/coins/l-辽朝钱币/大康元宝/thumb.webp"
       },
       "detail": {
         "castingTime": "辽道宗耶律洪基大康年间（公元1075年—1084年）。",
@@ -832,12 +832,12 @@
       "dynastyIndex": 12,
       "summary": {
         "name": "大安元宝",
-        "historicalPeriod": "辽（1085年）",
+        "historicalPeriod": "辽（公元1085年）",
         "ruler": "道宗耶律洪基",
         "coreFeatures": "短安版常见，长安版较少",
-        "estimatedValue": "200—2,000元",
-        "rarity": "八级（较多）",
-        "thumbnail": "/images/coins/l-辽朝钱币/大安元宝/main.jpg"
+        "estimatedValue": "参考价：200—2,000元",
+        "rarity": "八级 少",
+        "thumbnail": "/images/coins/l-辽朝钱币/大安元宝/thumb.webp"
       },
       "detail": {
         "castingTime": "辽道宗耶律洪基大安年间（公元1085年—1094年）。",
@@ -858,7 +858,7 @@
           {
             "variant": "短安版",
             "description": "面文\"大安元宝\"四字旋读，楷隶兼备（\"大安\"二字楷书、\"元宝\"二字存隶笔），\"安\"字下部\"女\"部笔画短促、收势紧凑，与\"长安\"相对。直径约2.4cm",
-            "grade": "八级（较多）",
+            "grade": "八级（少）",
             "priceRange": "200—500元",
             "notes": "常见版，市场价格约300元"
           },
@@ -879,12 +879,12 @@
       "dynastyIndex": 12,
       "summary": {
         "name": "寿昌元宝",
-        "historicalPeriod": "辽（1095年）",
+        "historicalPeriod": "辽（公元1095年）",
         "ruler": "道宗耶律洪基",
         "coreFeatures": "存世较少",
-        "estimatedValue": "500—5,000元",
-        "rarity": "七级（甚少）",
-        "thumbnail": "/images/coins/l-辽朝钱币/寿昌元宝/main.jpg"
+        "estimatedValue": "参考价：500—5,000元",
+        "rarity": "七级 甚少",
+        "thumbnail": "/images/coins/l-辽朝钱币/寿昌元宝/thumb.webp"
       },
       "detail": {
         "castingTime": "辽道宗耶律洪基寿昌年间（公元1095年—1101年）。",
@@ -926,12 +926,12 @@
       "dynastyIndex": 12,
       "summary": {
         "name": "乾统元宝",
-        "historicalPeriod": "辽（1101年）",
+        "historicalPeriod": "辽（公元1101年）",
         "ruler": "天祚帝耶律延禧",
         "coreFeatures": "存世较少",
-        "estimatedValue": "500—5,000元",
-        "rarity": "七级（甚少）",
-        "thumbnail": "/images/coins/l-辽朝钱币/乾统元宝/main.jpg"
+        "estimatedValue": "参考价：500—5,000元",
+        "rarity": "七级 甚少",
+        "thumbnail": "/images/coins/l-辽朝钱币/乾统元宝/thumb.webp"
       },
       "detail": {
         "castingTime": "辽天祚帝耶律延禧乾统年间（公元1101年—1110年）。",
@@ -973,19 +973,19 @@
       "dynastyIndex": 12,
       "summary": {
         "name": "天庆元宝-辽",
-        "historicalPeriod": "辽（1111年）",
+        "historicalPeriod": "辽（公元1111年）",
         "ruler": "天祚帝耶律延禧",
         "coreFeatures": "存世较少",
-        "estimatedValue": "500—5,000元",
-        "rarity": "七级（甚少）",
-        "thumbnail": "/images/coins/l-辽朝钱币/天庆元宝-辽/main.jpg"
+        "estimatedValue": "参考价：500—5,000元",
+        "rarity": "七级 甚少",
+        "thumbnail": "/images/coins/l-辽朝钱币/天庆元宝-辽/thumb.webp"
       },
       "detail": {
         "castingTime": "辽天祚帝耶律延禧天庆年间（公元1111年—1120年）。",
         "material": "青铜（铜、锡、铅合金），铜含量约55%—70%，锡含量约5%—10%，铅含量约15%—25%。辽代铸币铜质参差，铸工较粗。出土后表面多呈青绿色或灰绿色锈蚀，原始铸造色泽偏暗黄。",
         "dimensions": "直径约2.4厘米，单枚重量约3.5克。",
-        "castingCraft": "采用范铸法（铜范或砂范），一范多钱。天庆元宝为辽天祚帝耶律延禧天庆年间（公元1111年—1120年）铸行。制作流程为：先雕刻天庆元宝阴文母范（含面文\"天庆元宝\"四字，楷书），中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。铸工较粗，辽朝即将灭亡，铸量有限。需与金代天庆元宝区分。",
-        "coreBackground": "天庆元宝-辽需与金代天庆元宝区分。天庆年间辽朝即将灭亡，铸量有限。",
+        "castingCraft": "采用范铸法（铜范或砂范），一范多钱。天庆元宝为辽天祚帝耶律延禧天庆年间（公元1111年—1120年）铸行。制作流程为：先雕刻天庆元宝阴文母范（含面文\"天庆元宝\"四字，楷书），中央方孔设金属芯；合范浇铸熔融青铜液，冷却脱范后逐枚修整。铸工较粗，辽朝即将灭亡，铸量有限。需与西夏天庆元宝区分。",
+        "coreBackground": "天庆元宝-辽需与西夏天庆元宝区分。天庆年间辽朝即将灭亡，铸量有限。",
         "featuresGroup": {
           "common": "- 形制：圆形方孔，有内外廓，钱体较厚重\n- 铸造工艺：翻砂法，铸工较粗率，保留了契丹族铸币的原始风格\n- 青铜质地，铜质偏红（含锡量较低），与中原铸币有明显区别\n- 辽代铸币风格独特，铸工较粗率，铜质偏红，文字古朴",
           "obverse": "* 面文\"天庆元宝\"，四字旋读，楷书",
@@ -1023,9 +1023,9 @@
         "historicalPeriod": "辽（年代不详）",
         "ruler": "不详",
         "coreFeatures": "契丹文钱币",
-        "estimatedValue": "5,000—30,000元",
-        "rarity": "五级（稀贵）",
-        "thumbnail": "/images/coins/l-辽朝钱币/天朝万顺/main.jpg"
+        "estimatedValue": "参考价：5,000—30,000元",
+        "rarity": "五级 稀贵",
+        "thumbnail": "/images/coins/l-辽朝钱币/天朝万顺/thumb.webp"
       },
       "detail": {
         "castingTime": "辽朝时期（契丹大字创制于公元920年之后），具体年代不详。",
@@ -1063,9 +1063,9 @@
         "historicalPeriod": "辽（年代不详）",
         "ruler": "不详",
         "coreFeatures": "铸主存争议，主流观点为辽铸",
-        "estimatedValue": "5,000—30,000元",
-        "rarity": "五级（稀贵）",
-        "thumbnail": "/images/coins/l-辽朝钱币/助国元宝/main.jpg"
+        "estimatedValue": "参考价：5,000—30,000元",
+        "rarity": "五级 稀贵",
+        "thumbnail": "/images/coins/l-辽朝钱币/助国元宝/thumb.webp"
       },
       "detail": {
         "castingTime": "辽朝时期，具体年代不详。",
@@ -1103,9 +1103,9 @@
         "historicalPeriod": "辽（年代不详）",
         "ruler": "不详",
         "coreFeatures": "铸主存争议，主流观点为辽铸",
-        "estimatedValue": "5,000—30,000元",
-        "rarity": "五级（稀贵）",
-        "thumbnail": "/images/coins/l-辽朝钱币/壮国元宝/main.jpg"
+        "estimatedValue": "参考价：5,000—30,000元",
+        "rarity": "五级 稀贵",
+        "thumbnail": "/images/coins/l-辽朝钱币/壮国元宝/thumb.webp"
       },
       "detail": {
         "castingTime": "辽朝时期，具体年代不详。",
@@ -1143,9 +1143,9 @@
         "historicalPeriod": "辽（年代不详）",
         "ruler": "不详",
         "coreFeatures": "祝语钱",
-        "estimatedValue": "3,000—20,000元",
-        "rarity": "四级（罕）",
-        "thumbnail": "/images/coins/l-辽朝钱币/千秋万岁/main.jpg"
+        "estimatedValue": "参考价：3,000—20,000元",
+        "rarity": "四级 珍罕",
+        "thumbnail": "/images/coins/l-辽朝钱币/千秋万岁/thumb.webp"
       },
       "detail": {
         "castingTime": "辽朝时期，具体年代不详。",
@@ -1166,7 +1166,7 @@
           {
             "variant": "小平钱",
             "description": "面文\"千秋万岁\"四字，直读或旋读因版而异，书体朴拙，版式大小不一。直径约2.3—2.5cm",
-            "grade": "四级（罕）",
+            "grade": "四级（珍罕）",
             "priceRange": "3,000—20,000元",
             "notes": "辽代祝语钱，非年号钱，版别多样，品相决定价格"
           }
@@ -1180,12 +1180,12 @@
       "dynastyIndex": 12,
       "summary": {
         "name": "大辽天庆",
-        "historicalPeriod": "辽（1111年）",
+        "historicalPeriod": "辽（公元1111年）",
         "ruler": "天祚帝耶律延禧",
         "coreFeatures": "辽末折十大钱，存世极罕",
-        "estimatedValue": "20,000—100,000元",
-        "rarity": "三级（罕贵）",
-        "thumbnail": "/images/coins/l-辽朝钱币/大辽天庆/main.jpg"
+        "estimatedValue": "参考价：20,000—100,000元",
+        "rarity": "三级 罕贵",
+        "thumbnail": "/images/coins/l-辽朝钱币/大辽天庆/thumb.webp"
       },
       "detail": {
         "castingTime": "辽天祚帝耶律延禧天庆年间（公元1111年—1120年）。",
