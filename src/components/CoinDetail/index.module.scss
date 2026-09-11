@@ -295,7 +295,8 @@
 .coinDetailPrice {
   color: var(--accent);
   font-weight: 500;
-  white-space: nowrap;
+  // 支持「普品 X—Y元\n美品 X—Y元」两行价格（保留换行，其余空白照常折叠）
+  white-space: pre-line;
 }
 
 .coinDetailDisclaimer {
