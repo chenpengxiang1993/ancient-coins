@@ -51,11 +51,14 @@ function parsePriceRange(priceStr) {
       };
     }
   }
-  const match = priceStr.match(/([\d,]+)\s*[—-]\s*([\d,]+)/);
-  if (!match) return { min: null, max: null, isPerGram: false };
+  // 无括号时匹配全部区间（支持"普品 X—Y元\n美品 X—Y元"两行价格，取整体最低/最高）
+  const matches = [...priceStr.matchAll(/([\d,]+)\s*[—-]\s*([\d,]+)/g)];
+  if (!matches.length) return { min: null, max: null, isPerGram: false };
+  const mins = matches.map((m) => parseInt(m[1].replace(/,/g, ''), 10));
+  const maxes = matches.map((m) => parseInt(m[2].replace(/,/g, ''), 10));
   return {
-    min: parseInt(match[1].replace(/,/g, ''), 10),
-    max: parseInt(match[2].replace(/,/g, ''), 10),
+    min: Math.min(...mins),
+    max: Math.max(...maxes),
     isPerGram: priceStr.includes('每克'),
   };
 }
@@ -158,9 +161,14 @@ function checkCoin(coin, dynasty) {
             addIssue(id, name, dynasty, '版别等级与价格', 'warning',
               `版别"${v.variant}"等级${vGrade.level}级（较多/多）但最低价${vPrice.min}元偏高`);
           }
-          if (vGrade.level <= 2 && vPrice.max < 50000) {
+          // 稀有等级（一、二级）最低合理最高价阈值（元）：
+          // 一级大珍 50,000、二级珍 10,000。低于阈值提示"偏低"用于捕捉录入错误；
+          // 二级珍价格跨度大（三孔布数百万，会昌开元背"永"等名誉品仅万元级），故单列低阈值避免误报
+          const rarityMaxFloor = vGrade.level === 1 ? 50000 : vGrade.level === 2 ? 10000 : null;
+          if (rarityMaxFloor !== null && vPrice.max < rarityMaxFloor) {
+            const levelLabel = vGrade.level === 1 ? '大珍' : '珍';
             addIssue(id, name, dynasty, '版别等级与价格', 'warning',
-              `版别"${v.variant}"等级${vGrade.level}级（大珍/珍）但最高价${vPrice.max}元偏低`);
+              `版别"${v.variant}"等级${vGrade.level}级（${levelLabel}）但最高价${vPrice.max}元偏低`);
           }
         }
       }
