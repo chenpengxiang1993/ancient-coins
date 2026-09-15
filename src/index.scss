@@ -1,19 +1,47 @@
 @use 'styles/shared' as *;
 
 :root {
-  --bg-primary: #f5f0e8;
+  /* 基础色板：纸墨金朱（文化基调，暖纸底 + 墨色字 + 朱砂强调 + 金色点缀） */
+  --bg-primary: #f4f0e6;
   --bg-secondary: #faf7f0;
-  --bg-card: #ffffff;
-  --text-primary: #2c2417;
-  --text-secondary: #6b5e4f;
-  --text-muted: #9c8e7c;
-  --accent: #8b2500;
-  --accent-hover: #a52f00;
-  --gold: #b8860b;
+  --bg-card: #fffdf8;
+  --bg-sunken: #ece6d8;
+  --text-primary: #292420;
+  --text-secondary: #6b6257;
+  --text-muted: #9a9084;
+  --accent: #9a3412;            /* 朱砂 */
+  --accent-hover: #7c2d12;
+  --accent-soft: rgba(154, 52, 18, 0.08);
+  --gold: #a16207;
   --gold-light: #d4a843;
-  --border: #d4c5a9;
-  --border-light: #e8dcc8;
-  --shadow: rgba(44, 36, 23, 0.08);
+  --gold-soft: rgba(161, 98, 7, 0.1);
+  --border: #ddd2ba;
+  --border-light: #ebe3d0;
+
+  /* 阴影分层：0 平面 / 1 卡片 / 2 悬浮 / 3 浮层 */
+  --shadow-sm: 0 1px 2px rgba(41, 36, 32, 0.05), 0 1px 3px rgba(41, 36, 32, 0.06);
+  --shadow-md: 0 4px 14px rgba(41, 36, 32, 0.09);
+  --shadow-lg: 0 16px 44px rgba(41, 36, 32, 0.16);
+
+  /* 圆角阶梯 */
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 18px;
+  --radius-full: 999px;
+
+  /* 焦点可见环 */
+  --ring-color: rgba(154, 52, 18, 0.24);
+  --ring: 0 0 0 3px var(--ring-color);
+
+  /* 顶栏（玄墨渐变 + 金线） */
+  --header-bg: linear-gradient(160deg, #262019 0%, #2f2820 55%, #3b3125 100%);
+  --header-text: #f4ede0;
+  --header-muted: #b3a58c;
+  --header-gold: #d4a843;
+
+  /* 骨架屏 */
+  --skeleton-bg: #ece6d8;
+  --skeleton-highlight: #f6f1e5;
 
   /* 金属质感标签色阶（稀有度 1-10 级：金钻 → 珍珠灰，越珍稀越贵重） */
   --metal-1-bg: linear-gradient(135deg, #f7e7a0 0%, #e0bd52 45%, #b8932c 100%);
@@ -91,6 +119,8 @@ body {
   -moz-osx-font-smoothing: grayscale;
   background: var(--bg-primary);
   color: var(--text-primary);
+  font-size: 14px;
+  line-height: 1.6;
 }
 
 #root {
@@ -98,6 +128,24 @@ body {
 }
 
 ::selection {
-  background: rgba(139, 37, 0, 0.15);
-  color: var(--accent);
+  background: rgba(154, 52, 18, 0.16);
+  color: var(--accent-hover);
+}
+
+/* 全局焦点可见性（a11y）：默认金色外环，组件可自行覆盖为内阴影聚焦态 */
+:focus-visible {
+  outline: 2px solid var(--gold);
+  outline-offset: 2px;
+}
+
+/* 尊重系统减弱动效偏好 */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
 }

@@ -90,7 +90,9 @@ export default memo(function CoinList({ coins, selectedCoinId, onSelect }: CoinL
   return (
     <div className={styles.coinList}>
       <div className={styles.coinListHeader}>
-        <span className={styles.coinListTotal}>共 {total} 枚</span>
+        <span className={styles.coinListTotal}>
+          共 <strong>{total}</strong> 枚
+        </span>
       </div>
       <div className={styles.coinListItems} ref={itemsRef} role="listbox" aria-label="钱币列表">
         {groups.map((group) => {
@@ -124,16 +126,27 @@ export default memo(function CoinList({ coins, selectedCoinId, onSelect }: CoinL
                     className={`${styles.coinItem} ${selectedCoinId === coin.id ? styles.coinItemActive : ''}`}
                     onClick={() => onSelect(coin)}
                   >
-                    <div className={styles.coinItemContent}>
-                      <div className={styles.coinItemNameRow}>
+                    <span className={styles.coinItemThumbWrap}>
+                      <img
+                        src={coin.summary.thumbnail}
+                        alt=""
+                        className={styles.coinItemThumb}
+                        loading="lazy"
+                        onError={(e) => {
+                          (e.currentTarget as HTMLImageElement).style.display = 'none';
+                        }}
+                      />
+                    </span>
+                    <span className={styles.coinItemContent}>
+                      <span className={styles.coinItemNameRow}>
                         <span className={styles.coinItemName}>{coin.name}</span>
                         {isTop50Rare(coin.id) && <span className={styles.coinItemTop50}>五十大珍</span>}
-                      </div>
-                      <div className={styles.coinItemMeta}>
+                      </span>
+                      <span className={styles.coinItemMeta}>
                         <span className={styles.coinItemRarity} data-rarity={getRarityLevel(coin.summary.rarity)} title={coin.summary.rarity}>{standardizeRarityText(coin.summary.rarity)}</span>
-                      </div>
-                      <div className={styles.coinItemFeatures}>{coin.summary.coreFeatures}</div>
-                    </div>
+                      </span>
+                      <span className={styles.coinItemFeatures}>{coin.summary.coreFeatures}</span>
+                    </span>
                   </button>
                 ))}
             </div>

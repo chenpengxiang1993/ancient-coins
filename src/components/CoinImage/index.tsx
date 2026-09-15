@@ -6,11 +6,6 @@ function getWebpSrc(src: string): string {
   return src.replace(/\.jpg$/, '.webp');
 }
 
-/** 缩略图地址（thumb.webp），后续列表接入缩略图时使用 */
-export function getThumbSrc(src: string): string {
-  return src.replace('/main.jpg', '/thumb.webp');
-}
-
 interface PictureImgProps {
   src: string;
   alt: string;
@@ -19,14 +14,16 @@ interface PictureImgProps {
   onLoad?: () => void;
   onError?: () => void;
   onClick?: () => void;
+  imgRef?: React.Ref<HTMLImageElement>;
 }
 
-function PictureImg({ src, alt, className, loading, onLoad, onError, onClick }: PictureImgProps) {
+function PictureImg({ src, alt, className, loading, onLoad, onError, onClick, imgRef }: PictureImgProps) {
   return (
     <picture>
       <source srcSet={getWebpSrc(src)} type="image/webp" />
       <source srcSet={src} type="image/jpeg" />
       <img
+        ref={imgRef}
         src={src}
         alt={alt}
         className={className}
@@ -74,6 +71,15 @@ const ZoomViewer = memo(function ZoomViewer({ src, alt, onClose }: ZoomViewerPro
 
   // 每次打开时复位
   useEffect(reset, [reset, src]);
+
+  // 任意焦点下 Esc 均可关闭（window 级监听，避免焦点丢失时无法关闭）
+  useEffect(() => {
+    const onKey = (e: KeyboardEvent) => {
+      if (e.key === 'Escape') onClose();
+    };
+    window.addEventListener('keydown', onKey);
+    return () => window.removeEventListener('keydown', onKey);
+  }, [onClose]);
 
   const zoomIn = useCallback(() => {
     setScale(s => Math.min(MAX_SCALE, +(s + SCALE_STEP).toFixed(2)));
@@ -134,9 +140,6 @@ const ZoomViewer = memo(function ZoomViewer({ src, alt, onClose }: ZoomViewerPro
     <div
       className={styles.coinImageOverlay}
       onClick={onClose}
-      onKeyDown={(e) => {
-        if (e.key === 'Escape') onClose();
-      }}
       role="dialog"
       aria-label={`${alt} 主图放大查看`}
       tabIndex={-1}
@@ -161,10 +164,11 @@ const ZoomViewer = memo(function ZoomViewer({ src, alt, onClose }: ZoomViewerPro
         />
       </div>
       <div className={styles.coinImageOverlayToolbar} onClick={e => e.stopPropagation()}>
+        <button type="button" onClick={zoomOut} aria-label="缩小">−</button>
         <button type="button" onClick={zoomIn} aria-label="放大">＋</button>
-        <button type="button" onClick={zoomOut} aria-label="缩小">－</button>
         <button type="button" onClick={rotate} aria-label="旋转">↻</button>
         <button type="button" onClick={reset} aria-label="复位">⟲</button>
+        <span className={styles.coinImageOverlayScale}>{Math.round(scale * 100)}%</span>
       </div>
       <button
         type="button"
@@ -172,11 +176,24 @@ const ZoomViewer = memo(function ZoomViewer({ src, alt, onClose }: ZoomViewerPro
         onClick={onClose}
         aria-label="关闭"
       >
-        ✕
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.2" aria-hidden="true">
+          <line x1="6" y1="6" x2="18" y2="18" />
+          <line x1="18" y1="6" x2="6" y2="18" />
+        </svg>
       </button>
     </div>
   );
 });
+
+/** 方孔钱占位图标（无图/加载中） */
+function CoinPlaceholderIcon() {
+  return (
+    <svg className={styles.coinImagePlaceholderSvg} viewBox="0 0 64 64" aria-hidden="true">
+      <circle cx="32" cy="32" r="26" fill="none" stroke="currentColor" strokeWidth="3" />
+      <rect x="25" y="25" width="14" height="14" fill="none" stroke="currentColor" strokeWidth="3" />
+    </svg>
+  );
+}
 
 /** 钱币主图：webp 优先（jpg 回退）、懒加载、点击放大（支持缩放/旋转/拖拽/复位） */
 export default memo(function CoinImage({ coinName, images }: CoinImageProps) {
@@ -184,11 +201,22 @@ export default memo(function CoinImage({ coinName, images }: CoinImageProps) {
   const [mainLoaded, setMainLoaded] = useState(false);
   const [mainError, setMainError] = useState(!hasMainImage);
   const [zoomed, setZoomed] = useState(false);
+  const mainImgRef = useRef<HTMLImageElement>(null);
 
   useEffect(() => {
     setMainLoaded(false);
     setMainError(!Boolean(images.main));
     setZoomed(false);
+  }, [images.main]);
+
+  // 兜底：懒加载图片若在监听挂载前已完成（缓存/瞬时加载），load 事件不再触发，
+  // 此时据 complete/naturalWidth 直接标记为已加载
+  useEffect(() => {
+    const img = mainImgRef.current;
+    if (img && img.complete && img.naturalWidth > 0) {
+      setMainLoaded(true);
+      setMainError(false);
+    }
   }, [images.main]);
 
   const handleMainLoad = useCallback(() => {
@@ -214,18 +242,18 @@ export default memo(function CoinImage({ coinName, images }: CoinImageProps) {
   const showPlaceholder = mainError || !hasMainImage;
 
   return (
-    <div className={styles.coinImage}>
+    <section className={styles.coinImage} aria-label={`${coinName} 钱币图片`}>
       <div className={styles.coinImageMain}>
         {showPlaceholder ? (
           <div className={styles.coinImagePlaceholder}>
-            <span className={styles.coinImagePlaceholderIcon}>🏺</span>
+            <CoinPlaceholderIcon />
             <span className={styles.coinImagePlaceholderText}>暂无图片</span>
           </div>
         ) : (
           <>
             {!mainLoaded && (
               <div className={styles.coinImagePlaceholder}>
-                <span className={styles.coinImagePlaceholderIcon}>🏺</span>
+                <CoinPlaceholderIcon />
                 <span className={styles.coinImagePlaceholderText}>图片加载中</span>
               </div>
             )}
@@ -237,10 +265,16 @@ export default memo(function CoinImage({ coinName, images }: CoinImageProps) {
               onError={handleMainError}
               onClick={handleImageClick}
               loading="lazy"
+              imgRef={mainImgRef}
             />
             {mainLoaded && !mainError && (
               <button className={styles.coinImageZoomHint} onClick={handleImageClick} aria-label="放大查看">
-                🔍
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.2" aria-hidden="true">
+                  <circle cx="11" cy="11" r="8" />
+                  <line x1="21" y1="21" x2="16.65" y2="16.65" />
+                  <line x1="11" y1="8" x2="11" y2="14" />
+                  <line x1="8" y1="11" x2="14" y2="11" />
+                </svg>
               </button>
             )}
           </>
@@ -250,6 +284,6 @@ export default memo(function CoinImage({ coinName, images }: CoinImageProps) {
       {zoomed && (
         <ZoomViewer src={images.main} alt={coinName} onClose={handleZoomClose} />
       )}
-    </div>
+    </section>
   );
 });

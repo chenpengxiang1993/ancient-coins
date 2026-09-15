@@ -33,31 +33,58 @@
 
 .searchBarIcon {
   position: absolute;
-  left: 12px;
-  width: 18px;
-  height: 18px;
-  color: var(--text-muted);
+  left: 13px;
+  width: 16px;
+  height: 16px;
+  color: var(--header-muted);
   pointer-events: none;
 }
 
 .searchBarInput {
   width: 100%;
-  padding: 9px 36px 9px 38px;
-  border: 1px solid var(--border);
-  border-radius: 8px;
-  background: var(--bg-card);
-  font-size: 14px;
+  padding: 9px 42px 9px 38px;
+  border: 1px solid rgba(212, 168, 67, 0.28);
+  border-radius: var(--radius-full);
+  background: rgba(255, 253, 248, 0.94);
+  font-size: 13.5px;
   font-family: $font-sans;
   color: var(--text-primary);
   outline: none;
   transition: all 0.2s ease;
+  box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.06);
 
-  &::placeholder { color: var(--text-muted); }
+  &::placeholder {
+    color: var(--text-muted);
+  }
+
+  &:hover {
+    border-color: rgba(212, 168, 67, 0.5);
+  }
 
   &:focus {
-    border-color: var(--accent);
-    box-shadow: 0 0 0 3px rgba(139, 37, 0, 0.1);
+    border-color: var(--header-gold);
+    background: var(--bg-card);
+    box-shadow: 0 0 0 3px rgba(212, 168, 67, 0.25);
   }
+}
+
+/* 键盘快捷键提示 */
+.searchBarShortcut {
+  position: absolute;
+  right: 10px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 22px;
+  height: 22px;
+  border: 1px solid rgba(212, 168, 67, 0.4);
+  border-radius: 6px;
+  background: rgba(212, 168, 67, 0.12);
+  color: var(--header-muted);
+  font-family: $font-sans;
+  font-size: 12px;
+  font-weight: 600;
+  pointer-events: none;
 }
 
 .searchBarClear {
@@ -69,65 +96,118 @@
   border-radius: 50%;
   background: var(--border-light);
   color: var(--text-muted);
-  font-size: 11px;
   cursor: pointer;
   display: flex;
   align-items: center;
   justify-content: center;
   transition: all 0.15s ease;
+  padding: 0;
+
+  svg {
+    width: 12px;
+    height: 12px;
+  }
 
   &:hover {
     background: var(--text-muted);
     color: #fff;
   }
+
+  &:focus-visible {
+    outline: 2px solid var(--gold);
+    outline-offset: 1px;
+  }
 }
 
 .searchBarDropdown {
   position: absolute;
-  top: calc(100% + 6px);
+  top: calc(100% + 8px);
   left: 0;
   right: 0;
-  max-height: 428px;
+  max-height: 440px;
   overflow-y: auto;
   background: var(--bg-card);
   border: 1px solid var(--border);
-  border-radius: 10px;
-  box-shadow: 0 8px 32px rgba(44, 36, 23, 0.15);
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-lg);
   z-index: 1000;
+  padding: 6px;
+  animation: dropdownIn 0.16s ease;
   @include thin-scrollbar;
 }
 
+@keyframes dropdownIn {
+  from {
+    opacity: 0;
+    transform: translateY(-6px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
 .searchBarDropdownHeader {
-  padding: 10px 14px;
-  font-size: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 8px 12px;
+  font-size: 11.5px;
   color: var(--text-muted);
   font-family: $font-sans;
   border-bottom: 1px solid var(--border-light);
 }
 
+.searchBarDropdownHint {
+  font-size: 11px;
+  color: var(--gold);
+}
+
 .searchBarResult {
   display: flex;
   align-items: center;
-  justify-content: space-between;
   gap: 12px;
   width: 100%;
-  padding: 10px 14px;
+  padding: 9px 12px;
   border: none;
   background: transparent;
   cursor: pointer;
   text-align: left;
-  transition: background 0.15s ease;
+  border-radius: var(--radius-sm);
+  transition: background 0.12s ease;
 
-  &:hover { background: var(--bg-secondary); }
+  &:hover {
+    background: var(--bg-secondary);
+  }
 }
 
 .searchBarResultHighlight {
-  background: var(--bg-secondary);
+  background: var(--accent-soft);
+}
+
+.searchBarResultThumb {
+  width: 44px;
+  height: 44px;
+  flex-shrink: 0;
+  object-fit: contain;
+  border-radius: var(--radius-sm);
+  background:
+    radial-gradient(circle at 50% 42%, #fdf9ef 0%, #f0e8d6 75%, #e4d9c0 100%);
+  border: 1px solid var(--border-light);
+  padding: 3px;
+}
+
+.searchBarResultMain {
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
 }
 
 .searchBarResultName {
   font-family: $font-serif;
-  font-size: 18px;
+  font-size: 16px;
   font-weight: 600;
   color: var(--text-primary);
   overflow: hidden;
@@ -136,6 +216,22 @@
   display: flex;
   align-items: center;
   gap: 6px;
+
+  mark {
+    background: rgba(212, 168, 67, 0.3);
+    color: var(--accent-hover);
+    border-radius: 3px;
+    padding: 0 1px;
+  }
+}
+
+.searchBarResultMeta {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 11px;
+  font-family: $font-sans;
+  min-width: 0;
 }
 
 .searchBarResultTop50 {
@@ -167,29 +263,21 @@
   white-space: nowrap;
 }
 
-.searchBarResultInfo {
+.searchBarResultSide {
   flex-shrink: 0;
   display: flex;
   flex-direction: column;
-  gap: 2px;
+  align-items: flex-end;
+  gap: 4px;
   font-size: 11px;
   font-family: $font-sans;
-  text-align: right;
-}
-
-.searchBarResultInfoTop,
-.searchBarResultInfoBottom {
-  display: flex;
-  align-items: center;
-  justify-content: flex-end;
-  gap: 18px;
 }
 
 .searchBarResultRarity {
   display: inline-block;
   font-size: 11px;
   padding: 1px 8px;
-  border-radius: 4px;
+  border-radius: var(--radius-full);
   font-weight: 500;
   border: 1px solid transparent;
 
@@ -200,7 +288,7 @@
   display: inline-block;
   font-size: 11px;
   padding: 1px 8px;
-  border-radius: 4px;
+  border-radius: var(--radius-full);
   color: var(--text-secondary);
   background: rgba(128, 128, 128, 0.1);
 }
@@ -209,25 +297,35 @@
   display: inline-block;
   font-size: 11px;
   padding: 1px 8px;
-  border-radius: 4px;
+  border-radius: var(--radius-full);
   color: var(--gold);
   font-weight: 500;
-  background: rgba(184, 134, 11, 0.1);
+  background: var(--gold-soft);
 }
 
 .searchBarResultField {
   display: inline-block;
   font-size: 11px;
   padding: 1px 8px;
-  border-radius: 4px;
+  border-radius: var(--radius-full);
   color: var(--text-muted);
   background: rgba(128, 128, 128, 0.08);
 }
 
 .searchBarEmpty {
-  padding: 20px 14px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  padding: 28px 14px;
   text-align: center;
   font-size: 13px;
   color: var(--text-muted);
   font-family: $font-sans;
+}
+
+.searchBarEmptyIcon {
+  font-size: 34px;
+  color: var(--border);
+  line-height: 1;
 }

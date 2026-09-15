@@ -37,8 +37,22 @@
   color: var(--text-muted);
 }
 
-.appError {
+.appErrorInner {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 12px;
+}
+
+.appErrorIcon {
+  font-size: 40px;
   color: var(--accent);
+  opacity: 0.6;
+}
+
+.appErrorText {
+  font-size: 14px;
+  color: var(--text-secondary);
 }
 
 .coinDetailLoading {
@@ -51,10 +65,27 @@
   color: var(--text-muted);
 }
 
+/* ── 顶栏：玄墨渐变 + 金线，品牌区含方孔钱 Logo ───────────────── */
+
 .appHeader {
-  padding: 14px 24px;
-  background: linear-gradient(135deg, #2c2417 0%, #3d3020 100%);
-  border-bottom: 2px solid var(--gold);
+  padding: 12px 24px;
+  background: var(--header-bg);
+  border-bottom: 1px solid rgba(212, 168, 67, 0.4);
+  box-shadow: 0 4px 24px rgba(30, 26, 20, 0.28);
+  position: relative;
+  z-index: 100;
+
+  /* 顶部细金线 */
+  &::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 2px;
+    background: linear-gradient(90deg, transparent 0%, var(--header-gold) 20%, var(--header-gold) 80%, transparent 100%);
+    opacity: 0.7;
+  }
 }
 
 .appHeaderTop {
@@ -69,15 +100,21 @@
   width: 36px;
   height: 36px;
   border: none;
-  border-radius: 6px;
-  background: rgba(255, 255, 255, 0.1);
+  border-radius: 10px;
+  background: rgba(255, 255, 255, 0.08);
   cursor: pointer;
   padding: 0;
   flex-shrink: 0;
   position: relative;
+  transition: background 0.2s ease;
 
   &:hover {
-    background: rgba(255, 255, 255, 0.2);
+    background: rgba(255, 255, 255, 0.18);
+  }
+
+  &:focus-visible {
+    outline: 2px solid var(--header-gold);
+    outline-offset: 2px;
   }
 }
 
@@ -85,7 +122,7 @@
   display: block;
   width: 18px;
   height: 2px;
-  background: #f5f0e8;
+  background: var(--header-text);
   border-radius: 1px;
   position: absolute;
   left: 50%;
@@ -99,38 +136,73 @@
     left: 0;
     width: 100%;
     height: 2px;
-    background: #f5f0e8;
+    background: var(--header-text);
     border-radius: 1px;
+    transition: transform 0.25s ease;
   }
 
   &::before { top: -6px; }
   &::after { top: 6px; }
 }
 
+/* 方孔钱 Logo：外圆 + 中心方孔 */
+.appLogo {
+  width: 40px;
+  height: 40px;
+  flex-shrink: 0;
+  border-radius: 50%;
+  border: 2px solid var(--header-gold);
+  background:
+    radial-gradient(circle at 32% 28%, #6d5a38 0%, #3a3222 55%, #241f18 100%);
+  box-shadow: inset 0 1px 2px rgba(255, 235, 190, 0.35), 0 2px 8px rgba(0, 0, 0, 0.35);
+  position: relative;
+
+  &::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    margin: auto;
+    width: 11px;
+    height: 11px;
+    border: 2px solid var(--header-gold);
+    border-radius: 2px;
+    background: rgba(36, 31, 24, 0.85);
+  }
+}
+
 .appBrand {
   display: flex;
   align-items: center;
-  gap: 12px;
+  gap: 14px;
   flex-shrink: 0;
+  min-width: 0;
+}
+
+.appBrandText {
+  min-width: 0;
 }
 
 .appTitle {
   font-family: $font-serif;
-  font-size: 22px;
+  font-size: 21px;
   font-weight: 900;
-  color: #f5f0e8;
+  color: var(--header-text);
   margin: 0;
   letter-spacing: 4px;
   white-space: nowrap;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.4);
 }
 
 .appSubtitle {
   display: block;
   font-family: $font-sans;
-  font-size: 12px;
-  color: #b8a88a;
-  letter-spacing: 1px;
-  margin-top: 4px;
+  font-size: 11.5px;
+  color: var(--header-muted);
+  letter-spacing: 1.2px;
+  margin-top: 3px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
 .appContent {
@@ -145,8 +217,8 @@
 }
 
 .appSidebar {
-  width: 320px;
-  min-width: 320px;
+  width: 324px;
+  min-width: 324px;
   height: 100%;
 }
 
@@ -154,6 +226,148 @@
   flex: 1;
   height: 100%;
   overflow: hidden;
+}
+
+/* ── 骨架屏 ─────────────────────────────────────────────── */
+
+.skel {
+  @include skeleton-shimmer;
+  border-radius: var(--radius-sm);
+}
+
+.skelTitle {
+  width: 210px;
+  height: 24px;
+  border-radius: 6px;
+}
+
+.skelSubtitle {
+  width: 260px;
+  height: 12px;
+  margin-top: 8px;
+  border-radius: 4px;
+}
+
+.skelSearch {
+  width: 320px;
+  height: 38px;
+  border-radius: var(--radius-full);
+}
+
+.skelTabsRow {
+  display: flex;
+  gap: 8px;
+  padding: 12px 16px;
+  background: var(--bg-secondary);
+  border-bottom: 1px solid var(--border);
+}
+
+.skelTab {
+  width: 76px;
+  height: 30px;
+  border-radius: var(--radius-full);
+}
+
+.skelSidebar {
+  border-right: 1px solid var(--border);
+  background: var(--bg-secondary);
+  padding: 16px;
+}
+
+.skelListHeader {
+  width: 120px;
+  height: 14px;
+  margin-bottom: 14px;
+  border-radius: 4px;
+}
+
+.skelListItem {
+  display: flex;
+  gap: 12px;
+  padding: 10px 0;
+}
+
+.skelThumb {
+  width: 52px;
+  height: 52px;
+  border-radius: var(--radius-sm);
+  flex-shrink: 0;
+}
+
+.skelListText {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  justify-content: center;
+}
+
+.skelListName {
+  width: 60%;
+  height: 14px;
+  border-radius: 4px;
+}
+
+.skelListFeature {
+  width: 90%;
+  height: 10px;
+  border-radius: 3px;
+}
+
+.skelDetail {
+  padding: 32px 40px;
+  overflow: hidden;
+}
+
+.skelDetailTitle {
+  width: 220px;
+  height: 32px;
+  border-radius: 6px;
+}
+
+.skelDetailTags {
+  display: flex;
+  gap: 8px;
+  margin-top: 14px;
+}
+
+.skelDetailTag {
+  width: 90px;
+  height: 24px;
+  border-radius: var(--radius-full);
+}
+
+.skelDetailGrid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+  margin-top: 24px;
+}
+
+.skelDetailCard {
+  height: 76px;
+  border-radius: var(--radius-md);
+}
+
+.skelDetailImage {
+  width: 100%;
+  height: 320px;
+  margin-top: 20px;
+  border-radius: var(--radius-lg);
+}
+
+.skelDetailLine {
+  width: 100%;
+  height: 14px;
+  margin-top: 20px;
+  border-radius: 4px;
+}
+
+.skelDetailLineShort {
+  width: 45%;
+  height: 14px;
+  margin-top: 10px;
+  border-radius: 4px;
 }
 
 // Tablet: <= 1024px
@@ -164,8 +378,12 @@
   }
 
   .appSidebar {
-    width: 280px;
-    min-width: 280px;
+    width: 288px;
+    min-width: 288px;
+  }
+
+  .skelDetail {
+    padding: 24px 24px;
   }
 }
 
@@ -186,10 +404,14 @@
     padding: 10px 16px;
   }
 
+  .appLogo {
+    display: none;
+  }
+
   .appSubtitle {
-    font-size: 11px;
+    font-size: 10.5px;
     margin-top: 2px;
-    padding-left: 48px;
+    letter-spacing: 0.6px;
   }
 
   .appSidebar {
@@ -215,7 +437,8 @@
     right: 0;
     bottom: 0;
     left: 0;
-    background: rgba(0, 0, 0, 0.5);
+    background: rgba(20, 16, 10, 0.45);
+    backdrop-filter: blur(2px);
     z-index: 1400;
     opacity: 0;
     pointer-events: none;
@@ -225,6 +448,10 @@
   .sidebarOverlayVisible {
     opacity: 1;
     pointer-events: auto;
+  }
+
+  .skelDetail {
+    padding: 20px 16px;
   }
 }
 
@@ -238,7 +465,7 @@
     font-size: 15px;
   }
 
-  .appSubtitle {
-    padding-left: 0;
+  .skelSearch {
+    width: 100%;
   }
 }

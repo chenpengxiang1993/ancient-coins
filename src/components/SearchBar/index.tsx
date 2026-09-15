@@ -1,4 +1,5 @@
 import { memo, useState, useRef, useEffect, useCallback } from "react";
+import type { Ref } from "react";
 import type { DynastyData, SearchResult } from "../../types";
 import { searchCoins } from "../../utils/search";
 import { getRarityLevel, isTop50Rare } from "../../utils/rarity";
@@ -10,20 +11,54 @@ import styles from "./index.module.scss";
 interface SearchBarProps {
   allData: DynastyData[];
   onSelectResult: (dynastyIndex: number, coinId: string) => void;
+  /** 外部（App）持有的输入框 ref，用于全局键盘快捷键聚焦 */
+  inputRef?: Ref<HTMLInputElement>;
+}
+
+/** 对匹配子串做 <mark> 高亮（已做 HTML 转义，避免注入） */
+function highlightName(text: string, keyword: string): string {
+  const kw = keyword.trim().toLowerCase();
+  if (!kw || !text) return text;
+  const idx = text.toLowerCase().indexOf(kw);
+  if (idx === -1) return text;
+  const escaped = text
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;");
+  return (
+    escaped.slice(0, idx) +
+    `<mark>${escaped.slice(idx, idx + kw.length)}</mark>` +
+    escaped.slice(idx + kw.length)
+  );
 }
 
 export default memo(function SearchBar({
   allData,
   onSelectResult,
+  inputRef,
 }: SearchBarProps) {
   const [keyword, setKeyword] = useState("");
   const [results, setResults] = useState<SearchResult[]>([]);
   const [totalCount, setTotalCount] = useState(0);
   const [isOpen, setIsOpen] = useState(false);
+  const [isFocused, setIsFocused] = useState(false);
   const [highlightIndex, setHighlightIndex] = useState(-1);
   const wrapperRef = useRef<HTMLDivElement>(null);
-  const inputRef = useRef<HTMLInputElement>(null);
+  const internalInputRef = useRef<HTMLInputElement | null>(null);
   const listRef = useRef<HTMLDivElement>(null);
+
+  // 合并外部与内部 ref（RefObject 的 current 为只读，需经可变对象断言赋值）
+  const setInputRef = useCallback(
+    (node: HTMLInputElement | null) => {
+      internalInputRef.current = node;
+      if (typeof inputRef === "function") {
+        inputRef(node);
+      } else if (inputRef && "current" in inputRef) {
+        (inputRef as { current: HTMLInputElement | null }).current = node;
+      }
+    },
+    [inputRef],
+  );
 
   const doSearch = useCallback(
     (kw: string) => {
@@ -66,7 +101,7 @@ export default memo(function SearchBar({
       setTotalCount(0);
       setIsOpen(false);
       setHighlightIndex(-1);
-      inputRef.current?.blur();
+      internalInputRef.current?.blur();
     },
     [onSelectResult],
   );
@@ -108,7 +143,7 @@ export default memo(function SearchBar({
 
       if (e.key === "Escape") {
         setIsOpen(false);
-        inputRef.current?.blur();
+        internalInputRef.current?.blur();
         return;
       }
 
@@ -143,7 +178,7 @@ export default memo(function SearchBar({
           <line x1="21" y1="21" x2="16.65" y2="16.65" />
         </svg>
         <input
-          ref={inputRef}
+          ref={setInputRef}
           className={styles.searchBarInput}
           type="text"
           role="combobox"
@@ -157,13 +192,17 @@ export default memo(function SearchBar({
           value={keyword}
           onChange={(e) => handleInputChange(e.target.value)}
           onFocus={() => {
+            setIsFocused(true);
             if (results.length > 0 || (keyword.trim() && totalCount === 0))
               setIsOpen(true);
           }}
-          onBlur={handleBlur}
+          onBlur={() => {
+            setIsFocused(false);
+            handleBlur();
+          }}
           onKeyDown={handleKeyDown}
         />
-        {keyword && (
+        {keyword ? (
           <button
             className={styles.searchBarClear}
             onClick={() => {
@@ -174,8 +213,15 @@ export default memo(function SearchBar({
             }}
             aria-label="清除搜索"
           >
-            ✕
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.4" aria-hidden="true">
+              <line x1="6" y1="6" x2="18" y2="18" />
+              <line x1="18" y1="6" x2="6" y2="18" />
+            </svg>
           </button>
+        ) : (
+          !isFocused && (
+            <kbd className={styles.searchBarShortcut} aria-hidden="true">/</kbd>
+          )
         )}
       </div>
       {isOpen && (
@@ -190,6 +236,7 @@ export default memo(function SearchBar({
               <div className={styles.searchBarDropdownHeader}>
                 找到 {totalCount} 枚相关钱币
                 {totalCount > 20 ? "，显示前 20 枚" : ""}
+                <span className={styles.searchBarDropdownHint}>↑↓ 选择 · Enter 打开</span>
               </div>
               {results.map((result, idx) => (
                 <button
@@ -201,38 +248,52 @@ export default memo(function SearchBar({
                   onMouseDown={(e) => e.preventDefault()}
                   onClick={() => handleSelect(result)}
                 >
-                  <div className={styles.searchBarResultName}>
-                    {result.coin.name}
-                    {result.coin.dynastyIndex === IRON_CATEGORY_INDEX && (
-                      <span className={styles.searchBarResultIron}>铁钱</span>
-                    )}
-                    {isTop50Rare(result.coin.id) && (
-                      <span className={styles.searchBarResultTop50}>五十大珍</span>
-                    )}
-                  </div>
-                  <div className={styles.searchBarResultInfo}>
-                    <div className={styles.searchBarResultInfoTop}>
-                      <span className={styles.searchBarResultRuler}>
-                        {result.coin.summary.ruler}
-                      </span>
+                  <img
+                    src={result.coin.summary.thumbnail}
+                    alt=""
+                    className={styles.searchBarResultThumb}
+                    loading="lazy"
+                    onError={(e) => {
+                      (e.currentTarget as HTMLImageElement).style.display = "none";
+                    }}
+                  />
+                  <div className={styles.searchBarResultMain}>
+                    <div className={styles.searchBarResultName}>
+                      <span
+                        dangerouslySetInnerHTML={{ __html: highlightName(result.coin.name, keyword) }}
+                      />
+                      {result.coin.dynastyIndex === IRON_CATEGORY_INDEX && (
+                        <span className={styles.searchBarResultIron}>铁钱</span>
+                      )}
+                      {isTop50Rare(result.coin.id) && (
+                        <span className={styles.searchBarResultTop50}>五十大珍</span>
+                      )}
+                    </div>
+                    <div className={styles.searchBarResultMeta}>
                       <span className={styles.searchBarResultDynasty}>
                         {result.coin.dynasty}
-                      </span>
-                    </div>
-                    <div className={styles.searchBarResultInfoBottom}>
-                      <span className={styles.searchBarResultRarity} data-rarity={getRarityLevel(result.coin.summary.rarity)} title={result.coin.summary.rarity}>
-                        {standardizeRarityText(result.coin.summary.rarity)}
                       </span>
                       <span className={styles.searchBarResultField}>
                         匹配：{result.matchField}
                       </span>
                     </div>
                   </div>
+                  <div className={styles.searchBarResultSide}>
+                    <span className={styles.searchBarResultRarity} data-rarity={getRarityLevel(result.coin.summary.rarity)} title={result.coin.summary.rarity}>
+                      {standardizeRarityText(result.coin.summary.rarity)}
+                    </span>
+                    <span className={styles.searchBarResultRuler}>
+                      {result.coin.summary.ruler}
+                    </span>
+                  </div>
                 </button>
               ))}
             </>
           ) : (
-            <div className={styles.searchBarEmpty}>未找到相关钱币</div>
+            <div className={styles.searchBarEmpty}>
+              <span className={styles.searchBarEmptyIcon} aria-hidden="true">⌕</span>
+              未找到相关钱币，试试名称、铸主或拼音
+            </div>
           )}
         </div>
       )}
